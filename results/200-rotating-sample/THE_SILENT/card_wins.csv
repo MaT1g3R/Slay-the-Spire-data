@@ -1,0 +1,996 @@
+Card,Win
+Calculated Gamble,True
+After Image,True
+Neutralize,True
+Blur,True
+Adrenaline,True
+Underhanded Strike,True
+Prepared,True
+Tactician,True
+Reflex,True
+Escape Plan,True
+Malaise,True
+Terror,True
+Backflip,True
+Survivor,True
+Well Laid Plans,True
+Phantasmal Killer,True
+Backstab,True
+Acrobatics,True
+Calculated Gamble,False
+Neutralize,False
+Crippling Poison,False
+Dagger Throw,False
+Backflip,False
+Strike_G,False
+Flying Knee,False
+Survivor,False
+Dagger Spray,False
+Defend_G,False
+Acrobatics,False
+Neutralize,False
+Underhanded Strike,False
+Poisoned Stab,False
+Backflip,False
+Die Die Die,False
+Strike_G,False
+Terror,False
+Survivor,False
+Quick Slash,False
+PiercingWail,False
+Defend_G,False
+Acrobatics,False
+Blade Dance,True
+Leg Sweep,True
+Tools of the Trade,True
+Predator,True
+Adrenaline,True
+Alchemize,True
+Acrobatics,True
+Deflect,True
+Blur,True
+Survivor,True
+The Bomb,True
+PiercingWail,True
+Defend_G,True
+Outmaneuver,True
+Backflip,True
+Escape Plan,True
+Strike_G,True
+Terror,True
+Accuracy,True
+Neutralize,True
+A Thousand Cuts,True
+Calculated Gamble,True
+Blade Dance,True
+Tools of the Trade,True
+Adrenaline,True
+Tactician,True
+Well Laid Plans,True
+Acrobatics,True
+Blur,True
+Malaise,True
+Doppelganger,True
+Survivor,True
+Finisher,True
+PiercingWail,True
+Defend_G,True
+Outmaneuver,True
+Backflip,True
+Prepared,True
+Strike_G,True
+Terror,True
+Accuracy,True
+Dagger Spray,True
+Footwork,True
+Neutralize,True
+Wraith Form,True
+Burst,True
+Backstab,True
+Night Terror,True
+Sucker Punch,False
+Adrenaline,False
+Flying Knee,False
+Well Laid Plans,False
+Alchemize,False
+Acrobatics,False
+Blur,False
+Survivor,False
+Choke,False
+Phantasmal Killer,False
+PiercingWail,False
+Defend_G,False
+Poisoned Stab,False
+Dagger Throw,False
+Backflip,False
+Prepared,False
+Escape Plan,False
+Strike_G,False
+Terror,False
+Dagger Spray,False
+Concentrate,False
+Footwork,False
+After Image,False
+Neutralize,False
+A Thousand Cuts,False
+Riddle With Holes,False
+Cloak And Dagger,False
+Reflex,False
+Backstab,False
+Night Terror,False
+Calculated Gamble,False
+Tools of the Trade,False
+Blade Dance,False
+Underhanded Strike,False
+Leg Sweep,False
+Tactician,False
+Well Laid Plans,False
+All Out Attack,False
+Acrobatics,False
+Blur,False
+Crippling Poison,False
+Doppelganger,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Outmaneuver,False
+Masterful Stab,False
+Infinite Blades,False
+Grand Finale,False
+Backflip,False
+Prepared,False
+Terror,False
+Eviscerate,False
+Bullet Time,False
+After Image,False
+Neutralize,False
+A Thousand Cuts,False
+Reflex,False
+Backstab,False
+Blade Dance,False
+Leg Sweep,False
+Predator,False
+Flying Knee,False
+Well Laid Plans,False
+Crippling Poison,False
+Malaise,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Poisoned Stab,False
+Infinite Blades,False
+Backflip,False
+Escape Plan,False
+Strike_G,False
+Accuracy,False
+Neutralize,False
+Wraith Form,False
+Cloak And Dagger,False
+Calculated Gamble,True
+Leg Sweep,True
+Endless Agony,True
+Deadly Poison,True
+Caltrops,True
+Flying Knee,True
+Well Laid Plans,True
+Alchemize,True
+Acrobatics,True
+Crippling Poison,True
+Doppelganger,True
+Survivor,True
+Quick Slash,True
+PiercingWail,True
+Expertise,True
+Outmaneuver,True
+Noxious Fumes,True
+Backflip,True
+Escape Plan,True
+Dagger Spray,True
+Bullet Time,True
+Neutralize,True
+Wraith Form,True
+Burst,True
+Backstab,True
+Night Terror,True
+Neutralize,False
+Predator,False
+Noxious Fumes,False
+Strike_G,False
+Slice,False
+Survivor,False
+Dagger Spray,False
+Defend_G,False
+Footwork,True
+Neutralize,True
+Predator,True
+Underhanded Strike,True
+Prepared,True
+Tactician,True
+Reflex,True
+Strike_G,True
+Terror,True
+Survivor,True
+Alchemize,True
+Eviscerate,True
+Defend_G,True
+Concentrate,True
+Acrobatics,True
+Calculated Gamble,False
+Blade Dance,False
+Endless Agony,False
+Neutralize,False
+A Thousand Cuts,False
+Leg Sweep,False
+Apparition,False
+Eviscerate,False
+Prepared,False
+Strike_G,False
+Terror,False
+Survivor,False
+RitualDagger,False
+PiercingWail,False
+Defend_G,False
+Calculated Gamble,True
+Blade Dance,True
+Tools of the Trade,True
+Underhanded Strike,True
+Well Laid Plans,True
+Alchemize,True
+Acrobatics,True
+Setup,True
+Malaise,True
+Survivor,True
+PiercingWail,True
+Defend_G,True
+Apotheosis,True
+Infinite Blades,True
+Backflip,True
+Strike_G,True
+Terror,True
+Accuracy,True
+Footwork,True
+After Image,True
+Neutralize,True
+Dodge and Roll,True
+PanicButton,True
+Blade Dance,True
+Tools of the Trade,True
+Underhanded Strike,True
+Predator,True
+Deadly Poison,True
+Well Laid Plans,True
+Alchemize,True
+Acrobatics,True
+Crippling Poison,True
+Malaise,True
+Skewer,True
+Survivor,True
+Defend_G,True
+Dark Shackles,True
+Backflip,True
+Strike_G,True
+Eviscerate,True
+After Image,True
+Neutralize,True
+Wraith Form,True
+Burst,True
+Swift Strike,True
+Catalyst,True
+Night Terror,True
+Blade Dance,False
+Predator,False
+Adrenaline,False
+Deflect,False
+Malaise,False
+Doppelganger,False
+Survivor,False
+Defend_G,False
+Noxious Fumes,False
+Apotheosis,False
+Dagger Throw,False
+Backflip,False
+Escape Plan,False
+Strike_G,False
+Slice,False
+Dagger Spray,False
+Flash of Steel,False
+Footwork,False
+Neutralize,False
+Dodge and Roll,False
+PanicButton,False
+Calculated Gamble,True
+Blade Dance,True
+Tools of the Trade,True
+Sucker Punch,True
+Writhe,True
+Well Laid Plans,True
+Acrobatics,True
+Malaise,True
+Survivor,True
+Phantasmal Killer,True
+PiercingWail,True
+Defend_G,True
+Dark Shackles,True
+Prepared,True
+Backflip,True
+Escape Plan,True
+Strike_G,True
+Terror,True
+Dagger Spray,True
+Eviscerate,True
+After Image,True
+Neutralize,True
+Burst,True
+RitualDagger,True
+Calculated Gamble,True
+Blade Dance,True
+Predator,True
+Deadly Poison,True
+Flying Knee,True
+Acrobatics,True
+Deflect,True
+Master of Strategy,True
+Skewer,True
+Bouncing Flask,True
+Doppelganger,True
+Survivor,True
+Quick Slash,True
+Finisher,True
+PiercingWail,True
+Defend_G,True
+Dramatic Entrance,True
+Poisoned Stab,True
+Strike_G,True
+Terror,True
+Slice,True
+Dagger Spray,True
+Footwork,True
+Concentrate,True
+After Image,True
+Neutralize,True
+Wraith Form,True
+Night Terror,True
+Calculated Gamble,True
+Tools of the Trade,True
+Endless Agony,True
+Leg Sweep,True
+Predator,True
+Flechettes,True
+Well Laid Plans,True
+Acrobatics,True
+Deflect,True
+Blur,True
+Doppelganger,True
+Survivor,True
+Phantasmal Killer,True
+Expertise,True
+Apotheosis,True
+Prepared,True
+Backflip,True
+Die Die Die,True
+Escape Plan,True
+Terror,True
+Dagger Spray,True
+Eviscerate,True
+After Image,True
+Neutralize,True
+Wraith Form,True
+Dodge and Roll,True
+Blade Dance,False
+Tools of the Trade,False
+Predator,False
+Adrenaline,False
+Flying Knee,False
+Well Laid Plans,False
+All Out Attack,False
+Alchemize,False
+Acrobatics,False
+Skewer,False
+Bouncing Flask,False
+Glass Knife,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Expertise,False
+Dramatic Entrance,False
+Noxious Fumes,False
+Dagger Throw,False
+Prepared,False
+Escape Plan,False
+Strike_G,False
+Terror,False
+After Image,False
+Neutralize,False
+Reflex,False
+Neutralize,False
+Acrobatics,False
+Masterful Stab,False
+Poisoned Stab,False
+Underhanded Strike,False
+Dagger Throw,False
+Strike_G,False
+Survivor,False
+Backstab,False
+Defend_G,False
+Unload,False
+Calculated Gamble,True
+Tools of the Trade,True
+Endless Agony,True
+Underhanded Strike,True
+Predator,True
+Tactician,True
+Dash,True
+Well Laid Plans,True
+Acrobatics,True
+Crippling Poison,True
+Malaise,True
+Doppelganger,True
+Survivor,True
+Phantasmal Killer,True
+PiercingWail,True
+Grand Finale,True
+Backflip,True
+Prepared,True
+Die Die Die,True
+Escape Plan,True
+Terror,True
+Eviscerate,True
+Footwork,True
+Neutralize,True
+Burst,True
+Reflex,True
+Calculated Gamble,True
+Blade Dance,True
+Leg Sweep,True
+Underhanded Strike,True
+Tools of the Trade,True
+Dash,True
+Well Laid Plans,True
+Acrobatics,True
+Survivor,True
+Phantasmal Killer,True
+Defend_G,True
+Apotheosis,True
+Backflip,True
+Die Die Die,True
+Strike_G,True
+Terror,True
+Accuracy,True
+Eviscerate,True
+Neutralize,True
+Wraith Form,True
+Reflex,True
+Backstab,True
+Calculated Gamble,False
+Tools of the Trade,False
+Sucker Punch,False
+Underhanded Strike,False
+Adrenaline,False
+Deadly Poison,False
+Dash,False
+Well Laid Plans,False
+Acrobatics,False
+Setup,False
+Malaise,False
+Skewer,False
+Storm of Steel,False
+Survivor,False
+Defend_G,False
+Masterful Stab,False
+Backflip,False
+Terror,False
+Dagger Spray,False
+Neutralize,False
+Catalyst,False
+Night Terror,False
+Underhanded Strike,False
+Predator,False
+Tactician,False
+Alchemize,False
+Thinking Ahead,False
+Acrobatics,False
+Skewer,False
+Doppelganger,False
+Survivor,False
+PiercingWail,False
+Noxious Fumes,False
+Dagger Throw,False
+Backflip,False
+Prepared,False
+Blind,False
+Dagger Spray,False
+Madness,False
+Bullet Time,False
+Footwork,False
+Concentrate,False
+After Image,False
+Neutralize,False
+Decay,False
+Cloak And Dagger,False
+Reflex,False
+Backstab,False
+Calculated Gamble,True
+Tools of the Trade,True
+Sucker Punch,True
+Deadly Poison,True
+Tactician,True
+Acrobatics,True
+Blur,True
+Bouncing Flask,True
+Glass Knife,True
+Survivor,True
+PiercingWail,True
+Defend_G,True
+Outmaneuver,True
+Noxious Fumes,True
+Dark Shackles,True
+Dagger Throw,True
+Die Die Die,True
+Eviscerate,True
+Footwork,True
+After Image,True
+Neutralize,True
+Corpse Explosion,True
+Wraith Form,True
+Reflex,True
+Dodge and Roll,True
+Catalyst,True
+Backstab,True
+Calculated Gamble,True
+Blade Dance,True
+Leg Sweep,True
+Underhanded Strike,True
+Adrenaline,True
+Caltrops,True
+Tactician,True
+Acrobatics,True
+Master of Strategy,True
+Malaise,True
+Bouncing Flask,True
+Glass Knife,True
+Survivor,True
+Choke,True
+PiercingWail,True
+Defend_G,True
+Backflip,True
+Prepared,True
+Escape Plan,True
+Strike_G,True
+Terror,True
+Dagger Spray,True
+Bullet Time,True
+Concentrate,True
+Footwork,True
+Neutralize,True
+Reflex,True
+Night Terror,True
+Calculated Gamble,True
+Apparition,True
+Well Laid Plans,True
+Acrobatics,True
+Crippling Poison,True
+Impatience,True
+Survivor,True
+PiercingWail,True
+Defend_G,True
+Noxious Fumes,True
+Poisoned Stab,True
+Backflip,True
+Prepared,True
+Strike_G,True
+Dagger Spray,True
+Madness,True
+Footwork,True
+After Image,True
+Neutralize,True
+Wraith Form,True
+Backstab,True
+Night Terror,True
+Neutralize,False
+Underhanded Strike,False
+Poisoned Stab,False
+Storm of Steel,False
+Strike_G,False
+Survivor,False
+Backstab,False
+Defend_G,False
+Acrobatics,False
+Leg Sweep,False
+Underhanded Strike,False
+Apparition,False
+Tactician,False
+Dash,False
+Acrobatics,False
+Deflect,False
+Doppelganger,False
+Survivor,False
+Quick Slash,False
+Phantasmal Killer,False
+Outmaneuver,False
+Backflip,False
+Prepared,False
+Terror,False
+Slice,False
+Dagger Spray,False
+Footwork,False
+After Image,False
+A Thousand Cuts,False
+Neutralize,False
+Cloak And Dagger,False
+Outmaneuver,False
+Blade Dance,False
+Leg Sweep,False
+Neutralize,False
+Predator,False
+Envenom,False
+Crippling Poison,False
+Skewer,False
+Backflip,False
+Strike_G,False
+HandOfGreed,False
+Survivor,False
+Slice,False
+Phantasmal Killer,False
+PiercingWail,False
+Defend_G,False
+Blade Dance,False
+Endless Agony,False
+Leg Sweep,False
+Deadly Poison,False
+Acrobatics,False
+Malaise,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Noxious Fumes,False
+Prepared,False
+Escape Plan,False
+Strike_G,False
+Terror,False
+Dagger Spray,False
+After Image,False
+Neutralize,False
+Wraith Form,False
+Reflex,False
+Dodge and Roll,False
+Catalyst,False
+Backstab,False
+Blade Dance,False
+Predator,False
+Apparition,False
+Tactician,False
+Acrobatics,False
+Survivor,False
+Defend_G,False
+Poisoned Stab,False
+Masterful Stab,False
+Backflip,False
+Prepared,False
+Die Die Die,False
+Strike_G,False
+Terror,False
+Slice,False
+Neutralize,False
+Wraith Form,False
+RitualDagger,False
+Backstab,False
+Calculated Gamble,False
+Tools of the Trade,False
+Blade Dance,False
+Deadly Poison,False
+Well Laid Plans,False
+Alchemize,False
+Doppelganger,False
+Survivor,False
+Finisher,False
+PiercingWail,False
+Panache,False
+Defend_G,False
+Poisoned Stab,False
+Dagger Throw,False
+Prepared,False
+Strike_G,False
+Dagger Spray,False
+Eviscerate,False
+Neutralize,False
+Catalyst,False
+Backstab,False
+Calculated Gamble,False
+Apparition,False
+Deadly Poison,False
+Tactician,False
+Flying Knee,False
+Well Laid Plans,False
+Acrobatics,False
+Bouncing Flask,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Noxious Fumes,False
+Prepared,False
+Backflip,False
+Dagger Spray,False
+Eviscerate,False
+After Image,False
+Neutralize,False
+Catalyst,False
+Night Terror,False
+Calculated Gamble,False
+Neutralize,False
+Riddle With Holes,False
+Malaise,False
+Strike_G,False
+Survivor,False
+Flying Knee,False
+Flechettes,False
+Defend_G,False
+Blade Dance,False
+Deflect,False
+Neutralize,False
+Crippling Poison,False
+Dash,False
+Strike_G,False
+Terror,False
+Survivor,False
+Dagger Spray,False
+All Out Attack,False
+Slice,False
+Phantasmal Killer,False
+PiercingWail,False
+Defend_G,False
+Acrobatics,False
+Sucker Punch,False
+Neutralize,False
+Adrenaline,False
+Caltrops,False
+Cloak And Dagger,False
+Strike_G,False
+Survivor,False
+Dagger Spray,False
+Choke,False
+Slice,False
+Defend_G,False
+Acrobatics,False
+Outmaneuver,False
+Deflect,False
+Neutralize,False
+Noxious Fumes,False
+Poisoned Stab,False
+Corpse Explosion,False
+Bite,False
+Dagger Throw,False
+Backflip,False
+Bouncing Flask,False
+Survivor,False
+All Out Attack,False
+Bullet Time,False
+Defend_G,False
+Footwork,False
+Acrobatics,False
+Blade Dance,False
+Leg Sweep,False
+Underhanded Strike,False
+Deadly Poison,False
+Acrobatics,False
+Crippling Poison,False
+Skewer,False
+Bouncing Flask,False
+Survivor,False
+Choke,False
+PiercingWail,False
+Defend_G,False
+Expertise,False
+Masterful Stab,False
+Dark Shackles,False
+Prepared,False
+Strike_G,False
+Bullet Time,False
+Concentrate,False
+Neutralize,False
+Cloak And Dagger,False
+Dodge and Roll,False
+Catalyst,False
+Backstab,False
+Blade Dance,False
+Sucker Punch,False
+Neutralize,False
+Dagger Throw,False
+Backflip,False
+Prepared,False
+Strike_G,False
+HandOfGreed,False
+Survivor,False
+Dagger Spray,False
+Dodge and Roll,False
+Regret,False
+PiercingWail,False
+Defend_G,False
+Footwork,False
+Sucker Punch,False
+Neutralize,False
+Bouncing Flask,False
+Dash,False
+Strike_G,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Calculated Gamble,True
+Outmaneuver,True
+Blade Dance,True
+PiercingWail,True
+Night Terror,True
+Wraith Form,True
+Dagger Throw,True
+Tactician,True
+Backflip,True
+Prepared,True
+Strike_G,True
+Terror,True
+Glass Knife,True
+Survivor,True
+Phantasmal Killer,True
+Eviscerate,True
+Defend_G,True
+Acrobatics,True
+Calculated Gamble,False
+Blade Dance,False
+Endless Agony,False
+Leg Sweep,False
+Apparition,False
+Tactician,False
+Alchemize,False
+Bane,False
+Doppelganger,False
+Survivor,False
+PiercingWail,False
+Defend_G,False
+Grand Finale,False
+Dagger Throw,False
+Prepared,False
+Backflip,False
+Strike_G,False
+Eviscerate,False
+Concentrate,False
+Neutralize,False
+Calculated Gamble,True
+Leg Sweep,True
+Endless Agony,True
+Blade Dance,True
+Tools of the Trade,True
+Adrenaline,True
+Tactician,True
+Malaise,True
+Glass Knife,True
+Survivor,True
+Choke,True
+Secret Technique,True
+Finisher,True
+PiercingWail,True
+Defend_G,True
+Expertise,True
+Noxious Fumes,True
+Grand Finale,True
+Dagger Throw,True
+Backflip,True
+Escape Plan,True
+Dagger Spray,True
+Footwork,True
+After Image,True
+Neutralize,True
+Wraith Form,True
+Dodge and Roll,True
+Catalyst,True
+Night Terror,True
+Blade Dance,False
+Leg Sweep,False
+Neutralize,False
+Adrenaline,False
+Crippling Poison,False
+Deadly Poison,False
+Backflip,False
+Cloak And Dagger,False
+Strike_G,False
+Terror,False
+Accuracy,False
+Survivor,False
+Dagger Spray,False
+PiercingWail,False
+Defend_G,False
+Calculated Gamble,False
+Sucker Punch,False
+Neutralize,False
+Noxious Fumes,False
+Masterful Stab,False
+Poisoned Stab,False
+Deadly Poison,False
+Wraith Form,False
+Backflip,False
+Tactician,False
+Strike_G,False
+Accuracy,False
+Survivor,False
+Flying Knee,False
+Bandage Up,False
+PiercingWail,False
+Defend_G,False
+Calculated Gamble,True
+Leg Sweep,True
+Underhanded Strike,True
+Adrenaline,True
+Tactician,True
+Well Laid Plans,True
+Alchemize,True
+Acrobatics,True
+Deflect,True
+Skewer,True
+Malaise,True
+Bouncing Flask,True
+Survivor,True
+Defend_G,True
+Noxious Fumes,True
+Backflip,True
+Prepared,True
+Terror,True
+Eviscerate,True
+Neutralize,True
+Corpse Explosion,True
+Wraith Form,True
+Reflex,True
+Backstab,True
+Night Terror,True
+Blade Dance,True
+Endless Agony,True
+Leg Sweep,True
+Predator,True
+Dash,True
+Flying Knee,True
+Well Laid Plans,True
+Flechettes,True
+Acrobatics,True
+Setup,True
+Glass Knife,True
+Survivor,True
+PiercingWail,True
+Outmaneuver,True
+Backflip,True
+Escape Plan,True
+Terror,True
+Bullet Time,True
+Footwork,True
+After Image,True
+Neutralize,True
+Envenom,True
+Wraith Form,True
+Dodge and Roll,True
+Night Terror,True
+Calculated Gamble,True
+Underhanded Strike,True
+Adrenaline,True
+Tactician,True
+Acrobatics,True
+Malaise,True
+Survivor,True
+PiercingWail,True
+Defend_G,True
+Apotheosis,True
+Grand Finale,True
+Dagger Throw,True
+Backflip,True
+Prepared,True
+Terror,True
+Eviscerate,True
+After Image,True
+Neutralize,True
+Reflex,True
+Calculated Gamble,False
+Blade Dance,False
+Neutralize,False
+Underhanded Strike,False
+Noxious Fumes,False
+Burst,False
+Die Die Die,False
+Strike_G,False
+Survivor,False
+Flying Knee,False
+PiercingWail,False
+Defend_G,False
