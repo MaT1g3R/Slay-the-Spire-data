@@ -9,11 +9,13 @@ packages = [{include = "slay_the_spire_data"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-plotly = "^5.11.0"
 pandas = "^1.5.2"
+seaborn = {extras = ["stats"], version = "^0.12.1"}
+tabulate = "^0.9.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.12.0"
+isort = "^5.11.4"
 
 [build-system]
 requires = ["poetry-core"]
