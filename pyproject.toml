@@ -2,7 +2,7 @@
 name = "slay-the-spire-data"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Peijun Ma <peijun.ma@pm.me>"]
 license = "Apache2.0"
 readme = "README.md"
 packages = [{include = "slay_the_spire_data"}]
