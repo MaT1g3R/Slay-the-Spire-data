@@ -10,6 +10,7 @@ Otherwise, you can use the code provided to generate similar reports on your own
 ## Data sets
 
 - [200 run rotating sample](./results/200-rotating-sample)
+- [Lose all gold for max HP sample](./results/lose-all-gold-max-hp-sample)
 
 ## How to use on your own run history files
 
