@@ -1,0 +1,5321 @@
+Card,Floor,Picked,Act,Boss
+Sucker Punch,1.0,True,1,False
+Underhanded Strike,1.0,False,1,False
+Bane,1.0,False,1,False
+SKIP,1.0,False,1,False
+Blade Dance,2.0,True,1,False
+Skewer,2.0,False,1,False
+Underhanded Strike,2.0,False,1,False
+SKIP,2.0,False,1,False
+Slice,5.0,True,1,False
+Bane,5.0,False,1,False
+Flechettes,5.0,False,1,False
+SKIP,5.0,False,1,False
+Doppelganger,6.0,True,1,False
+Dagger Spray,6.0,False,1,False
+Prepared,6.0,False,1,False
+SKIP,6.0,False,1,False
+Terror,8.0,True,1,False
+Deflect,8.0,False,1,False
+Leg Sweep,8.0,False,1,False
+SKIP,8.0,False,1,False
+Dash,10.0,True,1,False
+Deflect,10.0,False,1,False
+Quick Slash,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,13.0,True,1,False
+Heel Hook,13.0,False,1,False
+Prepared,13.0,False,1,False
+Distraction,13.0,False,1,False
+SKIP,13.0,False,1,False
+Calculated Gamble,14.0,True,1,False
+Footwork,14.0,False,1,False
+Blur,14.0,False,1,False
+SKIP,14.0,False,1,False
+Die Die Die,16.0,True,1,True
+Burst,16.0,False,1,True
+Bullet Time,16.0,False,1,True
+SKIP,16.0,False,1,True
+Backstab,18.0,True,2,False
+Deflect,18.0,False,2,False
+Bane,18.0,False,2,False
+SKIP,18.0,False,2,False
+Dagger Spray,21.0,True,2,False
+Acrobatics,21.0,False,2,False
+Riddle With Holes,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Deadly Poison,24.0,False,2,False
+Sucker Punch,24.0,False,2,False
+Skewer,24.0,False,2,False
+SKIP,24.0,False,2,False
+Glass Knife,25.0,True,2,False
+Skewer,25.0,False,2,False
+Flying Knee,25.0,False,2,False
+Singing Bowl,25.0,False,2,False
+Outmaneuver,27.0,True,2,False
+Terror,27.0,False,2,False
+Dagger Throw,27.0,False,2,False
+Singing Bowl,27.0,False,2,False
+Well Laid Plans,29.0,True,2,False
+Underhanded Strike,29.0,False,2,False
+Accuracy,29.0,False,2,False
+Singing Bowl,29.0,False,2,False
+Calculated Gamble,30.0,True,2,False
+Dagger Spray,30.0,False,2,False
+Acrobatics,30.0,False,2,False
+Singing Bowl,30.0,False,2,False
+Prepared,31.0,True,2,False
+Dagger Throw,31.0,False,2,False
+Expertise,31.0,False,2,False
+Singing Bowl,31.0,False,2,False
+Alchemize,33.0,True,2,True
+Tools of the Trade,33.0,False,2,True
+Corpse Explosion,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Tactician,35.0,True,3,False
+Deadly Poison,35.0,False,3,False
+Crippling Poison,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Singing Bowl,37.0,True,3,False
+Cloak And Dagger,37.0,False,3,False
+Bane,37.0,False,3,False
+Well Laid Plans,37.0,False,3,False
+Singing Bowl,37.0,False,3,False
+Singing Bowl,38.0,True,3,False
+Deflect,38.0,False,3,False
+Deadly Poison,38.0,False,3,False
+Bane,38.0,False,3,False
+Singing Bowl,38.0,False,3,False
+Acrobatics,39.0,True,3,False
+Cloak And Dagger,39.0,False,3,False
+Deflect,39.0,False,3,False
+Singing Bowl,39.0,False,3,False
+Singing Bowl,40.0,True,3,False
+Bouncing Flask,40.0,False,3,False
+Quick Slash,40.0,False,3,False
+Storm of Steel,40.0,False,3,False
+Singing Bowl,40.0,False,3,False
+Singing Bowl,41.0,True,3,False
+Finesse,41.0,False,3,False
+Swift Strike,41.0,False,3,False
+Bandage Up,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Singing Bowl,41.0,True,3,False
+Swift Strike,41.0,False,3,False
+Panache,41.0,False,3,False
+Mayhem,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Panacea,41.0,True,3,False
+Purity,41.0,False,3,False
+The Bomb,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+PiercingWail,44.0,True,3,False
+Quick Slash,44.0,False,3,False
+Deflect,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Reflex,46.0,True,3,False
+Choke,46.0,False,3,False
+Deflect,46.0,False,3,False
+Singing Bowl,46.0,False,3,False
+Singing Bowl,47.0,True,3,False
+Bouncing Flask,47.0,False,3,False
+Underhanded Strike,47.0,False,3,False
+Bane,47.0,False,3,False
+Singing Bowl,47.0,False,3,False
+Acrobatics,48.0,True,3,False
+Dagger Throw,48.0,False,3,False
+Night Terror,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Malaise,54.0,True,4,False
+Prepared,54.0,False,4,False
+Blade Dance,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Acrobatics,54.0,True,4,False
+Reflex,54.0,False,4,False
+Calculated Gamble,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Burst,54.0,True,4,False
+Concentrate,54.0,False,4,False
+Slice,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Singing Bowl,54.0,True,4,False
+Quick Slash,54.0,False,4,False
+Blade Dance,54.0,False,4,False
+Expertise,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Footwork,54.0,True,4,False
+Outmaneuver,54.0,False,4,False
+Dagger Spray,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Catalyst,55.0,True,4,False
+Backflip,55.0,False,4,False
+Leg Sweep,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Acrobatics,1.0,True,1,False
+Deadly Poison,1.0,False,1,False
+Cloak And Dagger,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Throw,2.0,True,1,False
+Acrobatics,2.0,False,1,False
+Cloak And Dagger,2.0,False,1,False
+SKIP,2.0,False,1,False
+Terror,3.0,True,1,False
+Backstab,3.0,False,1,False
+Deflect,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,5.0,True,1,False
+Outmaneuver,5.0,False,1,False
+Cloak And Dagger,5.0,False,1,False
+Dodge and Roll,5.0,False,1,False
+SKIP,5.0,False,1,False
+All Out Attack,7.0,True,1,False
+Choke,7.0,False,1,False
+Concentrate,7.0,False,1,False
+SKIP,7.0,False,1,False
+Acrobatics,11.0,True,1,False
+Expertise,11.0,False,1,False
+Masterful Stab,11.0,False,1,False
+SKIP,11.0,False,1,False
+Underhanded Strike,13.0,True,1,False
+Expertise,13.0,False,1,False
+Dagger Spray,13.0,False,1,False
+SKIP,13.0,False,1,False
+Backflip,14.0,True,1,False
+Infinite Blades,14.0,False,1,False
+Escape Plan,14.0,False,1,False
+SKIP,14.0,False,1,False
+Adrenaline,16.0,True,1,True
+Unload,16.0,False,1,True
+Glass Knife,16.0,False,1,True
+SKIP,16.0,False,1,True
+Eviscerate,18.0,True,2,False
+Expertise,18.0,False,2,False
+Heel Hook,18.0,False,2,False
+SKIP,18.0,False,2,False
+Prepared,19.0,True,2,False
+Quick Slash,19.0,False,2,False
+Slice,19.0,False,2,False
+SKIP,19.0,False,2,False
+Backflip,20.0,True,2,False
+Prepared,20.0,False,2,False
+Leg Sweep,20.0,False,2,False
+SKIP,20.0,False,2,False
+Tactician,22.0,True,2,False
+Sucker Punch,22.0,False,2,False
+Deadly Poison,22.0,False,2,False
+SKIP,22.0,False,2,False
+Calculated Gamble,23.0,True,2,False
+Wraith Form,23.0,False,2,False
+Distraction,23.0,False,2,False
+SKIP,23.0,False,2,False
+Acrobatics,25.0,True,2,False
+Expertise,25.0,False,2,False
+Deflect,25.0,False,2,False
+SKIP,25.0,False,2,False
+Blur,27.0,True,2,False
+Deflect,27.0,False,2,False
+All Out Attack,27.0,False,2,False
+SKIP,27.0,False,2,False
+PiercingWail,28.0,True,2,False
+Infinite Blades,28.0,False,2,False
+Blade Dance,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Blur,29.0,False,2,False
+Die Die Die,29.0,False,2,False
+Riddle With Holes,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Deflect,31.0,False,2,False
+Slice,31.0,False,2,False
+Flechettes,31.0,False,2,False
+SKIP,31.0,False,2,False
+Malaise,33.0,True,2,True
+After Image,33.0,False,2,True
+Alchemize,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Deadly Poison,35.0,False,3,False
+Cloak And Dagger,35.0,False,3,False
+Flying Knee,35.0,False,3,False
+SKIP,35.0,False,3,False
+Backflip,36.0,True,3,False
+Flying Knee,36.0,False,3,False
+PiercingWail,36.0,False,3,False
+SKIP,36.0,False,3,False
+Acrobatics,38.0,True,3,False
+PiercingWail,38.0,False,3,False
+Grand Finale,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Cloak And Dagger,39.0,False,3,False
+Underhanded Strike,39.0,False,3,False
+Finisher,39.0,False,3,False
+SKIP,39.0,False,3,False
+Calculated Gamble,41.0,True,3,False
+Underhanded Strike,41.0,False,3,False
+Choke,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,45.0,True,3,False
+Poisoned Stab,45.0,False,3,False
+PiercingWail,45.0,False,3,False
+Dodge and Roll,45.0,False,3,False
+Footwork,45.0,False,3,False
+SKIP,45.0,False,3,False
+Acrobatics,48.0,True,3,False
+Masterful Stab,48.0,False,3,False
+Blade Dance,48.0,False,3,False
+PiercingWail,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Accuracy,55.0,False,4,False
+Heel Hook,55.0,False,4,False
+Dagger Spray,55.0,False,4,False
+Concentrate,55.0,False,4,False
+SKIP,55.0,False,4,False
+Slice,1.0,True,1,False
+Bouncing Flask,1.0,False,1,False
+Acrobatics,1.0,False,1,False
+SKIP,1.0,False,1,False
+All Out Attack,2.0,True,1,False
+Dagger Throw,2.0,False,1,False
+Choke,2.0,False,1,False
+SKIP,2.0,False,1,False
+Backstab,3.0,True,1,False
+Acrobatics,3.0,False,1,False
+Dodge and Roll,3.0,False,1,False
+SKIP,3.0,False,1,False
+Blade Dance,4.0,True,1,False
+Die Die Die,4.0,False,1,False
+Noxious Fumes,4.0,False,1,False
+SKIP,4.0,False,1,False
+Accuracy,7.0,True,1,False
+Choke,7.0,False,1,False
+Infinite Blades,7.0,False,1,False
+SKIP,7.0,False,1,False
+Calculated Gamble,10.0,True,1,False
+Bane,10.0,False,1,False
+Dagger Spray,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Deflect,11.0,False,1,False
+Deadly Poison,11.0,False,1,False
+Dodge and Roll,11.0,False,1,False
+SKIP,11.0,False,1,False
+Blade Dance,13.0,True,1,False
+Eviscerate,13.0,False,1,False
+Dagger Spray,13.0,False,1,False
+SKIP,13.0,False,1,False
+Adrenaline,16.0,True,1,True
+Burst,16.0,False,1,True
+A Thousand Cuts,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Blur,18.0,False,2,False
+Quick Slash,18.0,False,2,False
+Poisoned Stab,18.0,False,2,False
+SKIP,18.0,False,2,False
+Poisoned Stab,19.0,True,2,False
+Backflip,19.0,False,2,False
+Concentrate,19.0,False,2,False
+SKIP,19.0,False,2,False
+Terror,20.0,True,2,False
+Deflect,20.0,False,2,False
+Blade Dance,20.0,False,2,False
+Deadly Poison,20.0,False,2,False
+Noxious Fumes,20.0,False,2,False
+Backflip,20.0,False,2,False
+Prepared,20.0,False,2,False
+Dodge and Roll,20.0,False,2,False
+Heel Hook,20.0,False,2,False
+PiercingWail,20.0,False,2,False
+Slice,20.0,False,2,False
+Predator,20.0,False,2,False
+Dagger Spray,20.0,False,2,False
+Accuracy,20.0,False,2,False
+Outmaneuver,20.0,False,2,False
+Eviscerate,20.0,False,2,False
+Infinite Blades,20.0,False,2,False
+Dagger Throw,20.0,False,2,False
+Cloak And Dagger,20.0,False,2,False
+Sucker Punch,20.0,False,2,False
+SKIP,20.0,False,2,False
+Deflect,21.0,True,2,False
+Skewer,21.0,False,2,False
+Dash,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Poisoned Stab,24.0,False,2,False
+Catalyst,24.0,False,2,False
+Dagger Spray,24.0,False,2,False
+SKIP,24.0,False,2,False
+Finisher,28.0,True,2,False
+Quick Slash,28.0,False,2,False
+Slice,28.0,False,2,False
+SKIP,28.0,False,2,False
+After Image,30.0,True,2,False
+Backflip,30.0,False,2,False
+Calculated Gamble,30.0,False,2,False
+SKIP,30.0,False,2,False
+PiercingWail,31.0,True,2,False
+Flying Knee,31.0,False,2,False
+Bane,31.0,False,2,False
+SKIP,31.0,False,2,False
+After Image,33.0,True,2,True
+Bullet Time,33.0,False,2,True
+Tools of the Trade,33.0,False,2,True
+SKIP,33.0,False,2,True
+Blade Dance,35.0,True,3,False
+Underhanded Strike,35.0,False,3,False
+Backstab,35.0,False,3,False
+SKIP,35.0,False,3,False
+PiercingWail,36.0,True,3,False
+Sucker Punch,36.0,False,3,False
+Blade Dance,36.0,False,3,False
+SKIP,36.0,False,3,False
+Crippling Poison,38.0,True,3,False
+Deadly Poison,38.0,False,3,False
+Blade Dance,38.0,False,3,False
+SKIP,38.0,False,3,False
+Acrobatics,40.0,True,3,False
+Heel Hook,40.0,False,3,False
+Quick Slash,40.0,False,3,False
+SKIP,40.0,False,3,False
+Sucker Punch,42.0,True,3,False
+Slice,42.0,False,3,False
+Dagger Throw,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Deadly Poison,44.0,False,3,False
+Dagger Throw,44.0,False,3,False
+Slice,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,44.0,True,3,False
+Deadly Poison,44.0,False,3,False
+Dagger Throw,44.0,False,3,False
+Slice,44.0,False,3,False
+SKIP,44.0,False,3,False
+Tactician,45.0,True,3,False
+Blade Dance,45.0,False,3,False
+Riddle With Holes,45.0,False,3,False
+SKIP,45.0,False,3,False
+Footwork,46.0,True,3,False
+Accuracy,46.0,False,3,False
+Crippling Poison,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Crippling Poison,47.0,False,3,False
+Well Laid Plans,47.0,False,3,False
+Bane,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Crippling Poison,47.0,False,3,False
+Well Laid Plans,47.0,False,3,False
+Bane,47.0,False,3,False
+SKIP,47.0,False,3,False
+Night Terror,48.0,True,3,False
+Concentrate,48.0,False,3,False
+Skewer,48.0,False,3,False
+SKIP,48.0,False,3,False
+Night Terror,55.0,True,4,False
+Riddle With Holes,55.0,False,4,False
+Outmaneuver,55.0,False,4,False
+SKIP,55.0,False,4,False
+Deflect,1.0,True,1,False
+Dodge and Roll,1.0,False,1,False
+Outmaneuver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Night Terror,2.0,True,1,False
+Infinite Blades,2.0,False,1,False
+Quick Slash,2.0,False,1,False
+SKIP,2.0,False,1,False
+Terror,5.0,True,1,False
+Dagger Throw,5.0,False,1,False
+Blur,5.0,False,1,False
+SKIP,5.0,False,1,False
+Catalyst,7.0,True,1,False
+Poisoned Stab,7.0,False,1,False
+Quick Slash,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,8.0,True,1,False
+Quick Slash,8.0,False,1,False
+Deflect,8.0,False,1,False
+Blur,8.0,False,1,False
+SKIP,8.0,False,1,False
+Flying Knee,12.0,True,1,False
+Dodge and Roll,12.0,False,1,False
+Prepared,12.0,False,1,False
+SKIP,12.0,False,1,False
+Noxious Fumes,14.0,True,1,False
+Crippling Poison,14.0,False,1,False
+Infinite Blades,14.0,False,1,False
+SKIP,14.0,False,1,False
+Alchemize,16.0,True,1,True
+Adrenaline,16.0,False,1,True
+Phantasmal Killer,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Concentrate,18.0,False,2,False
+Poisoned Stab,18.0,False,2,False
+Deflect,18.0,False,2,False
+SKIP,18.0,False,2,False
+After Image,19.0,True,2,False
+All Out Attack,19.0,False,2,False
+PiercingWail,19.0,False,2,False
+SKIP,19.0,False,2,False
+Blade Dance,19.0,True,2,False
+Deflect,19.0,False,2,False
+Leg Sweep,19.0,False,2,False
+SKIP,19.0,False,2,False
+Outmaneuver,19.0,True,2,False
+Endless Agony,19.0,False,2,False
+Finisher,19.0,False,2,False
+SKIP,19.0,False,2,False
+Calculated Gamble,19.0,True,2,False
+PiercingWail,19.0,False,2,False
+Deflect,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,19.0,True,2,False
+Bane,19.0,False,2,False
+Sucker Punch,19.0,False,2,False
+Dodge and Roll,19.0,False,2,False
+SKIP,19.0,False,2,False
+Escape Plan,22.0,True,2,False
+Underhanded Strike,22.0,False,2,False
+Caltrops,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,24.0,True,2,False
+Choke,24.0,False,2,False
+Prepared,24.0,False,2,False
+Heel Hook,24.0,False,2,False
+SKIP,24.0,False,2,False
+Cloak And Dagger,27.0,True,2,False
+Riddle With Holes,27.0,False,2,False
+Reflex,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Endless Agony,28.0,False,2,False
+Flying Knee,28.0,False,2,False
+Poisoned Stab,28.0,False,2,False
+SKIP,28.0,False,2,False
+Acrobatics,29.0,True,2,False
+Slice,29.0,False,2,False
+Flechettes,29.0,False,2,False
+SKIP,29.0,False,2,False
+Escape Plan,30.0,True,2,False
+Concentrate,30.0,False,2,False
+Outmaneuver,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,33.0,True,2,True
+Storm of Steel,33.0,False,2,True
+A Thousand Cuts,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Reflex,35.0,False,3,False
+Sucker Punch,35.0,False,3,False
+Poisoned Stab,35.0,False,3,False
+SKIP,35.0,False,3,False
+Discovery,37.0,True,3,False
+Mind Blast,37.0,False,3,False
+Trip,37.0,False,3,False
+SKIP,37.0,False,3,False
+Secret Technique,37.0,True,3,False
+PanicButton,37.0,False,3,False
+Deep Breath,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Dramatic Entrance,37.0,False,3,False
+Impatience,37.0,False,3,False
+Bandage Up,37.0,False,3,False
+SKIP,37.0,False,3,False
+Prepared,39.0,True,3,False
+Setup,39.0,False,3,False
+Distraction,39.0,False,3,False
+SKIP,39.0,False,3,False
+Backflip,40.0,True,3,False
+Noxious Fumes,40.0,False,3,False
+Masterful Stab,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Dash,42.0,False,3,False
+Reflex,42.0,False,3,False
+Dagger Throw,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Dash,44.0,False,3,False
+Concentrate,44.0,False,3,False
+Noxious Fumes,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,44.0,True,3,False
+Dash,44.0,False,3,False
+Concentrate,44.0,False,3,False
+Noxious Fumes,44.0,False,3,False
+SKIP,44.0,False,3,False
+Dodge and Roll,45.0,True,3,False
+Terror,45.0,False,3,False
+Skewer,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Slice,47.0,False,3,False
+Deadly Poison,47.0,False,3,False
+Setup,47.0,False,3,False
+SKIP,47.0,False,3,False
+Catalyst,48.0,True,3,False
+Heel Hook,48.0,False,3,False
+Quick Slash,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Sucker Punch,55.0,False,4,False
+Corpse Explosion,55.0,False,4,False
+Endless Agony,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Spray,1.0,True,1,False
+Sucker Punch,1.0,False,1,False
+Deadly Poison,1.0,False,1,False
+SKIP,1.0,False,1,False
+Acrobatics,2.0,True,1,False
+Blur,2.0,False,1,False
+Dagger Spray,2.0,False,1,False
+SKIP,2.0,False,1,False
+Flying Knee,3.0,True,1,False
+Escape Plan,3.0,False,1,False
+Dodge and Roll,3.0,False,1,False
+SKIP,3.0,False,1,False
+Blade Dance,7.0,True,1,False
+Acrobatics,7.0,False,1,False
+Underhanded Strike,7.0,False,1,False
+SKIP,7.0,False,1,False
+Acrobatics,8.0,True,1,False
+Bane,8.0,False,1,False
+Heel Hook,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,11.0,True,1,False
+Bane,11.0,False,1,False
+Prepared,11.0,False,1,False
+Flying Knee,11.0,False,1,False
+SKIP,11.0,False,1,False
+Cloak And Dagger,12.0,True,1,False
+Outmaneuver,12.0,False,1,False
+Slice,12.0,False,1,False
+SKIP,12.0,False,1,False
+Eviscerate,13.0,True,1,False
+Infinite Blades,13.0,False,1,False
+Finisher,13.0,False,1,False
+SKIP,13.0,False,1,False
+Tactician,14.0,True,1,False
+Finisher,14.0,False,1,False
+Prepared,14.0,False,1,False
+SKIP,14.0,False,1,False
+Backflip,1.0,True,1,False
+Escape Plan,1.0,False,1,False
+Dodge and Roll,1.0,False,1,False
+SKIP,1.0,False,1,False
+Sucker Punch,3.0,True,1,False
+Prepared,3.0,False,1,False
+Backflip,3.0,False,1,False
+SKIP,3.0,False,1,False
+Wraith Form,5.0,True,1,False
+Predator,5.0,False,1,False
+Reflex,5.0,False,1,False
+SKIP,5.0,False,1,False
+Endless Agony,7.0,True,1,False
+Outmaneuver,7.0,False,1,False
+Bane,7.0,False,1,False
+SKIP,7.0,False,1,False
+Backstab,11.0,True,1,False
+Outmaneuver,11.0,False,1,False
+Sucker Punch,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,13.0,True,1,False
+Cloak And Dagger,13.0,False,1,False
+Heel Hook,13.0,False,1,False
+Setup,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,13.0,True,1,False
+Cloak And Dagger,13.0,False,1,False
+Heel Hook,13.0,False,1,False
+Setup,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,13.0,True,1,False
+Cloak And Dagger,13.0,False,1,False
+Heel Hook,13.0,False,1,False
+Setup,13.0,False,1,False
+SKIP,13.0,False,1,False
+Adrenaline,14.0,True,1,False
+Deflect,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+Night Terror,16.0,True,1,True
+Glass Knife,16.0,False,1,True
+Doppelganger,16.0,False,1,True
+SKIP,16.0,False,1,True
+Calculated Gamble,18.0,True,2,False
+Outmaneuver,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Backflip,20.0,True,2,False
+Flying Knee,20.0,False,2,False
+Reflex,20.0,False,2,False
+SKIP,20.0,False,2,False
+Acrobatics,21.0,True,2,False
+Slice,21.0,False,2,False
+Eviscerate,21.0,False,2,False
+SKIP,21.0,False,2,False
+Footwork,24.0,True,2,False
+All Out Attack,24.0,False,2,False
+Choke,24.0,False,2,False
+SKIP,24.0,False,2,False
+Calculated Gamble,25.0,True,2,False
+Dash,25.0,False,2,False
+Sucker Punch,25.0,False,2,False
+SKIP,25.0,False,2,False
+Escape Plan,28.0,True,2,False
+Accuracy,28.0,False,2,False
+Poisoned Stab,28.0,False,2,False
+SKIP,28.0,False,2,False
+Calculated Gamble,30.0,True,2,False
+Flechettes,30.0,False,2,False
+Slice,30.0,False,2,False
+SKIP,30.0,False,2,False
+Outmaneuver,30.0,True,2,False
+Footwork,30.0,False,2,False
+Deflect,30.0,False,2,False
+SKIP,30.0,False,2,False
+Malaise,33.0,True,2,True
+Unload,33.0,False,2,True
+Envenom,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Deadly Poison,35.0,False,3,False
+Caltrops,35.0,False,3,False
+Flying Knee,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Footwork,35.0,False,3,False
+Endless Agony,35.0,False,3,False
+Quick Slash,35.0,False,3,False
+SKIP,35.0,False,3,False
+PiercingWail,37.0,True,3,False
+Slice,37.0,False,3,False
+Dodge and Roll,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Finisher,37.0,False,3,False
+Leg Sweep,37.0,False,3,False
+Footwork,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,39.0,True,3,False
+Dagger Spray,39.0,False,3,False
+Accuracy,39.0,False,3,False
+Backstab,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,39.0,True,3,False
+Masterful Stab,39.0,False,3,False
+Footwork,39.0,False,3,False
+All Out Attack,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Underhanded Strike,41.0,False,3,False
+Blade Dance,41.0,False,3,False
+Flying Knee,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,44.0,True,3,False
+Distraction,44.0,False,3,False
+Deadly Poison,44.0,False,3,False
+Dagger Throw,44.0,False,3,False
+SKIP,44.0,False,3,False
+Wraith Form,45.0,True,3,False
+Sucker Punch,45.0,False,3,False
+Quick Slash,45.0,False,3,False
+SKIP,45.0,False,3,False
+Outmaneuver,45.0,True,3,False
+Backflip,45.0,False,3,False
+Accuracy,45.0,False,3,False
+SKIP,45.0,False,3,False
+PiercingWail,47.0,True,3,False
+Eviscerate,47.0,False,3,False
+Distraction,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Dash,47.0,False,3,False
+Dagger Spray,47.0,False,3,False
+Deadly Poison,47.0,False,3,False
+SKIP,47.0,False,3,False
+Acrobatics,48.0,True,3,False
+Slice,48.0,False,3,False
+Masterful Stab,48.0,False,3,False
+SKIP,48.0,False,3,False
+Backflip,55.0,True,4,False
+Distraction,55.0,False,4,False
+Endless Agony,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Spray,1.0,True,1,False
+Sucker Punch,1.0,False,1,False
+Underhanded Strike,1.0,False,1,False
+SKIP,1.0,False,1,False
+Well Laid Plans,2.0,True,1,False
+Distraction,2.0,False,1,False
+Heel Hook,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,4.0,True,1,False
+Deflect,4.0,False,1,False
+Flechettes,4.0,False,1,False
+Bane,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,5.0,True,1,False
+Slice,5.0,False,1,False
+Deadly Poison,5.0,False,1,False
+SKIP,5.0,False,1,False
+Alchemize,6.0,True,1,False
+Adrenaline,6.0,False,1,False
+Poisoned Stab,6.0,False,1,False
+SKIP,6.0,False,1,False
+Eviscerate,8.0,True,1,False
+Heel Hook,8.0,False,1,False
+Catalyst,8.0,False,1,False
+SKIP,8.0,False,1,False
+Endless Agony,11.0,True,1,False
+Concentrate,11.0,False,1,False
+Backflip,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,12.0,True,1,False
+Poisoned Stab,12.0,False,1,False
+Outmaneuver,12.0,False,1,False
+Deflect,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Outmaneuver,13.0,False,1,False
+Deadly Poison,13.0,False,1,False
+Deflect,13.0,False,1,False
+SKIP,13.0,False,1,False
+Prepared,14.0,True,1,False
+Bane,14.0,False,1,False
+Choke,14.0,False,1,False
+SKIP,14.0,False,1,False
+Wraith Form,16.0,True,1,True
+Bullet Time,16.0,False,1,True
+Die Die Die,16.0,False,1,True
+SKIP,16.0,False,1,True
+Dagger Throw,18.0,True,2,False
+Cloak And Dagger,18.0,False,2,False
+Caltrops,18.0,False,2,False
+SKIP,18.0,False,2,False
+Deadly Poison,20.0,True,2,False
+Predator,20.0,False,2,False
+Underhanded Strike,20.0,False,2,False
+SKIP,20.0,False,2,False
+Corpse Explosion,21.0,True,2,False
+Poisoned Stab,21.0,False,2,False
+Underhanded Strike,21.0,False,2,False
+SKIP,21.0,False,2,False
+Backstab,22.0,True,2,False
+Acrobatics,22.0,False,2,False
+PiercingWail,22.0,False,2,False
+SKIP,22.0,False,2,False
+Predator,23.0,True,2,False
+Quick Slash,23.0,False,2,False
+Infinite Blades,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,24.0,True,2,False
+Deadly Poison,24.0,False,2,False
+Blade Dance,24.0,False,2,False
+Flying Knee,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,24.0,True,2,False
+Deadly Poison,24.0,False,2,False
+Blade Dance,24.0,False,2,False
+Flying Knee,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,24.0,True,2,False
+Deadly Poison,24.0,False,2,False
+Blade Dance,24.0,False,2,False
+Flying Knee,24.0,False,2,False
+SKIP,24.0,False,2,False
+Apotheosis,0.0,True,1,False
+Transmutation,0.0,False,1,False
+Secret Weapon,0.0,False,1,False
+SKIP,0.0,False,1,False
+PiercingWail,1.0,True,1,False
+Backflip,1.0,False,1,False
+Outmaneuver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Flying Knee,4.0,True,1,False
+Expertise,4.0,False,1,False
+Cloak And Dagger,4.0,False,1,False
+SKIP,4.0,False,1,False
+Terror,5.0,True,1,False
+Backflip,5.0,False,1,False
+Caltrops,5.0,False,1,False
+SKIP,5.0,False,1,False
+Dash,6.0,True,1,False
+Reflex,6.0,False,1,False
+Underhanded Strike,6.0,False,1,False
+SKIP,6.0,False,1,False
+Backflip,7.0,True,1,False
+Dagger Throw,7.0,False,1,False
+Cloak And Dagger,7.0,False,1,False
+SKIP,7.0,False,1,False
+Blade Dance,11.0,True,1,False
+Heel Hook,11.0,False,1,False
+Storm of Steel,11.0,False,1,False
+SKIP,11.0,False,1,False
+Acrobatics,12.0,True,1,False
+Prepared,12.0,False,1,False
+Dagger Throw,12.0,False,1,False
+SKIP,12.0,False,1,False
+PiercingWail,13.0,True,1,False
+Distraction,13.0,False,1,False
+Deflect,13.0,False,1,False
+SKIP,13.0,False,1,False
+Alchemize,0.0,True,1,False
+Envenom,0.0,False,1,False
+A Thousand Cuts,0.0,False,1,False
+SKIP,0.0,False,1,False
+Backflip,1.0,True,1,False
+Catalyst,1.0,False,1,False
+Deflect,1.0,False,1,False
+SKIP,1.0,False,1,False
+Blade Dance,3.0,True,1,False
+Skewer,3.0,False,1,False
+Poisoned Stab,3.0,False,1,False
+SKIP,3.0,False,1,False
+Dagger Spray,4.0,True,1,False
+Backflip,4.0,False,1,False
+Cloak And Dagger,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,5.0,True,1,False
+Dodge and Roll,5.0,False,1,False
+Escape Plan,5.0,False,1,False
+Heel Hook,5.0,False,1,False
+SKIP,5.0,False,1,False
+Skewer,6.0,True,1,False
+Concentrate,6.0,False,1,False
+Well Laid Plans,6.0,False,1,False
+SKIP,6.0,False,1,False
+Deadly Poison,8.0,True,1,False
+Outmaneuver,8.0,False,1,False
+Acrobatics,8.0,False,1,False
+SKIP,8.0,False,1,False
+Sucker Punch,10.0,True,1,False
+Deflect,10.0,False,1,False
+Distraction,10.0,False,1,False
+SKIP,10.0,False,1,False
+Glass Knife,11.0,True,1,False
+Bane,11.0,False,1,False
+Eviscerate,11.0,False,1,False
+SKIP,11.0,False,1,False
+Deadly Poison,12.0,True,1,False
+Infinite Blades,12.0,False,1,False
+Sucker Punch,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,14.0,True,1,False
+Deadly Poison,14.0,False,1,False
+Accuracy,14.0,False,1,False
+Expertise,14.0,False,1,False
+SKIP,14.0,False,1,False
+SKIP,14.0,True,1,False
+Deadly Poison,14.0,False,1,False
+Accuracy,14.0,False,1,False
+Expertise,14.0,False,1,False
+SKIP,14.0,False,1,False
+Wraith Form,16.0,True,1,True
+After Image,16.0,False,1,True
+Grand Finale,16.0,False,1,True
+SKIP,16.0,False,1,True
+Terror,18.0,True,2,False
+Noxious Fumes,18.0,False,2,False
+Bouncing Flask,18.0,False,2,False
+SKIP,18.0,False,2,False
+PiercingWail,19.0,True,2,False
+Prepared,19.0,False,2,False
+Outmaneuver,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,24.0,True,2,False
+Bouncing Flask,24.0,False,2,False
+Sucker Punch,24.0,False,2,False
+Cloak And Dagger,24.0,False,2,False
+SKIP,24.0,False,2,False
+Bouncing Flask,24.0,True,2,False
+Sucker Punch,24.0,False,2,False
+Cloak And Dagger,24.0,False,2,False
+SKIP,24.0,False,2,False
+Backflip,27.0,True,2,False
+Backstab,27.0,False,2,False
+Quick Slash,27.0,False,2,False
+SKIP,27.0,False,2,False
+All Out Attack,1.0,True,1,False
+Blur,1.0,False,1,False
+Dodge and Roll,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Throw,4.0,True,1,False
+Flying Knee,4.0,False,1,False
+Outmaneuver,4.0,False,1,False
+SKIP,4.0,False,1,False
+Masterful Stab,6.0,True,1,False
+Finisher,6.0,False,1,False
+Heel Hook,6.0,False,1,False
+SKIP,6.0,False,1,False
+Caltrops,8.0,True,1,False
+Bane,8.0,False,1,False
+Dagger Spray,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,10.0,True,1,False
+Accuracy,10.0,False,1,False
+Bane,10.0,False,1,False
+Catalyst,10.0,False,1,False
+SKIP,10.0,False,1,False
+Infinite Blades,11.0,True,1,False
+Quick Slash,11.0,False,1,False
+PiercingWail,11.0,False,1,False
+SKIP,11.0,False,1,False
+Backflip,13.0,True,1,False
+Deflect,13.0,False,1,False
+Tactician,13.0,False,1,False
+SKIP,13.0,False,1,False
+Well Laid Plans,14.0,True,1,False
+Dagger Spray,14.0,False,1,False
+Bane,14.0,False,1,False
+SKIP,14.0,False,1,False
+Phantasmal Killer,16.0,True,1,True
+Tools of the Trade,16.0,False,1,True
+A Thousand Cuts,16.0,False,1,True
+SKIP,16.0,False,1,True
+Footwork,18.0,True,2,False
+Dodge and Roll,18.0,False,2,False
+Deflect,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Deadly Poison,19.0,False,2,False
+Bane,19.0,False,2,False
+Setup,19.0,False,2,False
+SKIP,19.0,False,2,False
+Dagger Spray,20.0,True,2,False
+Sucker Punch,20.0,False,2,False
+Quick Slash,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,1.0,True,1,False
+Dodge and Roll,1.0,False,1,False
+Accuracy,1.0,False,1,False
+Concentrate,1.0,False,1,False
+SKIP,1.0,False,1,False
+Sucker Punch,2.0,True,1,False
+Deadly Poison,2.0,False,1,False
+Calculated Gamble,2.0,False,1,False
+SKIP,2.0,False,1,False
+Dagger Spray,5.0,True,1,False
+Dodge and Roll,5.0,False,1,False
+Cloak And Dagger,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,8.0,True,1,False
+Prepared,8.0,False,1,False
+Dagger Spray,8.0,False,1,False
+Escape Plan,8.0,False,1,False
+SKIP,8.0,False,1,False
+Infinite Blades,10.0,True,1,False
+Underhanded Strike,10.0,False,1,False
+Deadly Poison,10.0,False,1,False
+SKIP,10.0,False,1,False
+Slice,12.0,True,1,False
+Bane,12.0,False,1,False
+Burst,12.0,False,1,False
+SKIP,12.0,False,1,False
+Predator,13.0,True,1,False
+Dagger Throw,13.0,False,1,False
+Well Laid Plans,13.0,False,1,False
+SKIP,13.0,False,1,False
+Backflip,14.0,True,1,False
+Bane,14.0,False,1,False
+Outmaneuver,14.0,False,1,False
+SKIP,14.0,False,1,False
+After Image,16.0,True,1,True
+Doppelganger,16.0,False,1,True
+A Thousand Cuts,16.0,False,1,True
+SKIP,16.0,False,1,True
+Noxious Fumes,18.0,True,2,False
+Outmaneuver,18.0,False,2,False
+Slice,18.0,False,2,False
+SKIP,18.0,False,2,False
+Acrobatics,21.0,True,2,False
+Deadly Poison,21.0,False,2,False
+Dagger Throw,21.0,False,2,False
+SKIP,21.0,False,2,False
+Outmaneuver,22.0,True,2,False
+Choke,22.0,False,2,False
+Cloak And Dagger,22.0,False,2,False
+SKIP,22.0,False,2,False
+Deflect,24.0,True,2,False
+Concentrate,24.0,False,2,False
+Outmaneuver,24.0,False,2,False
+SKIP,24.0,False,2,False
+Dagger Throw,25.0,True,2,False
+Choke,25.0,False,2,False
+Catalyst,25.0,False,2,False
+SKIP,25.0,False,2,False
+Finisher,27.0,True,2,False
+Sucker Punch,27.0,False,2,False
+All Out Attack,27.0,False,2,False
+SKIP,27.0,False,2,False
+Backstab,28.0,True,2,False
+Deflect,28.0,False,2,False
+Skewer,28.0,False,2,False
+Prepared,28.0,False,2,False
+SKIP,28.0,False,2,False
+Phantasmal Killer,30.0,True,2,False
+Infinite Blades,30.0,False,2,False
+Dagger Throw,30.0,False,2,False
+Prepared,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Quick Slash,31.0,False,2,False
+Sucker Punch,31.0,False,2,False
+Flechettes,31.0,False,2,False
+Deadly Poison,31.0,False,2,False
+SKIP,31.0,False,2,False
+Malaise,33.0,True,2,True
+Doppelganger,33.0,False,2,True
+A Thousand Cuts,33.0,False,2,True
+Wraith Form,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Crippling Poison,35.0,False,3,False
+Endless Agony,35.0,False,3,False
+Deflect,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Cloak And Dagger,37.0,False,3,False
+Deflect,37.0,False,3,False
+Slice,37.0,False,3,False
+Choke,37.0,False,3,False
+SKIP,37.0,False,3,False
+Backflip,38.0,True,3,False
+Dodge and Roll,38.0,False,3,False
+Slice,38.0,False,3,False
+Outmaneuver,38.0,False,3,False
+SKIP,38.0,False,3,False
+Blur,39.0,True,3,False
+Flying Knee,39.0,False,3,False
+Riddle With Holes,39.0,False,3,False
+Phantasmal Killer,39.0,False,3,False
+SKIP,39.0,False,3,False
+Terror,40.0,True,3,False
+Deflect,40.0,False,3,False
+Glass Knife,40.0,False,3,False
+Outmaneuver,40.0,False,3,False
+SKIP,40.0,False,3,False
+PiercingWail,42.0,True,3,False
+Dodge and Roll,42.0,False,3,False
+Outmaneuver,42.0,False,3,False
+Skewer,42.0,False,3,False
+SKIP,42.0,False,3,False
+Outmaneuver,44.0,True,3,False
+Eviscerate,44.0,False,3,False
+Acrobatics,44.0,False,3,False
+Leg Sweep,44.0,False,3,False
+SKIP,44.0,False,3,False
+PiercingWail,45.0,True,3,False
+Bane,45.0,False,3,False
+Flechettes,45.0,False,3,False
+Sucker Punch,45.0,False,3,False
+SKIP,45.0,False,3,False
+Bouncing Flask,46.0,True,3,False
+Deadly Poison,46.0,False,3,False
+Expertise,46.0,False,3,False
+Predator,46.0,False,3,False
+SKIP,46.0,False,3,False
+PiercingWail,47.0,True,3,False
+Endless Agony,47.0,False,3,False
+Cloak And Dagger,47.0,False,3,False
+Slice,47.0,False,3,False
+SKIP,47.0,False,3,False
+Flying Knee,48.0,True,3,False
+Phantasmal Killer,48.0,False,3,False
+Quick Slash,48.0,False,3,False
+Tactician,48.0,False,3,False
+SKIP,48.0,False,3,False
+Outmaneuver,55.0,True,4,False
+Flechettes,55.0,False,4,False
+Underhanded Strike,55.0,False,4,False
+Blade Dance,55.0,False,4,False
+SKIP,55.0,False,4,False
+Masterful Stab,1.0,True,1,False
+Endless Agony,1.0,False,1,False
+Choke,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Spray,2.0,True,1,False
+Underhanded Strike,2.0,False,1,False
+Quick Slash,2.0,False,1,False
+SKIP,2.0,False,1,False
+Noxious Fumes,3.0,True,1,False
+All Out Attack,3.0,False,1,False
+Deadly Poison,3.0,False,1,False
+SKIP,3.0,False,1,False
+Bullet Time,6.0,True,1,False
+Quick Slash,6.0,False,1,False
+Flying Knee,6.0,False,1,False
+SKIP,6.0,False,1,False
+Well Laid Plans,8.0,True,1,False
+Acrobatics,8.0,False,1,False
+Poisoned Stab,8.0,False,1,False
+SKIP,8.0,False,1,False
+Dagger Throw,11.0,True,1,False
+Deadly Poison,11.0,False,1,False
+Quick Slash,11.0,False,1,False
+Singing Bowl,11.0,False,1,False
+Footwork,14.0,True,1,False
+Distraction,14.0,False,1,False
+Dash,14.0,False,1,False
+Singing Bowl,14.0,False,1,False
+Night Terror,16.0,True,1,True
+Burst,16.0,False,1,True
+Storm of Steel,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Outmaneuver,18.0,True,2,False
+All Out Attack,18.0,False,2,False
+Masterful Stab,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Catalyst,20.0,True,2,False
+Dodge and Roll,20.0,False,2,False
+Dagger Throw,20.0,False,2,False
+Singing Bowl,20.0,False,2,False
+Endless Agony,21.0,True,2,False
+Caltrops,21.0,False,2,False
+Slice,21.0,False,2,False
+Singing Bowl,21.0,False,2,False
+Well Laid Plans,1.0,True,1,False
+Cloak And Dagger,1.0,False,1,False
+Crippling Poison,1.0,False,1,False
+SKIP,1.0,False,1,False
+Endless Agony,3.0,True,1,False
+Bouncing Flask,3.0,False,1,False
+Sucker Punch,3.0,False,1,False
+SKIP,3.0,False,1,False
+Backstab,4.0,True,1,False
+Outmaneuver,4.0,False,1,False
+Dodge and Roll,4.0,False,1,False
+SKIP,4.0,False,1,False
+Phantasmal Killer,7.0,True,1,False
+Predator,7.0,False,1,False
+Dash,7.0,False,1,False
+SKIP,7.0,False,1,False
+Dagger Spray,11.0,True,1,False
+Deflect,11.0,False,1,False
+Flying Knee,11.0,False,1,False
+SKIP,11.0,False,1,False
+Backflip,13.0,True,1,False
+Infinite Blades,13.0,False,1,False
+Noxious Fumes,13.0,False,1,False
+SKIP,13.0,False,1,False
+Blade Dance,14.0,True,1,False
+Deflect,14.0,False,1,False
+Footwork,14.0,False,1,False
+SKIP,14.0,False,1,False
+Burst,16.0,True,1,True
+Corpse Explosion,16.0,False,1,True
+Doppelganger,16.0,False,1,True
+SKIP,16.0,False,1,True
+PiercingWail,18.0,True,2,False
+Dagger Spray,18.0,False,2,False
+Backflip,18.0,False,2,False
+SKIP,18.0,False,2,False
+Blade Dance,19.0,True,2,False
+Accuracy,19.0,False,2,False
+Underhanded Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Terror,20.0,True,2,False
+Footwork,20.0,False,2,False
+Bane,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Dagger Spray,21.0,False,2,False
+Blade Dance,21.0,False,2,False
+Expertise,21.0,False,2,False
+SKIP,21.0,False,2,False
+Acrobatics,22.0,True,2,False
+Bouncing Flask,22.0,False,2,False
+Cloak And Dagger,22.0,False,2,False
+SKIP,22.0,False,2,False
+Cloak And Dagger,24.0,True,2,False
+Caltrops,24.0,False,2,False
+Blade Dance,24.0,False,2,False
+SKIP,24.0,False,2,False
+PiercingWail,27.0,True,2,False
+Backstab,27.0,False,2,False
+Endless Agony,27.0,False,2,False
+SKIP,27.0,False,2,False
+Outmaneuver,28.0,True,2,False
+Slice,28.0,False,2,False
+Concentrate,28.0,False,2,False
+SKIP,28.0,False,2,False
+PiercingWail,29.0,True,2,False
+Envenom,29.0,False,2,False
+Deadly Poison,29.0,False,2,False
+SKIP,29.0,False,2,False
+Acrobatics,31.0,True,2,False
+Slice,31.0,False,2,False
+Footwork,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,33.0,True,2,True
+Doppelganger,33.0,False,2,True
+Storm of Steel,33.0,False,2,True
+Envenom,33.0,False,2,True
+SKIP,33.0,False,2,True
+Deflect,35.0,True,3,False
+Bouncing Flask,35.0,False,3,False
+Reflex,35.0,False,3,False
+SKIP,35.0,False,3,False
+PiercingWail,37.0,True,3,False
+Poisoned Stab,37.0,False,3,False
+Dodge and Roll,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Dagger Throw,38.0,False,3,False
+Dodge and Roll,38.0,False,3,False
+Bane,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Cloak And Dagger,39.0,False,3,False
+Slice,39.0,False,3,False
+Underhanded Strike,39.0,False,3,False
+SKIP,39.0,False,3,False
+Night Terror,41.0,True,3,False
+Slice,41.0,False,3,False
+Bane,41.0,False,3,False
+SKIP,41.0,False,3,False
+Expertise,44.0,True,3,False
+Dagger Throw,44.0,False,3,False
+Heel Hook,44.0,False,3,False
+SKIP,44.0,False,3,False
+Blade Dance,1.0,True,1,False
+Bane,1.0,False,1,False
+Dodge and Roll,1.0,False,1,False
+SKIP,1.0,False,1,False
+Terror,3.0,True,1,False
+Acrobatics,3.0,False,1,False
+Deflect,3.0,False,1,False
+SKIP,3.0,False,1,False
+Finisher,4.0,True,1,False
+Flying Knee,4.0,False,1,False
+Poisoned Stab,4.0,False,1,False
+SKIP,4.0,False,1,False
+Dagger Spray,5.0,True,1,False
+Underhanded Strike,5.0,False,1,False
+Dagger Throw,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,7.0,True,1,False
+Catalyst,7.0,False,1,False
+Masterful Stab,7.0,False,1,False
+Outmaneuver,7.0,False,1,False
+SKIP,7.0,False,1,False
+Doppelganger,11.0,True,1,False
+Slice,11.0,False,1,False
+Bane,11.0,False,1,False
+SKIP,11.0,False,1,False
+Deflect,12.0,True,1,False
+Catalyst,12.0,False,1,False
+Sucker Punch,12.0,False,1,False
+SKIP,12.0,False,1,False
+Endless Agony,13.0,True,1,False
+Sucker Punch,13.0,False,1,False
+Dodge and Roll,13.0,False,1,False
+SKIP,13.0,False,1,False
+PiercingWail,14.0,True,1,False
+Distraction,14.0,False,1,False
+Bane,14.0,False,1,False
+SKIP,14.0,False,1,False
+Adrenaline,16.0,True,1,True
+Bullet Time,16.0,False,1,True
+Storm of Steel,16.0,False,1,True
+SKIP,16.0,False,1,True
+Dodge and Roll,18.0,True,2,False
+Slice,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Endless Agony,20.0,True,2,False
+Slice,20.0,False,2,False
+Expertise,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Cloak And Dagger,21.0,False,2,False
+Well Laid Plans,21.0,False,2,False
+Quick Slash,21.0,False,2,False
+SKIP,21.0,False,2,False
+Deflect,23.0,True,2,False
+Finisher,23.0,False,2,False
+Concentrate,23.0,False,2,False
+SKIP,23.0,False,2,False
+Burst,25.0,True,2,False
+Backstab,25.0,False,2,False
+Endless Agony,25.0,False,2,False
+SKIP,25.0,False,2,False
+Phantasmal Killer,27.0,True,2,False
+Backflip,27.0,False,2,False
+Outmaneuver,27.0,False,2,False
+SKIP,27.0,False,2,False
+Acrobatics,28.0,True,2,False
+Quick Slash,28.0,False,2,False
+Tactician,28.0,False,2,False
+SKIP,28.0,False,2,False
+PiercingWail,30.0,True,2,False
+Poisoned Stab,30.0,False,2,False
+Quick Slash,30.0,False,2,False
+SKIP,30.0,False,2,False
+Deflect,31.0,True,2,False
+Bane,31.0,False,2,False
+Crippling Poison,31.0,False,2,False
+SKIP,31.0,False,2,False
+Wraith Form,33.0,True,2,True
+Unload,33.0,False,2,True
+Grand Finale,33.0,False,2,True
+SKIP,33.0,False,2,True
+Backflip,35.0,True,3,False
+Quick Slash,35.0,False,3,False
+Expertise,35.0,False,3,False
+SKIP,35.0,False,3,False
+Calculated Gamble,38.0,True,3,False
+Backflip,38.0,False,3,False
+Bouncing Flask,38.0,False,3,False
+SKIP,38.0,False,3,False
+Flechettes,40.0,True,3,False
+Grand Finale,40.0,False,3,False
+Deadly Poison,40.0,False,3,False
+SKIP,40.0,False,3,False
+Backflip,41.0,True,3,False
+Distraction,41.0,False,3,False
+Dodge and Roll,41.0,False,3,False
+SKIP,41.0,False,3,False
+Predator,42.0,True,3,False
+Flying Knee,42.0,False,3,False
+Sucker Punch,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,46.0,True,3,False
+Prepared,46.0,False,3,False
+Bane,46.0,False,3,False
+Slice,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Glass Knife,47.0,False,3,False
+Distraction,47.0,False,3,False
+Eviscerate,47.0,False,3,False
+SKIP,47.0,False,3,False
+Backflip,48.0,True,3,False
+Catalyst,48.0,False,3,False
+Caltrops,48.0,False,3,False
+SKIP,48.0,False,3,False
+Escape Plan,55.0,True,4,False
+Dash,55.0,False,4,False
+Reflex,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dash,1.0,True,1,False
+Blur,1.0,False,1,False
+Crippling Poison,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Throw,3.0,True,1,False
+Backflip,3.0,False,1,False
+Dagger Spray,3.0,False,1,False
+SKIP,3.0,False,1,False
+All Out Attack,4.0,True,1,False
+PiercingWail,4.0,False,1,False
+Slice,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,5.0,True,1,False
+Sucker Punch,5.0,False,1,False
+PiercingWail,5.0,False,1,False
+SKIP,5.0,False,1,False
+Wraith Form,7.0,True,1,False
+Quick Slash,7.0,False,1,False
+Dodge and Roll,7.0,False,1,False
+SKIP,7.0,False,1,False
+Deflect,10.0,True,1,False
+Dash,10.0,False,1,False
+Expertise,10.0,False,1,False
+SKIP,10.0,False,1,False
+Predator,11.0,True,1,False
+Slice,11.0,False,1,False
+Quick Slash,11.0,False,1,False
+SKIP,11.0,False,1,False
+Well Laid Plans,12.0,True,1,False
+Noxious Fumes,12.0,False,1,False
+Grand Finale,12.0,False,1,False
+SKIP,12.0,False,1,False
+Endless Agony,13.0,True,1,False
+Predator,13.0,False,1,False
+Dodge and Roll,13.0,False,1,False
+SKIP,13.0,False,1,False
+Night Terror,16.0,True,1,True
+Grand Finale,16.0,False,1,True
+Storm of Steel,16.0,False,1,True
+SKIP,16.0,False,1,True
+Backflip,18.0,True,2,False
+Escape Plan,18.0,False,2,False
+Flying Knee,18.0,False,2,False
+SKIP,18.0,False,2,False
+Prepared,19.0,True,2,False
+Accuracy,19.0,False,2,False
+Bane,19.0,False,2,False
+SKIP,19.0,False,2,False
+Calculated Gamble,20.0,True,2,False
+Slice,20.0,False,2,False
+Dagger Throw,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,24.0,True,2,False
+Prepared,24.0,False,2,False
+Endless Agony,24.0,False,2,False
+Skewer,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Sucker Punch,27.0,False,2,False
+Outmaneuver,27.0,False,2,False
+Storm of Steel,27.0,False,2,False
+SKIP,27.0,False,2,False
+Alchemize,29.0,True,2,False
+Underhanded Strike,29.0,False,2,False
+Cloak And Dagger,29.0,False,2,False
+SKIP,29.0,False,2,False
+Calculated Gamble,30.0,True,2,False
+Underhanded Strike,30.0,False,2,False
+Quick Slash,30.0,False,2,False
+SKIP,30.0,False,2,False
+Tactician,31.0,True,2,False
+Slice,31.0,False,2,False
+Skewer,31.0,False,2,False
+SKIP,31.0,False,2,False
+After Image,33.0,True,2,True
+Envenom,33.0,False,2,True
+Phantasmal Killer,33.0,False,2,True
+SKIP,33.0,False,2,True
+Underhanded Strike,35.0,True,3,False
+Cloak And Dagger,35.0,False,3,False
+Riddle With Holes,35.0,False,3,False
+SKIP,35.0,False,3,False
+Acrobatics,36.0,True,3,False
+Sucker Punch,36.0,False,3,False
+Bane,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Dagger Throw,37.0,False,3,False
+Concentrate,37.0,False,3,False
+Infinite Blades,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,39.0,True,3,False
+Prepared,39.0,False,3,False
+Slice,39.0,False,3,False
+Sucker Punch,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,39.0,True,3,False
+Prepared,39.0,False,3,False
+Slice,39.0,False,3,False
+Sucker Punch,39.0,False,3,False
+SKIP,39.0,False,3,False
+Acrobatics,40.0,True,3,False
+Deadly Poison,40.0,False,3,False
+Bullet Time,40.0,False,3,False
+SKIP,40.0,False,3,False
+PiercingWail,42.0,True,3,False
+Quick Slash,42.0,False,3,False
+Sucker Punch,42.0,False,3,False
+SKIP,42.0,False,3,False
+Catalyst,44.0,True,3,False
+Acrobatics,44.0,False,3,False
+All Out Attack,44.0,False,3,False
+SKIP,44.0,False,3,False
+Adrenaline,45.0,True,3,False
+Bane,45.0,False,3,False
+Deadly Poison,45.0,False,3,False
+SKIP,45.0,False,3,False
+Burst,47.0,True,3,False
+Prepared,47.0,False,3,False
+Predator,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Bane,55.0,False,4,False
+Deflect,55.0,False,4,False
+Cloak And Dagger,55.0,False,4,False
+SKIP,55.0,False,4,False
+Poisoned Stab,1.0,True,1,False
+Backflip,1.0,False,1,False
+Slice,1.0,False,1,False
+SKIP,1.0,False,1,False
+Deflect,2.0,True,1,False
+Prepared,2.0,False,1,False
+Flechettes,2.0,False,1,False
+SKIP,2.0,False,1,False
+Quick Slash,3.0,True,1,False
+Outmaneuver,3.0,False,1,False
+Deflect,3.0,False,1,False
+SKIP,3.0,False,1,False
+Predator,4.0,True,1,False
+Slice,4.0,False,1,False
+Concentrate,4.0,False,1,False
+SKIP,4.0,False,1,False
+Calculated Gamble,8.0,True,1,False
+Expertise,8.0,False,1,False
+Quick Slash,8.0,False,1,False
+SKIP,8.0,False,1,False
+Blade Dance,10.0,True,1,False
+Prepared,10.0,False,1,False
+Escape Plan,10.0,False,1,False
+SKIP,10.0,False,1,False
+Corpse Explosion,11.0,True,1,False
+Slice,11.0,False,1,False
+Distraction,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,14.0,True,1,False
+Bane,14.0,False,1,False
+Quick Slash,14.0,False,1,False
+Heel Hook,14.0,False,1,False
+SKIP,14.0,False,1,False
+Wraith Form,16.0,True,1,True
+Adrenaline,16.0,False,1,True
+Unload,16.0,False,1,True
+SKIP,16.0,False,1,True
+Catalyst,18.0,True,2,False
+Underhanded Strike,18.0,False,2,False
+Blade Dance,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Tactician,21.0,False,2,False
+Dagger Spray,21.0,False,2,False
+Blade Dance,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,23.0,True,2,False
+Masterful Stab,23.0,False,2,False
+Flechettes,23.0,False,2,False
+Accuracy,23.0,False,2,False
+SKIP,23.0,False,2,False
+Acrobatics,27.0,True,2,False
+Dagger Throw,27.0,False,2,False
+Dash,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Outmaneuver,28.0,False,2,False
+Bane,28.0,False,2,False
+Glass Knife,28.0,False,2,False
+SKIP,28.0,False,2,False
+Well Laid Plans,29.0,True,2,False
+Setup,29.0,False,2,False
+Terror,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Tactician,31.0,False,2,False
+Distraction,31.0,False,2,False
+Slice,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,31.0,True,2,False
+Tactician,31.0,False,2,False
+Distraction,31.0,False,2,False
+Slice,31.0,False,2,False
+SKIP,31.0,False,2,False
+Alchemize,33.0,True,2,True
+Die Die Die,33.0,False,2,True
+Adrenaline,33.0,False,2,True
+SKIP,33.0,False,2,True
+Calculated Gamble,35.0,True,3,False
+Predator,35.0,False,3,False
+Underhanded Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Endless Agony,36.0,False,3,False
+Dodge and Roll,36.0,False,3,False
+Sucker Punch,36.0,False,3,False
+SKIP,36.0,False,3,False
+Discovery,37.0,True,3,False
+Forethought,37.0,False,3,False
+Madness,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Purity,37.0,False,3,False
+Madness,37.0,False,3,False
+Deep Breath,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+The Bomb,37.0,False,3,False
+Enlightenment,37.0,False,3,False
+Forethought,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,39.0,True,3,False
+Concentrate,39.0,False,3,False
+Dagger Spray,39.0,False,3,False
+Underhanded Strike,39.0,False,3,False
+SKIP,39.0,False,3,False
+Tools of the Trade,40.0,True,3,False
+Cloak And Dagger,40.0,False,3,False
+Setup,40.0,False,3,False
+SKIP,40.0,False,3,False
+Dodge and Roll,41.0,True,3,False
+Sucker Punch,41.0,False,3,False
+Poisoned Stab,41.0,False,3,False
+SKIP,41.0,False,3,False
+Acrobatics,42.0,True,3,False
+Quick Slash,42.0,False,3,False
+Footwork,42.0,False,3,False
+SKIP,42.0,False,3,False
+Burst,45.0,True,3,False
+Bane,45.0,False,3,False
+Blade Dance,45.0,False,3,False
+SKIP,45.0,False,3,False
+Acrobatics,47.0,True,3,False
+Blur,47.0,False,3,False
+Tactician,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Accuracy,48.0,False,3,False
+Infinite Blades,48.0,False,3,False
+Flying Knee,48.0,False,3,False
+SKIP,48.0,False,3,False
+Catalyst,55.0,True,4,False
+Accuracy,55.0,False,4,False
+Alchemize,55.0,False,4,False
+SKIP,55.0,False,4,False
+Magnetism,0.0,True,1,False
+Thinking Ahead,0.0,False,1,False
+Transmutation,0.0,False,1,False
+SKIP,0.0,False,1,False
+Underhanded Strike,1.0,True,1,False
+Riddle With Holes,1.0,False,1,False
+Well Laid Plans,1.0,False,1,False
+SKIP,1.0,False,1,False
+Acrobatics,3.0,True,1,False
+Flying Knee,3.0,False,1,False
+Sucker Punch,3.0,False,1,False
+SKIP,3.0,False,1,False
+Slice,4.0,True,1,False
+Deflect,4.0,False,1,False
+Grand Finale,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,5.0,True,1,False
+Crippling Poison,5.0,False,1,False
+Slice,5.0,False,1,False
+SKIP,5.0,False,1,False
+Poisoned Stab,7.0,True,1,False
+Outmaneuver,7.0,False,1,False
+Blade Dance,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,8.0,True,1,False
+Bane,8.0,False,1,False
+Escape Plan,8.0,False,1,False
+Flechettes,8.0,False,1,False
+SKIP,8.0,False,1,False
+Corpse Explosion,10.0,True,1,False
+Underhanded Strike,10.0,False,1,False
+Accuracy,10.0,False,1,False
+SKIP,10.0,False,1,False
+Tactician,12.0,True,1,False
+Underhanded Strike,12.0,False,1,False
+Flying Knee,12.0,False,1,False
+SKIP,12.0,False,1,False
+Bullet Time,16.0,True,1,True
+Corpse Explosion,16.0,False,1,True
+Envenom,16.0,False,1,True
+SKIP,16.0,False,1,True
+Acrobatics,18.0,True,2,False
+Catalyst,18.0,False,2,False
+Heel Hook,18.0,False,2,False
+SKIP,18.0,False,2,False
+Eviscerate,18.0,True,2,False
+Dodge and Roll,18.0,False,2,False
+Distraction,18.0,False,2,False
+SKIP,18.0,False,2,False
+Reflex,19.0,True,2,False
+Riddle With Holes,19.0,False,2,False
+Flechettes,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,19.0,True,2,False
+Quick Slash,19.0,False,2,False
+Expertise,19.0,False,2,False
+Deadly Poison,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,19.0,True,2,False
+Quick Slash,19.0,False,2,False
+Expertise,19.0,False,2,False
+Deadly Poison,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,19.0,True,2,False
+Quick Slash,19.0,False,2,False
+Expertise,19.0,False,2,False
+Deadly Poison,19.0,False,2,False
+SKIP,19.0,False,2,False
+Acrobatics,21.0,True,2,False
+Quick Slash,21.0,False,2,False
+Prepared,21.0,False,2,False
+SKIP,21.0,False,2,False
+Sadistic Nature,0.0,True,1,False
+Magnetism,0.0,False,1,False
+Metamorphosis,0.0,False,1,False
+SKIP,0.0,False,1,False
+Dagger Throw,1.0,True,1,False
+Bane,1.0,False,1,False
+Slice,1.0,False,1,False
+SKIP,1.0,False,1,False
+Blade Dance,3.0,True,1,False
+Accuracy,3.0,False,1,False
+Dagger Spray,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,5.0,True,1,False
+Caltrops,5.0,False,1,False
+Riddle With Holes,5.0,False,1,False
+Outmaneuver,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,6.0,True,1,False
+Bane,6.0,False,1,False
+Dagger Spray,6.0,False,1,False
+Deflect,6.0,False,1,False
+SKIP,6.0,False,1,False
+Doppelganger,8.0,True,1,False
+Bane,8.0,False,1,False
+Endless Agony,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,10.0,True,1,False
+Eviscerate,10.0,False,1,False
+Cloak And Dagger,10.0,False,1,False
+Dodge and Roll,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,10.0,True,1,False
+Eviscerate,10.0,False,1,False
+Cloak And Dagger,10.0,False,1,False
+Dodge and Roll,10.0,False,1,False
+SKIP,10.0,False,1,False
+Well Laid Plans,11.0,True,1,False
+Sucker Punch,11.0,False,1,False
+Deadly Poison,11.0,False,1,False
+SKIP,11.0,False,1,False
+Terror,14.0,True,1,False
+Flying Knee,14.0,False,1,False
+Sucker Punch,14.0,False,1,False
+SKIP,14.0,False,1,False
+After Image,16.0,True,1,True
+Unload,16.0,False,1,True
+Grand Finale,16.0,False,1,True
+SKIP,16.0,False,1,True
+Dagger Throw,18.0,True,2,False
+Choke,18.0,False,2,False
+Escape Plan,18.0,False,2,False
+SKIP,18.0,False,2,False
+Secret Technique,0.0,True,1,False
+The Bomb,0.0,False,1,False
+Sadistic Nature,0.0,False,1,False
+SKIP,0.0,False,1,False
+Backstab,1.0,True,1,False
+Dash,1.0,False,1,False
+Dagger Throw,1.0,False,1,False
+SKIP,1.0,False,1,False
+Flying Knee,3.0,True,1,False
+Quick Slash,3.0,False,1,False
+Concentrate,3.0,False,1,False
+SKIP,3.0,False,1,False
+Dagger Spray,4.0,True,1,False
+Quick Slash,4.0,False,1,False
+Poisoned Stab,4.0,False,1,False
+SKIP,4.0,False,1,False
+Sucker Punch,5.0,True,1,False
+Backflip,5.0,False,1,False
+Prepared,5.0,False,1,False
+SKIP,5.0,False,1,False
+Acrobatics,6.0,True,1,False
+Deflect,6.0,False,1,False
+Distraction,6.0,False,1,False
+SKIP,6.0,False,1,False
+Bouncing Flask,8.0,True,1,False
+Concentrate,8.0,False,1,False
+Dagger Throw,8.0,False,1,False
+SKIP,8.0,False,1,False
+Wraith Form,12.0,True,1,False
+Backstab,12.0,False,1,False
+Blade Dance,12.0,False,1,False
+SKIP,12.0,False,1,False
+Malaise,16.0,True,1,True
+Bullet Time,16.0,False,1,True
+Storm of Steel,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Bane,18.0,False,2,False
+Deadly Poison,18.0,False,2,False
+Prepared,18.0,False,2,False
+SKIP,18.0,False,2,False
+Slice,20.0,True,2,False
+Distraction,20.0,False,2,False
+Deflect,20.0,False,2,False
+SKIP,20.0,False,2,False
+Dagger Throw,21.0,True,2,False
+Quick Slash,21.0,False,2,False
+Outmaneuver,21.0,False,2,False
+SKIP,21.0,False,2,False
+Burst,23.0,True,2,False
+Reflex,23.0,False,2,False
+Dodge and Roll,23.0,False,2,False
+SKIP,23.0,False,2,False
+PiercingWail,24.0,True,2,False
+Deflect,24.0,False,2,False
+Poisoned Stab,24.0,False,2,False
+SKIP,24.0,False,2,False
+Acrobatics,25.0,True,2,False
+Bouncing Flask,25.0,False,2,False
+Bane,25.0,False,2,False
+SKIP,25.0,False,2,False
+PiercingWail,27.0,True,2,False
+Slice,27.0,False,2,False
+Predator,27.0,False,2,False
+SKIP,27.0,False,2,False
+Reflex,28.0,True,2,False
+Bane,28.0,False,2,False
+Flying Knee,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,30.0,True,2,False
+All Out Attack,30.0,False,2,False
+Infinite Blades,30.0,False,2,False
+Deadly Poison,30.0,False,2,False
+SKIP,30.0,False,2,False
+Wraith Form,33.0,True,2,True
+Storm of Steel,33.0,False,2,True
+Alchemize,33.0,False,2,True
+SKIP,33.0,False,2,True
+Masterful Stab,35.0,True,3,False
+PiercingWail,35.0,False,3,False
+Sucker Punch,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,38.0,True,3,False
+Prepared,38.0,False,3,False
+Blade Dance,38.0,False,3,False
+Dodge and Roll,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Masterful Stab,39.0,False,3,False
+Dagger Spray,39.0,False,3,False
+Heel Hook,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,39.0,True,3,False
+Masterful Stab,39.0,False,3,False
+Dagger Spray,39.0,False,3,False
+Heel Hook,39.0,False,3,False
+SKIP,39.0,False,3,False
+Corpse Explosion,41.0,True,3,False
+Bane,41.0,False,3,False
+Choke,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,44.0,True,3,False
+Dodge and Roll,44.0,False,3,False
+Envenom,44.0,False,3,False
+Escape Plan,44.0,False,3,False
+SKIP,44.0,False,3,False
+Calculated Gamble,48.0,True,3,False
+Outmaneuver,48.0,False,3,False
+Blur,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Blur,55.0,False,4,False
+Infinite Blades,55.0,False,4,False
+Endless Agony,55.0,False,4,False
+SKIP,55.0,False,4,False
+Malaise,0.0,True,1,False
+Unload,0.0,False,1,False
+Envenom,0.0,False,1,False
+SKIP,0.0,False,1,False
+Deadly Poison,1.0,True,1,False
+Escape Plan,1.0,False,1,False
+Sucker Punch,1.0,False,1,False
+SKIP,1.0,False,1,False
+Quick Slash,3.0,True,1,False
+PiercingWail,3.0,False,1,False
+Acrobatics,3.0,False,1,False
+SKIP,3.0,False,1,False
+Underhanded Strike,4.0,True,1,False
+Deflect,4.0,False,1,False
+Cloak And Dagger,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,5.0,True,1,False
+Reflex,5.0,False,1,False
+Deflect,5.0,False,1,False
+SKIP,5.0,False,1,False
+Calculated Gamble,7.0,True,1,False
+Expertise,7.0,False,1,False
+Underhanded Strike,7.0,False,1,False
+SKIP,7.0,False,1,False
+Phantasmal Killer,10.0,True,1,False
+Cloak And Dagger,10.0,False,1,False
+Dodge and Roll,10.0,False,1,False
+SKIP,10.0,False,1,False
+Glass Knife,16.0,True,1,True
+Phantasmal Killer,16.0,False,1,True
+Night Terror,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Endless Agony,18.0,False,2,False
+All Out Attack,18.0,False,2,False
+Flying Knee,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Sucker Punch,21.0,False,2,False
+Flying Knee,21.0,False,2,False
+Dagger Throw,21.0,False,2,False
+SKIP,21.0,False,2,False
+Dagger Throw,22.0,True,2,False
+Poisoned Stab,22.0,False,2,False
+Quick Slash,22.0,False,2,False
+SKIP,22.0,False,2,False
+Alchemize,24.0,True,2,False
+Backflip,24.0,False,2,False
+Reflex,24.0,False,2,False
+SKIP,24.0,False,2,False
+Escape Plan,25.0,True,2,False
+Poisoned Stab,25.0,False,2,False
+Cloak And Dagger,25.0,False,2,False
+SKIP,25.0,False,2,False
+Backflip,28.0,True,2,False
+Deadly Poison,28.0,False,2,False
+PiercingWail,28.0,False,2,False
+SKIP,28.0,False,2,False
+Prepared,29.0,True,2,False
+Distraction,29.0,False,2,False
+Sucker Punch,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Heel Hook,30.0,False,2,False
+Bouncing Flask,30.0,False,2,False
+Flechettes,30.0,False,2,False
+SKIP,30.0,False,2,False
+Tools of the Trade,33.0,True,2,True
+Grand Finale,33.0,False,2,True
+Malaise,33.0,False,2,True
+SKIP,33.0,False,2,True
+Deflect,35.0,True,3,False
+Underhanded Strike,35.0,False,3,False
+Blade Dance,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Infinite Blades,37.0,False,3,False
+Dagger Spray,37.0,False,3,False
+Slice,37.0,False,3,False
+SKIP,37.0,False,3,False
+Acrobatics,38.0,True,3,False
+Predator,38.0,False,3,False
+Prepared,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dash,40.0,True,3,False
+Underhanded Strike,40.0,False,3,False
+Outmaneuver,40.0,False,3,False
+SKIP,40.0,False,3,False
+Reflex,42.0,True,3,False
+Accuracy,42.0,False,3,False
+Heel Hook,42.0,False,3,False
+SKIP,42.0,False,3,False
+PiercingWail,44.0,True,3,False
+Endless Agony,44.0,False,3,False
+Outmaneuver,44.0,False,3,False
+SKIP,44.0,False,3,False
+PiercingWail,45.0,True,3,False
+Envenom,45.0,False,3,False
+Concentrate,45.0,False,3,False
+SKIP,45.0,False,3,False
+Backflip,46.0,True,3,False
+Sucker Punch,46.0,False,3,False
+Flying Knee,46.0,False,3,False
+SKIP,46.0,False,3,False
+Eviscerate,55.0,True,4,False
+Backflip,55.0,False,4,False
+Choke,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sucker Punch,1.0,True,1,False
+Distraction,1.0,False,1,False
+Accuracy,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dash,4.0,True,1,False
+Flying Knee,4.0,False,1,False
+Prepared,4.0,False,1,False
+SKIP,4.0,False,1,False
+Backflip,5.0,True,1,False
+Slice,5.0,False,1,False
+Sucker Punch,5.0,False,1,False
+SKIP,5.0,False,1,False
+Crippling Poison,7.0,True,1,False
+Dagger Throw,7.0,False,1,False
+Acrobatics,7.0,False,1,False
+SKIP,7.0,False,1,False
+Blade Dance,8.0,True,1,False
+Endless Agony,8.0,False,1,False
+Deflect,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,13.0,True,1,False
+Concentrate,13.0,False,1,False
+Eviscerate,13.0,False,1,False
+Bane,13.0,False,1,False
+SKIP,13.0,False,1,False
+Tools of the Trade,16.0,True,1,True
+Doppelganger,16.0,False,1,True
+Storm of Steel,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Footwork,18.0,False,2,False
+Cloak And Dagger,18.0,False,2,False
+Caltrops,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Footwork,18.0,False,2,False
+Cloak And Dagger,18.0,False,2,False
+Caltrops,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Footwork,18.0,False,2,False
+Cloak And Dagger,18.0,False,2,False
+Caltrops,18.0,False,2,False
+SKIP,18.0,False,2,False
+Underhanded Strike,19.0,True,2,False
+Skewer,19.0,False,2,False
+Dagger Throw,19.0,False,2,False
+SKIP,19.0,False,2,False
+PiercingWail,22.0,True,2,False
+Infinite Blades,22.0,False,2,False
+Masterful Stab,22.0,False,2,False
+SKIP,22.0,False,2,False
+Well Laid Plans,23.0,True,2,False
+PiercingWail,23.0,False,2,False
+Calculated Gamble,23.0,False,2,False
+SKIP,23.0,False,2,False
+Acrobatics,25.0,True,2,False
+Quick Slash,25.0,False,2,False
+Outmaneuver,25.0,False,2,False
+SKIP,25.0,False,2,False
+Bullet Time,29.0,True,2,False
+Slice,29.0,False,2,False
+Cloak And Dagger,29.0,False,2,False
+SKIP,29.0,False,2,False
+Leg Sweep,31.0,True,2,False
+Backflip,31.0,False,2,False
+Cloak And Dagger,31.0,False,2,False
+SKIP,31.0,False,2,False
+Grand Finale,33.0,True,2,True
+Doppelganger,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+Prepared,35.0,True,3,False
+Bane,35.0,False,3,False
+Backflip,35.0,False,3,False
+SKIP,35.0,False,3,False
+Calculated Gamble,36.0,True,3,False
+Burst,36.0,False,3,False
+Acrobatics,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,38.0,True,3,False
+Poisoned Stab,38.0,False,3,False
+Quick Slash,38.0,False,3,False
+Deadly Poison,38.0,False,3,False
+SKIP,38.0,False,3,False
+Terror,40.0,True,3,False
+Dagger Throw,40.0,False,3,False
+Dagger Spray,40.0,False,3,False
+SKIP,40.0,False,3,False
+Wraith Form,45.0,True,3,False
+Backflip,45.0,False,3,False
+Poisoned Stab,45.0,False,3,False
+SKIP,45.0,False,3,False
+Blur,46.0,True,3,False
+Predator,46.0,False,3,False
+Catalyst,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Prepared,47.0,False,3,False
+Distraction,47.0,False,3,False
+Flying Knee,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Catalyst,55.0,False,4,False
+Backstab,55.0,False,4,False
+Cloak And Dagger,55.0,False,4,False
+SKIP,55.0,False,4,False
+Terror,1.0,True,1,False
+Bane,1.0,False,1,False
+Escape Plan,1.0,False,1,False
+SKIP,1.0,False,1,False
+PiercingWail,3.0,True,1,False
+Blur,3.0,False,1,False
+Underhanded Strike,3.0,False,1,False
+SKIP,3.0,False,1,False
+Finisher,5.0,True,1,False
+Flechettes,5.0,False,1,False
+Prepared,5.0,False,1,False
+SKIP,5.0,False,1,False
+Flying Knee,6.0,True,1,False
+Finisher,6.0,False,1,False
+Quick Slash,6.0,False,1,False
+SKIP,6.0,False,1,False
+Poisoned Stab,10.0,True,1,False
+Deflect,10.0,False,1,False
+Terror,10.0,False,1,False
+SKIP,10.0,False,1,False
+Acrobatics,11.0,True,1,False
+Prepared,11.0,False,1,False
+Flying Knee,11.0,False,1,False
+SKIP,11.0,False,1,False
+Alchemize,12.0,True,1,False
+Masterful Stab,12.0,False,1,False
+Heel Hook,12.0,False,1,False
+SKIP,12.0,False,1,False
+Backstab,14.0,True,1,False
+Catalyst,14.0,False,1,False
+Noxious Fumes,14.0,False,1,False
+SKIP,14.0,False,1,False
+Phantasmal Killer,16.0,True,1,True
+After Image,16.0,False,1,True
+Die Die Die,16.0,False,1,True
+SKIP,16.0,False,1,True
+Footwork,18.0,True,2,False
+Cloak And Dagger,18.0,False,2,False
+Reflex,18.0,False,2,False
+SKIP,18.0,False,2,False
+Tactician,19.0,True,2,False
+Eviscerate,19.0,False,2,False
+Underhanded Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Backflip,23.0,True,2,False
+Flechettes,23.0,False,2,False
+Caltrops,23.0,False,2,False
+SKIP,23.0,False,2,False
+PiercingWail,25.0,True,2,False
+Underhanded Strike,25.0,False,2,False
+Footwork,25.0,False,2,False
+SKIP,25.0,False,2,False
+Dagger Spray,27.0,True,2,False
+Reflex,27.0,False,2,False
+Concentrate,27.0,False,2,False
+SKIP,27.0,False,2,False
+Eviscerate,28.0,True,2,False
+Blade Dance,28.0,False,2,False
+Deflect,28.0,False,2,False
+SKIP,28.0,False,2,False
+PiercingWail,31.0,True,2,False
+Expertise,31.0,False,2,False
+Dagger Spray,31.0,False,2,False
+SKIP,31.0,False,2,False
+Malaise,33.0,True,2,True
+Glass Knife,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+Concentrate,35.0,True,3,False
+Dagger Spray,35.0,False,3,False
+Bane,35.0,False,3,False
+SKIP,35.0,False,3,False
+Acrobatics,37.0,True,3,False
+Endless Agony,37.0,False,3,False
+Prepared,37.0,False,3,False
+SKIP,37.0,False,3,False
+Prepared,41.0,True,3,False
+Finisher,41.0,False,3,False
+Crippling Poison,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,45.0,True,3,False
+Blade Dance,45.0,False,3,False
+Cloak And Dagger,45.0,False,3,False
+Backstab,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,45.0,True,3,False
+Blade Dance,45.0,False,3,False
+Cloak And Dagger,45.0,False,3,False
+Backstab,45.0,False,3,False
+SKIP,45.0,False,3,False
+Footwork,46.0,True,3,False
+Sucker Punch,46.0,False,3,False
+Quick Slash,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Distraction,47.0,False,3,False
+Cloak And Dagger,47.0,False,3,False
+Quick Slash,47.0,False,3,False
+SKIP,47.0,False,3,False
+Dash,48.0,True,3,False
+Dagger Throw,48.0,False,3,False
+Doppelganger,48.0,False,3,False
+SKIP,48.0,False,3,False
+Deadly Poison,55.0,True,4,False
+Masterful Stab,55.0,False,4,False
+Skewer,55.0,False,4,False
+SKIP,55.0,False,4,False
+Footwork,1.0,True,1,False
+Poisoned Stab,1.0,False,1,False
+Bane,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dash,3.0,True,1,False
+Dagger Throw,3.0,False,1,False
+Blade Dance,3.0,False,1,False
+SKIP,3.0,False,1,False
+Backflip,4.0,True,1,False
+Cloak And Dagger,4.0,False,1,False
+Dodge and Roll,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,5.0,True,1,False
+Backflip,5.0,False,1,False
+Blur,5.0,False,1,False
+Acrobatics,5.0,False,1,False
+SKIP,5.0,False,1,False
+Well Laid Plans,6.0,True,1,False
+Unload,6.0,False,1,False
+Outmaneuver,6.0,False,1,False
+SKIP,6.0,False,1,False
+Dodge and Roll,8.0,True,1,False
+Acrobatics,8.0,False,1,False
+Expertise,8.0,False,1,False
+SKIP,8.0,False,1,False
+Deadly Poison,12.0,True,1,False
+Bane,12.0,False,1,False
+Quick Slash,12.0,False,1,False
+SKIP,12.0,False,1,False
+Night Terror,14.0,True,1,False
+Backflip,14.0,False,1,False
+Dodge and Roll,14.0,False,1,False
+SKIP,14.0,False,1,False
+Malaise,16.0,True,1,True
+Storm of Steel,16.0,False,1,True
+Die Die Die,16.0,False,1,True
+SKIP,16.0,False,1,True
+Backflip,18.0,True,2,False
+Prepared,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Terror,21.0,True,2,False
+Outmaneuver,21.0,False,2,False
+Bane,21.0,False,2,False
+SKIP,21.0,False,2,False
+Escape Plan,24.0,True,2,False
+Sucker Punch,24.0,False,2,False
+Backflip,24.0,False,2,False
+SKIP,24.0,False,2,False
+Burst,25.0,True,2,False
+Dagger Spray,25.0,False,2,False
+Tactician,25.0,False,2,False
+SKIP,25.0,False,2,False
+All Out Attack,28.0,True,2,False
+Choke,28.0,False,2,False
+Bane,28.0,False,2,False
+SKIP,28.0,False,2,False
+Backflip,29.0,True,2,False
+All Out Attack,29.0,False,2,False
+Underhanded Strike,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Quick Slash,31.0,False,2,False
+All Out Attack,31.0,False,2,False
+Bouncing Flask,31.0,False,2,False
+SKIP,31.0,False,2,False
+Wraith Form,33.0,True,2,True
+Glass Knife,33.0,False,2,True
+Envenom,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Accuracy,35.0,False,3,False
+Choke,35.0,False,3,False
+Flying Knee,35.0,False,3,False
+SKIP,35.0,False,3,False
+Backflip,36.0,True,3,False
+Riddle With Holes,36.0,False,3,False
+Caltrops,36.0,False,3,False
+SKIP,36.0,False,3,False
+Catalyst,37.0,True,3,False
+Deflect,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+SKIP,37.0,False,3,False
+Finesse,39.0,True,3,False
+Jack Of All Trades,39.0,False,3,False
+Good Instincts,39.0,False,3,False
+SKIP,39.0,False,3,False
+Blind,39.0,True,3,False
+Violence,39.0,False,3,False
+Secret Weapon,39.0,False,3,False
+SKIP,39.0,False,3,False
+Master of Strategy,39.0,True,3,False
+Flash of Steel,39.0,False,3,False
+Madness,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Backstab,40.0,False,3,False
+Slice,40.0,False,3,False
+All Out Attack,40.0,False,3,False
+SKIP,40.0,False,3,False
+Night Terror,42.0,True,3,False
+Backflip,42.0,False,3,False
+Slice,42.0,False,3,False
+SKIP,42.0,False,3,False
+Alchemize,44.0,True,3,False
+Dodge and Roll,44.0,False,3,False
+Poisoned Stab,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,47.0,True,3,False
+Infinite Blades,47.0,False,3,False
+Dagger Spray,47.0,False,3,False
+Cloak And Dagger,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Eviscerate,55.0,False,4,False
+Infinite Blades,55.0,False,4,False
+Outmaneuver,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Spray,1.0,True,1,False
+Bane,1.0,False,1,False
+Deadly Poison,1.0,False,1,False
+SKIP,1.0,False,1,False
+Noxious Fumes,2.0,True,1,False
+PiercingWail,2.0,False,1,False
+Concentrate,2.0,False,1,False
+SKIP,2.0,False,1,False
+Dash,4.0,True,1,False
+Underhanded Strike,4.0,False,1,False
+Backflip,4.0,False,1,False
+SKIP,4.0,False,1,False
+Night Terror,7.0,True,1,False
+Cloak And Dagger,7.0,False,1,False
+Catalyst,7.0,False,1,False
+SKIP,7.0,False,1,False
+Skewer,10.0,True,1,False
+Acrobatics,10.0,False,1,False
+Slice,10.0,False,1,False
+SKIP,10.0,False,1,False
+Terror,11.0,True,1,False
+Infinite Blades,11.0,False,1,False
+Acrobatics,11.0,False,1,False
+SKIP,11.0,False,1,False
+Endless Agony,12.0,True,1,False
+Skewer,12.0,False,1,False
+Poisoned Stab,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Quick Slash,13.0,False,1,False
+Underhanded Strike,13.0,False,1,False
+Endless Agony,13.0,False,1,False
+SKIP,13.0,False,1,False
+Tactician,14.0,True,1,False
+Concentrate,14.0,False,1,False
+Expertise,14.0,False,1,False
+SKIP,14.0,False,1,False
+Burst,16.0,True,1,True
+Unload,16.0,False,1,True
+Envenom,16.0,False,1,True
+SKIP,16.0,False,1,True
+Finisher,18.0,True,2,False
+Dagger Spray,18.0,False,2,False
+Infinite Blades,18.0,False,2,False
+SKIP,18.0,False,2,False
+Deflect,21.0,True,2,False
+Crippling Poison,21.0,False,2,False
+Cloak And Dagger,21.0,False,2,False
+SKIP,21.0,False,2,False
+PiercingWail,22.0,True,2,False
+Accuracy,22.0,False,2,False
+Flying Knee,22.0,False,2,False
+SKIP,22.0,False,2,False
+Blade Dance,24.0,True,2,False
+Backstab,24.0,False,2,False
+Bane,24.0,False,2,False
+SKIP,24.0,False,2,False
+Well Laid Plans,27.0,True,2,False
+Sucker Punch,27.0,False,2,False
+Bouncing Flask,27.0,False,2,False
+SKIP,27.0,False,2,False
+Backflip,28.0,True,2,False
+Well Laid Plans,28.0,False,2,False
+Infinite Blades,28.0,False,2,False
+SKIP,28.0,False,2,False
+Tools of the Trade,29.0,True,2,False
+Bouncing Flask,29.0,False,2,False
+Cloak And Dagger,29.0,False,2,False
+SKIP,29.0,False,2,False
+Calculated Gamble,30.0,True,2,False
+Dodge and Roll,30.0,False,2,False
+Deadly Poison,30.0,False,2,False
+SKIP,30.0,False,2,False
+Wraith Form,33.0,True,2,True
+Die Die Die,33.0,False,2,True
+Doppelganger,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Leg Sweep,35.0,False,3,False
+Choke,35.0,False,3,False
+All Out Attack,35.0,False,3,False
+SKIP,35.0,False,3,False
+PiercingWail,37.0,True,3,False
+Slice,37.0,False,3,False
+Deadly Poison,37.0,False,3,False
+SKIP,37.0,False,3,False
+Backflip,39.0,True,3,False
+Slice,39.0,False,3,False
+Skewer,39.0,False,3,False
+SKIP,39.0,False,3,False
+Alchemize,40.0,True,3,False
+Well Laid Plans,40.0,False,3,False
+Deadly Poison,40.0,False,3,False
+SKIP,40.0,False,3,False
+Dagger Throw,42.0,True,3,False
+Sucker Punch,42.0,False,3,False
+Backstab,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,45.0,True,3,False
+Night Terror,45.0,False,3,False
+Masterful Stab,45.0,False,3,False
+Dagger Spray,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Blur,46.0,False,3,False
+Poisoned Stab,46.0,False,3,False
+Slice,46.0,False,3,False
+SKIP,46.0,False,3,False
+PiercingWail,48.0,True,3,False
+Noxious Fumes,48.0,False,3,False
+Masterful Stab,48.0,False,3,False
+SKIP,48.0,False,3,False
+Deflect,55.0,True,4,False
+Expertise,55.0,False,4,False
+Well Laid Plans,55.0,False,4,False
+SKIP,55.0,False,4,False
+Eviscerate,0.0,True,1,False
+Flying Knee,0.0,False,1,False
+Outmaneuver,0.0,False,1,False
+SKIP,0.0,False,1,False
+Quick Slash,1.0,True,1,False
+Caltrops,1.0,False,1,False
+Concentrate,1.0,False,1,False
+SKIP,1.0,False,1,False
+Calculated Gamble,2.0,True,1,False
+Backflip,2.0,False,1,False
+Sucker Punch,2.0,False,1,False
+SKIP,2.0,False,1,False
+Slice,3.0,True,1,False
+Dodge and Roll,3.0,False,1,False
+Flechettes,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,4.0,True,1,False
+Infinite Blades,4.0,False,1,False
+Bane,4.0,False,1,False
+Quick Slash,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,4.0,True,1,False
+Infinite Blades,4.0,False,1,False
+Bane,4.0,False,1,False
+Quick Slash,4.0,False,1,False
+SKIP,4.0,False,1,False
+Predator,5.0,True,1,False
+All Out Attack,5.0,False,1,False
+Acrobatics,5.0,False,1,False
+SKIP,5.0,False,1,False
+Deflect,7.0,True,1,False
+Sucker Punch,7.0,False,1,False
+Eviscerate,7.0,False,1,False
+SKIP,7.0,False,1,False
+Calculated Gamble,8.0,True,1,False
+Dash,8.0,False,1,False
+Reflex,8.0,False,1,False
+SKIP,8.0,False,1,False
+Grand Finale,10.0,True,1,False
+Doppelganger,10.0,False,1,False
+Noxious Fumes,10.0,False,1,False
+SKIP,10.0,False,1,False
+Dagger Spray,11.0,True,1,False
+Distraction,11.0,False,1,False
+Dodge and Roll,11.0,False,1,False
+SKIP,11.0,False,1,False
+Blade Dance,11.0,True,1,False
+Concentrate,11.0,False,1,False
+Finisher,11.0,False,1,False
+SKIP,11.0,False,1,False
+Footwork,13.0,True,1,False
+Distraction,13.0,False,1,False
+Poisoned Stab,13.0,False,1,False
+SKIP,13.0,False,1,False
+Prepared,13.0,True,1,False
+Cloak And Dagger,13.0,False,1,False
+Envenom,13.0,False,1,False
+SKIP,13.0,False,1,False
+Tactician,14.0,True,1,False
+Slice,14.0,False,1,False
+Quick Slash,14.0,False,1,False
+SKIP,14.0,False,1,False
+Backflip,14.0,True,1,False
+Dodge and Roll,14.0,False,1,False
+Dagger Throw,14.0,False,1,False
+SKIP,14.0,False,1,False
+Adrenaline,16.0,True,1,True
+A Thousand Cuts,16.0,False,1,True
+Corpse Explosion,16.0,False,1,True
+SKIP,16.0,False,1,True
+Acrobatics,18.0,True,2,False
+Underhanded Strike,18.0,False,2,False
+Deadly Poison,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Slice,18.0,False,2,False
+Deflect,18.0,False,2,False
+Prepared,18.0,False,2,False
+SKIP,18.0,False,2,False
+Doppelganger,20.0,True,2,False
+Blade Dance,20.0,False,2,False
+Quick Slash,20.0,False,2,False
+SKIP,20.0,False,2,False
+Backstab,20.0,True,2,False
+Dodge and Roll,20.0,False,2,False
+Quick Slash,20.0,False,2,False
+SKIP,20.0,False,2,False
+Well Laid Plans,22.0,True,2,False
+Heel Hook,22.0,False,2,False
+Tactician,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Infinite Blades,22.0,False,2,False
+Blade Dance,22.0,False,2,False
+Sucker Punch,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Heel Hook,23.0,False,2,False
+Infinite Blades,23.0,False,2,False
+Slice,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,23.0,True,2,False
+Heel Hook,23.0,False,2,False
+Infinite Blades,23.0,False,2,False
+Slice,23.0,False,2,False
+SKIP,23.0,False,2,False
+Prepared,25.0,True,2,False
+Slice,25.0,False,2,False
+Blade Dance,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,25.0,True,2,False
+Flying Knee,25.0,False,2,False
+Dagger Throw,25.0,False,2,False
+Bane,25.0,False,2,False
+SKIP,25.0,False,2,False
+PiercingWail,30.0,True,2,False
+Footwork,30.0,False,2,False
+Prepared,30.0,False,2,False
+SKIP,30.0,False,2,False
+Malaise,33.0,True,2,True
+A Thousand Cuts,33.0,False,2,True
+Envenom,33.0,False,2,True
+SKIP,33.0,False,2,True
+Reflex,35.0,True,3,False
+Blade Dance,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Dagger Spray,35.0,False,3,False
+Outmaneuver,35.0,False,3,False
+SKIP,35.0,False,3,False
+Outmaneuver,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Dagger Spray,35.0,False,3,False
+SKIP,35.0,False,3,False
+Escape Plan,36.0,True,3,False
+Deadly Poison,36.0,False,3,False
+Bane,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Setup,36.0,False,3,False
+Poisoned Stab,36.0,False,3,False
+Bouncing Flask,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Setup,36.0,False,3,False
+Poisoned Stab,36.0,False,3,False
+Bouncing Flask,36.0,False,3,False
+SKIP,36.0,False,3,False
+Expertise,37.0,True,3,False
+Cloak And Dagger,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Cloak And Dagger,37.0,False,3,False
+Backstab,37.0,False,3,False
+Finisher,37.0,False,3,False
+SKIP,37.0,False,3,False
+Footwork,38.0,True,3,False
+Deflect,38.0,False,3,False
+Masterful Stab,38.0,False,3,False
+SKIP,38.0,False,3,False
+Adrenaline,42.0,True,3,False
+Crippling Poison,42.0,False,3,False
+Poisoned Stab,42.0,False,3,False
+SKIP,42.0,False,3,False
+Acrobatics,44.0,True,3,False
+Deadly Poison,44.0,False,3,False
+Deflect,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,44.0,True,3,False
+Dagger Throw,44.0,False,3,False
+Blade Dance,44.0,False,3,False
+Accuracy,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,44.0,True,3,False
+Dagger Throw,44.0,False,3,False
+Blade Dance,44.0,False,3,False
+Accuracy,44.0,False,3,False
+SKIP,44.0,False,3,False
+PiercingWail,46.0,True,3,False
+Outmaneuver,46.0,False,3,False
+Deflect,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,46.0,True,3,False
+Prepared,46.0,False,3,False
+Concentrate,46.0,False,3,False
+Flechettes,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,46.0,True,3,False
+Prepared,46.0,False,3,False
+Concentrate,46.0,False,3,False
+Flechettes,46.0,False,3,False
+SKIP,46.0,False,3,False
+Flying Knee,1.0,True,1,False
+Deflect,1.0,False,1,False
+Quick Slash,1.0,False,1,False
+SKIP,1.0,False,1,False
+Noxious Fumes,3.0,True,1,False
+Sucker Punch,3.0,False,1,False
+Dagger Throw,3.0,False,1,False
+SKIP,3.0,False,1,False
+Poisoned Stab,4.0,True,1,False
+Backflip,4.0,False,1,False
+Slice,4.0,False,1,False
+SKIP,4.0,False,1,False
+Calculated Gamble,5.0,True,1,False
+Bane,5.0,False,1,False
+Finisher,5.0,False,1,False
+SKIP,5.0,False,1,False
+Well Laid Plans,6.0,True,1,False
+Expertise,6.0,False,1,False
+Blur,6.0,False,1,False
+SKIP,6.0,False,1,False
+Backflip,7.0,True,1,False
+Eviscerate,7.0,False,1,False
+Finisher,7.0,False,1,False
+SKIP,7.0,False,1,False
+Phantasmal Killer,8.0,True,1,False
+Glass Knife,8.0,False,1,False
+Dagger Throw,8.0,False,1,False
+SKIP,8.0,False,1,False
+Burst,13.0,True,1,False
+Deadly Poison,13.0,False,1,False
+Eviscerate,13.0,False,1,False
+SKIP,13.0,False,1,False
+Adrenaline,16.0,True,1,True
+After Image,16.0,False,1,True
+Burst,16.0,False,1,True
+SKIP,16.0,False,1,True
+Bane,18.0,True,2,False
+Dodge and Roll,18.0,False,2,False
+Deadly Poison,18.0,False,2,False
+SKIP,18.0,False,2,False
+Cloak And Dagger,19.0,True,2,False
+Tactician,19.0,False,2,False
+Blur,19.0,False,2,False
+SKIP,19.0,False,2,False
+PiercingWail,21.0,True,2,False
+Accuracy,21.0,False,2,False
+Quick Slash,21.0,False,2,False
+SKIP,21.0,False,2,False
+Leg Sweep,23.0,True,2,False
+Calculated Gamble,23.0,False,2,False
+Deadly Poison,23.0,False,2,False
+SKIP,23.0,False,2,False
+Bane,25.0,True,2,False
+Caltrops,25.0,False,2,False
+Quick Slash,25.0,False,2,False
+SKIP,25.0,False,2,False
+Prepared,27.0,True,2,False
+Acrobatics,27.0,False,2,False
+Caltrops,27.0,False,2,False
+SKIP,27.0,False,2,False
+Die Die Die,29.0,True,2,False
+Acrobatics,29.0,False,2,False
+Deflect,29.0,False,2,False
+SKIP,29.0,False,2,False
+Concentrate,31.0,True,2,False
+Dagger Throw,31.0,False,2,False
+Riddle With Holes,31.0,False,2,False
+Cloak And Dagger,31.0,False,2,False
+SKIP,31.0,False,2,False
+Wraith Form,33.0,True,2,True
+A Thousand Cuts,33.0,False,2,True
+Glass Knife,33.0,False,2,True
+Tools of the Trade,33.0,False,2,True
+SKIP,33.0,False,2,True
+Acrobatics,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Deflect,35.0,False,3,False
+Flechettes,35.0,False,3,False
+SKIP,35.0,False,3,False
+Catalyst,36.0,True,3,False
+Backstab,36.0,False,3,False
+Deadly Poison,36.0,False,3,False
+Unload,36.0,False,3,False
+SKIP,36.0,False,3,False
+Outmaneuver,36.0,True,3,False
+All Out Attack,36.0,False,3,False
+Distraction,36.0,False,3,False
+Concentrate,36.0,False,3,False
+SKIP,36.0,False,3,False
+Leg Sweep,36.0,True,3,False
+Quick Slash,36.0,False,3,False
+Outmaneuver,36.0,False,3,False
+Setup,36.0,False,3,False
+SKIP,36.0,False,3,False
+PiercingWail,36.0,True,3,False
+Blur,36.0,False,3,False
+Bane,36.0,False,3,False
+Concentrate,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Dagger Spray,36.0,False,3,False
+Expertise,36.0,False,3,False
+Underhanded Strike,36.0,False,3,False
+Accuracy,36.0,False,3,False
+SKIP,36.0,False,3,False
+Dodge and Roll,38.0,True,3,False
+Predator,38.0,False,3,False
+Cloak And Dagger,38.0,False,3,False
+Deadly Poison,38.0,False,3,False
+SKIP,38.0,False,3,False
+PiercingWail,39.0,True,3,False
+Flechettes,39.0,False,3,False
+Flying Knee,39.0,False,3,False
+Noxious Fumes,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Flying Knee,40.0,False,3,False
+Leg Sweep,40.0,False,3,False
+Sucker Punch,40.0,False,3,False
+A Thousand Cuts,40.0,False,3,False
+SKIP,40.0,False,3,False
+Deflect,42.0,True,3,False
+Quick Slash,42.0,False,3,False
+Backstab,42.0,False,3,False
+Underhanded Strike,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Sucker Punch,44.0,False,3,False
+Leg Sweep,44.0,False,3,False
+Cloak And Dagger,44.0,False,3,False
+Quick Slash,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,44.0,True,3,False
+Dodge and Roll,44.0,False,3,False
+Leg Sweep,44.0,False,3,False
+Outmaneuver,44.0,False,3,False
+Underhanded Strike,44.0,False,3,False
+SKIP,44.0,False,3,False
+Bouncing Flask,45.0,True,3,False
+Deadly Poison,45.0,False,3,False
+Backflip,45.0,False,3,False
+Infinite Blades,45.0,False,3,False
+SKIP,45.0,False,3,False
+Escape Plan,47.0,True,3,False
+Dagger Throw,47.0,False,3,False
+Poisoned Stab,47.0,False,3,False
+Concentrate,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Outmaneuver,47.0,False,3,False
+Finisher,47.0,False,3,False
+Bouncing Flask,47.0,False,3,False
+Bane,47.0,False,3,False
+SKIP,47.0,False,3,False
+Footwork,48.0,True,3,False
+Burst,48.0,False,3,False
+Escape Plan,48.0,False,3,False
+Sucker Punch,48.0,False,3,False
+SKIP,48.0,False,3,False
+Backflip,55.0,True,4,False
+Cloak And Dagger,55.0,False,4,False
+Sucker Punch,55.0,False,4,False
+Blade Dance,55.0,False,4,False
+SKIP,55.0,False,4,False
+Eviscerate,1.0,True,1,False
+Flying Knee,1.0,False,1,False
+Bane,1.0,False,1,False
+SKIP,1.0,False,1,False
+Bullet Time,2.0,True,1,False
+Quick Slash,2.0,False,1,False
+Cloak And Dagger,2.0,False,1,False
+SKIP,2.0,False,1,False
+Backflip,4.0,True,1,False
+Deadly Poison,4.0,False,1,False
+Deflect,4.0,False,1,False
+SKIP,4.0,False,1,False
+Burst,7.0,True,1,False
+Deflect,7.0,False,1,False
+Cloak And Dagger,7.0,False,1,False
+SKIP,7.0,False,1,False
+Calculated Gamble,1.0,True,1,False
+Sucker Punch,1.0,False,1,False
+Outmaneuver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Blade Dance,3.0,True,1,False
+PiercingWail,3.0,False,1,False
+Dagger Spray,3.0,False,1,False
+SKIP,3.0,False,1,False
+Blade Dance,5.0,True,1,False
+Quick Slash,5.0,False,1,False
+Crippling Poison,5.0,False,1,False
+SKIP,5.0,False,1,False
+After Image,7.0,True,1,False
+Die Die Die,7.0,False,1,False
+Deadly Poison,7.0,False,1,False
+SKIP,7.0,False,1,False
+Backflip,10.0,True,1,False
+Flying Knee,10.0,False,1,False
+Distraction,10.0,False,1,False
+SKIP,10.0,False,1,False
+Finisher,12.0,True,1,False
+Deadly Poison,12.0,False,1,False
+Blur,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Infinite Blades,13.0,False,1,False
+Flechettes,13.0,False,1,False
+Deadly Poison,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Slice,14.0,False,1,False
+Flechettes,14.0,False,1,False
+Poisoned Stab,14.0,False,1,False
+SKIP,14.0,False,1,False
+Phantasmal Killer,16.0,True,1,True
+Corpse Explosion,16.0,False,1,True
+Envenom,16.0,False,1,True
+SKIP,16.0,False,1,True
+Endless Agony,18.0,True,2,False
+Setup,18.0,False,2,False
+Flying Knee,18.0,False,2,False
+SKIP,18.0,False,2,False
+Backflip,21.0,True,2,False
+Sucker Punch,21.0,False,2,False
+Bouncing Flask,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Catalyst,24.0,False,2,False
+Slice,24.0,False,2,False
+Deflect,24.0,False,2,False
+SKIP,24.0,False,2,False
+Die Die Die,27.0,True,2,False
+Riddle With Holes,27.0,False,2,False
+Cloak And Dagger,27.0,False,2,False
+SKIP,27.0,False,2,False
+Backflip,30.0,True,2,False
+Blur,30.0,False,2,False
+Outmaneuver,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+All Out Attack,31.0,False,2,False
+Underhanded Strike,31.0,False,2,False
+Quick Slash,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,33.0,True,2,True
+Glass Knife,33.0,False,2,True
+Die Die Die,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Bane,35.0,False,3,False
+Blade Dance,35.0,False,3,False
+Deflect,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Well Laid Plans,37.0,False,3,False
+Backstab,37.0,False,3,False
+Catalyst,37.0,False,3,False
+SKIP,37.0,False,3,False
+Accuracy,39.0,True,3,False
+Blade Dance,39.0,False,3,False
+Flying Knee,39.0,False,3,False
+SKIP,39.0,False,3,False
+Blade Dance,41.0,True,3,False
+Quick Slash,41.0,False,3,False
+Cloak And Dagger,41.0,False,3,False
+SKIP,41.0,False,3,False
+Bouncing Flask,42.0,True,3,False
+Tactician,42.0,False,3,False
+Accuracy,42.0,False,3,False
+SKIP,42.0,False,3,False
+Calculated Gamble,44.0,True,3,False
+Blade Dance,44.0,False,3,False
+Finisher,44.0,False,3,False
+SKIP,44.0,False,3,False
+Footwork,46.0,True,3,False
+Sucker Punch,46.0,False,3,False
+Cloak And Dagger,46.0,False,3,False
+SKIP,46.0,False,3,False
+Expertise,46.0,True,3,False
+Outmaneuver,46.0,False,3,False
+Quick Slash,46.0,False,3,False
+SKIP,46.0,False,3,False
+Crippling Poison,46.0,True,3,False
+Quick Slash,46.0,False,3,False
+Poisoned Stab,46.0,False,3,False
+SKIP,46.0,False,3,False
+Acrobatics,46.0,True,3,False
+Tools of the Trade,46.0,False,3,False
+Eviscerate,46.0,False,3,False
+SKIP,46.0,False,3,False
+Cloak And Dagger,46.0,True,3,False
+Poisoned Stab,46.0,False,3,False
+Escape Plan,46.0,False,3,False
+SKIP,46.0,False,3,False
+PiercingWail,48.0,True,3,False
+Slice,48.0,False,3,False
+Caltrops,48.0,False,3,False
+SKIP,48.0,False,3,False
+Dodge and Roll,55.0,True,4,False
+Prepared,55.0,False,4,False
+Endless Agony,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Throw,1.0,True,1,False
+Cloak And Dagger,1.0,False,1,False
+Acrobatics,1.0,False,1,False
+SKIP,1.0,False,1,False
+Deflect,2.0,True,1,False
+Reflex,2.0,False,1,False
+Bane,2.0,False,1,False
+SKIP,2.0,False,1,False
+Predator,4.0,True,1,False
+Dagger Spray,4.0,False,1,False
+Backflip,4.0,False,1,False
+SKIP,4.0,False,1,False
+Infinite Blades,5.0,True,1,False
+Dagger Throw,5.0,False,1,False
+Bane,5.0,False,1,False
+SKIP,5.0,False,1,False
+Flying Knee,8.0,True,1,False
+Eviscerate,8.0,False,1,False
+Deadly Poison,8.0,False,1,False
+SKIP,8.0,False,1,False
+Wraith Form,10.0,True,1,False
+Blade Dance,10.0,False,1,False
+Infinite Blades,10.0,False,1,False
+SKIP,10.0,False,1,False
+Sucker Punch,12.0,True,1,False
+Noxious Fumes,12.0,False,1,False
+Deflect,12.0,False,1,False
+SKIP,12.0,False,1,False
+Backflip,13.0,True,1,False
+Sucker Punch,13.0,False,1,False
+All Out Attack,13.0,False,1,False
+SKIP,13.0,False,1,False
+Calculated Gamble,14.0,True,1,False
+Masterful Stab,14.0,False,1,False
+Footwork,14.0,False,1,False
+SKIP,14.0,False,1,False
+After Image,16.0,True,1,True
+Phantasmal Killer,16.0,False,1,True
+Unload,16.0,False,1,True
+SKIP,16.0,False,1,True
+Well Laid Plans,18.0,True,2,False
+Dagger Throw,18.0,False,2,False
+Blade Dance,18.0,False,2,False
+SKIP,18.0,False,2,False
+Acrobatics,21.0,True,2,False
+Infinite Blades,21.0,False,2,False
+Dagger Throw,21.0,False,2,False
+SKIP,21.0,False,2,False
+Backflip,24.0,True,2,False
+Footwork,24.0,False,2,False
+Flying Knee,24.0,False,2,False
+SKIP,24.0,False,2,False
+PiercingWail,25.0,True,2,False
+Dagger Spray,25.0,False,2,False
+Flying Knee,25.0,False,2,False
+SKIP,25.0,False,2,False
+Acrobatics,30.0,True,2,False
+Deadly Poison,30.0,False,2,False
+Die Die Die,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,33.0,True,2,True
+Unload,33.0,False,2,True
+Glass Knife,33.0,False,2,True
+Storm of Steel,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Slice,35.0,False,3,False
+Dagger Spray,35.0,False,3,False
+Flying Knee,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Noxious Fumes,36.0,False,3,False
+Escape Plan,36.0,False,3,False
+Dagger Spray,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Heel Hook,37.0,False,3,False
+Bane,37.0,False,3,False
+Riddle With Holes,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Dagger Throw,38.0,False,3,False
+Distraction,38.0,False,3,False
+Masterful Stab,38.0,False,3,False
+SKIP,38.0,False,3,False
+Leg Sweep,39.0,True,3,False
+Caltrops,39.0,False,3,False
+Quick Slash,39.0,False,3,False
+SKIP,39.0,False,3,False
+Acrobatics,41.0,True,3,False
+Skewer,41.0,False,3,False
+Footwork,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,42.0,True,3,False
+Distraction,42.0,False,3,False
+Noxious Fumes,42.0,False,3,False
+Slice,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,42.0,True,3,False
+Distraction,42.0,False,3,False
+Noxious Fumes,42.0,False,3,False
+Slice,42.0,False,3,False
+SKIP,42.0,False,3,False
+Blade Dance,45.0,True,3,False
+Dagger Throw,45.0,False,3,False
+Sucker Punch,45.0,False,3,False
+SKIP,45.0,False,3,False
+Acrobatics,46.0,True,3,False
+Dagger Throw,46.0,False,3,False
+Concentrate,46.0,False,3,False
+SKIP,46.0,False,3,False
+Night Terror,47.0,True,3,False
+Outmaneuver,47.0,False,3,False
+Dagger Spray,47.0,False,3,False
+SKIP,47.0,False,3,False
+Tools of the Trade,54.0,True,4,False
+Poisoned Stab,54.0,False,4,False
+Distraction,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Accuracy,54.0,False,4,False
+Dodge and Roll,54.0,False,4,False
+Choke,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Bouncing Flask,54.0,False,4,False
+Finisher,54.0,False,4,False
+Quick Slash,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Underhanded Strike,54.0,False,4,False
+Choke,54.0,False,4,False
+Sucker Punch,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Dagger Spray,54.0,False,4,False
+Sucker Punch,54.0,False,4,False
+Dodge and Roll,54.0,False,4,False
+SKIP,54.0,False,4,False
+Prepared,55.0,True,4,False
+Choke,55.0,False,4,False
+Dagger Spray,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Throw,1.0,True,1,False
+Accuracy,1.0,False,1,False
+Caltrops,1.0,False,1,False
+SKIP,1.0,False,1,False
+Calculated Gamble,2.0,True,1,False
+Slice,2.0,False,1,False
+Acrobatics,2.0,False,1,False
+SKIP,2.0,False,1,False
+Acrobatics,3.0,True,1,False
+Bane,3.0,False,1,False
+Sucker Punch,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,7.0,True,1,False
+A Thousand Cuts,7.0,False,1,False
+Acrobatics,7.0,False,1,False
+Caltrops,7.0,False,1,False
+SKIP,7.0,False,1,False
+Tactician,11.0,True,1,False
+Prepared,11.0,False,1,False
+Outmaneuver,11.0,False,1,False
+SKIP,11.0,False,1,False
+Backflip,14.0,True,1,False
+Poisoned Stab,14.0,False,1,False
+Dagger Throw,14.0,False,1,False
+SKIP,14.0,False,1,False
+Doppelganger,16.0,True,1,True
+Burst,16.0,False,1,True
+A Thousand Cuts,16.0,False,1,True
+SKIP,16.0,False,1,True
+Underhanded Strike,18.0,True,2,False
+Predator,18.0,False,2,False
+Flying Knee,18.0,False,2,False
+SKIP,18.0,False,2,False
+Dagger Throw,19.0,True,2,False
+Caltrops,19.0,False,2,False
+Dodge and Roll,19.0,False,2,False
+SKIP,19.0,False,2,False
+Bane,20.0,True,2,False
+PiercingWail,20.0,False,2,False
+Skewer,20.0,False,2,False
+SKIP,20.0,False,2,False
+Calculated Gamble,24.0,True,2,False
+Accuracy,24.0,False,2,False
+Masterful Stab,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Concentrate,27.0,False,2,False
+Flying Knee,27.0,False,2,False
+Choke,27.0,False,2,False
+SKIP,27.0,False,2,False
+Deflect,29.0,True,2,False
+Outmaneuver,29.0,False,2,False
+Blur,29.0,False,2,False
+SKIP,29.0,False,2,False
+Tools of the Trade,30.0,True,2,False
+Backflip,30.0,False,2,False
+Riddle With Holes,30.0,False,2,False
+SKIP,30.0,False,2,False
+Crippling Poison,31.0,True,2,False
+Footwork,31.0,False,2,False
+PiercingWail,31.0,False,2,False
+SKIP,31.0,False,2,False
+The Bomb,0.0,True,1,False
+Transmutation,0.0,False,1,False
+Secret Weapon,0.0,False,1,False
+SKIP,0.0,False,1,False
+Dagger Throw,1.0,True,1,False
+Escape Plan,1.0,False,1,False
+PiercingWail,1.0,False,1,False
+SKIP,1.0,False,1,False
+Acrobatics,2.0,True,1,False
+Dodge and Roll,2.0,False,1,False
+Deadly Poison,2.0,False,1,False
+SKIP,2.0,False,1,False
+Predator,6.0,True,1,False
+Expertise,6.0,False,1,False
+Cloak And Dagger,6.0,False,1,False
+SKIP,6.0,False,1,False
+PiercingWail,10.0,True,1,False
+Bane,10.0,False,1,False
+Cloak And Dagger,10.0,False,1,False
+SKIP,10.0,False,1,False
+Infinite Blades,12.0,True,1,False
+Deflect,12.0,False,1,False
+Accuracy,12.0,False,1,False
+SKIP,12.0,False,1,False
+Slice,13.0,True,1,False
+Catalyst,13.0,False,1,False
+Deadly Poison,13.0,False,1,False
+SKIP,13.0,False,1,False
+Wraith Form,16.0,True,1,True
+Corpse Explosion,16.0,False,1,True
+Die Die Die,16.0,False,1,True
+SKIP,16.0,False,1,True
+Flechettes,18.0,True,2,False
+Backflip,18.0,False,2,False
+Acrobatics,18.0,False,2,False
+SKIP,18.0,False,2,False
+Escape Plan,20.0,True,2,False
+Crippling Poison,20.0,False,2,False
+Slice,20.0,False,2,False
+SKIP,20.0,False,2,False
+Well Laid Plans,21.0,True,2,False
+Acrobatics,21.0,False,2,False
+Underhanded Strike,21.0,False,2,False
+SKIP,21.0,False,2,False
+Blade Dance,24.0,True,2,False
+Setup,24.0,False,2,False
+Acrobatics,24.0,False,2,False
+SKIP,24.0,False,2,False
+Backflip,30.0,True,2,False
+Blade Dance,30.0,False,2,False
+Escape Plan,30.0,False,2,False
+SKIP,30.0,False,2,False
+Tactician,31.0,True,2,False
+PiercingWail,31.0,False,2,False
+Underhanded Strike,31.0,False,2,False
+SKIP,31.0,False,2,False
+Alchemize,33.0,True,2,True
+Corpse Explosion,33.0,False,2,True
+Envenom,33.0,False,2,True
+SKIP,33.0,False,2,True
+Reflex,35.0,True,3,False
+Poisoned Stab,35.0,False,3,False
+Concentrate,35.0,False,3,False
+SKIP,35.0,False,3,False
+Acrobatics,38.0,True,3,False
+Dagger Spray,38.0,False,3,False
+Blur,38.0,False,3,False
+SKIP,38.0,False,3,False
+Outmaneuver,39.0,True,3,False
+Cloak And Dagger,39.0,False,3,False
+Expertise,39.0,False,3,False
+SKIP,39.0,False,3,False
+Malaise,40.0,True,3,False
+Reflex,40.0,False,3,False
+Tactician,40.0,False,3,False
+SKIP,40.0,False,3,False
+Deadly Poison,41.0,True,3,False
+Backstab,41.0,False,3,False
+Dagger Throw,41.0,False,3,False
+SKIP,41.0,False,3,False
+Tactician,44.0,True,3,False
+Deadly Poison,44.0,False,3,False
+Accuracy,44.0,False,3,False
+SKIP,44.0,False,3,False
+Dodge and Roll,45.0,True,3,False
+Dagger Spray,45.0,False,3,False
+Dagger Throw,45.0,False,3,False
+SKIP,45.0,False,3,False
+Grand Finale,47.0,True,3,False
+Blur,47.0,False,3,False
+Masterful Stab,47.0,False,3,False
+SKIP,47.0,False,3,False
+Terror,48.0,True,3,False
+Flying Knee,48.0,False,3,False
+Choke,48.0,False,3,False
+SKIP,48.0,False,3,False
+Wraith Form,55.0,True,4,False
+Quick Slash,55.0,False,4,False
+Dash,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Throw,1.0,True,1,False
+Prepared,1.0,False,1,False
+Flying Knee,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Concentrate,2.0,False,1,False
+Deadly Poison,2.0,False,1,False
+Cloak And Dagger,2.0,False,1,False
+SKIP,2.0,False,1,False
+PiercingWail,3.0,True,1,False
+Endless Agony,3.0,False,1,False
+All Out Attack,3.0,False,1,False
+SKIP,3.0,False,1,False
+Bullet Time,4.0,True,1,False
+Distraction,4.0,False,1,False
+Flying Knee,4.0,False,1,False
+SKIP,4.0,False,1,False
+Prepared,6.0,True,1,False
+Poisoned Stab,6.0,False,1,False
+Outmaneuver,6.0,False,1,False
+SKIP,6.0,False,1,False
+Acrobatics,7.0,True,1,False
+Slice,7.0,False,1,False
+Dodge and Roll,7.0,False,1,False
+SKIP,7.0,False,1,False
+PiercingWail,8.0,True,1,False
+Bane,8.0,False,1,False
+Deflect,8.0,False,1,False
+SKIP,8.0,False,1,False
+Backstab,12.0,True,1,False
+Accuracy,12.0,False,1,False
+Dodge and Roll,12.0,False,1,False
+SKIP,12.0,False,1,False
+Deflect,13.0,True,1,False
+Bane,13.0,False,1,False
+Sucker Punch,13.0,False,1,False
+SKIP,13.0,False,1,False
+Phantasmal Killer,14.0,True,1,False
+Predator,14.0,False,1,False
+Masterful Stab,14.0,False,1,False
+SKIP,14.0,False,1,False
+Unload,16.0,True,1,True
+Envenom,16.0,False,1,True
+Phantasmal Killer,16.0,False,1,True
+SKIP,16.0,False,1,True
+Backflip,18.0,True,2,False
+All Out Attack,18.0,False,2,False
+Deadly Poison,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,20.0,True,2,False
+Caltrops,20.0,False,2,False
+Deflect,20.0,False,2,False
+Dodge and Roll,20.0,False,2,False
+SKIP,20.0,False,2,False
+Backflip,21.0,True,2,False
+Accuracy,21.0,False,2,False
+Deadly Poison,21.0,False,2,False
+SKIP,21.0,False,2,False
+Blade Dance,22.0,True,2,False
+Poisoned Stab,22.0,False,2,False
+Deadly Poison,22.0,False,2,False
+SKIP,22.0,False,2,False
+Eviscerate,25.0,True,2,False
+Terror,25.0,False,2,False
+Finisher,25.0,False,2,False
+SKIP,25.0,False,2,False
+Burst,27.0,True,2,False
+Blade Dance,27.0,False,2,False
+Dagger Spray,27.0,False,2,False
+SKIP,27.0,False,2,False
+Underhanded Strike,29.0,True,2,False
+Dagger Spray,29.0,False,2,False
+Quick Slash,29.0,False,2,False
+SKIP,29.0,False,2,False
+Predator,31.0,True,2,False
+Bane,31.0,False,2,False
+Backstab,31.0,False,2,False
+SKIP,31.0,False,2,False
+Alchemize,33.0,True,2,True
+Envenom,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+Backflip,35.0,True,3,False
+Dodge and Roll,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+SKIP,35.0,False,3,False
+PanicButton,36.0,True,3,False
+Transmutation,36.0,False,3,False
+Blind,36.0,False,3,False
+SKIP,36.0,False,3,False
+Secret Technique,36.0,True,3,False
+Blind,36.0,False,3,False
+Flash of Steel,36.0,False,3,False
+SKIP,36.0,False,3,False
+Panacea,36.0,True,3,False
+HandOfGreed,36.0,False,3,False
+Metamorphosis,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,38.0,True,3,False
+Sucker Punch,38.0,False,3,False
+Prepared,38.0,False,3,False
+Bane,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Masterful Stab,39.0,False,3,False
+Slice,39.0,False,3,False
+All Out Attack,39.0,False,3,False
+SKIP,39.0,False,3,False
+Backflip,40.0,True,3,False
+Setup,40.0,False,3,False
+Flechettes,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Outmaneuver,42.0,False,3,False
+Slice,42.0,False,3,False
+Underhanded Strike,42.0,False,3,False
+SKIP,42.0,False,3,False
+Reflex,44.0,True,3,False
+Dagger Spray,44.0,False,3,False
+Finisher,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Dagger Throw,45.0,False,3,False
+Outmaneuver,45.0,False,3,False
+Caltrops,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Outmaneuver,46.0,False,3,False
+Poisoned Stab,46.0,False,3,False
+Endless Agony,46.0,False,3,False
+SKIP,46.0,False,3,False
+Leg Sweep,48.0,True,3,False
+Concentrate,48.0,False,3,False
+Quick Slash,48.0,False,3,False
+SKIP,48.0,False,3,False
+Outmaneuver,55.0,True,4,False
+Blade Dance,55.0,False,4,False
+Flying Knee,55.0,False,4,False
+SKIP,55.0,False,4,False
+All Out Attack,1.0,True,1,False
+Dodge and Roll,1.0,False,1,False
+Poisoned Stab,1.0,False,1,False
+SKIP,1.0,False,1,False
+Calculated Gamble,2.0,True,1,False
+Cloak And Dagger,2.0,False,1,False
+PiercingWail,2.0,False,1,False
+SKIP,2.0,False,1,False
+Noxious Fumes,3.0,True,1,False
+Endless Agony,3.0,False,1,False
+PiercingWail,3.0,False,1,False
+SKIP,3.0,False,1,False
+Skewer,4.0,True,1,False
+Infinite Blades,4.0,False,1,False
+Dodge and Roll,4.0,False,1,False
+SKIP,4.0,False,1,False
+Choke,5.0,True,1,False
+Accuracy,5.0,False,1,False
+PiercingWail,5.0,False,1,False
+SKIP,5.0,False,1,False
+Flying Knee,7.0,True,1,False
+Infinite Blades,7.0,False,1,False
+Caltrops,7.0,False,1,False
+SKIP,7.0,False,1,False
+Blade Dance,10.0,True,1,False
+Slice,10.0,False,1,False
+Choke,10.0,False,1,False
+SKIP,10.0,False,1,False
+Bullet Time,11.0,True,1,False
+Deflect,11.0,False,1,False
+Riddle With Holes,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,12.0,True,1,False
+Caltrops,12.0,False,1,False
+Underhanded Strike,12.0,False,1,False
+Cloak And Dagger,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,12.0,True,1,False
+Caltrops,12.0,False,1,False
+Underhanded Strike,12.0,False,1,False
+Cloak And Dagger,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Deadly Poison,13.0,False,1,False
+Dagger Spray,13.0,False,1,False
+Quick Slash,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Poisoned Stab,14.0,False,1,False
+Dagger Throw,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+Doppelganger,16.0,True,1,True
+Die Die Die,16.0,False,1,True
+Grand Finale,16.0,False,1,True
+SKIP,16.0,False,1,True
+Calculated Gamble,18.0,True,2,False
+Dodge and Roll,18.0,False,2,False
+Flechettes,18.0,False,2,False
+SKIP,18.0,False,2,False
+Outmaneuver,19.0,True,2,False
+Skewer,19.0,False,2,False
+Flechettes,19.0,False,2,False
+SKIP,19.0,False,2,False
+Backflip,20.0,True,2,False
+Slice,20.0,False,2,False
+Prepared,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,25.0,True,2,False
+Dagger Throw,25.0,False,2,False
+Glass Knife,25.0,False,2,False
+Slice,25.0,False,2,False
+SKIP,25.0,False,2,False
+Acrobatics,27.0,True,2,False
+Backflip,27.0,False,2,False
+Sucker Punch,27.0,False,2,False
+SKIP,27.0,False,2,False
+Cloak And Dagger,30.0,True,2,False
+Endless Agony,30.0,False,2,False
+Slice,30.0,False,2,False
+SKIP,30.0,False,2,False
+Burst,33.0,True,2,True
+Die Die Die,33.0,False,2,True
+Phantasmal Killer,33.0,False,2,True
+SKIP,33.0,False,2,True
+Predator,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Prepared,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Blade Dance,36.0,False,3,False
+Underhanded Strike,36.0,False,3,False
+Bouncing Flask,36.0,False,3,False
+SKIP,36.0,False,3,False
+Dodge and Roll,37.0,True,3,False
+Sucker Punch,37.0,False,3,False
+Choke,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,41.0,True,3,False
+Slice,41.0,False,3,False
+Outmaneuver,41.0,False,3,False
+Underhanded Strike,41.0,False,3,False
+SKIP,41.0,False,3,False
+PiercingWail,42.0,True,3,False
+Cloak And Dagger,42.0,False,3,False
+Flying Knee,42.0,False,3,False
+SKIP,42.0,False,3,False
+Dodge and Roll,45.0,True,3,False
+Glass Knife,45.0,False,3,False
+Infinite Blades,45.0,False,3,False
+SKIP,45.0,False,3,False
+Escape Plan,46.0,True,3,False
+Quick Slash,46.0,False,3,False
+Dagger Spray,46.0,False,3,False
+SKIP,46.0,False,3,False
+Dodge and Roll,48.0,True,3,False
+Deadly Poison,48.0,False,3,False
+Cloak And Dagger,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,48.0,True,3,False
+Slice,48.0,False,3,False
+Caltrops,48.0,False,3,False
+Deadly Poison,48.0,False,3,False
+SKIP,48.0,False,3,False
+Accuracy,55.0,True,4,False
+Deflect,55.0,False,4,False
+Setup,55.0,False,4,False
+SKIP,55.0,False,4,False
+Noxious Fumes,1.0,True,1,False
+Riddle With Holes,1.0,False,1,False
+Dash,1.0,False,1,False
+SKIP,1.0,False,1,False
+Poisoned Stab,2.0,True,1,False
+PiercingWail,2.0,False,1,False
+Prepared,2.0,False,1,False
+SKIP,2.0,False,1,False
+Catalyst,4.0,True,1,False
+Reflex,4.0,False,1,False
+Tactician,4.0,False,1,False
+SKIP,4.0,False,1,False
+Terror,6.0,True,1,False
+Backflip,6.0,False,1,False
+PiercingWail,6.0,False,1,False
+SKIP,6.0,False,1,False
+SKIP,7.0,True,1,False
+Skewer,7.0,False,1,False
+Poisoned Stab,7.0,False,1,False
+Dagger Spray,7.0,False,1,False
+SKIP,7.0,False,1,False
+PiercingWail,10.0,True,1,False
+Flying Knee,10.0,False,1,False
+Outmaneuver,10.0,False,1,False
+SKIP,10.0,False,1,False
+PiercingWail,11.0,True,1,False
+Outmaneuver,11.0,False,1,False
+Concentrate,11.0,False,1,False
+SKIP,11.0,False,1,False
+PiercingWail,13.0,True,1,False
+Flying Knee,13.0,False,1,False
+Quick Slash,13.0,False,1,False
+SKIP,13.0,False,1,False
+Alchemize,16.0,True,1,True
+Night Terror,16.0,False,1,True
+Corpse Explosion,16.0,False,1,True
+SKIP,16.0,False,1,True
+Endless Agony,18.0,True,2,False
+Setup,18.0,False,2,False
+Sucker Punch,18.0,False,2,False
+SKIP,18.0,False,2,False
+Bane,20.0,True,2,False
+Slice,20.0,False,2,False
+Heel Hook,20.0,False,2,False
+SKIP,20.0,False,2,False
+Acrobatics,23.0,True,2,False
+Dodge and Roll,23.0,False,2,False
+Setup,23.0,False,2,False
+SKIP,23.0,False,2,False
+Footwork,24.0,True,2,False
+Acrobatics,24.0,False,2,False
+Choke,24.0,False,2,False
+SKIP,24.0,False,2,False
+Dagger Spray,25.0,True,2,False
+Sucker Punch,25.0,False,2,False
+Slice,25.0,False,2,False
+SKIP,25.0,False,2,False
+Prepared,29.0,True,2,False
+PiercingWail,29.0,False,2,False
+Slice,29.0,False,2,False
+SKIP,29.0,False,2,False
+Die Die Die,30.0,True,2,False
+Distraction,30.0,False,2,False
+PiercingWail,30.0,False,2,False
+SKIP,30.0,False,2,False
+Footwork,31.0,True,2,False
+Outmaneuver,31.0,False,2,False
+Finisher,31.0,False,2,False
+SKIP,31.0,False,2,False
+All Out Attack,1.0,True,1,False
+Skewer,1.0,False,1,False
+Slice,1.0,False,1,False
+SKIP,1.0,False,1,False
+Sucker Punch,3.0,True,1,False
+Escape Plan,3.0,False,1,False
+Deflect,3.0,False,1,False
+SKIP,3.0,False,1,False
+Blade Dance,4.0,True,1,False
+Leg Sweep,4.0,False,1,False
+Eviscerate,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,10.0,True,1,False
+Flying Knee,10.0,False,1,False
+Poisoned Stab,10.0,False,1,False
+SKIP,10.0,False,1,False
+Backstab,11.0,True,1,False
+Poisoned Stab,11.0,False,1,False
+Slice,11.0,False,1,False
+SKIP,11.0,False,1,False
+Finisher,12.0,True,1,False
+Dodge and Roll,12.0,False,1,False
+Flying Knee,12.0,False,1,False
+SKIP,12.0,False,1,False
+Acrobatics,13.0,True,1,False
+Bane,13.0,False,1,False
+Poisoned Stab,13.0,False,1,False
+SKIP,13.0,False,1,False
+After Image,14.0,True,1,False
+PiercingWail,14.0,False,1,False
+Bouncing Flask,14.0,False,1,False
+SKIP,14.0,False,1,False
+Alchemize,16.0,True,1,True
+Glass Knife,16.0,False,1,True
+Wraith Form,16.0,False,1,True
+SKIP,16.0,False,1,True
+Dagger Throw,18.0,True,2,False
+Reflex,18.0,False,2,False
+Flechettes,18.0,False,2,False
+SKIP,18.0,False,2,False
+Dodge and Roll,19.0,True,2,False
+Flying Knee,19.0,False,2,False
+Dagger Spray,19.0,False,2,False
+SKIP,19.0,False,2,False
+Calculated Gamble,22.0,True,2,False
+Deflect,22.0,False,2,False
+Well Laid Plans,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,24.0,True,2,False
+Underhanded Strike,24.0,False,2,False
+Dagger Throw,24.0,False,2,False
+Quick Slash,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Poisoned Stab,27.0,False,2,False
+Heel Hook,27.0,False,2,False
+Deadly Poison,27.0,False,2,False
+SKIP,27.0,False,2,False
+Malaise,28.0,True,2,False
+Blade Dance,28.0,False,2,False
+Slice,28.0,False,2,False
+SKIP,28.0,False,2,False
+Burst,29.0,True,2,False
+Predator,29.0,False,2,False
+Deflect,29.0,False,2,False
+SKIP,29.0,False,2,False
+Backflip,30.0,True,2,False
+Poisoned Stab,30.0,False,2,False
+Cloak And Dagger,30.0,False,2,False
+SKIP,30.0,False,2,False
+Outmaneuver,31.0,True,2,False
+Poisoned Stab,31.0,False,2,False
+Acrobatics,31.0,False,2,False
+SKIP,31.0,False,2,False
+After Image,33.0,True,2,True
+Adrenaline,33.0,False,2,True
+Glass Knife,33.0,False,2,True
+SKIP,33.0,False,2,True
+Calculated Gamble,35.0,True,3,False
+Poisoned Stab,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+SKIP,35.0,False,3,False
+PiercingWail,36.0,True,3,False
+Blade Dance,36.0,False,3,False
+Underhanded Strike,36.0,False,3,False
+SKIP,36.0,False,3,False
+Reflex,38.0,True,3,False
+Well Laid Plans,38.0,False,3,False
+Poisoned Stab,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Blade Dance,39.0,False,3,False
+Backstab,39.0,False,3,False
+Glass Knife,39.0,False,3,False
+SKIP,39.0,False,3,False
+Deadly Poison,40.0,True,3,False
+Flying Knee,40.0,False,3,False
+Setup,40.0,False,3,False
+SKIP,40.0,False,3,False
+PiercingWail,41.0,True,3,False
+Flying Knee,41.0,False,3,False
+Distraction,41.0,False,3,False
+SKIP,41.0,False,3,False
+Deadly Poison,44.0,True,3,False
+Underhanded Strike,44.0,False,3,False
+Phantasmal Killer,44.0,False,3,False
+SKIP,44.0,False,3,False
+Noxious Fumes,46.0,True,3,False
+Dodge and Roll,46.0,False,3,False
+Slice,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Quick Slash,47.0,False,3,False
+Reflex,47.0,False,3,False
+Choke,47.0,False,3,False
+SKIP,47.0,False,3,False
+Acrobatics,48.0,True,3,False
+Dagger Spray,48.0,False,3,False
+Noxious Fumes,48.0,False,3,False
+SKIP,48.0,False,3,False
+Prepared,55.0,True,4,False
+Corpse Explosion,55.0,False,4,False
+Quick Slash,55.0,False,4,False
+SKIP,55.0,False,4,False
+Phantasmal Killer,0.0,True,1,False
+Burst,0.0,False,1,False
+After Image,0.0,False,1,False
+SKIP,0.0,False,1,False
+Dagger Throw,1.0,True,1,False
+Deadly Poison,1.0,False,1,False
+Bane,1.0,False,1,False
+SKIP,1.0,False,1,False
+After Image,3.0,True,1,False
+Escape Plan,3.0,False,1,False
+Noxious Fumes,3.0,False,1,False
+SKIP,3.0,False,1,False
+Flying Knee,5.0,True,1,False
+Poisoned Stab,5.0,False,1,False
+Outmaneuver,5.0,False,1,False
+SKIP,5.0,False,1,False
+Blade Dance,7.0,True,1,False
+Deflect,7.0,False,1,False
+Skewer,7.0,False,1,False
+SKIP,7.0,False,1,False
+Underhanded Strike,10.0,True,1,False
+Outmaneuver,10.0,False,1,False
+Flying Knee,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Expertise,11.0,False,1,False
+Riddle With Holes,11.0,False,1,False
+Slice,11.0,False,1,False
+SKIP,11.0,False,1,False
+Doppelganger,12.0,True,1,False
+Blade Dance,12.0,False,1,False
+Dagger Throw,12.0,False,1,False
+SKIP,12.0,False,1,False
+Footwork,14.0,True,1,False
+Dodge and Roll,14.0,False,1,False
+Quick Slash,14.0,False,1,False
+SKIP,14.0,False,1,False
+Acrobatics,15.0,True,1,False
+Riddle With Holes,15.0,False,1,False
+Backflip,15.0,False,1,False
+SKIP,15.0,False,1,False
+Adrenaline,16.0,True,1,True
+Phantasmal Killer,16.0,False,1,True
+Unload,16.0,False,1,True
+SKIP,16.0,False,1,True
+Prepared,18.0,True,2,False
+Dagger Spray,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+PiercingWail,20.0,True,2,False
+Escape Plan,20.0,False,2,False
+Footwork,20.0,False,2,False
+SKIP,20.0,False,2,False
+Calculated Gamble,22.0,True,2,False
+Crippling Poison,22.0,False,2,False
+Infinite Blades,22.0,False,2,False
+SKIP,22.0,False,2,False
+Leg Sweep,24.0,True,2,False
+Accuracy,24.0,False,2,False
+Outmaneuver,24.0,False,2,False
+SKIP,24.0,False,2,False
+Tactician,28.0,True,2,False
+Glass Knife,28.0,False,2,False
+Caltrops,28.0,False,2,False
+SKIP,28.0,False,2,False
+Eviscerate,30.0,True,2,False
+Prepared,30.0,False,2,False
+Endless Agony,30.0,False,2,False
+SKIP,30.0,False,2,False
+Quick Slash,0.0,True,1,False
+Flying Knee,0.0,False,1,False
+Setup,0.0,False,1,False
+SKIP,0.0,False,1,False
+Noxious Fumes,1.0,True,1,False
+Bane,1.0,False,1,False
+Deadly Poison,1.0,False,1,False
+SKIP,1.0,False,1,False
+Underhanded Strike,3.0,True,1,False
+Accuracy,3.0,False,1,False
+Cloak And Dagger,3.0,False,1,False
+SKIP,3.0,False,1,False
+Backstab,4.0,True,1,False
+Outmaneuver,4.0,False,1,False
+Predator,4.0,False,1,False
+SKIP,4.0,False,1,False
+Deadly Poison,5.0,True,1,False
+Outmaneuver,5.0,False,1,False
+Prepared,5.0,False,1,False
+SKIP,5.0,False,1,False
+Footwork,7.0,True,1,False
+Sucker Punch,7.0,False,1,False
+Quick Slash,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,10.0,True,1,False
+Tactician,10.0,False,1,False
+Reflex,10.0,False,1,False
+Footwork,10.0,False,1,False
+SKIP,10.0,False,1,False
+Blade Dance,14.0,True,1,False
+Riddle With Holes,14.0,False,1,False
+Accuracy,14.0,False,1,False
+SKIP,14.0,False,1,False
+Corpse Explosion,16.0,True,1,True
+Malaise,16.0,False,1,True
+Tools of the Trade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Deflect,18.0,True,2,False
+Infinite Blades,18.0,False,2,False
+Bane,18.0,False,2,False
+SKIP,18.0,False,2,False
+Catalyst,19.0,True,2,False
+Terror,19.0,False,2,False
+Backflip,19.0,False,2,False
+Blade Dance,19.0,False,2,False
+PiercingWail,19.0,False,2,False
+Concentrate,19.0,False,2,False
+Caltrops,19.0,False,2,False
+Bane,19.0,False,2,False
+Escape Plan,19.0,False,2,False
+Slice,19.0,False,2,False
+Acrobatics,19.0,False,2,False
+Reflex,19.0,False,2,False
+Quick Slash,19.0,False,2,False
+Tactician,19.0,False,2,False
+Underhanded Strike,19.0,False,2,False
+Dagger Throw,19.0,False,2,False
+Deadly Poison,19.0,False,2,False
+Outmaneuver,19.0,False,2,False
+Sucker Punch,19.0,False,2,False
+Dodge and Roll,19.0,False,2,False
+SKIP,19.0,False,2,False
+Choke,23.0,True,2,False
+Underhanded Strike,23.0,False,2,False
+Infinite Blades,23.0,False,2,False
+SKIP,23.0,False,2,False
+Alchemize,25.0,True,2,False
+Infinite Blades,25.0,False,2,False
+Dagger Throw,25.0,False,2,False
+SKIP,25.0,False,2,False
+Outmaneuver,30.0,True,2,False
+Deflect,30.0,False,2,False
+Cloak And Dagger,30.0,False,2,False
+SKIP,30.0,False,2,False
+PiercingWail,31.0,True,2,False
+Finisher,31.0,False,2,False
+Footwork,31.0,False,2,False
+SKIP,31.0,False,2,False
+After Image,33.0,True,2,True
+Corpse Explosion,33.0,False,2,True
+Burst,33.0,False,2,True
+SKIP,33.0,False,2,True
+Dash,35.0,True,3,False
+Prepared,35.0,False,3,False
+Endless Agony,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Cloak And Dagger,37.0,False,3,False
+Dagger Spray,37.0,False,3,False
+Flying Knee,37.0,False,3,False
+SKIP,37.0,False,3,False
+Calculated Gamble,39.0,True,3,False
+Flying Knee,39.0,False,3,False
+Blade Dance,39.0,False,3,False
+SKIP,39.0,False,3,False
+Concentrate,41.0,True,3,False
+Well Laid Plans,41.0,False,3,False
+Flechettes,41.0,False,3,False
+SKIP,41.0,False,3,False
+Dodge and Roll,42.0,True,3,False
+Reflex,42.0,False,3,False
+Deflect,42.0,False,3,False
+SKIP,42.0,False,3,False
+Alchemize,46.0,True,3,False
+Dagger Spray,46.0,False,3,False
+Dagger Throw,46.0,False,3,False
+SKIP,46.0,False,3,False
+Blur,48.0,True,3,False
+Concentrate,48.0,False,3,False
+Sucker Punch,48.0,False,3,False
+SKIP,48.0,False,3,False
+PiercingWail,55.0,True,4,False
+Expertise,55.0,False,4,False
+Prepared,55.0,False,4,False
+SKIP,55.0,False,4,False
+Acrobatics,1.0,True,1,False
+Deflect,1.0,False,1,False
+Dodge and Roll,1.0,False,1,False
+SKIP,1.0,False,1,False
+Die Die Die,2.0,True,1,False
+Bouncing Flask,2.0,False,1,False
+Endless Agony,2.0,False,1,False
+SKIP,2.0,False,1,False
+Blade Dance,4.0,True,1,False
+Noxious Fumes,4.0,False,1,False
+Tactician,4.0,False,1,False
+SKIP,4.0,False,1,False
+Acrobatics,1.0,True,1,False
+Choke,1.0,False,1,False
+Distraction,1.0,False,1,False
+SKIP,1.0,False,1,False
+Underhanded Strike,2.0,True,1,False
+Slice,2.0,False,1,False
+Acrobatics,2.0,False,1,False
+SKIP,2.0,False,1,False
+Tactician,4.0,True,1,False
+Caltrops,4.0,False,1,False
+Slice,4.0,False,1,False
+SKIP,4.0,False,1,False
+Underhanded Strike,7.0,True,1,False
+Backflip,7.0,False,1,False
+Deflect,7.0,False,1,False
+SKIP,7.0,False,1,False
+Slice,10.0,True,1,False
+Underhanded Strike,10.0,False,1,False
+Dagger Spray,10.0,False,1,False
+SKIP,10.0,False,1,False
+Noxious Fumes,13.0,True,1,False
+Finisher,13.0,False,1,False
+Sucker Punch,13.0,False,1,False
+SKIP,13.0,False,1,False
+Acrobatics,14.0,True,1,False
+Unload,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+Tools of the Trade,16.0,True,1,True
+Bullet Time,16.0,False,1,True
+Unload,16.0,False,1,True
+SKIP,16.0,False,1,True
+Backflip,18.0,True,2,False
+Choke,18.0,False,2,False
+Dagger Spray,18.0,False,2,False
+SKIP,18.0,False,2,False
+Terror,19.0,True,2,False
+Riddle With Holes,19.0,False,2,False
+Heel Hook,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,21.0,True,2,False
+Blade Dance,21.0,False,2,False
+Caltrops,21.0,False,2,False
+Expertise,21.0,False,2,False
+SKIP,21.0,False,2,False
+Acrobatics,24.0,True,2,False
+Deadly Poison,24.0,False,2,False
+Underhanded Strike,24.0,False,2,False
+Accuracy,24.0,False,2,False
+Dagger Throw,24.0,False,2,False
+Flying Knee,24.0,False,2,False
+Heel Hook,24.0,False,2,False
+Endless Agony,24.0,False,2,False
+Dagger Spray,24.0,False,2,False
+Quick Slash,24.0,False,2,False
+Caltrops,24.0,False,2,False
+All Out Attack,24.0,False,2,False
+Distraction,24.0,False,2,False
+Outmaneuver,24.0,False,2,False
+Reflex,24.0,False,2,False
+Dodge and Roll,24.0,False,2,False
+Sucker Punch,24.0,False,2,False
+Blade Dance,24.0,False,2,False
+Poisoned Stab,24.0,False,2,False
+Cloak And Dagger,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Noxious Fumes,25.0,False,2,False
+Terror,25.0,False,2,False
+A Thousand Cuts,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Finisher,27.0,False,2,False
+Deflect,27.0,False,2,False
+Blur,27.0,False,2,False
+Dagger Spray,27.0,False,2,False
+SKIP,27.0,False,2,False
+PiercingWail,28.0,True,2,False
+Sucker Punch,28.0,False,2,False
+Slice,28.0,False,2,False
+Quick Slash,28.0,False,2,False
+SKIP,28.0,False,2,False
+Concentrate,29.0,True,2,False
+Bouncing Flask,29.0,False,2,False
+Deadly Poison,29.0,False,2,False
+Dagger Throw,29.0,False,2,False
+SKIP,29.0,False,2,False
+Reflex,29.0,True,2,False
+Bane,29.0,False,2,False
+Accuracy,29.0,False,2,False
+Dagger Throw,29.0,False,2,False
+SKIP,29.0,False,2,False
+Wraith Form,29.0,True,2,False
+Underhanded Strike,29.0,False,2,False
+Deadly Poison,29.0,False,2,False
+Deflect,29.0,False,2,False
+SKIP,29.0,False,2,False
+PiercingWail,29.0,True,2,False
+Die Die Die,29.0,False,2,False
+Poisoned Stab,29.0,False,2,False
+Catalyst,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,29.0,True,2,False
+Dodge and Roll,29.0,False,2,False
+Slice,29.0,False,2,False
+Endless Agony,29.0,False,2,False
+Flying Knee,29.0,False,2,False
+SKIP,29.0,False,2,False
+Night Terror,33.0,True,2,True
+Grand Finale,33.0,False,2,True
+Doppelganger,33.0,False,2,True
+Storm of Steel,33.0,False,2,True
+SKIP,33.0,False,2,True
+Reflex,35.0,True,3,False
+Crippling Poison,35.0,False,3,False
+Escape Plan,35.0,False,3,False
+Slice,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Cloak And Dagger,36.0,False,3,False
+Slice,36.0,False,3,False
+Concentrate,36.0,False,3,False
+Poisoned Stab,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Blade Dance,37.0,False,3,False
+Deadly Poison,37.0,False,3,False
+Underhanded Strike,37.0,False,3,False
+Eviscerate,37.0,False,3,False
+SKIP,37.0,False,3,False
+PiercingWail,39.0,True,3,False
+Grand Finale,39.0,False,3,False
+Underhanded Strike,39.0,False,3,False
+All Out Attack,39.0,False,3,False
+SKIP,39.0,False,3,False
+Bouncing Flask,40.0,True,3,False
+Infinite Blades,40.0,False,3,False
+Outmaneuver,40.0,False,3,False
+Dagger Throw,40.0,False,3,False
+SKIP,40.0,False,3,False
+PiercingWail,42.0,True,3,False
+Bane,42.0,False,3,False
+Footwork,42.0,False,3,False
+Prepared,42.0,False,3,False
+SKIP,42.0,False,3,False
+Leg Sweep,46.0,True,3,False
+Glass Knife,46.0,False,3,False
+Deflect,46.0,False,3,False
+Sucker Punch,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,48.0,True,3,False
+Endless Agony,48.0,False,3,False
+Dagger Spray,48.0,False,3,False
+Sucker Punch,48.0,False,3,False
+Underhanded Strike,48.0,False,3,False
+SKIP,48.0,False,3,False
+Acrobatics,55.0,True,4,False
+Escape Plan,55.0,False,4,False
+Expertise,55.0,False,4,False
+Riddle With Holes,55.0,False,4,False
+SKIP,55.0,False,4,False
+Choke,1.0,True,1,False
+Outmaneuver,1.0,False,1,False
+Cloak And Dagger,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Throw,3.0,True,1,False
+Footwork,3.0,False,1,False
+Deflect,3.0,False,1,False
+SKIP,3.0,False,1,False
+Noxious Fumes,4.0,True,1,False
+All Out Attack,4.0,False,1,False
+Eviscerate,4.0,False,1,False
+SKIP,4.0,False,1,False
+Blade Dance,5.0,True,1,False
+Sucker Punch,5.0,False,1,False
+Quick Slash,5.0,False,1,False
+SKIP,5.0,False,1,False
+Flying Knee,7.0,True,1,False
+Expertise,7.0,False,1,False
+Caltrops,7.0,False,1,False
+SKIP,7.0,False,1,False
+Wraith Form,10.0,True,1,False
+PiercingWail,10.0,False,1,False
+Terror,10.0,False,1,False
+SKIP,10.0,False,1,False
+Escape Plan,11.0,True,1,False
+Dodge and Roll,11.0,False,1,False
+Poisoned Stab,11.0,False,1,False
+SKIP,11.0,False,1,False
+Dagger Spray,12.0,True,1,False
+Quick Slash,12.0,False,1,False
+Sucker Punch,12.0,False,1,False
+SKIP,12.0,False,1,False
+Bullet Time,16.0,True,1,True
+Tools of the Trade,16.0,False,1,True
+Adrenaline,16.0,False,1,True
+SKIP,16.0,False,1,True
+Well Laid Plans,18.0,True,2,False
+Bouncing Flask,18.0,False,2,False
+Backstab,18.0,False,2,False
+SKIP,18.0,False,2,False
+Deflect,20.0,True,2,False
+Distraction,20.0,False,2,False
+Dagger Spray,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Quick Slash,21.0,False,2,False
+Slice,21.0,False,2,False
+Dodge and Roll,21.0,False,2,False
+SKIP,21.0,False,2,False
+Terror,22.0,True,2,False
+Prepared,22.0,False,2,False
+Escape Plan,22.0,False,2,False
+SKIP,22.0,False,2,False
+Acrobatics,23.0,True,2,False
+Crippling Poison,23.0,False,2,False
+Dagger Throw,23.0,False,2,False
+SKIP,23.0,False,2,False
+Adrenaline,25.0,True,2,False
+Grand Finale,25.0,False,2,False
+Acrobatics,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Prepared,27.0,False,2,False
+Dagger Spray,27.0,False,2,False
+Cloak And Dagger,27.0,False,2,False
+SKIP,27.0,False,2,False
+Bane,29.0,True,2,False
+Flying Knee,29.0,False,2,False
+Eviscerate,29.0,False,2,False
+SKIP,29.0,False,2,False
+Cloak And Dagger,30.0,True,2,False
+Die Die Die,30.0,False,2,False
+Deadly Poison,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Poisoned Stab,31.0,False,2,False
+Well Laid Plans,31.0,False,2,False
+Bouncing Flask,31.0,False,2,False
+SKIP,31.0,False,2,False
+Night Terror,33.0,True,2,True
+Alchemize,33.0,False,2,True
+Burst,33.0,False,2,True
+SKIP,33.0,False,2,True
+Acrobatics,35.0,True,3,False
+Blur,35.0,False,3,False
+Outmaneuver,35.0,False,3,False
+SKIP,35.0,False,3,False
+Predator,37.0,True,3,False
+Prepared,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Crippling Poison,38.0,False,3,False
+Slice,38.0,False,3,False
+Noxious Fumes,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Crippling Poison,38.0,False,3,False
+Slice,38.0,False,3,False
+Noxious Fumes,38.0,False,3,False
+SKIP,38.0,False,3,False
+Outmaneuver,39.0,True,3,False
+Deflect,39.0,False,3,False
+Leg Sweep,39.0,False,3,False
+SKIP,39.0,False,3,False
+Adrenaline,41.0,True,3,False
+Slice,41.0,False,3,False
+Heel Hook,41.0,False,3,False
+SKIP,41.0,False,3,False
+Well Laid Plans,44.0,True,3,False
+Dash,44.0,False,3,False
+Bouncing Flask,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Heel Hook,46.0,False,3,False
+Setup,46.0,False,3,False
+Underhanded Strike,46.0,False,3,False
+SKIP,46.0,False,3,False
+PiercingWail,48.0,True,3,False
+Bouncing Flask,48.0,False,3,False
+Dagger Spray,48.0,False,3,False
+SKIP,48.0,False,3,False
+Caltrops,55.0,True,4,False
+Dagger Throw,55.0,False,4,False
+Concentrate,55.0,False,4,False
+SKIP,55.0,False,4,False
+Blade Dance,1.0,True,1,False
+Bane,1.0,False,1,False
+Sucker Punch,1.0,False,1,False
+SKIP,1.0,False,1,False
+Noxious Fumes,2.0,True,1,False
+Infinite Blades,2.0,False,1,False
+Caltrops,2.0,False,1,False
+SKIP,2.0,False,1,False
+Tools of the Trade,3.0,True,1,False
+Footwork,3.0,False,1,False
+Riddle With Holes,3.0,False,1,False
+SKIP,3.0,False,1,False
+Crippling Poison,5.0,True,1,False
+PiercingWail,5.0,False,1,False
+Prepared,5.0,False,1,False
+SKIP,5.0,False,1,False
+Underhanded Strike,7.0,True,1,False
+Deadly Poison,7.0,False,1,False
+Catalyst,7.0,False,1,False
+SKIP,7.0,False,1,False
+Endless Agony,8.0,True,1,False
+Eviscerate,8.0,False,1,False
+Grand Finale,8.0,False,1,False
+SKIP,8.0,False,1,False
+Well Laid Plans,10.0,True,1,False
+Reflex,10.0,False,1,False
+Deflect,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Accuracy,11.0,False,1,False
+Sucker Punch,11.0,False,1,False
+Deadly Poison,11.0,False,1,False
+SKIP,11.0,False,1,False
+Doppelganger,13.0,True,1,False
+Expertise,13.0,False,1,False
+Cloak And Dagger,13.0,False,1,False
+SKIP,13.0,False,1,False
+Blade Dance,14.0,True,1,False
+Expertise,14.0,False,1,False
+Dodge and Roll,14.0,False,1,False
+SKIP,14.0,False,1,False
+A Thousand Cuts,16.0,True,1,True
+Glass Knife,16.0,False,1,True
+Grand Finale,16.0,False,1,True
+SKIP,16.0,False,1,True
+Slice,1.0,True,1,False
+Expertise,1.0,False,1,False
+Outmaneuver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Spray,2.0,True,1,False
+Choke,2.0,False,1,False
+Dagger Throw,2.0,False,1,False
+SKIP,2.0,False,1,False
+Dash,4.0,True,1,False
+Backflip,4.0,False,1,False
+Slice,4.0,False,1,False
+SKIP,4.0,False,1,False
+Backflip,7.0,True,1,False
+Flying Knee,7.0,False,1,False
+Eviscerate,7.0,False,1,False
+SKIP,7.0,False,1,False
+Dagger Throw,12.0,True,1,False
+Concentrate,12.0,False,1,False
+Accuracy,12.0,False,1,False
+SKIP,12.0,False,1,False
+Terror,13.0,True,1,False
+Deadly Poison,13.0,False,1,False
+After Image,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Sucker Punch,14.0,False,1,False
+Catalyst,14.0,False,1,False
+Poisoned Stab,14.0,False,1,False
+SKIP,14.0,False,1,False
+Corpse Explosion,16.0,True,1,True
+Burst,16.0,False,1,True
+Bullet Time,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Dagger Throw,18.0,False,2,False
+Bane,18.0,False,2,False
+Quick Slash,18.0,False,2,False
+SKIP,18.0,False,2,False
+Outmaneuver,20.0,True,2,False
+Dodge and Roll,20.0,False,2,False
+Distraction,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,22.0,True,2,False
+Concentrate,22.0,False,2,False
+Dodge and Roll,22.0,False,2,False
+Flying Knee,22.0,False,2,False
+SKIP,22.0,False,2,False
+Predator,23.0,True,2,False
+Flying Knee,23.0,False,2,False
+Dash,23.0,False,2,False
+SKIP,23.0,False,2,False
+PiercingWail,27.0,True,2,False
+Underhanded Strike,27.0,False,2,False
+All Out Attack,27.0,False,2,False
+SKIP,27.0,False,2,False
+Eviscerate,29.0,True,2,False
+Prepared,29.0,False,2,False
+Underhanded Strike,29.0,False,2,False
+SKIP,29.0,False,2,False
+Night Terror,33.0,True,2,True
+A Thousand Cuts,33.0,False,2,True
+Tools of the Trade,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Sucker Punch,35.0,False,3,False
+Dodge and Roll,35.0,False,3,False
+Dash,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+All Out Attack,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+Concentrate,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+All Out Attack,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+Concentrate,37.0,False,3,False
+SKIP,37.0,False,3,False
+PiercingWail,38.0,True,3,False
+Quick Slash,38.0,False,3,False
+Dagger Throw,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Poisoned Stab,39.0,False,3,False
+Riddle With Holes,39.0,False,3,False
+Bane,39.0,False,3,False
+SKIP,39.0,False,3,False
+Tools of the Trade,41.0,True,3,False
+Outmaneuver,41.0,False,3,False
+Underhanded Strike,41.0,False,3,False
+SKIP,41.0,False,3,False
+Backflip,42.0,True,3,False
+Endless Agony,42.0,False,3,False
+Caltrops,42.0,False,3,False
+SKIP,42.0,False,3,False
+Envenom,45.0,True,3,False
+Deadly Poison,45.0,False,3,False
+Flying Knee,45.0,False,3,False
+SKIP,45.0,False,3,False
+Acrobatics,46.0,True,3,False
+Heel Hook,46.0,False,3,False
+Dagger Spray,46.0,False,3,False
+SKIP,46.0,False,3,False
+Acrobatics,46.0,True,3,False
+Dagger Throw,46.0,False,3,False
+Underhanded Strike,46.0,False,3,False
+SKIP,46.0,False,3,False
+Backflip,46.0,True,3,False
+Bullet Time,46.0,False,3,False
+Setup,46.0,False,3,False
+SKIP,46.0,False,3,False
+Reflex,46.0,True,3,False
+Cloak And Dagger,46.0,False,3,False
+Escape Plan,46.0,False,3,False
+SKIP,46.0,False,3,False
+Tactician,46.0,True,3,False
+Dagger Spray,46.0,False,3,False
+Setup,46.0,False,3,False
+SKIP,46.0,False,3,False
+Predator,48.0,True,3,False
+Cloak And Dagger,48.0,False,3,False
+Sucker Punch,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Masterful Stab,55.0,False,4,False
+Terror,55.0,False,4,False
+Dagger Spray,55.0,False,4,False
+SKIP,55.0,False,4,False
+Underhanded Strike,1.0,True,1,False
+Acrobatics,1.0,False,1,False
+PiercingWail,1.0,False,1,False
+SKIP,1.0,False,1,False
+Noxious Fumes,3.0,True,1,False
+Flechettes,3.0,False,1,False
+Underhanded Strike,3.0,False,1,False
+SKIP,3.0,False,1,False
+Bane,5.0,True,1,False
+Quick Slash,5.0,False,1,False
+Choke,5.0,False,1,False
+SKIP,5.0,False,1,False
+Calculated Gamble,6.0,True,1,False
+Dodge and Roll,6.0,False,1,False
+Finisher,6.0,False,1,False
+SKIP,6.0,False,1,False
+Predator,8.0,True,1,False
+Bouncing Flask,8.0,False,1,False
+Catalyst,8.0,False,1,False
+SKIP,8.0,False,1,False
+Acrobatics,10.0,True,1,False
+Escape Plan,10.0,False,1,False
+PiercingWail,10.0,False,1,False
+SKIP,10.0,False,1,False
+Wraith Form,11.0,True,1,False
+Quick Slash,11.0,False,1,False
+Terror,11.0,False,1,False
+SKIP,11.0,False,1,False
+Blade Dance,14.0,True,1,False
+Flying Knee,14.0,False,1,False
+Skewer,14.0,False,1,False
+SKIP,14.0,False,1,False
+Wraith Form,16.0,True,1,True
+Unload,16.0,False,1,True
+Envenom,16.0,False,1,True
+SKIP,16.0,False,1,True
+Setup,18.0,True,2,False
+Cloak And Dagger,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Reflex,19.0,True,2,False
+Well Laid Plans,19.0,False,2,False
+Underhanded Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Poisoned Stab,23.0,True,2,False
+Accuracy,23.0,False,2,False
+Expertise,23.0,False,2,False
+SKIP,23.0,False,2,False
+Prepared,25.0,True,2,False
+Skewer,25.0,False,2,False
+Dash,25.0,False,2,False
+SKIP,25.0,False,2,False
+Deflect,29.0,True,2,False
+Outmaneuver,29.0,False,2,False
+Finisher,29.0,False,2,False
+SKIP,29.0,False,2,False
+Tactician,30.0,True,2,False
+Noxious Fumes,30.0,False,2,False
+Predator,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Riddle With Holes,31.0,False,2,False
+Slice,31.0,False,2,False
+Blade Dance,31.0,False,2,False
+SKIP,31.0,False,2,False
+Burst,33.0,True,2,True
+Bullet Time,33.0,False,2,True
+Phantasmal Killer,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Escape Plan,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+Prepared,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Escape Plan,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+Prepared,35.0,False,3,False
+SKIP,35.0,False,3,False
+Blur,37.0,True,3,False
+Backstab,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+SKIP,37.0,False,3,False
+Catalyst,39.0,True,3,False
+Well Laid Plans,39.0,False,3,False
+Crippling Poison,39.0,False,3,False
+SKIP,39.0,False,3,False
+PiercingWail,40.0,True,3,False
+Noxious Fumes,40.0,False,3,False
+Concentrate,40.0,False,3,False
+SKIP,40.0,False,3,False
+Crippling Poison,42.0,True,3,False
+Terror,42.0,False,3,False
+Prepared,42.0,False,3,False
+SKIP,42.0,False,3,False
+Wraith Form,44.0,True,3,False
+Skewer,44.0,False,3,False
+Acrobatics,44.0,False,3,False
+SKIP,44.0,False,3,False
+Acrobatics,45.0,True,3,False
+Riddle With Holes,45.0,False,3,False
+Prepared,45.0,False,3,False
+SKIP,45.0,False,3,False
+Cloak And Dagger,47.0,True,3,False
+Bane,47.0,False,3,False
+Eviscerate,47.0,False,3,False
+SKIP,47.0,False,3,False
+Prepared,48.0,True,3,False
+Cloak And Dagger,48.0,False,3,False
+Deflect,48.0,False,3,False
+SKIP,48.0,False,3,False
+Crippling Poison,55.0,True,4,False
+Quick Slash,55.0,False,4,False
+Reflex,55.0,False,4,False
+SKIP,55.0,False,4,False
+Dagger Spray,1.0,True,1,False
+Skewer,1.0,False,1,False
+Acrobatics,1.0,False,1,False
+SKIP,1.0,False,1,False
+PiercingWail,3.0,True,1,False
+Flechettes,3.0,False,1,False
+Bane,3.0,False,1,False
+SKIP,3.0,False,1,False
+Eviscerate,4.0,True,1,False
+Blade Dance,4.0,False,1,False
+Acrobatics,4.0,False,1,False
+SKIP,4.0,False,1,False
+Die Die Die,5.0,True,1,False
+Cloak And Dagger,5.0,False,1,False
+Blur,5.0,False,1,False
+SKIP,5.0,False,1,False
+Singing Bowl,7.0,True,1,False
+Caltrops,7.0,False,1,False
+Sucker Punch,7.0,False,1,False
+Poisoned Stab,7.0,False,1,False
+Singing Bowl,7.0,False,1,False
+Acrobatics,11.0,True,1,False
+Dagger Spray,11.0,False,1,False
+Envenom,11.0,False,1,False
+Singing Bowl,11.0,False,1,False
+Well Laid Plans,13.0,True,1,False
+Blade Dance,13.0,False,1,False
+PiercingWail,13.0,False,1,False
+Singing Bowl,13.0,False,1,False
+Malaise,16.0,True,1,True
+Die Die Die,16.0,False,1,True
+Tools of the Trade,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Leg Sweep,18.0,True,2,False
+Noxious Fumes,18.0,False,2,False
+Dodge and Roll,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Deflect,22.0,True,2,False
+Dash,22.0,False,2,False
+Outmaneuver,22.0,False,2,False
+Singing Bowl,22.0,False,2,False
+Deflect,23.0,True,2,False
+Quick Slash,23.0,False,2,False
+Bane,23.0,False,2,False
+Singing Bowl,23.0,False,2,False
+Corpse Explosion,27.0,True,2,False
+Deflect,27.0,False,2,False
+Cloak And Dagger,27.0,False,2,False
+Singing Bowl,27.0,False,2,False
+PiercingWail,28.0,True,2,False
+Skewer,28.0,False,2,False
+Endless Agony,28.0,False,2,False
+Singing Bowl,28.0,False,2,False
+Flying Knee,1.0,True,1,False
+Escape Plan,1.0,False,1,False
+Footwork,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Spray,2.0,True,1,False
+Sucker Punch,2.0,False,1,False
+Deflect,2.0,False,1,False
+SKIP,2.0,False,1,False
+Poisoned Stab,3.0,True,1,False
+Prepared,3.0,False,1,False
+Tactician,3.0,False,1,False
+SKIP,3.0,False,1,False
+Footwork,5.0,True,1,False
+Outmaneuver,5.0,False,1,False
+Choke,5.0,False,1,False
+SKIP,5.0,False,1,False
+Corpse Explosion,7.0,True,1,False
+Blade Dance,7.0,False,1,False
+Backflip,7.0,False,1,False
+SKIP,7.0,False,1,False
+Blade Dance,8.0,True,1,False
+Quick Slash,8.0,False,1,False
+Endless Agony,8.0,False,1,False
+SKIP,8.0,False,1,False
+Blade Dance,11.0,True,1,False
+Infinite Blades,11.0,False,1,False
+Escape Plan,11.0,False,1,False
+SKIP,11.0,False,1,False
+Escape Plan,12.0,True,1,False
+All Out Attack,12.0,False,1,False
+Bane,12.0,False,1,False
+SKIP,12.0,False,1,False
+Dash,13.0,True,1,False
+Flechettes,13.0,False,1,False
+Deadly Poison,13.0,False,1,False
+SKIP,13.0,False,1,False
+Deflect,14.0,True,1,False
+Blade Dance,14.0,False,1,False
+Predator,14.0,False,1,False
+SKIP,14.0,False,1,False
+Phantasmal Killer,16.0,True,1,True
+Night Terror,16.0,False,1,True
+Grand Finale,16.0,False,1,True
+SKIP,16.0,False,1,True
+Deflect,18.0,True,2,False
+Outmaneuver,18.0,False,2,False
+Finisher,18.0,False,2,False
+SKIP,18.0,False,2,False
+Dagger Spray,22.0,True,2,False
+Finisher,22.0,False,2,False
+Deflect,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Poisoned Stab,23.0,False,2,False
+Dodge and Roll,23.0,False,2,False
+Infinite Blades,23.0,False,2,False
+SKIP,23.0,False,2,False
+PiercingWail,27.0,True,2,False
+Blade Dance,27.0,False,2,False
+Deadly Poison,27.0,False,2,False
+SKIP,27.0,False,2,False
+After Image,28.0,True,2,False
+Noxious Fumes,28.0,False,2,False
+Dash,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Setup,29.0,False,2,False
+All Out Attack,29.0,False,2,False
+Deadly Poison,29.0,False,2,False
+SKIP,29.0,False,2,False
+Backflip,30.0,True,2,False
+Crippling Poison,30.0,False,2,False
+Dagger Spray,30.0,False,2,False
+SKIP,30.0,False,2,False
+Predator,1.0,True,1,False
+Dagger Throw,1.0,False,1,False
+Expertise,1.0,False,1,False
+SKIP,1.0,False,1,False
+Slice,2.0,True,1,False
+Deflect,2.0,False,1,False
+Finisher,2.0,False,1,False
+SKIP,2.0,False,1,False
+PiercingWail,3.0,True,1,False
+Cloak And Dagger,3.0,False,1,False
+Dash,3.0,False,1,False
+SKIP,3.0,False,1,False
+Underhanded Strike,4.0,True,1,False
+Predator,4.0,False,1,False
+Blade Dance,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,5.0,True,1,False
+Night Terror,5.0,False,1,False
+Quick Slash,5.0,False,1,False
+Slice,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,5.0,True,1,False
+Night Terror,5.0,False,1,False
+Quick Slash,5.0,False,1,False
+Slice,5.0,False,1,False
+SKIP,5.0,False,1,False
+Setup,7.0,True,1,False
+Underhanded Strike,7.0,False,1,False
+Blade Dance,7.0,False,1,False
+SKIP,7.0,False,1,False
+Terror,12.0,True,1,False
+Eviscerate,12.0,False,1,False
+Outmaneuver,12.0,False,1,False
+SKIP,12.0,False,1,False
+Wraith Form,16.0,True,1,True
+Unload,16.0,False,1,True
+Bullet Time,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Riddle With Holes,18.0,False,2,False
+Blade Dance,18.0,False,2,False
+Catalyst,18.0,False,2,False
+SKIP,18.0,False,2,False
+Tactician,20.0,True,2,False
+Bouncing Flask,20.0,False,2,False
+Flying Knee,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,22.0,True,2,False
+Well Laid Plans,22.0,False,2,False
+Infinite Blades,22.0,False,2,False
+Concentrate,22.0,False,2,False
+SKIP,22.0,False,2,False
+Prepared,24.0,True,2,False
+Predator,24.0,False,2,False
+Dodge and Roll,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Underhanded Strike,25.0,False,2,False
+Deflect,25.0,False,2,False
+Slice,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Poisoned Stab,27.0,False,2,False
+Concentrate,27.0,False,2,False
+Infinite Blades,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Bane,28.0,False,2,False
+Sucker Punch,28.0,False,2,False
+Caltrops,28.0,False,2,False
+SKIP,28.0,False,2,False
+Reflex,29.0,True,2,False
+Tools of the Trade,29.0,False,2,False
+Slice,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Endless Agony,30.0,False,2,False
+Dagger Spray,30.0,False,2,False
+Cloak And Dagger,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Flying Knee,31.0,False,2,False
+Poisoned Stab,31.0,False,2,False
+Heel Hook,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,31.0,True,2,False
+Flying Knee,31.0,False,2,False
+Poisoned Stab,31.0,False,2,False
+Heel Hook,31.0,False,2,False
+SKIP,31.0,False,2,False
+Wraith Form,33.0,True,2,True
+Grand Finale,33.0,False,2,True
+Bullet Time,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Heel Hook,35.0,False,3,False
+Dagger Spray,35.0,False,3,False
+Endless Agony,35.0,False,3,False
+SKIP,35.0,False,3,False
+Dark Shackles,36.0,True,3,False
+Dramatic Entrance,36.0,False,3,False
+Secret Weapon,36.0,False,3,False
+SKIP,36.0,False,3,False
+Panacea,36.0,True,3,False
+Good Instincts,36.0,False,3,False
+Blind,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Chrysalis,36.0,False,3,False
+Madness,36.0,False,3,False
+Magnetism,36.0,False,3,False
+SKIP,36.0,False,3,False
+PiercingWail,38.0,True,3,False
+Underhanded Strike,38.0,False,3,False
+Flying Knee,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dagger Throw,39.0,True,3,False
+Catalyst,39.0,False,3,False
+Cloak And Dagger,39.0,False,3,False
+SKIP,39.0,False,3,False
+Calculated Gamble,40.0,True,3,False
+Dagger Spray,40.0,False,3,False
+Underhanded Strike,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,44.0,True,3,False
+Reflex,44.0,False,3,False
+All Out Attack,44.0,False,3,False
+Sucker Punch,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Infinite Blades,45.0,False,3,False
+Dagger Throw,45.0,False,3,False
+Outmaneuver,45.0,False,3,False
+SKIP,45.0,False,3,False
+Corpse Explosion,47.0,True,3,False
+Blade Dance,47.0,False,3,False
+Catalyst,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Flechettes,48.0,False,3,False
+Blade Dance,48.0,False,3,False
+Flying Knee,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Crippling Poison,55.0,False,4,False
+Deadly Poison,55.0,False,4,False
+Cloak And Dagger,55.0,False,4,False
+SKIP,55.0,False,4,False
+Well Laid Plans,1.0,True,1,False
+Acrobatics,1.0,False,1,False
+PiercingWail,1.0,False,1,False
+SKIP,1.0,False,1,False
+PiercingWail,2.0,True,1,False
+Escape Plan,2.0,False,1,False
+Prepared,2.0,False,1,False
+SKIP,2.0,False,1,False
+Backstab,3.0,True,1,False
+Quick Slash,3.0,False,1,False
+Blade Dance,3.0,False,1,False
+SKIP,3.0,False,1,False
+Flying Knee,5.0,True,1,False
+Sucker Punch,5.0,False,1,False
+Deadly Poison,5.0,False,1,False
+SKIP,5.0,False,1,False
+Dagger Spray,6.0,True,1,False
+Doppelganger,6.0,False,1,False
+Escape Plan,6.0,False,1,False
+SKIP,6.0,False,1,False
+Slice,11.0,True,1,False
+Deflect,11.0,False,1,False
+Blur,11.0,False,1,False
+SKIP,11.0,False,1,False
+Skewer,12.0,True,1,False
+Backstab,12.0,False,1,False
+Setup,12.0,False,1,False
+SKIP,12.0,False,1,False
+PiercingWail,13.0,True,1,False
+Underhanded Strike,13.0,False,1,False
+Cloak And Dagger,13.0,False,1,False
+SKIP,13.0,False,1,False
+Glass Knife,16.0,True,1,True
+Night Terror,16.0,False,1,True
+Die Die Die,16.0,False,1,True
+SKIP,16.0,False,1,True
+Acrobatics,18.0,True,2,False
+Noxious Fumes,18.0,False,2,False
+PiercingWail,18.0,False,2,False
+SKIP,18.0,False,2,False
+Dagger Throw,19.0,True,2,False
+Deadly Poison,19.0,False,2,False
+Bane,19.0,False,2,False
+SKIP,19.0,False,2,False
+Prepared,20.0,True,2,False
+Masterful Stab,20.0,False,2,False
+Cloak And Dagger,20.0,False,2,False
+SKIP,20.0,False,2,False
+Tactician,22.0,True,2,False
+After Image,22.0,False,2,False
+Dagger Throw,22.0,False,2,False
+SKIP,22.0,False,2,False
+Backflip,27.0,True,2,False
+Infinite Blades,27.0,False,2,False
+Slice,27.0,False,2,False
+Prepared,27.0,False,2,False
+SKIP,27.0,False,2,False
+Backflip,29.0,True,2,False
+Bane,29.0,False,2,False
+Prepared,29.0,False,2,False
+Poisoned Stab,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Underhanded Strike,30.0,False,2,False
+Storm of Steel,30.0,False,2,False
+Deadly Poison,30.0,False,2,False
+Flying Knee,30.0,False,2,False
+SKIP,30.0,False,2,False
+Burst,33.0,True,2,True
+Die Die Die,33.0,False,2,True
+Corpse Explosion,33.0,False,2,True
+Grand Finale,33.0,False,2,True
+SKIP,33.0,False,2,True
+Eviscerate,35.0,True,3,False
+Deadly Poison,35.0,False,3,False
+Blade Dance,35.0,False,3,False
+Choke,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+All Out Attack,36.0,False,3,False
+Distraction,36.0,False,3,False
+Cloak And Dagger,36.0,False,3,False
+Bouncing Flask,36.0,False,3,False
+SKIP,36.0,False,3,False
+Master of Strategy,37.0,True,3,False
+Flash of Steel,37.0,False,3,False
+Panache,37.0,False,3,False
+The Bomb,37.0,False,3,False
+SKIP,37.0,False,3,False
+Purity,37.0,True,3,False
+Discovery,37.0,False,3,False
+Thinking Ahead,37.0,False,3,False
+PanicButton,37.0,False,3,False
+SKIP,37.0,False,3,False
+Madness,37.0,True,3,False
+Panache,37.0,False,3,False
+Forethought,37.0,False,3,False
+Impatience,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,40.0,True,3,False
+Dagger Throw,40.0,False,3,False
+All Out Attack,40.0,False,3,False
+Bane,40.0,False,3,False
+PiercingWail,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Dagger Throw,40.0,False,3,False
+All Out Attack,40.0,False,3,False
+Bane,40.0,False,3,False
+PiercingWail,40.0,False,3,False
+SKIP,40.0,False,3,False
+Backflip,42.0,True,3,False
+Blur,42.0,False,3,False
+Bouncing Flask,42.0,False,3,False
+Crippling Poison,42.0,False,3,False
+SKIP,42.0,False,3,False
+Reflex,44.0,True,3,False
+Underhanded Strike,44.0,False,3,False
+Sucker Punch,44.0,False,3,False
+Poisoned Stab,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Outmaneuver,45.0,False,3,False
+Poisoned Stab,45.0,False,3,False
+Wraith Form,45.0,False,3,False
+Bane,45.0,False,3,False
+SKIP,45.0,False,3,False
+Wraith Form,45.0,True,3,False
+Outmaneuver,45.0,False,3,False
+Poisoned Stab,45.0,False,3,False
+Bane,45.0,False,3,False
+SKIP,45.0,False,3,False
+Backflip,47.0,True,3,False
+Flying Knee,47.0,False,3,False
+Prepared,47.0,False,3,False
+PiercingWail,47.0,False,3,False
+SKIP,47.0,False,3,False
+Acrobatics,55.0,True,4,False
+Expertise,55.0,False,4,False
+Glass Knife,55.0,False,4,False
+Distraction,55.0,False,4,False
+SKIP,55.0,False,4,False
+Calculated Gamble,1.0,True,1,False
+Reflex,1.0,False,1,False
+Deflect,1.0,False,1,False
+SKIP,1.0,False,1,False
+Crippling Poison,3.0,True,1,False
+Calculated Gamble,3.0,False,1,False
+Dagger Throw,3.0,False,1,False
+SKIP,3.0,False,1,False
+Calculated Gamble,4.0,True,1,False
+Prepared,4.0,False,1,False
+Choke,4.0,False,1,False
+SKIP,4.0,False,1,False
+Acrobatics,7.0,True,1,False
+Choke,7.0,False,1,False
+Prepared,7.0,False,1,False
+SKIP,7.0,False,1,False
+Reflex,8.0,True,1,False
+Riddle With Holes,8.0,False,1,False
+Slice,8.0,False,1,False
+SKIP,8.0,False,1,False
+Glass Knife,10.0,True,1,False
+Cloak And Dagger,10.0,False,1,False
+Choke,10.0,False,1,False
+SKIP,10.0,False,1,False
+PiercingWail,11.0,True,1,False
+Dagger Spray,11.0,False,1,False
+Deadly Poison,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,12.0,True,1,False
+Choke,12.0,False,1,False
+Blur,12.0,False,1,False
+Dodge and Roll,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,14.0,True,1,False
+Flechettes,14.0,False,1,False
+Bane,14.0,False,1,False
+Deadly Poison,14.0,False,1,False
+SKIP,14.0,False,1,False
+Burst,16.0,True,1,True
+Envenom,16.0,False,1,True
+Night Terror,16.0,False,1,True
+SKIP,16.0,False,1,True
+Prepared,18.0,True,2,False
+Calculated Gamble,18.0,False,2,False
+Underhanded Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+PiercingWail,20.0,True,2,False
+Sucker Punch,20.0,False,2,False
+Deadly Poison,20.0,False,2,False
+SKIP,20.0,False,2,False
+Underhanded Strike,23.0,True,2,False
+Dagger Spray,23.0,False,2,False
+Prepared,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,25.0,True,2,False
+Noxious Fumes,25.0,False,2,False
+Eviscerate,25.0,False,2,False
+Riddle With Holes,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Flying Knee,27.0,False,2,False
+Dodge and Roll,27.0,False,2,False
+Prepared,27.0,False,2,False
+SKIP,27.0,False,2,False
+Well Laid Plans,28.0,True,2,False
+Wraith Form,28.0,False,2,False
+Outmaneuver,28.0,False,2,False
+SKIP,28.0,False,2,False
+PiercingWail,30.0,True,2,False
+Endless Agony,30.0,False,2,False
+Infinite Blades,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Blade Dance,31.0,False,2,False
+Bane,31.0,False,2,False
+Leg Sweep,31.0,False,2,False
+SKIP,31.0,False,2,False
+Grand Finale,33.0,True,2,True
+Phantasmal Killer,33.0,False,2,True
+Corpse Explosion,33.0,False,2,True
+SKIP,33.0,False,2,True
+Prepared,35.0,True,3,False
+Cloak And Dagger,35.0,False,3,False
+Deadly Poison,35.0,False,3,False
+SKIP,35.0,False,3,False
+Backflip,37.0,True,3,False
+Crippling Poison,37.0,False,3,False
+Caltrops,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,40.0,True,3,False
+Underhanded Strike,40.0,False,3,False
+Deflect,40.0,False,3,False
+Slice,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,41.0,True,3,False
+Noxious Fumes,41.0,False,3,False
+Prepared,41.0,False,3,False
+Leg Sweep,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,44.0,True,3,False
+Riddle With Holes,44.0,False,3,False
+Predator,44.0,False,3,False
+Dodge and Roll,44.0,False,3,False
+SKIP,44.0,False,3,False
+Backflip,46.0,True,3,False
+Finisher,46.0,False,3,False
+Dodge and Roll,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Outmaneuver,47.0,False,3,False
+Deadly Poison,47.0,False,3,False
+Backstab,47.0,False,3,False
+SKIP,47.0,False,3,False
+Adrenaline,48.0,True,3,False
+Sucker Punch,48.0,False,3,False
+Riddle With Holes,48.0,False,3,False
+SKIP,48.0,False,3,False
+Terror,55.0,True,4,False
+Poisoned Stab,55.0,False,4,False
+Bouncing Flask,55.0,False,4,False
+SKIP,55.0,False,4,False
+Slice,1.0,True,1,False
+Bane,1.0,False,1,False
+Escape Plan,1.0,False,1,False
+SKIP,1.0,False,1,False
+Deadly Poison,4.0,True,1,False
+Dodge and Roll,4.0,False,1,False
+Slice,4.0,False,1,False
+SKIP,4.0,False,1,False
+Backstab,7.0,True,1,False
+Expertise,7.0,False,1,False
+Dagger Spray,7.0,False,1,False
+SKIP,7.0,False,1,False
+Phantasmal Killer,8.0,True,1,False
+Bane,8.0,False,1,False
+Skewer,8.0,False,1,False
+SKIP,8.0,False,1,False
+Well Laid Plans,10.0,True,1,False
+Blur,10.0,False,1,False
+Finisher,10.0,False,1,False
+SKIP,10.0,False,1,False
+Blade Dance,12.0,True,1,False
+Finisher,12.0,False,1,False
+Bane,12.0,False,1,False
+SKIP,12.0,False,1,False
+PiercingWail,13.0,True,1,False
+Setup,13.0,False,1,False
+Prepared,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Grand Finale,14.0,False,1,False
+Escape Plan,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+SKIP,14.0,True,1,False
+Grand Finale,14.0,False,1,False
+Escape Plan,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+Escape Plan,14.0,True,1,False
+Grand Finale,14.0,False,1,False
+Cloak And Dagger,14.0,False,1,False
+SKIP,14.0,False,1,False
+Die Die Die,16.0,True,1,True
+Phantasmal Killer,16.0,False,1,True
+Bullet Time,16.0,False,1,True
+SKIP,16.0,False,1,True
+Leg Sweep,18.0,True,2,False
+Dagger Throw,18.0,False,2,False
+Deflect,18.0,False,2,False
+SKIP,18.0,False,2,False
+Bouncing Flask,19.0,True,2,False
+Well Laid Plans,19.0,False,2,False
+Quick Slash,19.0,False,2,False
+SKIP,19.0,False,2,False
+Dash,24.0,True,2,False
+Blur,24.0,False,2,False
+Leg Sweep,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Quick Slash,27.0,False,2,False
+Deadly Poison,27.0,False,2,False
+Riddle With Holes,27.0,False,2,False
+Infinite Blades,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,27.0,True,2,False
+Quick Slash,27.0,False,2,False
+Deadly Poison,27.0,False,2,False
+Riddle With Holes,27.0,False,2,False
+Infinite Blades,27.0,False,2,False
+SKIP,27.0,False,2,False
+Endless Agony,28.0,True,2,False
+Accuracy,28.0,False,2,False
+Cloak And Dagger,28.0,False,2,False
+Leg Sweep,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Prepared,29.0,False,2,False
+Noxious Fumes,29.0,False,2,False
+Tactician,29.0,False,2,False
+Cloak And Dagger,29.0,False,2,False
+SKIP,29.0,False,2,False
+Calculated Gamble,30.0,True,2,False
+Endless Agony,30.0,False,2,False
+Tools of the Trade,30.0,False,2,False
+Flechettes,30.0,False,2,False
+SKIP,30.0,False,2,False
+Terror,31.0,True,2,False
+Acrobatics,31.0,False,2,False
+Leg Sweep,31.0,False,2,False
+Concentrate,31.0,False,2,False
+SKIP,31.0,False,2,False
+Night Terror,33.0,True,2,True
+Corpse Explosion,33.0,False,2,True
+Adrenaline,33.0,False,2,True
+Unload,33.0,False,2,True
+SKIP,33.0,False,2,True
+PiercingWail,35.0,True,3,False
+Footwork,35.0,False,3,False
+Outmaneuver,35.0,False,3,False
+Expertise,35.0,False,3,False
+SKIP,35.0,False,3,False
+Outmaneuver,37.0,True,3,False
+Quick Slash,37.0,False,3,False
+Sucker Punch,37.0,False,3,False
+Deflect,37.0,False,3,False
+SKIP,37.0,False,3,False
+Burst,38.0,True,3,False
+Dash,38.0,False,3,False
+Poisoned Stab,38.0,False,3,False
+Masterful Stab,38.0,False,3,False
+SKIP,38.0,False,3,False
+Acrobatics,39.0,True,3,False
+Grand Finale,39.0,False,3,False
+Caltrops,39.0,False,3,False
+Dodge and Roll,39.0,False,3,False
+SKIP,39.0,False,3,False
+Backflip,39.0,True,3,False
+Blur,39.0,False,3,False
+Leg Sweep,39.0,False,3,False
+Caltrops,39.0,False,3,False
+SKIP,39.0,False,3,False
+Well Laid Plans,39.0,True,3,False
+Dodge and Roll,39.0,False,3,False
+Escape Plan,39.0,False,3,False
+Finisher,39.0,False,3,False
+SKIP,39.0,False,3,False
+Blade Dance,39.0,True,3,False
+Dagger Spray,39.0,False,3,False
+Phantasmal Killer,39.0,False,3,False
+Slice,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,39.0,True,3,False
+Leg Sweep,39.0,False,3,False
+Slice,39.0,False,3,False
+Poisoned Stab,39.0,False,3,False
+Dodge and Roll,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Dodge and Roll,41.0,False,3,False
+Dagger Throw,41.0,False,3,False
+Blur,41.0,False,3,False
+Eviscerate,41.0,False,3,False
+SKIP,41.0,False,3,False
+Acrobatics,44.0,True,3,False
+Skewer,44.0,False,3,False
+Bouncing Flask,44.0,False,3,False
+Footwork,44.0,False,3,False
+SKIP,44.0,False,3,False
+Sucker Punch,45.0,True,3,False
+Flying Knee,45.0,False,3,False
+Slice,45.0,False,3,False
+Deadly Poison,45.0,False,3,False
+SKIP,45.0,False,3,False
+Deflect,46.0,True,3,False
+Flying Knee,46.0,False,3,False
+Terror,46.0,False,3,False
+Endless Agony,46.0,False,3,False
+SKIP,46.0,False,3,False
+Wraith Form,47.0,True,3,False
+Sucker Punch,47.0,False,3,False
+Outmaneuver,47.0,False,3,False
+Bane,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Endless Agony,48.0,False,3,False
+Dodge and Roll,48.0,False,3,False
+Deflect,48.0,False,3,False
+Dagger Spray,48.0,False,3,False
+SKIP,48.0,False,3,False
+Adrenaline,55.0,True,4,False
+Setup,55.0,False,4,False
+Flechettes,55.0,False,4,False
+Tactician,55.0,False,4,False
+SKIP,55.0,False,4,False
+Blade Dance,1.0,True,1,False
+Poisoned Stab,1.0,False,1,False
+Deflect,1.0,False,1,False
+SKIP,1.0,False,1,False
+Dagger Throw,3.0,True,1,False
+Heel Hook,3.0,False,1,False
+Poisoned Stab,3.0,False,1,False
+SKIP,3.0,False,1,False
+Phantasmal Killer,4.0,True,1,False
+Catalyst,4.0,False,1,False
+Blur,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,7.0,True,1,False
+Setup,7.0,False,1,False
+Prepared,7.0,False,1,False
+Blur,7.0,False,1,False
+SKIP,7.0,False,1,False
+Alchemize,8.0,True,1,False
+Finisher,8.0,False,1,False
+Poisoned Stab,8.0,False,1,False
+SKIP,8.0,False,1,False
+Leg Sweep,11.0,True,1,False
+Distraction,11.0,False,1,False
+Outmaneuver,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,13.0,True,1,False
+Outmaneuver,13.0,False,1,False
+Finisher,13.0,False,1,False
+Setup,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,13.0,True,1,False
+Outmaneuver,13.0,False,1,False
+Finisher,13.0,False,1,False
+Setup,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Reflex,14.0,False,1,False
+Quick Slash,14.0,False,1,False
+Infinite Blades,14.0,False,1,False
+SKIP,14.0,False,1,False
+Malaise,16.0,True,1,True
+Phantasmal Killer,16.0,False,1,True
+Burst,16.0,False,1,True
+SKIP,16.0,False,1,True
+PiercingWail,18.0,True,2,False
+Dodge and Roll,18.0,False,2,False
+Backstab,18.0,False,2,False
+SKIP,18.0,False,2,False
+PiercingWail,22.0,True,2,False
+Caltrops,22.0,False,2,False
+Deadly Poison,22.0,False,2,False
+SKIP,22.0,False,2,False
+Acrobatics,24.0,True,2,False
+Backstab,24.0,False,2,False
+Prepared,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Dodge and Roll,27.0,False,2,False
+Sucker Punch,27.0,False,2,False
+Dagger Throw,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Concentrate,28.0,False,2,False
+Choke,28.0,False,2,False
+Setup,28.0,False,2,False
+SKIP,28.0,False,2,False
+Concentrate,29.0,True,2,False
+Dagger Spray,29.0,False,2,False
+Choke,29.0,False,2,False
+SKIP,29.0,False,2,False
+Adrenaline,31.0,True,2,False
+Backflip,31.0,False,2,False
+Underhanded Strike,31.0,False,2,False
+SKIP,31.0,False,2,False
+Corpse Explosion,33.0,True,2,True
+Alchemize,33.0,False,2,True
+Phantasmal Killer,33.0,False,2,True
+SKIP,33.0,False,2,True
+Calculated Gamble,35.0,True,3,False
+Dagger Spray,35.0,False,3,False
+Leg Sweep,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Masterful Stab,36.0,False,3,False
+Quick Slash,36.0,False,3,False
+Sucker Punch,36.0,False,3,False
+SKIP,36.0,False,3,False
+Bane,38.0,True,3,False
+Accuracy,38.0,False,3,False
+Deadly Poison,38.0,False,3,False
+SKIP,38.0,False,3,False
+Night Terror,41.0,True,3,False
+Deadly Poison,41.0,False,3,False
+Bane,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,45.0,True,3,False
+Flying Knee,45.0,False,3,False
+Dagger Throw,45.0,False,3,False
+Heel Hook,45.0,False,3,False
+SKIP,45.0,False,3,False
+Terror,47.0,True,3,False
+Catalyst,47.0,False,3,False
+Infinite Blades,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Bane,48.0,False,3,False
+Quick Slash,48.0,False,3,False
+Setup,48.0,False,3,False
+SKIP,48.0,False,3,False
