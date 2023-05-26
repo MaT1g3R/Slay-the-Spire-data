@@ -14,6 +14,7 @@ Otherwise, you can use the code provided to generate similar reports on your own
 - [Lose all gold for max HP sample](./results/lose-all-gold-max-hp-sample)
 - [50 games of Bad Silent](./results/bad-silent)
 - [panacea108](https://www.twitch.tv/panacea108) [Ironclad Sample](./results/panacea-ironclad-sample)
+- [Robit (50 Defect runs)](./results/robit)
 
 ## How to use on your own run history files
 

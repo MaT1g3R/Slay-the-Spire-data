@@ -1,0 +1,5757 @@
+Card,Floor,Picked,Act,Boss
+Leap,1.0,True,1,False
+Claw,1.0,False,1,False
+Blizzard,1.0,False,1,False
+SKIP,1.0,False,1,False
+Glacier,2.0,True,1,False
+Conserve Battery,2.0,False,1,False
+Ball Lightning,2.0,False,1,False
+SKIP,2.0,False,1,False
+Streamline,4.0,True,1,False
+Chill,4.0,False,1,False
+Rebound,4.0,False,1,False
+SKIP,4.0,False,1,False
+Rainbow,8.0,True,1,False
+Hologram,8.0,False,1,False
+Consume,8.0,False,1,False
+SKIP,8.0,False,1,False
+Sweeping Beam,10.0,True,1,False
+Steam,10.0,False,1,False
+Reinforced Body,10.0,False,1,False
+SKIP,10.0,False,1,False
+Cold Snap,12.0,True,1,False
+Steam Power,12.0,False,1,False
+Redo,12.0,False,1,False
+SKIP,12.0,False,1,False
+Self Repair,13.0,True,1,False
+Consume,13.0,False,1,False
+Rebound,13.0,False,1,False
+SKIP,13.0,False,1,False
+Doom and Gloom,14.0,True,1,False
+Steam,14.0,False,1,False
+Hologram,14.0,False,1,False
+SKIP,14.0,False,1,False
+Multi-Cast,16.0,True,1,True
+All For One,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Chaos,18.0,False,2,False
+Streamline,18.0,False,2,False
+Scrape,18.0,False,2,False
+SKIP,18.0,False,2,False
+Steam,21.0,True,2,False
+Rebound,21.0,False,2,False
+Redo,21.0,False,2,False
+SKIP,21.0,False,2,False
+Beam Cell,22.0,True,2,False
+Capacitor,22.0,False,2,False
+Melter,22.0,False,2,False
+SKIP,22.0,False,2,False
+Aggregate,24.0,True,2,False
+White Noise,24.0,False,2,False
+Streamline,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Sweeping Beam,25.0,False,2,False
+Claw,25.0,False,2,False
+Reinforced Body,25.0,False,2,False
+SKIP,25.0,False,2,False
+Creative AI,28.0,True,2,False
+Steam,28.0,False,2,False
+Beam Cell,28.0,False,2,False
+SKIP,28.0,False,2,False
+Echo Form,29.0,True,2,False
+Go for the Eyes,29.0,False,2,False
+Hello World,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Rebound,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+Turbo,31.0,False,2,False
+SKIP,31.0,False,2,False
+Turbo,31.0,True,2,False
+Rebound,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+SKIP,31.0,False,2,False
+Fission,33.0,True,2,True
+Creative AI,33.0,False,2,True
+Multi-Cast,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Beam Cell,35.0,False,3,False
+Rebound,35.0,False,3,False
+Go for the Eyes,35.0,False,3,False
+SKIP,35.0,False,3,False
+Hologram,37.0,True,3,False
+Self Repair,37.0,False,3,False
+Consume,37.0,False,3,False
+SKIP,37.0,False,3,False
+Steam Power,40.0,True,3,False
+Barrage,40.0,False,3,False
+Turbo,40.0,False,3,False
+SKIP,40.0,False,3,False
+Buffer,44.0,True,3,False
+Beam Cell,44.0,False,3,False
+Fission,44.0,False,3,False
+SKIP,44.0,False,3,False
+Storm,45.0,True,3,False
+Rebound,45.0,False,3,False
+Doom and Gloom,45.0,False,3,False
+SKIP,45.0,False,3,False
+Consume,47.0,True,3,False
+Ball Lightning,47.0,False,3,False
+Hologram,47.0,False,3,False
+SKIP,47.0,False,3,False
+Reboot,55.0,True,4,False
+Genetic Algorithm,55.0,False,4,False
+Beam Cell,55.0,False,4,False
+SKIP,55.0,False,4,False
+Streamline,1.0,True,1,False
+Barrage,1.0,False,1,False
+Leap,1.0,False,1,False
+SKIP,1.0,False,1,False
+Cold Snap,2.0,True,1,False
+Compile Driver,2.0,False,1,False
+BootSequence,2.0,False,1,False
+SKIP,2.0,False,1,False
+Rebound,3.0,True,1,False
+Stack,3.0,False,1,False
+Blizzard,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,5.0,True,1,False
+Turbo,5.0,False,1,False
+Storm,5.0,False,1,False
+SKIP,5.0,False,1,False
+Sweeping Beam,7.0,True,1,False
+Cold Snap,7.0,False,1,False
+Claw,7.0,False,1,False
+SKIP,7.0,False,1,False
+Go for the Eyes,11.0,True,1,False
+Ball Lightning,11.0,False,1,False
+Streamline,11.0,False,1,False
+Blizzard,11.0,False,1,False
+SKIP,11.0,False,1,False
+Hologram,12.0,True,1,False
+Thunder Strike,12.0,False,1,False
+White Noise,12.0,False,1,False
+Cold Snap,12.0,False,1,False
+SKIP,12.0,False,1,False
+Blizzard,13.0,True,1,False
+Ball Lightning,13.0,False,1,False
+Stack,13.0,False,1,False
+Coolheaded,13.0,False,1,False
+SKIP,13.0,False,1,False
+Echo Form,16.0,True,1,True
+Buffer,16.0,False,1,True
+Biased Cognition,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+Skim,18.0,True,2,False
+Conserve Battery,18.0,False,2,False
+Barrage,18.0,False,2,False
+Capacitor,18.0,False,2,False
+SKIP,18.0,False,2,False
+Turbo,21.0,True,2,False
+Chill,21.0,False,2,False
+Rebound,21.0,False,2,False
+Compile Driver,21.0,False,2,False
+SKIP,21.0,False,2,False
+White Noise,22.0,True,2,False
+Claw,22.0,False,2,False
+Force Field,22.0,False,2,False
+Steam Power,22.0,False,2,False
+SKIP,22.0,False,2,False
+Meteor Strike,23.0,True,2,False
+Leap,23.0,False,2,False
+Sweeping Beam,23.0,False,2,False
+Ball Lightning,23.0,False,2,False
+SKIP,23.0,False,2,False
+Chill,25.0,True,2,False
+Self Repair,25.0,False,2,False
+Cold Snap,25.0,False,2,False
+Hello World,25.0,False,2,False
+SKIP,25.0,False,2,False
+Defragment,27.0,True,2,False
+Chill,27.0,False,2,False
+Lockon,27.0,False,2,False
+Genetic Algorithm,27.0,False,2,False
+SKIP,27.0,False,2,False
+Coolheaded,29.0,True,2,False
+Hello World,29.0,False,2,False
+Storm,29.0,False,2,False
+Rebound,29.0,False,2,False
+SKIP,29.0,False,2,False
+Compile Driver,31.0,True,2,False
+Barrage,31.0,False,2,False
+Sweeping Beam,31.0,False,2,False
+Meteor Strike,31.0,False,2,False
+SKIP,31.0,False,2,False
+Core Surge,33.0,True,2,True
+Multi-Cast,33.0,False,2,True
+Machine Learning,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+Hologram,34.0,True,3,False
+Compile Driver,34.0,False,3,False
+Sweeping Beam,34.0,False,3,False
+Conserve Battery,34.0,False,3,False
+SKIP,34.0,False,3,False
+Turbo,35.0,True,3,False
+Cold Snap,35.0,False,3,False
+Barrage,35.0,False,3,False
+Capacitor,35.0,False,3,False
+SKIP,35.0,False,3,False
+Biased Cognition,37.0,True,3,False
+Undo,37.0,False,3,False
+Fusion,37.0,False,3,False
+Cold Snap,37.0,False,3,False
+SKIP,37.0,False,3,False
+Compile Driver,38.0,True,3,False
+Claw,38.0,False,3,False
+Sunder,38.0,False,3,False
+Turbo,38.0,False,3,False
+SKIP,38.0,False,3,False
+Genetic Algorithm,39.0,True,3,False
+Turbo,39.0,False,3,False
+Conserve Battery,39.0,False,3,False
+Stack,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Darkness,40.0,False,3,False
+Reprogram,40.0,False,3,False
+Ball Lightning,40.0,False,3,False
+Heatsinks,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Darkness,40.0,False,3,False
+Reprogram,40.0,False,3,False
+Ball Lightning,40.0,False,3,False
+Heatsinks,40.0,False,3,False
+SKIP,40.0,False,3,False
+Heatsinks,40.0,True,3,False
+Darkness,40.0,False,3,False
+Reprogram,40.0,False,3,False
+Ball Lightning,40.0,False,3,False
+SKIP,40.0,False,3,False
+Amplify,41.0,True,3,False
+Sweeping Beam,41.0,False,3,False
+Static Discharge,41.0,False,3,False
+Compile Driver,41.0,False,3,False
+SKIP,41.0,False,3,False
+BootSequence,45.0,True,3,False
+Auto Shields,45.0,False,3,False
+Darkness,45.0,False,3,False
+FTL,45.0,False,3,False
+SKIP,45.0,False,3,False
+Skim,47.0,True,3,False
+Tempest,47.0,False,3,False
+Compile Driver,47.0,False,3,False
+Auto Shields,47.0,False,3,False
+SKIP,47.0,False,3,False
+Blizzard,48.0,True,3,False
+Streamline,48.0,False,3,False
+Stack,48.0,False,3,False
+Lockon,48.0,False,3,False
+SKIP,48.0,False,3,False
+Static Discharge,55.0,True,4,False
+Self Repair,55.0,False,4,False
+Steam,55.0,False,4,False
+Fusion,55.0,False,4,False
+SKIP,55.0,False,4,False
+Ball Lightning,1.0,True,1,False
+Loop,1.0,False,1,False
+Conserve Battery,1.0,False,1,False
+SKIP,1.0,False,1,False
+Coolheaded,2.0,True,1,False
+Cold Snap,2.0,False,1,False
+Barrage,2.0,False,1,False
+SKIP,2.0,False,1,False
+Hologram,4.0,True,1,False
+Stack,4.0,False,1,False
+Coolheaded,4.0,False,1,False
+SKIP,4.0,False,1,False
+Electrodynamics,7.0,True,1,False
+Doom and Gloom,7.0,False,1,False
+Rip and Tear,7.0,False,1,False
+SKIP,7.0,False,1,False
+Skim,8.0,True,1,False
+Steam,8.0,False,1,False
+Hologram,8.0,False,1,False
+SKIP,8.0,False,1,False
+Beam Cell,11.0,True,1,False
+Rip and Tear,11.0,False,1,False
+Capacitor,11.0,False,1,False
+SKIP,11.0,False,1,False
+Go for the Eyes,12.0,True,1,False
+Claw,12.0,False,1,False
+Melter,12.0,False,1,False
+SKIP,12.0,False,1,False
+Core Surge,13.0,True,1,False
+Rebound,13.0,False,1,False
+Doom and Gloom,13.0,False,1,False
+SKIP,13.0,False,1,False
+Coolheaded,14.0,True,1,False
+Rebound,14.0,False,1,False
+Sweeping Beam,14.0,False,1,False
+SKIP,14.0,False,1,False
+All For One,16.0,True,1,True
+Electrodynamics,16.0,False,1,True
+Fission,16.0,False,1,True
+SKIP,16.0,False,1,True
+Coolheaded,18.0,True,2,False
+Turbo,18.0,False,2,False
+Lockon,18.0,False,2,False
+SKIP,18.0,False,2,False
+Fusion,20.0,True,2,False
+Leap,20.0,False,2,False
+Consume,20.0,False,2,False
+SKIP,20.0,False,2,False
+Redo,22.0,True,2,False
+Aggregate,22.0,False,2,False
+Blizzard,22.0,False,2,False
+SKIP,22.0,False,2,False
+Glacier,24.0,True,2,False
+Creative AI,24.0,False,2,False
+Claw,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,28.0,True,2,False
+Blizzard,28.0,False,2,False
+Static Discharge,28.0,False,2,False
+Auto Shields,28.0,False,2,False
+SKIP,28.0,False,2,False
+Blizzard,28.0,True,2,False
+Static Discharge,28.0,False,2,False
+Auto Shields,28.0,False,2,False
+SKIP,28.0,False,2,False
+Double Energy,29.0,True,2,False
+Stack,29.0,False,2,False
+Streamline,29.0,False,2,False
+SKIP,29.0,False,2,False
+Meteor Strike,31.0,True,2,False
+Turbo,31.0,False,2,False
+Compile Driver,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Thunder Strike,33.0,False,2,True
+Biased Cognition,33.0,False,2,True
+SKIP,33.0,False,2,True
+Coolheaded,35.0,True,3,False
+Heatsinks,35.0,False,3,False
+Darkness,35.0,False,3,False
+SKIP,35.0,False,3,False
+Defragment,37.0,True,3,False
+Ball Lightning,37.0,False,3,False
+Stack,37.0,False,3,False
+SKIP,37.0,False,3,False
+Skim,38.0,True,3,False
+Rebound,38.0,False,3,False
+Barrage,38.0,False,3,False
+SKIP,38.0,False,3,False
+Defragment,39.0,True,3,False
+Conserve Battery,39.0,False,3,False
+Double Energy,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Conserve Battery,40.0,False,3,False
+Coolheaded,40.0,False,3,False
+Turbo,40.0,False,3,False
+SKIP,40.0,False,3,False
+Coolheaded,45.0,True,3,False
+Beam Cell,45.0,False,3,False
+Hyperbeam,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Auto Shields,46.0,False,3,False
+Leap,46.0,False,3,False
+Steam,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Streamline,47.0,False,3,False
+Claw,47.0,False,3,False
+Rebound,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Streamline,47.0,False,3,False
+Claw,47.0,False,3,False
+Rebound,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Go for the Eyes,48.0,False,3,False
+Rebound,48.0,False,3,False
+Streamline,48.0,False,3,False
+SKIP,48.0,False,3,False
+Turbo,54.0,True,4,False
+Chaos,54.0,False,4,False
+Steam,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+White Noise,54.0,False,4,False
+Rebound,54.0,False,4,False
+Barrage,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Conserve Battery,54.0,False,4,False
+Fission,54.0,False,4,False
+Turbo,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Redo,54.0,False,4,False
+Go for the Eyes,54.0,False,4,False
+Storm,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Melter,54.0,False,4,False
+Steam,54.0,False,4,False
+Creative AI,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,55.0,True,4,False
+Self Repair,55.0,False,4,False
+Conserve Battery,55.0,False,4,False
+Heatsinks,55.0,False,4,False
+SKIP,55.0,False,4,False
+Hologram,1.0,True,1,False
+Compile Driver,1.0,False,1,False
+Barrage,1.0,False,1,False
+SKIP,1.0,False,1,False
+BootSequence,3.0,True,1,False
+Redo,3.0,False,1,False
+Conserve Battery,3.0,False,1,False
+SKIP,3.0,False,1,False
+Self Repair,5.0,True,1,False
+Compile Driver,5.0,False,1,False
+Go for the Eyes,5.0,False,1,False
+SKIP,5.0,False,1,False
+Cold Snap,6.0,True,1,False
+Stack,6.0,False,1,False
+Steam Power,6.0,False,1,False
+SKIP,6.0,False,1,False
+SKIP,11.0,True,1,False
+Ball Lightning,11.0,False,1,False
+Static Discharge,11.0,False,1,False
+Barrage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Static Discharge,1.0,True,1,False
+Stack,1.0,False,1,False
+Fusion,1.0,False,1,False
+SKIP,1.0,False,1,False
+Glacier,2.0,True,1,False
+Steam,2.0,False,1,False
+Claw,2.0,False,1,False
+SKIP,2.0,False,1,False
+Streamline,3.0,True,1,False
+Amplify,3.0,False,1,False
+Fusion,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,5.0,True,1,False
+Hologram,5.0,False,1,False
+Blizzard,5.0,False,1,False
+SKIP,5.0,False,1,False
+Glacier,7.0,True,1,False
+Streamline,7.0,False,1,False
+Chaos,7.0,False,1,False
+SKIP,7.0,False,1,False
+Go for the Eyes,8.0,True,1,False
+Melter,8.0,False,1,False
+Thunder Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Coolheaded,10.0,True,1,False
+Go for the Eyes,10.0,False,1,False
+Reinforced Body,10.0,False,1,False
+SKIP,10.0,False,1,False
+White Noise,13.0,True,1,False
+Rebound,13.0,False,1,False
+Claw,13.0,False,1,False
+SKIP,13.0,False,1,False
+Electrodynamics,14.0,True,1,False
+Chaos,14.0,False,1,False
+Aggregate,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Fission,16.0,False,1,True
+Machine Learning,16.0,False,1,True
+SKIP,16.0,False,1,True
+White Noise,18.0,True,2,False
+Streamline,18.0,False,2,False
+Glacier,18.0,False,2,False
+SKIP,18.0,False,2,False
+Skim,20.0,True,2,False
+Conserve Battery,20.0,False,2,False
+Ball Lightning,20.0,False,2,False
+SKIP,20.0,False,2,False
+Beam Cell,24.0,True,2,False
+Storm,24.0,False,2,False
+Conserve Battery,24.0,False,2,False
+SKIP,24.0,False,2,False
+Steam,29.0,True,2,False
+Scrape,29.0,False,2,False
+Claw,29.0,False,2,False
+SKIP,29.0,False,2,False
+Buffer,33.0,True,2,True
+Machine Learning,33.0,False,2,True
+Multi-Cast,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Chaos,35.0,False,3,False
+Coolheaded,35.0,False,3,False
+Streamline,35.0,False,3,False
+SKIP,35.0,False,3,False
+Heatsinks,36.0,True,3,False
+Reinforced Body,36.0,False,3,False
+Hello World,36.0,False,3,False
+SKIP,36.0,False,3,False
+Conserve Battery,37.0,True,3,False
+Beam Cell,37.0,False,3,False
+Stack,37.0,False,3,False
+SKIP,37.0,False,3,False
+Double Energy,38.0,True,3,False
+Coolheaded,38.0,False,3,False
+Genetic Algorithm,38.0,False,3,False
+SKIP,38.0,False,3,False
+Loop,39.0,True,3,False
+Stack,39.0,False,3,False
+Double Energy,39.0,False,3,False
+SKIP,39.0,False,3,False
+Chill,40.0,True,3,False
+Glacier,40.0,False,3,False
+Stack,40.0,False,3,False
+SKIP,40.0,False,3,False
+Doom and Gloom,44.0,True,3,False
+Heatsinks,44.0,False,3,False
+Rebound,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Self Repair,45.0,True,3,False
+Streamline,45.0,False,3,False
+Coolheaded,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Turbo,48.0,True,3,False
+Redo,48.0,False,3,False
+Steam,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,55.0,True,4,False
+Sweeping Beam,55.0,False,4,False
+Redo,55.0,False,4,False
+Hyperbeam,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Doom and Gloom,1.0,True,1,False
+Turbo,1.0,False,1,False
+Glacier,1.0,False,1,False
+SKIP,1.0,False,1,False
+Cold Snap,4.0,True,1,False
+Steam,4.0,False,1,False
+Barrage,4.0,False,1,False
+SKIP,4.0,False,1,False
+Skim,5.0,True,1,False
+Redo,5.0,False,1,False
+Compile Driver,5.0,False,1,False
+SKIP,5.0,False,1,False
+Compile Driver,7.0,True,1,False
+Conserve Battery,7.0,False,1,False
+Reinforced Body,7.0,False,1,False
+SKIP,7.0,False,1,False
+Genetic Algorithm,8.0,True,1,False
+Compile Driver,8.0,False,1,False
+Redo,8.0,False,1,False
+SKIP,8.0,False,1,False
+Electrodynamics,10.0,True,1,False
+Rebound,10.0,False,1,False
+Conserve Battery,10.0,False,1,False
+SKIP,10.0,False,1,False
+Skim,11.0,True,1,False
+Streamline,11.0,False,1,False
+Blizzard,11.0,False,1,False
+SKIP,11.0,False,1,False
+Ball Lightning,1.0,True,1,False
+Beam Cell,1.0,False,1,False
+White Noise,1.0,False,1,False
+SKIP,1.0,False,1,False
+Defragment,2.0,True,1,False
+Scrape,2.0,False,1,False
+Compile Driver,2.0,False,1,False
+SKIP,2.0,False,1,False
+Sweeping Beam,3.0,True,1,False
+Barrage,3.0,False,1,False
+Compile Driver,3.0,False,1,False
+SKIP,3.0,False,1,False
+Hologram,4.0,True,1,False
+Stack,4.0,False,1,False
+Consume,4.0,False,1,False
+SKIP,4.0,False,1,False
+Lockon,7.0,True,1,False
+Beam Cell,7.0,False,1,False
+Steam,7.0,False,1,False
+SKIP,7.0,False,1,False
+Static Discharge,11.0,True,1,False
+Sweeping Beam,11.0,False,1,False
+Consume,11.0,False,1,False
+SKIP,11.0,False,1,False
+BootSequence,13.0,True,1,False
+Coolheaded,13.0,False,1,False
+Consume,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Hello World,14.0,False,1,False
+Machine Learning,14.0,False,1,False
+Ball Lightning,14.0,False,1,False
+SKIP,14.0,False,1,False
+Electrodynamics,16.0,True,1,True
+Machine Learning,16.0,False,1,True
+Hyperbeam,16.0,False,1,True
+SKIP,16.0,False,1,True
+Skim,18.0,True,2,False
+Reprogram,18.0,False,2,False
+Defragment,18.0,False,2,False
+SKIP,18.0,False,2,False
+Coolheaded,20.0,True,2,False
+Leap,20.0,False,2,False
+Stack,20.0,False,2,False
+SKIP,20.0,False,2,False
+Core Surge,23.0,True,2,False
+Go for the Eyes,23.0,False,2,False
+Conserve Battery,23.0,False,2,False
+SKIP,23.0,False,2,False
+Loop,25.0,True,2,False
+Static Discharge,25.0,False,2,False
+Recycle,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,29.0,True,2,False
+Sweeping Beam,29.0,False,2,False
+Consume,29.0,False,2,False
+Claw,29.0,False,2,False
+Barrage,29.0,False,2,False
+SKIP,29.0,False,2,False
+Coolheaded,31.0,True,2,False
+Rebound,31.0,False,2,False
+Conserve Battery,31.0,False,2,False
+White Noise,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Meteor Strike,33.0,False,2,True
+Biased Cognition,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+Cold Snap,35.0,True,3,False
+Leap,35.0,False,3,False
+Go for the Eyes,35.0,False,3,False
+Chaos,35.0,False,3,False
+SKIP,35.0,False,3,False
+Genetic Algorithm,36.0,True,3,False
+Steam,36.0,False,3,False
+Cold Snap,36.0,False,3,False
+FTL,36.0,False,3,False
+SKIP,36.0,False,3,False
+Compile Driver,37.0,True,3,False
+Meteor Strike,37.0,False,3,False
+Cold Snap,37.0,False,3,False
+Stack,37.0,False,3,False
+SKIP,37.0,False,3,False
+Steam Power,39.0,True,3,False
+Darkness,39.0,False,3,False
+Coolheaded,39.0,False,3,False
+Stack,39.0,False,3,False
+SKIP,39.0,False,3,False
+Glacier,40.0,True,3,False
+Heatsinks,40.0,False,3,False
+Beam Cell,40.0,False,3,False
+Rebound,40.0,False,3,False
+SKIP,40.0,False,3,False
+Turbo,41.0,True,3,False
+Hologram,41.0,False,3,False
+Coolheaded,41.0,False,3,False
+Darkness,41.0,False,3,False
+SKIP,41.0,False,3,False
+Undo,44.0,True,3,False
+Go for the Eyes,44.0,False,3,False
+Hello World,44.0,False,3,False
+Scrape,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Reinforced Body,45.0,False,3,False
+Claw,45.0,False,3,False
+Compile Driver,45.0,False,3,False
+Chaos,45.0,False,3,False
+SKIP,45.0,False,3,False
+Hologram,47.0,True,3,False
+Rebound,47.0,False,3,False
+Compile Driver,47.0,False,3,False
+Rainbow,47.0,False,3,False
+SKIP,47.0,False,3,False
+Blizzard,48.0,True,3,False
+Conserve Battery,48.0,False,3,False
+Sweeping Beam,48.0,False,3,False
+Steam,48.0,False,3,False
+SKIP,48.0,False,3,False
+Storm,55.0,True,4,False
+Sweeping Beam,55.0,False,4,False
+Reboot,55.0,False,4,False
+Leap,55.0,False,4,False
+SKIP,55.0,False,4,False
+Cold Snap,1.0,True,1,False
+Tempest,1.0,False,1,False
+Rebound,1.0,False,1,False
+SKIP,1.0,False,1,False
+Compile Driver,3.0,True,1,False
+Barrage,3.0,False,1,False
+Claw,3.0,False,1,False
+SKIP,3.0,False,1,False
+Coolheaded,4.0,True,1,False
+Streamline,4.0,False,1,False
+Chaos,4.0,False,1,False
+SKIP,4.0,False,1,False
+Coolheaded,7.0,True,1,False
+Fusion,7.0,False,1,False
+Multi-Cast,7.0,False,1,False
+SKIP,7.0,False,1,False
+Ball Lightning,11.0,True,1,False
+Capacitor,11.0,False,1,False
+Stack,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,13.0,True,1,False
+Fusion,13.0,False,1,False
+Chaos,13.0,False,1,False
+Consume,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,13.0,True,1,False
+Fusion,13.0,False,1,False
+Chaos,13.0,False,1,False
+Consume,13.0,False,1,False
+SKIP,13.0,False,1,False
+Sunder,14.0,True,1,False
+Barrage,14.0,False,1,False
+Redo,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Buffer,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+Sunder,18.0,True,2,False
+Leap,18.0,False,2,False
+Double Energy,18.0,False,2,False
+SKIP,18.0,False,2,False
+Skim,19.0,True,2,False
+Stack,19.0,False,2,False
+Genetic Algorithm,19.0,False,2,False
+SKIP,19.0,False,2,False
+Hologram,20.0,True,2,False
+Loop,20.0,False,2,False
+Melter,20.0,False,2,False
+SKIP,20.0,False,2,False
+Consume,23.0,True,2,False
+Claw,23.0,False,2,False
+Sweeping Beam,23.0,False,2,False
+SKIP,23.0,False,2,False
+Echo Form,24.0,True,2,False
+Beam Cell,24.0,False,2,False
+Recycle,24.0,False,2,False
+SKIP,24.0,False,2,False
+Coolheaded,28.0,True,2,False
+Steam Power,28.0,False,2,False
+Stack,28.0,False,2,False
+SKIP,28.0,False,2,False
+Steam,29.0,True,2,False
+Static Discharge,29.0,False,2,False
+Cold Snap,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Rebound,30.0,False,2,False
+Tempest,30.0,False,2,False
+Stack,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,30.0,True,2,False
+Rebound,30.0,False,2,False
+Tempest,30.0,False,2,False
+Stack,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,30.0,True,2,False
+Rebound,30.0,False,2,False
+Tempest,30.0,False,2,False
+Stack,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,30.0,True,2,False
+Rebound,30.0,False,2,False
+Tempest,30.0,False,2,False
+Stack,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Scrape,31.0,False,2,False
+Consume,31.0,False,2,False
+Static Discharge,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,31.0,True,2,False
+Scrape,31.0,False,2,False
+Consume,31.0,False,2,False
+Static Discharge,31.0,False,2,False
+SKIP,31.0,False,2,False
+Streamline,1.0,True,1,False
+Barrage,1.0,False,1,False
+Heatsinks,1.0,False,1,False
+SKIP,1.0,False,1,False
+Loop,3.0,True,1,False
+Chaos,3.0,False,1,False
+Leap,3.0,False,1,False
+SKIP,3.0,False,1,False
+Rebound,4.0,True,1,False
+Force Field,4.0,False,1,False
+Go for the Eyes,4.0,False,1,False
+SKIP,4.0,False,1,False
+Hologram,5.0,True,1,False
+Stack,5.0,False,1,False
+Capacitor,5.0,False,1,False
+SKIP,5.0,False,1,False
+Double Energy,7.0,True,1,False
+Streamline,7.0,False,1,False
+Reprogram,7.0,False,1,False
+SKIP,7.0,False,1,False
+Conserve Battery,10.0,True,1,False
+Ball Lightning,10.0,False,1,False
+Reprogram,10.0,False,1,False
+SKIP,10.0,False,1,False
+Hologram,11.0,True,1,False
+Redo,11.0,False,1,False
+Darkness,11.0,False,1,False
+SKIP,11.0,False,1,False
+Beam Cell,14.0,True,1,False
+Hologram,14.0,False,1,False
+Streamline,14.0,False,1,False
+SKIP,14.0,False,1,False
+Meteor Strike,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Streamline,18.0,False,2,False
+Claw,18.0,False,2,False
+Ball Lightning,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Streamline,18.0,False,2,False
+Claw,18.0,False,2,False
+Ball Lightning,18.0,False,2,False
+SKIP,18.0,False,2,False
+Hologram,19.0,True,2,False
+Streamline,19.0,False,2,False
+Redo,19.0,False,2,False
+SKIP,19.0,False,2,False
+Conserve Battery,20.0,True,2,False
+Aggregate,20.0,False,2,False
+Barrage,20.0,False,2,False
+Doom and Gloom,20.0,False,2,False
+Redo,20.0,False,2,False
+Capacitor,20.0,False,2,False
+Beam Cell,20.0,False,2,False
+Streamline,20.0,False,2,False
+Tempest,20.0,False,2,False
+Hologram,20.0,False,2,False
+Coolheaded,20.0,False,2,False
+Fusion,20.0,False,2,False
+Compile Driver,20.0,False,2,False
+Blizzard,20.0,False,2,False
+Auto Shields,20.0,False,2,False
+Reinforced Body,20.0,False,2,False
+Buffer,20.0,False,2,False
+Force Field,20.0,False,2,False
+Claw,20.0,False,2,False
+Go for the Eyes,20.0,False,2,False
+SKIP,20.0,False,2,False
+Go for the Eyes,23.0,True,2,False
+Fission,23.0,False,2,False
+Tempest,23.0,False,2,False
+SKIP,23.0,False,2,False
+Turbo,27.0,True,2,False
+Cold Snap,27.0,False,2,False
+Lockon,27.0,False,2,False
+SKIP,27.0,False,2,False
+Coolheaded,28.0,True,2,False
+Ball Lightning,28.0,False,2,False
+Cold Snap,28.0,False,2,False
+SKIP,28.0,False,2,False
+Hologram,30.0,True,2,False
+Self Repair,30.0,False,2,False
+Rebound,30.0,False,2,False
+SKIP,30.0,False,2,False
+Reprogram,31.0,True,2,False
+Sweeping Beam,31.0,False,2,False
+Amplify,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,33.0,True,2,True
+Rainbow,33.0,False,2,True
+Machine Learning,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+Sweeping Beam,35.0,True,3,False
+Turbo,35.0,False,3,False
+Coolheaded,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Redo,36.0,False,3,False
+Steam,36.0,False,3,False
+Coolheaded,36.0,False,3,False
+SKIP,36.0,False,3,False
+Steam,36.0,True,3,False
+Redo,36.0,False,3,False
+Coolheaded,36.0,False,3,False
+SKIP,36.0,False,3,False
+Reinforced Body,37.0,True,3,False
+Beam Cell,37.0,False,3,False
+Leap,37.0,False,3,False
+SKIP,37.0,False,3,False
+Auto Shields,38.0,True,3,False
+Coolheaded,38.0,False,3,False
+Steam,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Leap,39.0,False,3,False
+Ball Lightning,39.0,False,3,False
+Redo,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Hello World,40.0,False,3,False
+Conserve Battery,40.0,False,3,False
+Sunder,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Leap,42.0,False,3,False
+Sunder,42.0,False,3,False
+Amplify,42.0,False,3,False
+SKIP,42.0,False,3,False
+Reprogram,44.0,True,3,False
+Steam Power,44.0,False,3,False
+Defragment,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Rebound,46.0,False,3,False
+Reprogram,46.0,False,3,False
+Reinforced Body,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,48.0,True,3,False
+Auto Shields,48.0,False,3,False
+Loop,48.0,False,3,False
+Streamline,48.0,False,3,False
+SKIP,48.0,False,3,False
+Streamline,48.0,True,3,False
+Auto Shields,48.0,False,3,False
+Loop,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Tempest,55.0,False,4,False
+Conserve Battery,55.0,False,4,False
+Fission,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sunder,1.0,True,1,False
+Beam Cell,1.0,False,1,False
+Barrage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Undo,2.0,True,1,False
+FTL,2.0,False,1,False
+Melter,2.0,False,1,False
+SKIP,2.0,False,1,False
+Lockon,6.0,True,1,False
+Conserve Battery,6.0,False,1,False
+Claw,6.0,False,1,False
+SKIP,6.0,False,1,False
+Seek,8.0,True,1,False
+Redo,8.0,False,1,False
+Creative AI,8.0,False,1,False
+SKIP,8.0,False,1,False
+Conserve Battery,11.0,True,1,False
+Barrage,11.0,False,1,False
+Streamline,11.0,False,1,False
+SKIP,11.0,False,1,False
+Beam Cell,13.0,True,1,False
+Tempest,13.0,False,1,False
+Claw,13.0,False,1,False
+SKIP,13.0,False,1,False
+Creative AI,16.0,True,1,True
+Rainbow,16.0,False,1,True
+Thunder Strike,16.0,False,1,True
+SKIP,16.0,False,1,True
+Turbo,18.0,True,2,False
+Rip and Tear,18.0,False,2,False
+Steam Power,18.0,False,2,False
+SKIP,18.0,False,2,False
+Sweeping Beam,19.0,True,2,False
+Leap,19.0,False,2,False
+Capacitor,19.0,False,2,False
+SKIP,19.0,False,2,False
+Stack,20.0,True,2,False
+Rebound,20.0,False,2,False
+Reprogram,20.0,False,2,False
+SKIP,20.0,False,2,False
+Coolheaded,22.0,True,2,False
+Claw,22.0,False,2,False
+FTL,22.0,False,2,False
+SKIP,22.0,False,2,False
+Meteor Strike,23.0,True,2,False
+Compile Driver,23.0,False,2,False
+Storm,23.0,False,2,False
+SKIP,23.0,False,2,False
+Compile Driver,25.0,True,2,False
+Sweeping Beam,25.0,False,2,False
+Chaos,25.0,False,2,False
+SKIP,25.0,False,2,False
+Cold Snap,28.0,True,2,False
+Self Repair,28.0,False,2,False
+Steam,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Ball Lightning,29.0,False,2,False
+Conserve Battery,29.0,False,2,False
+Sunder,29.0,False,2,False
+SKIP,29.0,False,2,False
+Darkness,31.0,True,2,False
+Scrape,31.0,False,2,False
+Hello World,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+Machine Learning,33.0,False,2,True
+Meteor Strike,33.0,False,2,True
+SKIP,33.0,False,2,True
+Defragment,35.0,True,3,False
+Loop,35.0,False,3,False
+Coolheaded,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,38.0,True,3,False
+Defragment,38.0,False,3,False
+Rebound,38.0,False,3,False
+Steam,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Defragment,38.0,False,3,False
+Rebound,38.0,False,3,False
+Steam,38.0,False,3,False
+SKIP,38.0,False,3,False
+Coolheaded,39.0,True,3,False
+Darkness,39.0,False,3,False
+Cold Snap,39.0,False,3,False
+SKIP,39.0,False,3,False
+Double Energy,41.0,True,3,False
+Auto Shields,41.0,False,3,False
+Conserve Battery,41.0,False,3,False
+SKIP,41.0,False,3,False
+Glacier,44.0,True,3,False
+Conserve Battery,44.0,False,3,False
+FTL,44.0,False,3,False
+SKIP,44.0,False,3,False
+Seek,45.0,True,3,False
+Lockon,45.0,False,3,False
+Rebound,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Leap,46.0,False,3,False
+Darkness,46.0,False,3,False
+Conserve Battery,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Sweeping Beam,47.0,False,3,False
+Claw,47.0,False,3,False
+Streamline,47.0,False,3,False
+SKIP,47.0,False,3,False
+Aggregate,48.0,True,3,False
+Genetic Algorithm,48.0,False,3,False
+Sunder,48.0,False,3,False
+SKIP,48.0,False,3,False
+Self Repair,1.0,True,1,False
+Consume,1.0,False,1,False
+BootSequence,1.0,False,1,False
+SKIP,1.0,False,1,False
+Static Discharge,4.0,True,1,False
+Tempest,4.0,False,1,False
+Leap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Defragment,5.0,True,1,False
+Darkness,5.0,False,1,False
+Beam Cell,5.0,False,1,False
+SKIP,5.0,False,1,False
+Glacier,6.0,True,1,False
+Hologram,6.0,False,1,False
+Streamline,6.0,False,1,False
+SKIP,6.0,False,1,False
+BootSequence,8.0,True,1,False
+Consume,8.0,False,1,False
+Coolheaded,8.0,False,1,False
+SKIP,8.0,False,1,False
+Cold Snap,12.0,True,1,False
+Steam,12.0,False,1,False
+Fusion,12.0,False,1,False
+Auto Shields,12.0,False,1,False
+SKIP,12.0,False,1,False
+Ball Lightning,13.0,True,1,False
+Leap,13.0,False,1,False
+Streamline,13.0,False,1,False
+Claw,13.0,False,1,False
+SKIP,13.0,False,1,False
+Reboot,14.0,True,1,False
+Redo,14.0,False,1,False
+Go for the Eyes,14.0,False,1,False
+Scrape,14.0,False,1,False
+SKIP,14.0,False,1,False
+Creative AI,16.0,True,1,True
+Rainbow,16.0,False,1,True
+Buffer,16.0,False,1,True
+Hyperbeam,16.0,False,1,True
+SKIP,16.0,False,1,True
+Lockon,18.0,True,2,False
+Leap,18.0,False,2,False
+Compile Driver,18.0,False,2,False
+Rebound,18.0,False,2,False
+SKIP,18.0,False,2,False
+Coolheaded,21.0,True,2,False
+Cold Snap,21.0,False,2,False
+Chaos,21.0,False,2,False
+Scrape,21.0,False,2,False
+SKIP,21.0,False,2,False
+Conserve Battery,23.0,True,2,False
+Steam,23.0,False,2,False
+Consume,23.0,False,2,False
+Claw,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,24.0,True,2,False
+Electrodynamics,24.0,False,2,False
+Streamline,24.0,False,2,False
+White Noise,24.0,False,2,False
+Undo,24.0,False,2,False
+SKIP,24.0,False,2,False
+Chill,27.0,True,2,False
+Go for the Eyes,27.0,False,2,False
+Barrage,27.0,False,2,False
+Undo,27.0,False,2,False
+SKIP,27.0,False,2,False
+Core Surge,29.0,True,2,False
+Undo,29.0,False,2,False
+Genetic Algorithm,29.0,False,2,False
+Rebound,29.0,False,2,False
+SKIP,29.0,False,2,False
+Double Energy,31.0,True,2,False
+Hologram,31.0,False,2,False
+Chaos,31.0,False,2,False
+Coolheaded,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+Electrodynamics,33.0,False,2,True
+Meteor Strike,33.0,False,2,True
+Fission,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Conserve Battery,35.0,False,3,False
+Rebound,35.0,False,3,False
+Sweeping Beam,35.0,False,3,False
+Auto Shields,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Redo,36.0,False,3,False
+Storm,36.0,False,3,False
+Steam,36.0,False,3,False
+Blizzard,36.0,False,3,False
+SKIP,36.0,False,3,False
+Redo,37.0,True,3,False
+Rebound,37.0,False,3,False
+Beam Cell,37.0,False,3,False
+Coolheaded,37.0,False,3,False
+SKIP,37.0,False,3,False
+Echo Form,40.0,True,3,False
+Coolheaded,40.0,False,3,False
+Go for the Eyes,40.0,False,3,False
+Leap,40.0,False,3,False
+SKIP,40.0,False,3,False
+Go for the Eyes,40.0,True,3,False
+Streamline,40.0,False,3,False
+Claw,40.0,False,3,False
+Steam,40.0,False,3,False
+SKIP,40.0,False,3,False
+Steam Power,40.0,True,3,False
+Cold Snap,40.0,False,3,False
+Streamline,40.0,False,3,False
+Tempest,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Sweeping Beam,40.0,False,3,False
+Sunder,40.0,False,3,False
+Rainbow,40.0,False,3,False
+Storm,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Conserve Battery,40.0,False,3,False
+Darkness,40.0,False,3,False
+Electrodynamics,40.0,False,3,False
+Cold Snap,40.0,False,3,False
+SKIP,40.0,False,3,False
+Genetic Algorithm,41.0,True,3,False
+Compile Driver,41.0,False,3,False
+BootSequence,41.0,False,3,False
+Doom and Gloom,41.0,False,3,False
+SKIP,41.0,False,3,False
+Hologram,42.0,True,3,False
+Steam,42.0,False,3,False
+Rip and Tear,42.0,False,3,False
+Coolheaded,42.0,False,3,False
+SKIP,42.0,False,3,False
+Genetic Algorithm,44.0,True,3,False
+Reprogram,44.0,False,3,False
+Redo,44.0,False,3,False
+Biased Cognition,44.0,False,3,False
+SKIP,44.0,False,3,False
+Loop,45.0,True,3,False
+Sweeping Beam,45.0,False,3,False
+Compile Driver,45.0,False,3,False
+Static Discharge,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Undo,46.0,False,3,False
+Streamline,46.0,False,3,False
+Leap,46.0,False,3,False
+Sunder,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Leap,47.0,False,3,False
+Lockon,47.0,False,3,False
+Ball Lightning,47.0,False,3,False
+Beam Cell,47.0,False,3,False
+SKIP,47.0,False,3,False
+Buffer,48.0,True,3,False
+Sunder,48.0,False,3,False
+Go for the Eyes,48.0,False,3,False
+Beam Cell,48.0,False,3,False
+SKIP,48.0,False,3,False
+Seek,55.0,True,4,False
+Barrage,55.0,False,4,False
+Go for the Eyes,55.0,False,4,False
+Chaos,55.0,False,4,False
+SKIP,55.0,False,4,False
+Hello World,1.0,True,1,False
+Redo,1.0,False,1,False
+Reprogram,1.0,False,1,False
+SKIP,1.0,False,1,False
+Conserve Battery,2.0,True,1,False
+Go for the Eyes,2.0,False,1,False
+Rebound,2.0,False,1,False
+SKIP,2.0,False,1,False
+Steam Power,4.0,True,1,False
+Conserve Battery,4.0,False,1,False
+Double Energy,4.0,False,1,False
+SKIP,4.0,False,1,False
+Hyperbeam,6.0,True,1,False
+Beam Cell,6.0,False,1,False
+Streamline,6.0,False,1,False
+SKIP,6.0,False,1,False
+Beam Cell,10.0,True,1,False
+Claw,10.0,False,1,False
+Rebound,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Claw,11.0,False,1,False
+Force Field,11.0,False,1,False
+Streamline,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,11.0,True,1,False
+Claw,11.0,False,1,False
+Force Field,11.0,False,1,False
+Streamline,11.0,False,1,False
+SKIP,11.0,False,1,False
+Hologram,12.0,True,1,False
+Go for the Eyes,12.0,False,1,False
+Tempest,12.0,False,1,False
+SKIP,12.0,False,1,False
+White Noise,14.0,True,1,False
+Beam Cell,14.0,False,1,False
+Rebound,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Hyperbeam,16.0,False,1,True
+Electrodynamics,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Stack,18.0,False,2,False
+Loop,18.0,False,2,False
+Compile Driver,18.0,False,2,False
+SKIP,18.0,False,2,False
+Sweeping Beam,19.0,True,2,False
+Coolheaded,19.0,False,2,False
+Streamline,19.0,False,2,False
+SKIP,19.0,False,2,False
+Core Surge,21.0,True,2,False
+Claw,21.0,False,2,False
+Sweeping Beam,21.0,False,2,False
+SKIP,21.0,False,2,False
+Biased Cognition,21.0,True,2,False
+Redo,21.0,False,2,False
+Double Energy,21.0,False,2,False
+SKIP,21.0,False,2,False
+Skim,21.0,True,2,False
+Ball Lightning,21.0,False,2,False
+Conserve Battery,21.0,False,2,False
+SKIP,21.0,False,2,False
+Loop,21.0,True,2,False
+Conserve Battery,21.0,False,2,False
+Coolheaded,21.0,False,2,False
+SKIP,21.0,False,2,False
+Turbo,21.0,True,2,False
+Darkness,21.0,False,2,False
+Redo,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Compile Driver,24.0,False,2,False
+Creative AI,24.0,False,2,False
+Steam,24.0,False,2,False
+SKIP,24.0,False,2,False
+Aggregate,27.0,True,2,False
+Hyperbeam,27.0,False,2,False
+Blizzard,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Leap,28.0,False,2,False
+Barrage,28.0,False,2,False
+Conserve Battery,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Claw,29.0,False,2,False
+Multi-Cast,29.0,False,2,False
+Leap,29.0,False,2,False
+SKIP,29.0,False,2,False
+Reboot,33.0,True,2,True
+Thunder Strike,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+Compile Driver,35.0,True,3,False
+Rebound,35.0,False,3,False
+Fusion,35.0,False,3,False
+SKIP,35.0,False,3,False
+Skim,36.0,True,3,False
+Conserve Battery,36.0,False,3,False
+Sweeping Beam,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Leap,37.0,False,3,False
+Aggregate,37.0,False,3,False
+Auto Shields,37.0,False,3,False
+SKIP,37.0,False,3,False
+Genetic Algorithm,40.0,True,3,False
+Go for the Eyes,40.0,False,3,False
+Buffer,40.0,False,3,False
+SKIP,40.0,False,3,False
+Redo,41.0,True,3,False
+Recycle,41.0,False,3,False
+Rebound,41.0,False,3,False
+SKIP,41.0,False,3,False
+Go for the Eyes,42.0,True,3,False
+Compile Driver,42.0,False,3,False
+Barrage,42.0,False,3,False
+SKIP,42.0,False,3,False
+Coolheaded,44.0,True,3,False
+Sweeping Beam,44.0,False,3,False
+Cold Snap,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Steam,45.0,False,3,False
+Creative AI,45.0,False,3,False
+Beam Cell,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Sweeping Beam,47.0,False,3,False
+Beam Cell,47.0,False,3,False
+Cold Snap,47.0,False,3,False
+SKIP,47.0,False,3,False
+Fission,48.0,True,3,False
+Rebound,48.0,False,3,False
+Barrage,48.0,False,3,False
+SKIP,48.0,False,3,False
+Hologram,55.0,True,4,False
+Conserve Battery,55.0,False,4,False
+Double Energy,55.0,False,4,False
+SKIP,55.0,False,4,False
+Hello World,1.0,True,1,False
+Cold Snap,1.0,False,1,False
+Compile Driver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Rebound,4.0,True,1,False
+Redo,4.0,False,1,False
+Claw,4.0,False,1,False
+SKIP,4.0,False,1,False
+BootSequence,5.0,True,1,False
+Fusion,5.0,False,1,False
+Loop,5.0,False,1,False
+SKIP,5.0,False,1,False
+Beam Cell,10.0,True,1,False
+Conserve Battery,10.0,False,1,False
+Leap,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,13.0,True,1,False
+Force Field,13.0,False,1,False
+Auto Shields,13.0,False,1,False
+Barrage,13.0,False,1,False
+SKIP,13.0,False,1,False
+Static Discharge,14.0,True,1,False
+Fission,14.0,False,1,False
+Conserve Battery,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+Ball Lightning,18.0,True,2,False
+Heatsinks,18.0,False,2,False
+Claw,18.0,False,2,False
+SKIP,18.0,False,2,False
+Hologram,21.0,True,2,False
+Compile Driver,21.0,False,2,False
+Go for the Eyes,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Sunder,24.0,False,2,False
+Barrage,24.0,False,2,False
+Tempest,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,24.0,True,2,False
+Sunder,24.0,False,2,False
+Barrage,24.0,False,2,False
+Tempest,24.0,False,2,False
+SKIP,24.0,False,2,False
+Cold Snap,25.0,True,2,False
+Auto Shields,25.0,False,2,False
+Steam Power,25.0,False,2,False
+SKIP,25.0,False,2,False
+Turbo,27.0,True,2,False
+Fusion,27.0,False,2,False
+Steam,27.0,False,2,False
+SKIP,27.0,False,2,False
+Heatsinks,28.0,True,2,False
+Leap,28.0,False,2,False
+Sunder,28.0,False,2,False
+SKIP,28.0,False,2,False
+Redo,31.0,True,2,False
+Leap,31.0,False,2,False
+Darkness,31.0,False,2,False
+SKIP,31.0,False,2,False
+Meteor Strike,33.0,True,2,True
+Hyperbeam,33.0,False,2,True
+Core Surge,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Rebound,35.0,False,3,False
+Claw,35.0,False,3,False
+Steam,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Redo,37.0,False,3,False
+Go for the Eyes,37.0,False,3,False
+Claw,37.0,False,3,False
+SKIP,37.0,False,3,False
+Hologram,38.0,True,3,False
+Turbo,38.0,False,3,False
+Go for the Eyes,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Streamline,39.0,False,3,False
+Sunder,39.0,False,3,False
+Aggregate,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Rebound,41.0,False,3,False
+Stack,41.0,False,3,False
+Tempest,41.0,False,3,False
+SKIP,41.0,False,3,False
+White Noise,44.0,True,3,False
+Fusion,44.0,False,3,False
+Streamline,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Steam,45.0,False,3,False
+Leap,45.0,False,3,False
+Ball Lightning,45.0,False,3,False
+SKIP,45.0,False,3,False
+Skim,47.0,True,3,False
+Buffer,47.0,False,3,False
+Steam,47.0,False,3,False
+SKIP,47.0,False,3,False
+Skim,48.0,True,3,False
+Conserve Battery,48.0,False,3,False
+Redo,48.0,False,3,False
+SKIP,48.0,False,3,False
+Loop,54.0,True,4,False
+Hologram,54.0,False,4,False
+Scrape,54.0,False,4,False
+SKIP,54.0,False,4,False
+Chill,54.0,True,4,False
+Go for the Eyes,54.0,False,4,False
+Claw,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Beam Cell,54.0,False,4,False
+Turbo,54.0,False,4,False
+Fusion,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Rainbow,54.0,False,4,False
+Scrape,54.0,False,4,False
+Claw,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Redo,54.0,False,4,False
+Melter,54.0,False,4,False
+Barrage,54.0,False,4,False
+SKIP,54.0,False,4,False
+Coolheaded,55.0,True,4,False
+Genetic Algorithm,55.0,False,4,False
+Sweeping Beam,55.0,False,4,False
+SKIP,55.0,False,4,False
+Coolheaded,1.0,True,1,False
+Stack,1.0,False,1,False
+Reinforced Body,1.0,False,1,False
+SKIP,1.0,False,1,False
+Beam Cell,4.0,True,1,False
+Blizzard,4.0,False,1,False
+Consume,4.0,False,1,False
+SKIP,4.0,False,1,False
+Coolheaded,5.0,True,1,False
+Go for the Eyes,5.0,False,1,False
+Streamline,5.0,False,1,False
+SKIP,5.0,False,1,False
+Sweeping Beam,7.0,True,1,False
+Genetic Algorithm,7.0,False,1,False
+Stack,7.0,False,1,False
+SKIP,7.0,False,1,False
+Genetic Algorithm,11.0,True,1,False
+Rainbow,11.0,False,1,False
+Coolheaded,11.0,False,1,False
+SKIP,11.0,False,1,False
+Ball Lightning,13.0,True,1,False
+Redo,13.0,False,1,False
+Conserve Battery,13.0,False,1,False
+SKIP,13.0,False,1,False
+Chill,14.0,True,1,False
+Fusion,14.0,False,1,False
+Consume,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,14.0,True,1,False
+Aggregate,14.0,False,1,False
+Blizzard,14.0,False,1,False
+SKIP,14.0,False,1,False
+Skim,14.0,True,1,False
+Thunder Strike,14.0,False,1,False
+Rebound,14.0,False,1,False
+SKIP,14.0,False,1,False
+Compile Driver,14.0,True,1,False
+Barrage,14.0,False,1,False
+Blizzard,14.0,False,1,False
+SKIP,14.0,False,1,False
+SKIP,14.0,True,1,False
+Melter,14.0,False,1,False
+Sweeping Beam,14.0,False,1,False
+Streamline,14.0,False,1,False
+SKIP,14.0,False,1,False
+Electrodynamics,16.0,True,1,True
+Fission,16.0,False,1,True
+Biased Cognition,16.0,False,1,True
+SKIP,16.0,False,1,True
+BootSequence,18.0,True,2,False
+Darkness,18.0,False,2,False
+Barrage,18.0,False,2,False
+SKIP,18.0,False,2,False
+Genetic Algorithm,19.0,True,2,False
+Sweeping Beam,19.0,False,2,False
+Static Discharge,19.0,False,2,False
+SKIP,19.0,False,2,False
+Go for the Eyes,22.0,True,2,False
+Beam Cell,22.0,False,2,False
+Chaos,22.0,False,2,False
+SKIP,22.0,False,2,False
+Chill,24.0,True,2,False
+Rebound,24.0,False,2,False
+Steam,24.0,False,2,False
+SKIP,24.0,False,2,False
+FTL,28.0,True,2,False
+Chaos,28.0,False,2,False
+Reprogram,28.0,False,2,False
+SKIP,28.0,False,2,False
+Conserve Battery,30.0,True,2,False
+Chaos,30.0,False,2,False
+Capacitor,30.0,False,2,False
+SKIP,30.0,False,2,False
+Defragment,31.0,True,2,False
+Chill,31.0,False,2,False
+Aggregate,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+Biased Cognition,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Cold Snap,35.0,False,3,False
+Auto Shields,35.0,False,3,False
+Barrage,35.0,False,3,False
+SKIP,35.0,False,3,False
+Turbo,36.0,True,3,False
+Ball Lightning,36.0,False,3,False
+Rebound,36.0,False,3,False
+SKIP,36.0,False,3,False
+Conserve Battery,37.0,True,3,False
+Beam Cell,37.0,False,3,False
+Blizzard,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Defragment,38.0,False,3,False
+Redo,38.0,False,3,False
+Rebound,38.0,False,3,False
+SKIP,38.0,False,3,False
+Self Repair,41.0,True,3,False
+Loop,41.0,False,3,False
+Chaos,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,42.0,True,3,False
+Genetic Algorithm,42.0,False,3,False
+Leap,42.0,False,3,False
+Go for the Eyes,42.0,False,3,False
+SKIP,42.0,False,3,False
+Meteor Strike,44.0,True,3,False
+Cold Snap,44.0,False,3,False
+Fusion,44.0,False,3,False
+SKIP,44.0,False,3,False
+Fission,45.0,True,3,False
+Hologram,45.0,False,3,False
+Ball Lightning,45.0,False,3,False
+SKIP,45.0,False,3,False
+Barrage,46.0,True,3,False
+Beam Cell,46.0,False,3,False
+Go for the Eyes,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Heatsinks,47.0,False,3,False
+BootSequence,47.0,False,3,False
+Chaos,47.0,False,3,False
+SKIP,47.0,False,3,False
+Compile Driver,48.0,True,3,False
+Turbo,48.0,False,3,False
+Conserve Battery,48.0,False,3,False
+SKIP,48.0,False,3,False
+Go for the Eyes,1.0,True,1,False
+Redo,1.0,False,1,False
+Claw,1.0,False,1,False
+SKIP,1.0,False,1,False
+Steam,2.0,True,1,False
+Fusion,2.0,False,1,False
+Turbo,2.0,False,1,False
+SKIP,2.0,False,1,False
+Self Repair,3.0,True,1,False
+White Noise,3.0,False,1,False
+Coolheaded,3.0,False,1,False
+SKIP,3.0,False,1,False
+Doom and Gloom,5.0,True,1,False
+Barrage,5.0,False,1,False
+Cold Snap,5.0,False,1,False
+SKIP,5.0,False,1,False
+Cold Snap,7.0,True,1,False
+Steam,7.0,False,1,False
+Force Field,7.0,False,1,False
+SKIP,7.0,False,1,False
+Defragment,8.0,True,1,False
+Leap,8.0,False,1,False
+Tempest,8.0,False,1,False
+SKIP,8.0,False,1,False
+Undo,13.0,True,1,False
+Rebound,13.0,False,1,False
+Reinforced Body,13.0,False,1,False
+Genetic Algorithm,13.0,False,1,False
+SKIP,13.0,False,1,False
+Reinforced Body,14.0,True,1,False
+Ball Lightning,14.0,False,1,False
+Creative AI,14.0,False,1,False
+Reprogram,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Core Surge,16.0,False,1,True
+Amplify,16.0,False,1,True
+Hyperbeam,16.0,False,1,True
+SKIP,16.0,False,1,True
+Lockon,18.0,True,2,False
+Rebound,18.0,False,2,False
+Stack,18.0,False,2,False
+Sweeping Beam,18.0,False,2,False
+SKIP,18.0,False,2,False
+Turbo,21.0,True,2,False
+Stack,21.0,False,2,False
+Cold Snap,21.0,False,2,False
+Compile Driver,21.0,False,2,False
+SKIP,21.0,False,2,False
+Fission,22.0,True,2,False
+Recycle,22.0,False,2,False
+Redo,22.0,False,2,False
+Rebound,22.0,False,2,False
+SKIP,22.0,False,2,False
+Fusion,24.0,True,2,False
+Capacitor,24.0,False,2,False
+Streamline,24.0,False,2,False
+Turbo,24.0,False,2,False
+SKIP,24.0,False,2,False
+Meteor Strike,27.0,True,2,False
+Stack,27.0,False,2,False
+Auto Shields,27.0,False,2,False
+Fission,27.0,False,2,False
+SKIP,27.0,False,2,False
+Compile Driver,28.0,True,2,False
+FTL,28.0,False,2,False
+Storm,28.0,False,2,False
+Redo,28.0,False,2,False
+SKIP,28.0,False,2,False
+Cold Snap,30.0,True,2,False
+Conserve Battery,30.0,False,2,False
+White Noise,30.0,False,2,False
+Steam,30.0,False,2,False
+SKIP,30.0,False,2,False
+Reboot,31.0,True,2,False
+Barrage,31.0,False,2,False
+Static Discharge,31.0,False,2,False
+Reprogram,31.0,False,2,False
+SKIP,31.0,False,2,False
+Coolheaded,1.0,True,1,False
+Auto Shields,1.0,False,1,False
+Rebound,1.0,False,1,False
+SKIP,1.0,False,1,False
+Loop,2.0,True,1,False
+Claw,2.0,False,1,False
+Steam,2.0,False,1,False
+SKIP,2.0,False,1,False
+Steam Power,4.0,True,1,False
+Force Field,4.0,False,1,False
+Darkness,4.0,False,1,False
+SKIP,4.0,False,1,False
+Compile Driver,5.0,True,1,False
+Claw,5.0,False,1,False
+Fusion,5.0,False,1,False
+SKIP,5.0,False,1,False
+Undo,7.0,True,1,False
+Coolheaded,7.0,False,1,False
+Auto Shields,7.0,False,1,False
+SKIP,7.0,False,1,False
+Steam,8.0,True,1,False
+Tempest,8.0,False,1,False
+Storm,8.0,False,1,False
+SKIP,8.0,False,1,False
+White Noise,11.0,True,1,False
+Redo,11.0,False,1,False
+Machine Learning,11.0,False,1,False
+SKIP,11.0,False,1,False
+Doom and Gloom,12.0,True,1,False
+Turbo,12.0,False,1,False
+Skim,12.0,False,1,False
+SKIP,12.0,False,1,False
+Self Repair,13.0,True,1,False
+Chaos,13.0,False,1,False
+Redo,13.0,False,1,False
+SKIP,13.0,False,1,False
+Electrodynamics,16.0,True,1,True
+Rainbow,16.0,False,1,True
+Buffer,16.0,False,1,True
+SKIP,16.0,False,1,True
+Hologram,18.0,True,2,False
+Beam Cell,18.0,False,2,False
+Compile Driver,18.0,False,2,False
+SKIP,18.0,False,2,False
+Skim,19.0,True,2,False
+Turbo,19.0,False,2,False
+Redo,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,20.0,True,2,False
+Ball Lightning,20.0,False,2,False
+Darkness,20.0,False,2,False
+Fusion,20.0,False,2,False
+SKIP,20.0,False,2,False
+Force Field,23.0,True,2,False
+Scrape,23.0,False,2,False
+Blizzard,23.0,False,2,False
+SKIP,23.0,False,2,False
+Cold Snap,25.0,True,2,False
+Redo,25.0,False,2,False
+Stack,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Melter,27.0,False,2,False
+Streamline,27.0,False,2,False
+Force Field,27.0,False,2,False
+SKIP,27.0,False,2,False
+Undo,28.0,True,2,False
+Machine Learning,28.0,False,2,False
+Storm,28.0,False,2,False
+Turbo,28.0,False,2,False
+Doom and Gloom,28.0,False,2,False
+Ball Lightning,28.0,False,2,False
+Capacitor,28.0,False,2,False
+Compile Driver,28.0,False,2,False
+Heatsinks,28.0,False,2,False
+Hologram,28.0,False,2,False
+Aggregate,28.0,False,2,False
+Steam,28.0,False,2,False
+Sweeping Beam,28.0,False,2,False
+Darkness,28.0,False,2,False
+Chaos,28.0,False,2,False
+Meteor Strike,28.0,False,2,False
+Beam Cell,28.0,False,2,False
+Stack,28.0,False,2,False
+Barrage,28.0,False,2,False
+Conserve Battery,28.0,False,2,False
+SKIP,28.0,False,2,False
+Buffer,29.0,True,2,False
+Aggregate,29.0,False,2,False
+Chaos,29.0,False,2,False
+SKIP,29.0,False,2,False
+Chill,30.0,True,2,False
+Hologram,30.0,False,2,False
+Hello World,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Go for the Eyes,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+Barrage,31.0,False,2,False
+SKIP,31.0,False,2,False
+Barrage,31.0,True,2,False
+Go for the Eyes,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+SKIP,31.0,False,2,False
+Core Surge,33.0,True,2,True
+Amplify,33.0,False,2,True
+Reboot,33.0,False,2,True
+SKIP,33.0,False,2,True
+Glacier,35.0,True,3,False
+Go for the Eyes,35.0,False,3,False
+Claw,35.0,False,3,False
+SKIP,35.0,False,3,False
+Defragment,36.0,True,3,False
+Reprogram,36.0,False,3,False
+Leap,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,39.0,True,3,False
+Conserve Battery,39.0,False,3,False
+Turbo,39.0,False,3,False
+FTL,39.0,False,3,False
+SKIP,39.0,False,3,False
+Coolheaded,40.0,True,3,False
+Tempest,40.0,False,3,False
+Barrage,40.0,False,3,False
+SKIP,40.0,False,3,False
+Loop,44.0,True,3,False
+FTL,44.0,False,3,False
+Beam Cell,44.0,False,3,False
+SKIP,44.0,False,3,False
+Redo,45.0,True,3,False
+Melter,45.0,False,3,False
+Scrape,45.0,False,3,False
+SKIP,45.0,False,3,False
+Hologram,46.0,True,3,False
+Cold Snap,46.0,False,3,False
+Core Surge,46.0,False,3,False
+SKIP,46.0,False,3,False
+BootSequence,47.0,True,3,False
+Streamline,47.0,False,3,False
+Hologram,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Claw,48.0,False,3,False
+Redo,48.0,False,3,False
+Reinforced Body,48.0,False,3,False
+SKIP,48.0,False,3,False
+Chill,55.0,True,4,False
+Scrape,55.0,False,4,False
+Ball Lightning,55.0,False,4,False
+SKIP,55.0,False,4,False
+Cold Snap,1.0,True,1,False
+Sweeping Beam,1.0,False,1,False
+Go for the Eyes,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Cold Snap,2.0,False,1,False
+Recycle,2.0,False,1,False
+Storm,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,3.0,True,1,False
+Lockon,3.0,False,1,False
+Steam,3.0,False,1,False
+Turbo,3.0,False,1,False
+SKIP,3.0,False,1,False
+Undo,4.0,True,1,False
+Steam,4.0,False,1,False
+Cold Snap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Biased Cognition,6.0,True,1,False
+Rip and Tear,6.0,False,1,False
+Compile Driver,6.0,False,1,False
+SKIP,6.0,False,1,False
+Compile Driver,10.0,True,1,False
+Rip and Tear,10.0,False,1,False
+Claw,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,12.0,True,1,False
+Compile Driver,12.0,False,1,False
+Static Discharge,12.0,False,1,False
+Recycle,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Melter,13.0,False,1,False
+Compile Driver,13.0,False,1,False
+Stack,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Beam Cell,14.0,False,1,False
+Conserve Battery,14.0,False,1,False
+Leap,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Creative AI,16.0,False,1,True
+Core Surge,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Compile Driver,18.0,False,2,False
+Melter,18.0,False,2,False
+Barrage,18.0,False,2,False
+SKIP,18.0,False,2,False
+Coolheaded,19.0,True,2,False
+Heatsinks,19.0,False,2,False
+Consume,19.0,False,2,False
+SKIP,19.0,False,2,False
+Turbo,22.0,True,2,False
+Genetic Algorithm,22.0,False,2,False
+FTL,22.0,False,2,False
+SKIP,22.0,False,2,False
+BootSequence,24.0,True,2,False
+Amplify,24.0,False,2,False
+Self Repair,24.0,False,2,False
+SKIP,24.0,False,2,False
+Heatsinks,25.0,True,2,False
+Stack,25.0,False,2,False
+Barrage,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Turbo,27.0,False,2,False
+Chaos,27.0,False,2,False
+Steam,27.0,False,2,False
+SKIP,27.0,False,2,False
+Glacier,30.0,True,2,False
+Steam,30.0,False,2,False
+Stack,30.0,False,2,False
+SKIP,30.0,False,2,False
+Seek,31.0,True,2,False
+Double Energy,31.0,False,2,False
+Stack,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Creative AI,33.0,False,2,True
+Rainbow,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Sweeping Beam,35.0,False,3,False
+Heatsinks,35.0,False,3,False
+Streamline,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Self Repair,36.0,False,3,False
+Auto Shields,36.0,False,3,False
+Beam Cell,36.0,False,3,False
+SKIP,36.0,False,3,False
+Echo Form,39.0,True,3,False
+Rebound,39.0,False,3,False
+Leap,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Beam Cell,40.0,False,3,False
+Amplify,40.0,False,3,False
+Steam Power,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Beam Cell,40.0,False,3,False
+Amplify,40.0,False,3,False
+Steam Power,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Coolheaded,42.0,False,3,False
+Sweeping Beam,42.0,False,3,False
+Barrage,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,42.0,True,3,False
+Coolheaded,42.0,False,3,False
+Sweeping Beam,42.0,False,3,False
+Barrage,42.0,False,3,False
+SKIP,42.0,False,3,False
+Hologram,44.0,True,3,False
+Capacitor,44.0,False,3,False
+Cold Snap,44.0,False,3,False
+SKIP,44.0,False,3,False
+Hologram,47.0,True,3,False
+Melter,47.0,False,3,False
+Hyperbeam,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Steam,48.0,False,3,False
+Cold Snap,48.0,False,3,False
+Melter,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Consume,55.0,False,4,False
+Cold Snap,55.0,False,4,False
+Coolheaded,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sweeping Beam,1.0,True,1,False
+Beam Cell,1.0,False,1,False
+Streamline,1.0,False,1,False
+SKIP,1.0,False,1,False
+Glacier,2.0,True,1,False
+Chill,2.0,False,1,False
+Melter,2.0,False,1,False
+SKIP,2.0,False,1,False
+Steam Power,3.0,True,1,False
+Barrage,3.0,False,1,False
+Go for the Eyes,3.0,False,1,False
+SKIP,3.0,False,1,False
+Chill,7.0,True,1,False
+Cold Snap,7.0,False,1,False
+Ball Lightning,7.0,False,1,False
+SKIP,7.0,False,1,False
+Sunder,8.0,True,1,False
+Rebound,8.0,False,1,False
+Capacitor,8.0,False,1,False
+SKIP,8.0,False,1,False
+Skim,10.0,True,1,False
+Stack,10.0,False,1,False
+Turbo,10.0,False,1,False
+SKIP,10.0,False,1,False
+Double Energy,12.0,True,1,False
+Consume,12.0,False,1,False
+Steam,12.0,False,1,False
+SKIP,12.0,False,1,False
+Meteor Strike,16.0,True,1,True
+Machine Learning,16.0,False,1,True
+Electrodynamics,16.0,False,1,True
+SKIP,16.0,False,1,True
+Go for the Eyes,18.0,True,2,False
+Steam,18.0,False,2,False
+Rebound,18.0,False,2,False
+SKIP,18.0,False,2,False
+Recycle,20.0,True,2,False
+Hello World,20.0,False,2,False
+Cold Snap,20.0,False,2,False
+SKIP,20.0,False,2,False
+Conserve Battery,1.0,True,1,False
+Coolheaded,1.0,False,1,False
+Barrage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Undo,3.0,True,1,False
+Claw,3.0,False,1,False
+Chaos,3.0,False,1,False
+SKIP,3.0,False,1,False
+Beam Cell,4.0,True,1,False
+Barrage,4.0,False,1,False
+Claw,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,7.0,True,1,False
+Leap,7.0,False,1,False
+White Noise,7.0,False,1,False
+Stack,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,7.0,True,1,False
+Leap,7.0,False,1,False
+White Noise,7.0,False,1,False
+Stack,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,7.0,True,1,False
+Leap,7.0,False,1,False
+White Noise,7.0,False,1,False
+Stack,7.0,False,1,False
+SKIP,7.0,False,1,False
+BootSequence,8.0,True,1,False
+Recycle,8.0,False,1,False
+Turbo,8.0,False,1,False
+SKIP,8.0,False,1,False
+Turbo,10.0,True,1,False
+Undo,10.0,False,1,False
+Stack,10.0,False,1,False
+SKIP,10.0,False,1,False
+Darkness,12.0,True,1,False
+Conserve Battery,12.0,False,1,False
+Static Discharge,12.0,False,1,False
+SKIP,12.0,False,1,False
+Lockon,13.0,True,1,False
+Chaos,13.0,False,1,False
+BootSequence,13.0,False,1,False
+SKIP,13.0,False,1,False
+All For One,14.0,True,1,False
+BootSequence,14.0,False,1,False
+Barrage,14.0,False,1,False
+SKIP,14.0,False,1,False
+Rainbow,16.0,True,1,True
+Reboot,16.0,False,1,True
+Machine Learning,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Tempest,18.0,False,2,False
+Lockon,18.0,False,2,False
+Reinforced Body,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Tempest,18.0,False,2,False
+Lockon,18.0,False,2,False
+Reinforced Body,18.0,False,2,False
+SKIP,18.0,False,2,False
+Steam,20.0,True,2,False
+Recycle,20.0,False,2,False
+Rebound,20.0,False,2,False
+SKIP,20.0,False,2,False
+Hologram,24.0,True,2,False
+Meteor Strike,24.0,False,2,False
+Turbo,24.0,False,2,False
+SKIP,24.0,False,2,False
+Hologram,29.0,True,2,False
+Claw,29.0,False,2,False
+Turbo,29.0,False,2,False
+SKIP,29.0,False,2,False
+Claw,30.0,True,2,False
+Melter,30.0,False,2,False
+Streamline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Leap,31.0,True,2,False
+Sweeping Beam,31.0,False,2,False
+Stack,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+All For One,33.0,False,2,True
+Rainbow,33.0,False,2,True
+SKIP,33.0,False,2,True
+Recycle,35.0,True,3,False
+Blizzard,35.0,False,3,False
+Reinforced Body,35.0,False,3,False
+SKIP,35.0,False,3,False
+Compile Driver,36.0,True,3,False
+Barrage,36.0,False,3,False
+Stack,36.0,False,3,False
+SKIP,36.0,False,3,False
+Glacier,38.0,True,3,False
+White Noise,38.0,False,3,False
+Ball Lightning,38.0,False,3,False
+SKIP,38.0,False,3,False
+Compile Driver,39.0,True,3,False
+Stack,39.0,False,3,False
+Rebound,39.0,False,3,False
+SKIP,39.0,False,3,False
+Aggregate,40.0,True,3,False
+Leap,40.0,False,3,False
+Cold Snap,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Cold Snap,42.0,False,3,False
+Recycle,42.0,False,3,False
+Heatsinks,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,42.0,True,3,False
+Cold Snap,42.0,False,3,False
+Recycle,42.0,False,3,False
+Heatsinks,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,46.0,True,3,False
+Compile Driver,46.0,False,3,False
+FTL,46.0,False,3,False
+Auto Shields,46.0,False,3,False
+SKIP,46.0,False,3,False
+Finesse,47.0,True,3,False
+Deep Breath,47.0,False,3,False
+Dramatic Entrance,47.0,False,3,False
+SKIP,47.0,False,3,False
+Madness,47.0,True,3,False
+PanicButton,47.0,False,3,False
+Master of Strategy,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Mayhem,47.0,False,3,False
+Enlightenment,47.0,False,3,False
+Forethought,47.0,False,3,False
+SKIP,47.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Compile Driver,48.0,False,3,False
+Rainbow,48.0,False,3,False
+Claw,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Aggregate,54.0,True,4,False
+Steam,54.0,False,4,False
+Cold Snap,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Chaos,54.0,True,4,False
+Conserve Battery,54.0,False,4,False
+Stack,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Cold Snap,54.0,True,4,False
+Steam,54.0,False,4,False
+Storm,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Singing Bowl,54.0,True,4,False
+Melter,54.0,False,4,False
+Ball Lightning,54.0,False,4,False
+Sunder,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Singing Bowl,54.0,True,4,False
+Cold Snap,54.0,False,4,False
+Ball Lightning,54.0,False,4,False
+Steam,54.0,False,4,False
+Singing Bowl,54.0,False,4,False
+Buffer,55.0,True,4,False
+Ball Lightning,55.0,False,4,False
+Barrage,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Doom and Gloom,1.0,True,1,False
+Ball Lightning,1.0,False,1,False
+Beam Cell,1.0,False,1,False
+SKIP,1.0,False,1,False
+Rebound,3.0,True,1,False
+Storm,3.0,False,1,False
+Darkness,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,4.0,True,1,False
+Steam,4.0,False,1,False
+Beam Cell,4.0,False,1,False
+SKIP,4.0,False,1,False
+Hologram,5.0,True,1,False
+Rebound,5.0,False,1,False
+Compile Driver,5.0,False,1,False
+SKIP,5.0,False,1,False
+Skim,7.0,True,1,False
+Sunder,7.0,False,1,False
+Coolheaded,7.0,False,1,False
+SKIP,7.0,False,1,False
+Redo,10.0,True,1,False
+Stack,10.0,False,1,False
+Ball Lightning,10.0,False,1,False
+SKIP,10.0,False,1,False
+Genetic Algorithm,11.0,True,1,False
+Go for the Eyes,11.0,False,1,False
+Beam Cell,11.0,False,1,False
+SKIP,11.0,False,1,False
+Buffer,14.0,True,1,False
+Skim,14.0,False,1,False
+Redo,14.0,False,1,False
+SKIP,14.0,False,1,False
+Rainbow,16.0,True,1,True
+Hyperbeam,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+Compile Driver,18.0,True,2,False
+Steam,18.0,False,2,False
+Leap,18.0,False,2,False
+SKIP,18.0,False,2,False
+Seek,20.0,True,2,False
+Glacier,20.0,False,2,False
+Cold Snap,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Rebound,21.0,False,2,False
+Streamline,21.0,False,2,False
+Steam,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,21.0,True,2,False
+Rebound,21.0,False,2,False
+Streamline,21.0,False,2,False
+Steam,21.0,False,2,False
+SKIP,21.0,False,2,False
+Cold Snap,23.0,True,2,False
+Redo,23.0,False,2,False
+Leap,23.0,False,2,False
+SKIP,23.0,False,2,False
+Chill,24.0,True,2,False
+Ball Lightning,24.0,False,2,False
+Rebound,24.0,False,2,False
+SKIP,24.0,False,2,False
+Turbo,29.0,True,2,False
+Streamline,29.0,False,2,False
+Leap,29.0,False,2,False
+SKIP,29.0,False,2,False
+Skim,30.0,True,2,False
+Turbo,30.0,False,2,False
+Defragment,30.0,False,2,False
+SKIP,30.0,False,2,False
+Recycle,31.0,True,2,False
+Leap,31.0,False,2,False
+Reboot,31.0,False,2,False
+SKIP,31.0,False,2,False
+All For One,33.0,True,2,True
+Creative AI,33.0,False,2,True
+Machine Learning,33.0,False,2,True
+SKIP,33.0,False,2,True
+Coolheaded,35.0,True,3,False
+Sweeping Beam,35.0,False,3,False
+BootSequence,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Reinforced Body,37.0,False,3,False
+Streamline,37.0,False,3,False
+Rip and Tear,37.0,False,3,False
+SKIP,37.0,False,3,False
+Self Repair,38.0,True,3,False
+Leap,38.0,False,3,False
+Streamline,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Sweeping Beam,39.0,False,3,False
+Conserve Battery,39.0,False,3,False
+Barrage,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Rebound,40.0,False,3,False
+Reprogram,40.0,False,3,False
+Sunder,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Streamline,42.0,False,3,False
+Multi-Cast,42.0,False,3,False
+Genetic Algorithm,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,47.0,True,3,False
+Streamline,47.0,False,3,False
+Leap,47.0,False,3,False
+Conserve Battery,47.0,False,3,False
+SKIP,47.0,False,3,False
+Heatsinks,48.0,True,3,False
+White Noise,48.0,False,3,False
+Storm,48.0,False,3,False
+SKIP,48.0,False,3,False
+Coolheaded,1.0,True,1,False
+Steam,1.0,False,1,False
+Redo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Hologram,2.0,True,1,False
+Static Discharge,2.0,False,1,False
+Leap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Streamline,4.0,True,1,False
+Turbo,4.0,False,1,False
+Barrage,4.0,False,1,False
+SKIP,4.0,False,1,False
+Go for the Eyes,5.0,True,1,False
+Steam,5.0,False,1,False
+Aggregate,5.0,False,1,False
+SKIP,5.0,False,1,False
+Coolheaded,6.0,True,1,False
+Compile Driver,6.0,False,1,False
+Barrage,6.0,False,1,False
+SKIP,6.0,False,1,False
+Echo Form,11.0,True,1,False
+Glacier,11.0,False,1,False
+Beam Cell,11.0,False,1,False
+SKIP,11.0,False,1,False
+Cold Snap,13.0,True,1,False
+Steam Power,13.0,False,1,False
+Lockon,13.0,False,1,False
+SKIP,13.0,False,1,False
+Loop,14.0,True,1,False
+Steam,14.0,False,1,False
+Streamline,14.0,False,1,False
+SKIP,14.0,False,1,False
+Multi-Cast,15.0,True,1,False
+Rip and Tear,15.0,False,1,False
+Auto Shields,15.0,False,1,False
+SKIP,15.0,False,1,False
+Seek,16.0,True,1,True
+Core Surge,16.0,False,1,True
+Reboot,16.0,False,1,True
+SKIP,16.0,False,1,True
+Compile Driver,18.0,True,2,False
+Redo,18.0,False,2,False
+Storm,18.0,False,2,False
+SKIP,18.0,False,2,False
+Beam Cell,19.0,True,2,False
+Cold Snap,19.0,False,2,False
+Loop,19.0,False,2,False
+SKIP,19.0,False,2,False
+Iron Wave,22.0,True,2,False
+Dark Embrace,22.0,False,2,False
+Indignation,22.0,False,2,False
+SKIP,22.0,False,2,False
+Conserve Battery,23.0,True,2,False
+Carnage,23.0,False,2,False
+Outmaneuver,23.0,False,2,False
+SKIP,23.0,False,2,False
+Corruption,24.0,True,2,False
+Wild Strike,24.0,False,2,False
+Trip,24.0,False,2,False
+SKIP,24.0,False,2,False
+Stack,25.0,True,2,False
+Weave,25.0,False,2,False
+Deadly Poison,25.0,False,2,False
+SKIP,25.0,False,2,False
+Dark Embrace,27.0,True,2,False
+Burning Pact,27.0,False,2,False
+Finisher,27.0,False,2,False
+SKIP,27.0,False,2,False
+Self Repair,28.0,True,2,False
+Heatsinks,28.0,False,2,False
+Clothesline,28.0,False,2,False
+SKIP,28.0,False,2,False
+Tantrum,29.0,True,2,False
+FlyingSleeves,29.0,False,2,False
+Cold Snap,29.0,False,2,False
+SKIP,29.0,False,2,False
+Sentinel,31.0,True,2,False
+Streamline,31.0,False,2,False
+Blood for Blood,31.0,False,2,False
+SKIP,31.0,False,2,False
+Vault,33.0,True,2,True
+Bullet Time,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+ThirdEye,35.0,True,3,False
+Barrage,35.0,False,3,False
+Turbo,35.0,False,3,False
+SKIP,35.0,False,3,False
+Deflect,36.0,True,3,False
+MentalFortress,36.0,False,3,False
+Weave,36.0,False,3,False
+SKIP,36.0,False,3,False
+Conserve Battery,38.0,True,3,False
+Clash,38.0,False,3,False
+Poisoned Stab,38.0,False,3,False
+SKIP,38.0,False,3,False
+Worship,39.0,True,3,False
+Streamline,39.0,False,3,False
+Conserve Battery,39.0,False,3,False
+SKIP,39.0,False,3,False
+Battle Trance,40.0,True,3,False
+Slice,40.0,False,3,False
+Masterful Stab,40.0,False,3,False
+SKIP,40.0,False,3,False
+Wraith Form,42.0,True,3,False
+Rebound,42.0,False,3,False
+Shrug It Off,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,45.0,True,3,False
+Warcry,45.0,False,3,False
+Steam,45.0,False,3,False
+SashWhip,45.0,False,3,False
+SKIP,45.0,False,3,False
+Turbo,46.0,True,3,False
+All Out Attack,46.0,False,3,False
+Rupture,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,48.0,True,3,False
+Doom and Gloom,48.0,False,3,False
+Sweeping Beam,48.0,False,3,False
+Static Discharge,48.0,False,3,False
+SKIP,48.0,False,3,False
+Backflip,54.0,True,4,False
+Redo,54.0,False,4,False
+Body Slam,54.0,False,4,False
+SKIP,54.0,False,4,False
+Heavy Blade,54.0,True,4,False
+Corpse Explosion,54.0,False,4,False
+Blade Dance,54.0,False,4,False
+SKIP,54.0,False,4,False
+Reboot,54.0,True,4,False
+Sword Boomerang,54.0,False,4,False
+Consecrate,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Eviscerate,54.0,False,4,False
+Immolate,54.0,False,4,False
+Go for the Eyes,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Doom and Gloom,54.0,False,4,False
+Pommel Strike,54.0,False,4,False
+Perseverance,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,55.0,True,4,False
+Glacier,55.0,False,4,False
+Skewer,55.0,False,4,False
+Warcry,55.0,False,4,False
+SKIP,55.0,False,4,False
+Skim,1.0,True,1,False
+Hologram,1.0,False,1,False
+Turbo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Chill,2.0,True,1,False
+Genetic Algorithm,2.0,False,1,False
+Steam Power,2.0,False,1,False
+SKIP,2.0,False,1,False
+Coolheaded,7.0,True,1,False
+Aggregate,7.0,False,1,False
+Turbo,7.0,False,1,False
+SKIP,7.0,False,1,False
+Chaos,10.0,True,1,False
+Storm,10.0,False,1,False
+Recycle,10.0,False,1,False
+SKIP,10.0,False,1,False
+Loop,12.0,True,1,False
+Sweeping Beam,12.0,False,1,False
+Beam Cell,12.0,False,1,False
+SKIP,12.0,False,1,False
+Lockon,13.0,True,1,False
+Ball Lightning,13.0,False,1,False
+Conserve Battery,13.0,False,1,False
+SKIP,13.0,False,1,False
+Go for the Eyes,14.0,True,1,False
+Cold Snap,14.0,False,1,False
+Streamline,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Meteor Strike,16.0,False,1,True
+All For One,16.0,False,1,True
+SKIP,16.0,False,1,True
+Compile Driver,18.0,True,2,False
+Go for the Eyes,18.0,False,2,False
+Stack,18.0,False,2,False
+SKIP,18.0,False,2,False
+Sweeping Beam,20.0,True,2,False
+Machine Learning,20.0,False,2,False
+Redo,20.0,False,2,False
+SKIP,20.0,False,2,False
+Steam,22.0,True,2,False
+Claw,22.0,False,2,False
+Chill,22.0,False,2,False
+SKIP,22.0,False,2,False
+Seek,24.0,True,2,False
+Streamline,24.0,False,2,False
+Machine Learning,24.0,False,2,False
+SKIP,24.0,False,2,False
+Multi-Cast,28.0,True,2,False
+Reprogram,28.0,False,2,False
+Heatsinks,28.0,False,2,False
+SKIP,28.0,False,2,False
+Hologram,29.0,True,2,False
+Leap,29.0,False,2,False
+Ball Lightning,29.0,False,2,False
+SKIP,29.0,False,2,False
+Compile Driver,30.0,True,2,False
+Ball Lightning,30.0,False,2,False
+Beam Cell,30.0,False,2,False
+SKIP,30.0,False,2,False
+Meteor Strike,33.0,True,2,True
+Biased Cognition,33.0,False,2,True
+Electrodynamics,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Steam,35.0,False,3,False
+Barrage,35.0,False,3,False
+Chill,35.0,False,3,False
+SKIP,35.0,False,3,False
+Darkness,37.0,True,3,False
+Beam Cell,37.0,False,3,False
+Melter,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Heatsinks,38.0,False,3,False
+Leap,38.0,False,3,False
+Tempest,38.0,False,3,False
+SKIP,38.0,False,3,False
+Turbo,41.0,True,3,False
+Storm,41.0,False,3,False
+Beam Cell,41.0,False,3,False
+SKIP,41.0,False,3,False
+Stack,44.0,True,3,False
+Rainbow,44.0,False,3,False
+Capacitor,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Turbo,45.0,False,3,False
+Stack,45.0,False,3,False
+Streamline,45.0,False,3,False
+SKIP,45.0,False,3,False
+Conserve Battery,46.0,True,3,False
+Streamline,46.0,False,3,False
+Sweeping Beam,46.0,False,3,False
+SKIP,46.0,False,3,False
+Aggregate,47.0,True,3,False
+Genetic Algorithm,47.0,False,3,False
+Beam Cell,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Self Repair,48.0,False,3,False
+Leap,48.0,False,3,False
+Lockon,48.0,False,3,False
+SKIP,48.0,False,3,False
+Echo Form,55.0,True,4,False
+Hologram,55.0,False,4,False
+Beam Cell,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sweeping Beam,1.0,True,1,False
+Reinforced Body,1.0,False,1,False
+Heatsinks,1.0,False,1,False
+SKIP,1.0,False,1,False
+Defragment,3.0,True,1,False
+Compile Driver,3.0,False,1,False
+Redo,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,4.0,True,1,False
+FTL,4.0,False,1,False
+Leap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Cold Snap,8.0,True,1,False
+Lockon,8.0,False,1,False
+Tempest,8.0,False,1,False
+SKIP,8.0,False,1,False
+Redo,10.0,True,1,False
+Cold Snap,10.0,False,1,False
+Barrage,10.0,False,1,False
+SKIP,10.0,False,1,False
+Hologram,11.0,True,1,False
+Thunder Strike,11.0,False,1,False
+Compile Driver,11.0,False,1,False
+SKIP,11.0,False,1,False
+Hologram,12.0,True,1,False
+Steam,12.0,False,1,False
+Chaos,12.0,False,1,False
+SKIP,12.0,False,1,False
+BootSequence,14.0,True,1,False
+Streamline,14.0,False,1,False
+Claw,14.0,False,1,False
+SKIP,14.0,False,1,False
+Buffer,16.0,True,1,True
+Rainbow,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+Glacier,18.0,True,2,False
+Cold Snap,18.0,False,2,False
+Compile Driver,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,24.0,True,2,False
+Rip and Tear,24.0,False,2,False
+BootSequence,24.0,False,2,False
+Beam Cell,24.0,False,2,False
+SKIP,24.0,False,2,False
+Skim,1.0,True,1,False
+Consume,1.0,False,1,False
+Coolheaded,1.0,False,1,False
+SKIP,1.0,False,1,False
+Rip and Tear,4.0,True,1,False
+Leap,4.0,False,1,False
+Reprogram,4.0,False,1,False
+SKIP,4.0,False,1,False
+Go for the Eyes,5.0,True,1,False
+Blizzard,5.0,False,1,False
+White Noise,5.0,False,1,False
+SKIP,5.0,False,1,False
+Darkness,6.0,True,1,False
+Consume,6.0,False,1,False
+Conserve Battery,6.0,False,1,False
+SKIP,6.0,False,1,False
+Streamline,13.0,True,1,False
+Go for the Eyes,13.0,False,1,False
+Sweeping Beam,13.0,False,1,False
+SKIP,13.0,False,1,False
+Redo,14.0,True,1,False
+Consume,14.0,False,1,False
+Force Field,14.0,False,1,False
+SKIP,14.0,False,1,False
+All For One,16.0,True,1,True
+Buffer,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+Hologram,18.0,True,2,False
+Coolheaded,18.0,False,2,False
+Barrage,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Sweeping Beam,19.0,False,2,False
+Barrage,19.0,False,2,False
+Tempest,19.0,False,2,False
+SKIP,19.0,False,2,False
+Doom and Gloom,21.0,True,2,False
+Go for the Eyes,21.0,False,2,False
+Recycle,21.0,False,2,False
+SKIP,21.0,False,2,False
+Beam Cell,22.0,True,2,False
+Stack,22.0,False,2,False
+Reprogram,22.0,False,2,False
+SKIP,22.0,False,2,False
+Genetic Algorithm,24.0,True,2,False
+Stack,24.0,False,2,False
+Consume,24.0,False,2,False
+SKIP,24.0,False,2,False
+Defragment,1.0,True,1,False
+Genetic Algorithm,1.0,False,1,False
+Turbo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Sweeping Beam,3.0,True,1,False
+Static Discharge,3.0,False,1,False
+Rip and Tear,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,4.0,True,1,False
+Hologram,4.0,False,1,False
+Leap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Redo,5.0,True,1,False
+Leap,5.0,False,1,False
+Beam Cell,5.0,False,1,False
+SKIP,5.0,False,1,False
+Beam Cell,7.0,True,1,False
+Darkness,7.0,False,1,False
+Capacitor,7.0,False,1,False
+SKIP,7.0,False,1,False
+Self Repair,8.0,True,1,False
+Melter,8.0,False,1,False
+Rip and Tear,8.0,False,1,False
+SKIP,8.0,False,1,False
+Biased Cognition,10.0,True,1,False
+Leap,10.0,False,1,False
+Darkness,10.0,False,1,False
+SKIP,10.0,False,1,False
+Coolheaded,14.0,True,1,False
+Go for the Eyes,14.0,False,1,False
+Beam Cell,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fission,16.0,True,1,True
+Buffer,16.0,False,1,True
+Hyperbeam,16.0,False,1,True
+SKIP,16.0,False,1,True
+Conserve Battery,18.0,True,2,False
+Compile Driver,18.0,False,2,False
+Rebound,18.0,False,2,False
+SKIP,18.0,False,2,False
+Aggregate,19.0,True,2,False
+FTL,19.0,False,2,False
+Barrage,19.0,False,2,False
+SKIP,19.0,False,2,False
+Self Repair,20.0,True,2,False
+Conserve Battery,20.0,False,2,False
+Compile Driver,20.0,False,2,False
+SKIP,20.0,False,2,False
+Darkness,20.0,True,2,False
+Conserve Battery,20.0,False,2,False
+Undo,20.0,False,2,False
+SKIP,20.0,False,2,False
+Chaos,20.0,True,2,False
+Turbo,20.0,False,2,False
+Aggregate,20.0,False,2,False
+SKIP,20.0,False,2,False
+Genetic Algorithm,20.0,True,2,False
+Steam,20.0,False,2,False
+Compile Driver,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,20.0,True,2,False
+Barrage,20.0,False,2,False
+Stack,20.0,False,2,False
+Beam Cell,20.0,False,2,False
+SKIP,20.0,False,2,False
+Coolheaded,24.0,True,2,False
+White Noise,24.0,False,2,False
+Rebound,24.0,False,2,False
+SKIP,24.0,False,2,False
+Electrodynamics,27.0,True,2,False
+Cold Snap,27.0,False,2,False
+Barrage,27.0,False,2,False
+SKIP,27.0,False,2,False
+Compile Driver,28.0,True,2,False
+Heatsinks,28.0,False,2,False
+Rip and Tear,28.0,False,2,False
+SKIP,28.0,False,2,False
+Redo,31.0,True,2,False
+Beam Cell,31.0,False,2,False
+Streamline,31.0,False,2,False
+SKIP,31.0,False,2,False
+Meteor Strike,33.0,True,2,True
+Amplify,33.0,False,2,True
+Multi-Cast,33.0,False,2,True
+SKIP,33.0,False,2,True
+BootSequence,35.0,True,3,False
+Beam Cell,35.0,False,3,False
+Conserve Battery,35.0,False,3,False
+SKIP,35.0,False,3,False
+Panacea,37.0,True,3,False
+Swift Strike,37.0,False,3,False
+HandOfGreed,37.0,False,3,False
+SKIP,37.0,False,3,False
+Deep Breath,37.0,True,3,False
+Thinking Ahead,37.0,False,3,False
+Purity,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Jack Of All Trades,37.0,False,3,False
+Purity,37.0,False,3,False
+Panache,37.0,False,3,False
+SKIP,37.0,False,3,False
+Amplify,41.0,True,3,False
+Hello World,41.0,False,3,False
+Static Discharge,41.0,False,3,False
+SKIP,41.0,False,3,False
+Turbo,44.0,True,3,False
+Self Repair,44.0,False,3,False
+Force Field,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Conserve Battery,46.0,False,3,False
+Doom and Gloom,46.0,False,3,False
+Barrage,46.0,False,3,False
+SKIP,46.0,False,3,False
+Heatsinks,47.0,True,3,False
+Auto Shields,47.0,False,3,False
+Sweeping Beam,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Leap,48.0,False,3,False
+Static Discharge,48.0,False,3,False
+Redo,48.0,False,3,False
+SKIP,48.0,False,3,False
+Capacitor,55.0,True,4,False
+Thunder Strike,55.0,False,4,False
+Doom and Gloom,55.0,False,4,False
+SKIP,55.0,False,4,False
+Doom and Gloom,1.0,True,1,False
+Coolheaded,1.0,False,1,False
+Force Field,1.0,False,1,False
+SKIP,1.0,False,1,False
+Cold Snap,2.0,True,1,False
+Conserve Battery,2.0,False,1,False
+Compile Driver,2.0,False,1,False
+SKIP,2.0,False,1,False
+Steam,3.0,True,1,False
+Redo,3.0,False,1,False
+Claw,3.0,False,1,False
+SKIP,3.0,False,1,False
+Cold Snap,4.0,True,1,False
+Stack,4.0,False,1,False
+Compile Driver,4.0,False,1,False
+SKIP,4.0,False,1,False
+Lockon,7.0,True,1,False
+FTL,7.0,False,1,False
+Conserve Battery,7.0,False,1,False
+SKIP,7.0,False,1,False
+Biased Cognition,11.0,True,1,False
+Undo,11.0,False,1,False
+Blizzard,11.0,False,1,False
+SKIP,11.0,False,1,False
+White Noise,13.0,True,1,False
+Rebound,13.0,False,1,False
+Blizzard,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Barrage,14.0,False,1,False
+Steam,14.0,False,1,False
+Ball Lightning,14.0,False,1,False
+SKIP,14.0,False,1,False
+Hyperbeam,16.0,True,1,True
+Amplify,16.0,False,1,True
+Thunder Strike,16.0,False,1,True
+SKIP,16.0,False,1,True
+Turbo,18.0,True,2,False
+Reprogram,18.0,False,2,False
+Capacitor,18.0,False,2,False
+SKIP,18.0,False,2,False
+Hologram,22.0,True,2,False
+Force Field,22.0,False,2,False
+Coolheaded,22.0,False,2,False
+SKIP,22.0,False,2,False
+Beam Cell,24.0,True,2,False
+Hologram,24.0,False,2,False
+Chaos,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,28.0,True,2,False
+Ball Lightning,28.0,False,2,False
+Rip and Tear,28.0,False,2,False
+Scrape,28.0,False,2,False
+SKIP,28.0,False,2,False
+Heatsinks,29.0,True,2,False
+Barrage,29.0,False,2,False
+Tempest,29.0,False,2,False
+SKIP,29.0,False,2,False
+Double Energy,30.0,True,2,False
+Sunder,30.0,False,2,False
+Melter,30.0,False,2,False
+SKIP,30.0,False,2,False
+White Noise,31.0,True,2,False
+Sunder,31.0,False,2,False
+Sweeping Beam,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+Creative AI,33.0,False,2,True
+Machine Learning,33.0,False,2,True
+SKIP,33.0,False,2,True
+Hologram,35.0,True,3,False
+Chaos,35.0,False,3,False
+Sweeping Beam,35.0,False,3,False
+SKIP,35.0,False,3,False
+Reprogram,36.0,True,3,False
+Beam Cell,36.0,False,3,False
+Barrage,36.0,False,3,False
+SKIP,36.0,False,3,False
+Self Repair,37.0,True,3,False
+Chill,37.0,False,3,False
+Static Discharge,37.0,False,3,False
+SKIP,37.0,False,3,False
+Streamline,37.0,True,3,False
+Chill,37.0,False,3,False
+BootSequence,37.0,False,3,False
+SKIP,37.0,False,3,False
+Conserve Battery,37.0,True,3,False
+Coolheaded,37.0,False,3,False
+Beam Cell,37.0,False,3,False
+SKIP,37.0,False,3,False
+Aggregate,37.0,True,3,False
+Leap,37.0,False,3,False
+Fusion,37.0,False,3,False
+SKIP,37.0,False,3,False
+Rebound,37.0,True,3,False
+Sweeping Beam,37.0,False,3,False
+Biased Cognition,37.0,False,3,False
+SKIP,37.0,False,3,False
+Stack,38.0,True,3,False
+White Noise,38.0,False,3,False
+Redo,38.0,False,3,False
+SKIP,38.0,False,3,False
+Hello World,39.0,True,3,False
+Capacitor,39.0,False,3,False
+Redo,39.0,False,3,False
+SKIP,39.0,False,3,False
+Reinforced Body,40.0,True,3,False
+Heatsinks,40.0,False,3,False
+Chill,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,44.0,True,3,False
+Melter,44.0,False,3,False
+Streamline,44.0,False,3,False
+Double Energy,44.0,False,3,False
+SKIP,44.0,False,3,False
+Conserve Battery,46.0,True,3,False
+Loop,46.0,False,3,False
+Ball Lightning,46.0,False,3,False
+SKIP,46.0,False,3,False
+Compile Driver,47.0,True,3,False
+Leap,47.0,False,3,False
+Rebound,47.0,False,3,False
+SKIP,47.0,False,3,False
+Ball Lightning,1.0,True,1,False
+Aggregate,1.0,False,1,False
+Go for the Eyes,1.0,False,1,False
+SKIP,1.0,False,1,False
+Go for the Eyes,2.0,True,1,False
+Claw,2.0,False,1,False
+Heatsinks,2.0,False,1,False
+SKIP,2.0,False,1,False
+FTL,3.0,True,1,False
+Compile Driver,3.0,False,1,False
+Coolheaded,3.0,False,1,False
+SKIP,3.0,False,1,False
+Sunder,4.0,True,1,False
+Sweeping Beam,4.0,False,1,False
+Leap,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,7.0,True,1,False
+Claw,7.0,False,1,False
+Reprogram,7.0,False,1,False
+Redo,7.0,False,1,False
+SKIP,7.0,False,1,False
+Beam Cell,8.0,True,1,False
+Capacitor,8.0,False,1,False
+Stack,8.0,False,1,False
+SKIP,8.0,False,1,False
+Steam Power,11.0,True,1,False
+Compile Driver,11.0,False,1,False
+Consume,11.0,False,1,False
+SKIP,11.0,False,1,False
+Hologram,14.0,True,1,False
+Coolheaded,14.0,False,1,False
+Heatsinks,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Leap,18.0,False,2,False
+Streamline,18.0,False,2,False
+Sweeping Beam,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,18.0,True,2,False
+Leap,18.0,False,2,False
+Streamline,18.0,False,2,False
+Sweeping Beam,18.0,False,2,False
+SKIP,18.0,False,2,False
+Doom and Gloom,19.0,True,2,False
+Redo,19.0,False,2,False
+Claw,19.0,False,2,False
+SKIP,19.0,False,2,False
+Rainbow,20.0,True,2,False
+Leap,20.0,False,2,False
+Coolheaded,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Streamline,21.0,False,2,False
+Beam Cell,21.0,False,2,False
+Rebound,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,23.0,True,2,False
+Rebound,23.0,False,2,False
+Ball Lightning,23.0,False,2,False
+Hyperbeam,23.0,False,2,False
+SKIP,23.0,False,2,False
+Glacier,25.0,True,2,False
+Capacitor,25.0,False,2,False
+Aggregate,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,28.0,True,2,False
+Rip and Tear,28.0,False,2,False
+Leap,28.0,False,2,False
+Conserve Battery,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,28.0,True,2,False
+Rip and Tear,28.0,False,2,False
+Leap,28.0,False,2,False
+Conserve Battery,28.0,False,2,False
+SKIP,28.0,False,2,False
+Stack,30.0,True,2,False
+Turbo,30.0,False,2,False
+Beam Cell,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Rebound,31.0,False,2,False
+Rip and Tear,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+SKIP,31.0,False,2,False
+Seek,33.0,True,2,True
+Core Surge,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Consume,35.0,False,3,False
+Go for the Eyes,35.0,False,3,False
+Steam,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Steam,36.0,False,3,False
+Ball Lightning,36.0,False,3,False
+Go for the Eyes,36.0,False,3,False
+SKIP,36.0,False,3,False
+Force Field,37.0,True,3,False
+Claw,37.0,False,3,False
+Redo,37.0,False,3,False
+SKIP,37.0,False,3,False
+Hologram,38.0,True,3,False
+Sweeping Beam,38.0,False,3,False
+Stack,38.0,False,3,False
+SKIP,38.0,False,3,False
+Double Energy,39.0,True,3,False
+Storm,39.0,False,3,False
+Sweeping Beam,39.0,False,3,False
+SKIP,39.0,False,3,False
+Biased Cognition,40.0,True,3,False
+White Noise,40.0,False,3,False
+Steam Power,40.0,False,3,False
+SKIP,40.0,False,3,False
+Undo,42.0,True,3,False
+Storm,42.0,False,3,False
+Claw,42.0,False,3,False
+SKIP,42.0,False,3,False
+Fusion,44.0,True,3,False
+Blizzard,44.0,False,3,False
+Barrage,44.0,False,3,False
+SKIP,44.0,False,3,False
+Glacier,46.0,True,3,False
+White Noise,46.0,False,3,False
+Lockon,46.0,False,3,False
+SKIP,46.0,False,3,False
+Core Surge,55.0,True,4,False
+Auto Shields,55.0,False,4,False
+Compile Driver,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sweeping Beam,1.0,True,1,False
+Claw,1.0,False,1,False
+Hello World,1.0,False,1,False
+SKIP,1.0,False,1,False
+Steam,3.0,True,1,False
+Fusion,3.0,False,1,False
+Streamline,3.0,False,1,False
+SKIP,3.0,False,1,False
+Chill,4.0,True,1,False
+Compile Driver,4.0,False,1,False
+Auto Shields,4.0,False,1,False
+SKIP,4.0,False,1,False
+Compile Driver,6.0,True,1,False
+Stack,6.0,False,1,False
+Aggregate,6.0,False,1,False
+SKIP,6.0,False,1,False
+Undo,10.0,True,1,False
+Consume,10.0,False,1,False
+FTL,10.0,False,1,False
+SKIP,10.0,False,1,False
+Go for the Eyes,11.0,True,1,False
+Steam Power,11.0,False,1,False
+Scrape,11.0,False,1,False
+SKIP,11.0,False,1,False
+Seek,12.0,True,1,False
+Static Discharge,12.0,False,1,False
+Cold Snap,12.0,False,1,False
+SKIP,12.0,False,1,False
+Self Repair,14.0,True,1,False
+Rebound,14.0,False,1,False
+Hyperbeam,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Thunder Strike,16.0,False,1,True
+Core Surge,16.0,False,1,True
+SKIP,16.0,False,1,True
+Conserve Battery,18.0,True,2,False
+Scrape,18.0,False,2,False
+Compile Driver,18.0,False,2,False
+SKIP,18.0,False,2,False
+Seek,20.0,True,2,False
+Hologram,20.0,False,2,False
+Coolheaded,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,22.0,True,2,False
+Stack,22.0,False,2,False
+Redo,22.0,False,2,False
+Compile Driver,22.0,False,2,False
+SKIP,22.0,False,2,False
+Compile Driver,22.0,True,2,False
+Stack,22.0,False,2,False
+Redo,22.0,False,2,False
+SKIP,22.0,False,2,False
+Turbo,24.0,True,2,False
+Steam,24.0,False,2,False
+Lockon,24.0,False,2,False
+SKIP,24.0,False,2,False
+Beam Cell,25.0,True,2,False
+Undo,25.0,False,2,False
+Reinforced Body,25.0,False,2,False
+SKIP,25.0,False,2,False
+Biased Cognition,27.0,True,2,False
+Coolheaded,27.0,False,2,False
+Claw,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,29.0,True,2,False
+Sweeping Beam,29.0,False,2,False
+Leap,29.0,False,2,False
+Conserve Battery,29.0,False,2,False
+SKIP,29.0,False,2,False
+Loop,31.0,True,2,False
+Storm,31.0,False,2,False
+Ball Lightning,31.0,False,2,False
+SKIP,31.0,False,2,False
+Meteor Strike,33.0,True,2,True
+Multi-Cast,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+Redo,35.0,True,3,False
+Compile Driver,35.0,False,3,False
+Ball Lightning,35.0,False,3,False
+SKIP,35.0,False,3,False
+Chill,40.0,True,3,False
+Streamline,40.0,False,3,False
+Heatsinks,40.0,False,3,False
+SKIP,40.0,False,3,False
+Cold Snap,42.0,True,3,False
+Ball Lightning,42.0,False,3,False
+Steam,42.0,False,3,False
+SKIP,42.0,False,3,False
+Coolheaded,47.0,True,3,False
+Hologram,47.0,False,3,False
+Cold Snap,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Thunder Strike,48.0,False,3,False
+Rebound,48.0,False,3,False
+Streamline,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Heatsinks,55.0,False,4,False
+Scrape,55.0,False,4,False
+Consume,55.0,False,4,False
+SKIP,55.0,False,4,False
+Skim,1.0,True,1,False
+Redo,1.0,False,1,False
+FTL,1.0,False,1,False
+SKIP,1.0,False,1,False
+Sunder,2.0,True,1,False
+Turbo,2.0,False,1,False
+Darkness,2.0,False,1,False
+SKIP,2.0,False,1,False
+Steam,4.0,True,1,False
+Reprogram,4.0,False,1,False
+Turbo,4.0,False,1,False
+SKIP,4.0,False,1,False
+Steam Power,7.0,True,1,False
+Beam Cell,7.0,False,1,False
+Sweeping Beam,7.0,False,1,False
+SKIP,7.0,False,1,False
+Tempest,8.0,True,1,False
+Barrage,8.0,False,1,False
+Steam,8.0,False,1,False
+SKIP,8.0,False,1,False
+Turbo,10.0,True,1,False
+Streamline,10.0,False,1,False
+Consume,10.0,False,1,False
+SKIP,10.0,False,1,False
+Static Discharge,11.0,True,1,False
+Stack,11.0,False,1,False
+Thunder Strike,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,13.0,True,1,False
+Stack,13.0,False,1,False
+Steam,13.0,False,1,False
+Beam Cell,13.0,False,1,False
+SKIP,13.0,False,1,False
+Cold Snap,14.0,True,1,False
+Stack,14.0,False,1,False
+Consume,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Creative AI,16.0,False,1,True
+All For One,16.0,False,1,True
+SKIP,16.0,False,1,True
+Barrage,18.0,True,2,False
+Steam Power,18.0,False,2,False
+Ball Lightning,18.0,False,2,False
+SKIP,18.0,False,2,False
+Cold Snap,19.0,True,2,False
+Fusion,19.0,False,2,False
+Lockon,19.0,False,2,False
+SKIP,19.0,False,2,False
+Glacier,20.0,True,2,False
+Consume,20.0,False,2,False
+Rebound,20.0,False,2,False
+SKIP,20.0,False,2,False
+Core Surge,24.0,True,2,False
+Leap,24.0,False,2,False
+Static Discharge,24.0,False,2,False
+SKIP,24.0,False,2,False
+Glacier,28.0,True,2,False
+Barrage,28.0,False,2,False
+Reprogram,28.0,False,2,False
+SKIP,28.0,False,2,False
+Go for the Eyes,29.0,True,2,False
+Turbo,29.0,False,2,False
+Cold Snap,29.0,False,2,False
+SKIP,29.0,False,2,False
+Genetic Algorithm,30.0,True,2,False
+Tempest,30.0,False,2,False
+White Noise,30.0,False,2,False
+SKIP,30.0,False,2,False
+Coolheaded,31.0,True,2,False
+Fusion,31.0,False,2,False
+Stack,31.0,False,2,False
+SKIP,31.0,False,2,False
+Core Surge,33.0,True,2,True
+Multi-Cast,33.0,False,2,True
+Fission,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Scrape,35.0,False,3,False
+Streamline,35.0,False,3,False
+Beam Cell,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Scrape,35.0,False,3,False
+Streamline,35.0,False,3,False
+Beam Cell,35.0,False,3,False
+SKIP,35.0,False,3,False
+Compile Driver,37.0,True,3,False
+Steam,37.0,False,3,False
+Go for the Eyes,37.0,False,3,False
+SKIP,37.0,False,3,False
+Rebound,38.0,True,3,False
+Fusion,38.0,False,3,False
+Leap,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,41.0,True,3,False
+Claw,41.0,False,3,False
+Undo,41.0,False,3,False
+Consume,41.0,False,3,False
+SKIP,41.0,False,3,False
+Capacitor,42.0,True,3,False
+Auto Shields,42.0,False,3,False
+Blizzard,42.0,False,3,False
+SKIP,42.0,False,3,False
+Barrage,44.0,True,3,False
+Sweeping Beam,44.0,False,3,False
+Cold Snap,44.0,False,3,False
+SKIP,44.0,False,3,False
+Secret Technique,45.0,True,3,False
+Violence,45.0,False,3,False
+Metamorphosis,45.0,False,3,False
+SKIP,45.0,False,3,False
+Blind,45.0,True,3,False
+Swift Strike,45.0,False,3,False
+Master of Strategy,45.0,False,3,False
+SKIP,45.0,False,3,False
+Dark Shackles,45.0,True,3,False
+Chrysalis,45.0,False,3,False
+Purity,45.0,False,3,False
+SKIP,45.0,False,3,False
+Consume,46.0,True,3,False
+Leap,46.0,False,3,False
+Sunder,46.0,False,3,False
+SKIP,46.0,False,3,False
+Skim,48.0,True,3,False
+Go for the Eyes,48.0,False,3,False
+Ball Lightning,48.0,False,3,False
+SKIP,48.0,False,3,False
+Doom and Gloom,54.0,True,4,False
+Rip and Tear,54.0,False,4,False
+Beam Cell,54.0,False,4,False
+SKIP,54.0,False,4,False
+Redo,54.0,True,4,False
+Claw,54.0,False,4,False
+Reinforced Body,54.0,False,4,False
+SKIP,54.0,False,4,False
+Reinforced Body,54.0,True,4,False
+Compile Driver,54.0,False,4,False
+Go for the Eyes,54.0,False,4,False
+SKIP,54.0,False,4,False
+Skim,54.0,True,4,False
+Sweeping Beam,54.0,False,4,False
+Rip and Tear,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Conserve Battery,54.0,False,4,False
+Compile Driver,54.0,False,4,False
+Genetic Algorithm,54.0,False,4,False
+SKIP,54.0,False,4,False
+Glacier,55.0,True,4,False
+Sunder,55.0,False,4,False
+Compile Driver,55.0,False,4,False
+SKIP,55.0,False,4,False
+SKIP,1.0,True,1,False
+Stack,1.0,False,1,False
+Leap,1.0,False,1,False
+Redo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Cold Snap,2.0,True,1,False
+Static Discharge,2.0,False,1,False
+Conserve Battery,2.0,False,1,False
+SKIP,2.0,False,1,False
+Ball Lightning,4.0,True,1,False
+Heatsinks,4.0,False,1,False
+Force Field,4.0,False,1,False
+SKIP,4.0,False,1,False
+Beam Cell,6.0,True,1,False
+Hologram,6.0,False,1,False
+Melter,6.0,False,1,False
+SKIP,6.0,False,1,False
+Redo,10.0,True,1,False
+Tempest,10.0,False,1,False
+Barrage,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,12.0,True,1,False
+Blizzard,12.0,False,1,False
+Lockon,12.0,False,1,False
+Streamline,12.0,False,1,False
+SKIP,12.0,False,1,False
+Chill,14.0,True,1,False
+Stack,14.0,False,1,False
+Ball Lightning,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Thunder Strike,16.0,False,1,True
+Biased Cognition,16.0,False,1,True
+SKIP,16.0,False,1,True
+Coolheaded,18.0,True,2,False
+Go for the Eyes,18.0,False,2,False
+Redo,18.0,False,2,False
+SKIP,18.0,False,2,False
+Coolheaded,20.0,True,2,False
+Reprogram,20.0,False,2,False
+Sunder,20.0,False,2,False
+SKIP,20.0,False,2,False
+Rebound,23.0,True,2,False
+Blizzard,23.0,False,2,False
+Redo,23.0,False,2,False
+SKIP,23.0,False,2,False
+Capacitor,25.0,True,2,False
+Steam,25.0,False,2,False
+Leap,25.0,False,2,False
+SKIP,25.0,False,2,False
+Undo,27.0,True,2,False
+Self Repair,27.0,False,2,False
+Sweeping Beam,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Capacitor,28.0,False,2,False
+Amplify,28.0,False,2,False
+Aggregate,28.0,False,2,False
+SKIP,28.0,False,2,False
+Hologram,30.0,True,2,False
+Loop,30.0,False,2,False
+Beam Cell,30.0,False,2,False
+SKIP,30.0,False,2,False
+Hologram,31.0,True,2,False
+Chill,31.0,False,2,False
+Coolheaded,31.0,False,2,False
+SKIP,31.0,False,2,False
+Mayhem,0.0,True,1,False
+Thinking Ahead,0.0,False,1,False
+Sadistic Nature,0.0,False,1,False
+SKIP,0.0,False,1,False
+Sunder,1.0,True,1,False
+Stack,1.0,False,1,False
+Streamline,1.0,False,1,False
+SKIP,1.0,False,1,False
+Doom and Gloom,2.0,True,1,False
+FTL,2.0,False,1,False
+Rebound,2.0,False,1,False
+SKIP,2.0,False,1,False
+Coolheaded,3.0,True,1,False
+Ball Lightning,3.0,False,1,False
+Sunder,3.0,False,1,False
+SKIP,3.0,False,1,False
+Glacier,4.0,True,1,False
+Coolheaded,4.0,False,1,False
+Cold Snap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Reboot,8.0,True,1,False
+Streamline,8.0,False,1,False
+Force Field,8.0,False,1,False
+SKIP,8.0,False,1,False
+Core Surge,14.0,True,1,False
+Steam,14.0,False,1,False
+Rip and Tear,14.0,False,1,False
+SKIP,14.0,False,1,False
+Meteor Strike,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+Undo,18.0,True,2,False
+Beam Cell,18.0,False,2,False
+Stack,18.0,False,2,False
+SKIP,18.0,False,2,False
+Turbo,19.0,True,2,False
+Compile Driver,19.0,False,2,False
+Steam Power,19.0,False,2,False
+SKIP,19.0,False,2,False
+Beam Cell,20.0,True,2,False
+Chaos,20.0,False,2,False
+Sweeping Beam,20.0,False,2,False
+SKIP,20.0,False,2,False
+Go for the Eyes,23.0,True,2,False
+Double Energy,23.0,False,2,False
+Beam Cell,23.0,False,2,False
+SKIP,23.0,False,2,False
+Multi-Cast,25.0,True,2,False
+Beam Cell,25.0,False,2,False
+Barrage,25.0,False,2,False
+SKIP,25.0,False,2,False
+Defragment,27.0,True,2,False
+Beam Cell,27.0,False,2,False
+Coolheaded,27.0,False,2,False
+SKIP,27.0,False,2,False
+Skim,29.0,True,2,False
+Streamline,29.0,False,2,False
+Redo,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Steam,30.0,False,2,False
+Turbo,30.0,False,2,False
+Storm,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,30.0,True,2,False
+Steam,30.0,False,2,False
+Turbo,30.0,False,2,False
+Storm,30.0,False,2,False
+SKIP,30.0,False,2,False
+Skim,31.0,True,2,False
+BootSequence,31.0,False,2,False
+Compile Driver,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Reboot,33.0,False,2,True
+Seek,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Claw,35.0,False,3,False
+Leap,35.0,False,3,False
+Hello World,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Leap,36.0,False,3,False
+Redo,36.0,False,3,False
+Cold Snap,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Leap,36.0,False,3,False
+Redo,36.0,False,3,False
+Cold Snap,36.0,False,3,False
+SKIP,36.0,False,3,False
+Recycle,37.0,True,3,False
+Loop,37.0,False,3,False
+Skim,37.0,False,3,False
+SKIP,37.0,False,3,False
+Compile Driver,38.0,True,3,False
+Go for the Eyes,38.0,False,3,False
+Melter,38.0,False,3,False
+SKIP,38.0,False,3,False
+BootSequence,39.0,True,3,False
+Leap,39.0,False,3,False
+Turbo,39.0,False,3,False
+SKIP,39.0,False,3,False
+Hologram,40.0,True,3,False
+Chaos,40.0,False,3,False
+Sweeping Beam,40.0,False,3,False
+SKIP,40.0,False,3,False
+All For One,44.0,True,3,False
+Storm,44.0,False,3,False
+Machine Learning,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Rebound,45.0,False,3,False
+Sweeping Beam,45.0,False,3,False
+Reprogram,45.0,False,3,False
+SKIP,45.0,False,3,False
+Recycle,46.0,True,3,False
+Doom and Gloom,46.0,False,3,False
+Ball Lightning,46.0,False,3,False
+SKIP,46.0,False,3,False
+Skim,47.0,True,3,False
+Reprogram,47.0,False,3,False
+Redo,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Compile Driver,48.0,False,3,False
+Steam Power,48.0,False,3,False
+Recycle,48.0,False,3,False
+SKIP,48.0,False,3,False
+Steam Power,48.0,True,3,False
+Compile Driver,48.0,False,3,False
+Recycle,48.0,False,3,False
+SKIP,48.0,False,3,False
+Coolheaded,55.0,True,4,False
+Turbo,55.0,False,4,False
+Rip and Tear,55.0,False,4,False
+SKIP,55.0,False,4,False
+Ball Lightning,1.0,True,1,False
+Rebound,1.0,False,1,False
+Claw,1.0,False,1,False
+SKIP,1.0,False,1,False
+White Noise,2.0,True,1,False
+Compile Driver,2.0,False,1,False
+Conserve Battery,2.0,False,1,False
+SKIP,2.0,False,1,False
+Hologram,3.0,True,1,False
+Rebound,3.0,False,1,False
+Redo,3.0,False,1,False
+SKIP,3.0,False,1,False
+Defragment,5.0,True,1,False
+Compile Driver,5.0,False,1,False
+Redo,5.0,False,1,False
+SKIP,5.0,False,1,False
+FTL,7.0,True,1,False
+Compile Driver,7.0,False,1,False
+Recycle,7.0,False,1,False
+SKIP,7.0,False,1,False
+Conserve Battery,8.0,True,1,False
+Streamline,8.0,False,1,False
+Hologram,8.0,False,1,False
+SKIP,8.0,False,1,False
+Glacier,11.0,True,1,False
+Amplify,11.0,False,1,False
+Static Discharge,11.0,False,1,False
+SKIP,11.0,False,1,False
+Cold Snap,12.0,True,1,False
+Steam,12.0,False,1,False
+Reprogram,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,14.0,True,1,False
+Reprogram,14.0,False,1,False
+Hello World,14.0,False,1,False
+Tempest,14.0,False,1,False
+SKIP,14.0,False,1,False
+SKIP,14.0,True,1,False
+Reprogram,14.0,False,1,False
+Hello World,14.0,False,1,False
+Tempest,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Reboot,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+Skim,18.0,True,2,False
+Auto Shields,18.0,False,2,False
+Conserve Battery,18.0,False,2,False
+SKIP,18.0,False,2,False
+Self Repair,20.0,True,2,False
+Conserve Battery,20.0,False,2,False
+Steam,20.0,False,2,False
+Leap,20.0,False,2,False
+Turbo,20.0,False,2,False
+Doom and Gloom,20.0,False,2,False
+Lockon,20.0,False,2,False
+Capacitor,20.0,False,2,False
+Claw,20.0,False,2,False
+Hologram,20.0,False,2,False
+White Noise,20.0,False,2,False
+Streamline,20.0,False,2,False
+Beam Cell,20.0,False,2,False
+Barrage,20.0,False,2,False
+Go for the Eyes,20.0,False,2,False
+Compile Driver,20.0,False,2,False
+Sweeping Beam,20.0,False,2,False
+Stack,20.0,False,2,False
+Sunder,20.0,False,2,False
+Rip and Tear,20.0,False,2,False
+SKIP,20.0,False,2,False
+Doom and Gloom,21.0,True,2,False
+Ball Lightning,21.0,False,2,False
+Steam,21.0,False,2,False
+SKIP,21.0,False,2,False
+Redo,23.0,True,2,False
+FTL,23.0,False,2,False
+Beam Cell,23.0,False,2,False
+SKIP,23.0,False,2,False
+Undo,27.0,True,2,False
+Chill,27.0,False,2,False
+Reprogram,27.0,False,2,False
+SKIP,27.0,False,2,False
+Electrodynamics,28.0,True,2,False
+Sweeping Beam,28.0,False,2,False
+Sunder,28.0,False,2,False
+SKIP,28.0,False,2,False
+Coolheaded,29.0,True,2,False
+Ball Lightning,29.0,False,2,False
+Self Repair,29.0,False,2,False
+SKIP,29.0,False,2,False
+Genetic Algorithm,30.0,True,2,False
+Leap,30.0,False,2,False
+Compile Driver,30.0,False,2,False
+Static Discharge,30.0,False,2,False
+SKIP,30.0,False,2,False
+Echo Form,33.0,True,2,True
+Biased Cognition,33.0,False,2,True
+Hyperbeam,33.0,False,2,True
+Electrodynamics,33.0,False,2,True
+SKIP,33.0,False,2,True
+Coolheaded,35.0,True,3,False
+Heatsinks,35.0,False,3,False
+Conserve Battery,35.0,False,3,False
+Skim,35.0,False,3,False
+SKIP,35.0,False,3,False
+Turbo,36.0,True,3,False
+Doom and Gloom,36.0,False,3,False
+Force Field,36.0,False,3,False
+Chill,36.0,False,3,False
+SKIP,36.0,False,3,False
+Recycle,37.0,True,3,False
+Darkness,37.0,False,3,False
+Stack,37.0,False,3,False
+Turbo,37.0,False,3,False
+SKIP,37.0,False,3,False
+Dark Shackles,38.0,True,3,False
+Finesse,38.0,False,3,False
+Trip,38.0,False,3,False
+HandOfGreed,38.0,False,3,False
+SKIP,38.0,False,3,False
+Apotheosis,38.0,True,3,False
+Purity,38.0,False,3,False
+The Bomb,38.0,False,3,False
+Dramatic Entrance,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dark Shackles,38.0,True,3,False
+Enlightenment,38.0,False,3,False
+Bandage Up,38.0,False,3,False
+Swift Strike,38.0,False,3,False
+SKIP,38.0,False,3,False
+Hologram,39.0,True,3,False
+Cold Snap,39.0,False,3,False
+Conserve Battery,39.0,False,3,False
+Leap,39.0,False,3,False
+SKIP,39.0,False,3,False
+Go for the Eyes,41.0,True,3,False
+Self Repair,41.0,False,3,False
+Force Field,41.0,False,3,False
+Steam,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,46.0,True,3,False
+Barrage,46.0,False,3,False
+Compile Driver,46.0,False,3,False
+Sweeping Beam,46.0,False,3,False
+Conserve Battery,46.0,False,3,False
+SKIP,46.0,False,3,False
+White Noise,47.0,True,3,False
+Streamline,47.0,False,3,False
+Go for the Eyes,47.0,False,3,False
+Sunder,47.0,False,3,False
+SKIP,47.0,False,3,False
+Chill,48.0,True,3,False
+Hello World,48.0,False,3,False
+Heatsinks,48.0,False,3,False
+Ball Lightning,48.0,False,3,False
+SKIP,48.0,False,3,False
+Hologram,55.0,True,4,False
+Steam,55.0,False,4,False
+Steam Power,55.0,False,4,False
+Reinforced Body,55.0,False,4,False
+SKIP,55.0,False,4,False
+Genetic Algorithm,1.0,True,1,False
+Redo,1.0,False,1,False
+Scrape,1.0,False,1,False
+SKIP,1.0,False,1,False
+Streamline,4.0,True,1,False
+Genetic Algorithm,4.0,False,1,False
+Heatsinks,4.0,False,1,False
+SKIP,4.0,False,1,False
+BootSequence,5.0,True,1,False
+Capacitor,5.0,False,1,False
+Heatsinks,5.0,False,1,False
+SKIP,5.0,False,1,False
+Self Repair,10.0,True,1,False
+Defragment,10.0,False,1,False
+Streamline,10.0,False,1,False
+SKIP,10.0,False,1,False
+Sunder,12.0,True,1,False
+Leap,12.0,False,1,False
+Beam Cell,12.0,False,1,False
+SKIP,12.0,False,1,False
+Hologram,13.0,True,1,False
+Conserve Battery,13.0,False,1,False
+Consume,13.0,False,1,False
+SKIP,13.0,False,1,False
+Cold Snap,14.0,True,1,False
+Sweeping Beam,14.0,False,1,False
+White Noise,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Fission,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+Hologram,18.0,True,2,False
+Beam Cell,18.0,False,2,False
+Reinforced Body,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Lockon,19.0,False,2,False
+Melter,19.0,False,2,False
+Sweeping Beam,19.0,False,2,False
+SKIP,19.0,False,2,False
+Turbo,20.0,True,2,False
+Self Repair,20.0,False,2,False
+Streamline,20.0,False,2,False
+SKIP,20.0,False,2,False
+Hologram,21.0,True,2,False
+Multi-Cast,21.0,False,2,False
+Ball Lightning,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Static Discharge,24.0,False,2,False
+Double Energy,24.0,False,2,False
+Fusion,24.0,False,2,False
+SKIP,24.0,False,2,False
+Undo,27.0,True,2,False
+Scrape,27.0,False,2,False
+Static Discharge,27.0,False,2,False
+SKIP,27.0,False,2,False
+Coolheaded,29.0,True,2,False
+Auto Shields,29.0,False,2,False
+Barrage,29.0,False,2,False
+SKIP,29.0,False,2,False
+Chill,30.0,True,2,False
+Scrape,30.0,False,2,False
+Multi-Cast,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Reinforced Body,31.0,False,2,False
+Self Repair,31.0,False,2,False
+Heatsinks,31.0,False,2,False
+SKIP,31.0,False,2,False
+Multi-Cast,33.0,True,2,True
+Creative AI,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+Sweeping Beam,35.0,True,3,False
+Claw,35.0,False,3,False
+Compile Driver,35.0,False,3,False
+SKIP,35.0,False,3,False
+Compile Driver,38.0,True,3,False
+Beam Cell,38.0,False,3,False
+Go for the Eyes,38.0,False,3,False
+SKIP,38.0,False,3,False
+Fusion,39.0,True,3,False
+Tempest,39.0,False,3,False
+Auto Shields,39.0,False,3,False
+SKIP,39.0,False,3,False
+Core Surge,40.0,True,3,False
+Glacier,40.0,False,3,False
+Compile Driver,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,45.0,True,3,False
+Rebound,45.0,False,3,False
+Ball Lightning,45.0,False,3,False
+Tempest,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,45.0,True,3,False
+Rebound,45.0,False,3,False
+Ball Lightning,45.0,False,3,False
+Tempest,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Rebound,47.0,False,3,False
+Sunder,47.0,False,3,False
+Heatsinks,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Rebound,47.0,False,3,False
+Sunder,47.0,False,3,False
+Heatsinks,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Loop,55.0,False,4,False
+Sweeping Beam,55.0,False,4,False
+Fusion,55.0,False,4,False
+SKIP,55.0,False,4,False
+FTL,1.0,True,1,False
+Stack,1.0,False,1,False
+Compile Driver,1.0,False,1,False
+SKIP,1.0,False,1,False
+Coolheaded,2.0,True,1,False
+Blizzard,2.0,False,1,False
+Steam,2.0,False,1,False
+SKIP,2.0,False,1,False
+Genetic Algorithm,5.0,True,1,False
+Ball Lightning,5.0,False,1,False
+Turbo,5.0,False,1,False
+SKIP,5.0,False,1,False
+Hologram,6.0,True,1,False
+Aggregate,6.0,False,1,False
+Go for the Eyes,6.0,False,1,False
+SKIP,6.0,False,1,False
+Reboot,8.0,True,1,False
+Reinforced Body,8.0,False,1,False
+Streamline,8.0,False,1,False
+SKIP,8.0,False,1,False
+Hologram,13.0,True,1,False
+Redo,13.0,False,1,False
+Steam Power,13.0,False,1,False
+SKIP,13.0,False,1,False
+Cold Snap,14.0,True,1,False
+Hologram,14.0,False,1,False
+Coolheaded,14.0,False,1,False
+SKIP,14.0,False,1,False
+All For One,16.0,True,1,True
+Meteor Strike,16.0,False,1,True
+Electrodynamics,16.0,False,1,True
+SKIP,16.0,False,1,True
+Redo,18.0,True,2,False
+Reprogram,18.0,False,2,False
+Claw,18.0,False,2,False
+SKIP,18.0,False,2,False
+Go for the Eyes,21.0,True,2,False
+Rebound,21.0,False,2,False
+Blizzard,21.0,False,2,False
+SKIP,21.0,False,2,False
+Echo Form,22.0,True,2,False
+Conserve Battery,22.0,False,2,False
+Storm,22.0,False,2,False
+SKIP,22.0,False,2,False
+Fission,22.0,True,2,False
+Go for the Eyes,22.0,False,2,False
+Compile Driver,22.0,False,2,False
+SKIP,22.0,False,2,False
+Turbo,22.0,True,2,False
+Scrape,22.0,False,2,False
+Compile Driver,22.0,False,2,False
+SKIP,22.0,False,2,False
+Skim,22.0,True,2,False
+Conserve Battery,22.0,False,2,False
+Consume,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Beam Cell,22.0,False,2,False
+Streamline,22.0,False,2,False
+Barrage,22.0,False,2,False
+SKIP,22.0,False,2,False
+Compile Driver,24.0,True,2,False
+Rebound,24.0,False,2,False
+Fusion,24.0,False,2,False
+SKIP,24.0,False,2,False
+Coolheaded,27.0,True,2,False
+Turbo,27.0,False,2,False
+Lockon,27.0,False,2,False
+SKIP,27.0,False,2,False
+Loop,28.0,True,2,False
+Chaos,28.0,False,2,False
+Steam,28.0,False,2,False
+SKIP,28.0,False,2,False
+Blizzard,30.0,True,2,False
+Reinforced Body,30.0,False,2,False
+Genetic Algorithm,30.0,False,2,False
+SKIP,30.0,False,2,False
+Ball Lightning,1.0,True,1,False
+Auto Shields,1.0,False,1,False
+Steam,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,3.0,True,1,False
+Turbo,3.0,False,1,False
+Storm,3.0,False,1,False
+Recycle,3.0,False,1,False
+SKIP,3.0,False,1,False
+Coolheaded,4.0,True,1,False
+Cold Snap,4.0,False,1,False
+Stack,4.0,False,1,False
+SKIP,4.0,False,1,False
+Doom and Gloom,5.0,True,1,False
+Claw,5.0,False,1,False
+Steam,5.0,False,1,False
+SKIP,5.0,False,1,False
+Auto Shields,8.0,True,1,False
+Go for the Eyes,8.0,False,1,False
+Claw,8.0,False,1,False
+SKIP,8.0,False,1,False
+Compile Driver,11.0,True,1,False
+Sweeping Beam,11.0,False,1,False
+Stack,11.0,False,1,False
+SKIP,11.0,False,1,False
+Buffer,12.0,True,1,False
+Aggregate,12.0,False,1,False
+Redo,12.0,False,1,False
+SKIP,12.0,False,1,False
+Self Repair,13.0,True,1,False
+Turbo,13.0,False,1,False
+Doom and Gloom,13.0,False,1,False
+SKIP,13.0,False,1,False
+Defragment,14.0,True,1,False
+Turbo,14.0,False,1,False
+Conserve Battery,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Reboot,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+Undo,18.0,True,2,False
+Go for the Eyes,18.0,False,2,False
+Scrape,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,22.0,True,2,False
+Beam Cell,22.0,False,2,False
+Stack,22.0,False,2,False
+Fusion,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Beam Cell,22.0,False,2,False
+Stack,22.0,False,2,False
+Fusion,22.0,False,2,False
+SKIP,22.0,False,2,False
+Double Energy,23.0,True,2,False
+Leap,23.0,False,2,False
+Ball Lightning,23.0,False,2,False
+SKIP,23.0,False,2,False
+Coolheaded,28.0,True,2,False
+Go for the Eyes,28.0,False,2,False
+BootSequence,28.0,False,2,False
+SKIP,28.0,False,2,False
+Cold Snap,29.0,True,2,False
+Sweeping Beam,29.0,False,2,False
+Beam Cell,29.0,False,2,False
+SKIP,29.0,False,2,False
+Loop,30.0,True,2,False
+Undo,30.0,False,2,False
+Hologram,30.0,False,2,False
+SKIP,30.0,False,2,False
+Redo,31.0,True,2,False
+Claw,31.0,False,2,False
+Tempest,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Multi-Cast,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+Go for the Eyes,35.0,True,3,False
+Cold Snap,35.0,False,3,False
+Sunder,35.0,False,3,False
+SKIP,35.0,False,3,False
+Coolheaded,37.0,True,3,False
+Steam,37.0,False,3,False
+Stack,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Turbo,38.0,False,3,False
+Reprogram,38.0,False,3,False
+Ball Lightning,38.0,False,3,False
+SKIP,38.0,False,3,False
+Sweeping Beam,39.0,True,3,False
+White Noise,39.0,False,3,False
+Leap,39.0,False,3,False
+SKIP,39.0,False,3,False
+Core Surge,40.0,True,3,False
+Lockon,40.0,False,3,False
+Tempest,40.0,False,3,False
+SKIP,40.0,False,3,False
+Steam Power,45.0,True,3,False
+Loop,45.0,False,3,False
+Ball Lightning,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,48.0,True,3,False
+Leap,48.0,False,3,False
+Streamline,48.0,False,3,False
+Ball Lightning,48.0,False,3,False
+SKIP,48.0,False,3,False
+Hologram,55.0,True,4,False
+Force Field,55.0,False,4,False
+FTL,55.0,False,4,False
+SKIP,55.0,False,4,False
+Self Repair,1.0,True,1,False
+Rebound,1.0,False,1,False
+Stack,1.0,False,1,False
+SKIP,1.0,False,1,False
+Ball Lightning,3.0,True,1,False
+Hologram,3.0,False,1,False
+Cold Snap,3.0,False,1,False
+SKIP,3.0,False,1,False
+Auto Shields,4.0,True,1,False
+Rip and Tear,4.0,False,1,False
+Leap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Static Discharge,5.0,True,1,False
+Claw,5.0,False,1,False
+Heatsinks,5.0,False,1,False
+SKIP,5.0,False,1,False
+Hologram,11.0,True,1,False
+Stack,11.0,False,1,False
+Turbo,11.0,False,1,False
+SKIP,11.0,False,1,False
+Tempest,13.0,True,1,False
+Hologram,13.0,False,1,False
+Reinforced Body,13.0,False,1,False
+SKIP,13.0,False,1,False
+Echo Form,14.0,True,1,False
+Claw,14.0,False,1,False
+Stack,14.0,False,1,False
+SKIP,14.0,False,1,False
+All For One,16.0,True,1,True
+Thunder Strike,16.0,False,1,True
+Reboot,16.0,False,1,True
+SKIP,16.0,False,1,True
+Steam,18.0,True,2,False
+Turbo,18.0,False,2,False
+Streamline,18.0,False,2,False
+SKIP,18.0,False,2,False
+Turbo,21.0,True,2,False
+Rebound,21.0,False,2,False
+Reinforced Body,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,22.0,True,2,False
+Storm,22.0,False,2,False
+Compile Driver,22.0,False,2,False
+Chaos,22.0,False,2,False
+SKIP,22.0,False,2,False
+Go for the Eyes,23.0,True,2,False
+Steam Power,23.0,False,2,False
+Turbo,23.0,False,2,False
+SKIP,23.0,False,2,False
+Coolheaded,29.0,True,2,False
+Go for the Eyes,29.0,False,2,False
+Ball Lightning,29.0,False,2,False
+SKIP,29.0,False,2,False
+Consume,31.0,True,2,False
+Rebound,31.0,False,2,False
+Doom and Gloom,31.0,False,2,False
+SKIP,31.0,False,2,False
+Electrodynamics,33.0,True,2,True
+Seek,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+Stack,35.0,True,3,False
+Streamline,35.0,False,3,False
+Consume,35.0,False,3,False
+SKIP,35.0,False,3,False
+Doom and Gloom,36.0,True,3,False
+Go for the Eyes,36.0,False,3,False
+Loop,36.0,False,3,False
+SKIP,36.0,False,3,False
+Heatsinks,37.0,True,3,False
+Hello World,37.0,False,3,False
+Capacitor,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Sweeping Beam,38.0,False,3,False
+Leap,38.0,False,3,False
+Storm,38.0,False,3,False
+SKIP,38.0,False,3,False
+Beam Cell,39.0,True,3,False
+Claw,39.0,False,3,False
+Stack,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Claw,40.0,False,3,False
+Rebound,40.0,False,3,False
+Tempest,40.0,False,3,False
+SKIP,40.0,False,3,False
+Hello World,41.0,True,3,False
+Rebound,41.0,False,3,False
+Darkness,41.0,False,3,False
+SKIP,41.0,False,3,False
+Chaos,44.0,True,3,False
+Stack,44.0,False,3,False
+Hologram,44.0,False,3,False
+SKIP,44.0,False,3,False
+Loop,48.0,True,3,False
+Leap,48.0,False,3,False
+Heatsinks,48.0,False,3,False
+SKIP,48.0,False,3,False
+Chill,55.0,True,4,False
+Conserve Battery,55.0,False,4,False
+Rebound,55.0,False,4,False
+SKIP,55.0,False,4,False
+Darkness,1.0,True,1,False
+Force Field,1.0,False,1,False
+Redo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Redo,2.0,True,1,False
+Beam Cell,2.0,False,1,False
+Compile Driver,2.0,False,1,False
+SKIP,2.0,False,1,False
+Cold Snap,3.0,True,1,False
+Steam,3.0,False,1,False
+Rebound,3.0,False,1,False
+SKIP,3.0,False,1,False
+Beam Cell,7.0,True,1,False
+Darkness,7.0,False,1,False
+Thunder Strike,7.0,False,1,False
+SKIP,7.0,False,1,False
+Sweeping Beam,1.0,True,1,False
+Hello World,1.0,False,1,False
+Steam Power,1.0,False,1,False
+SKIP,1.0,False,1,False
+Doom and Gloom,3.0,True,1,False
+Go for the Eyes,3.0,False,1,False
+Hello World,3.0,False,1,False
+SKIP,3.0,False,1,False
+Redo,4.0,True,1,False
+Static Discharge,4.0,False,1,False
+Rip and Tear,4.0,False,1,False
+SKIP,4.0,False,1,False
+Cold Snap,7.0,True,1,False
+Redo,7.0,False,1,False
+Barrage,7.0,False,1,False
+SKIP,7.0,False,1,False
+Beam Cell,8.0,True,1,False
+Force Field,8.0,False,1,False
+Leap,8.0,False,1,False
+SKIP,8.0,False,1,False
+Turbo,12.0,True,1,False
+Beam Cell,12.0,False,1,False
+Amplify,12.0,False,1,False
+SKIP,12.0,False,1,False
+Coolheaded,14.0,True,1,False
+Steam,14.0,False,1,False
+Tempest,14.0,False,1,False
+SKIP,14.0,False,1,False
+Electrodynamics,16.0,True,1,True
+Creative AI,16.0,False,1,True
+Meteor Strike,16.0,False,1,True
+SKIP,16.0,False,1,True
+BootSequence,18.0,True,2,False
+Reprogram,18.0,False,2,False
+Redo,18.0,False,2,False
+SKIP,18.0,False,2,False
+Loop,20.0,True,2,False
+Lockon,20.0,False,2,False
+Compile Driver,20.0,False,2,False
+SKIP,20.0,False,2,False
+Skim,23.0,True,2,False
+Amplify,23.0,False,2,False
+Consume,23.0,False,2,False
+SKIP,23.0,False,2,False
+Aggregate,25.0,True,2,False
+Hologram,25.0,False,2,False
+Redo,25.0,False,2,False
+SKIP,25.0,False,2,False
+Go for the Eyes,30.0,True,2,False
+Compile Driver,30.0,False,2,False
+FTL,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Rebound,31.0,False,2,False
+Storm,31.0,False,2,False
+Beam Cell,31.0,False,2,False
+SKIP,31.0,False,2,False
+All For One,33.0,True,2,True
+Amplify,33.0,False,2,True
+Fission,33.0,False,2,True
+SKIP,33.0,False,2,True
+Loop,35.0,True,3,False
+Barrage,35.0,False,3,False
+Compile Driver,35.0,False,3,False
+SKIP,35.0,False,3,False
+Hologram,38.0,True,3,False
+Capacitor,38.0,False,3,False
+Conserve Battery,38.0,False,3,False
+SKIP,38.0,False,3,False
+Compile Driver,39.0,True,3,False
+Chill,39.0,False,3,False
+Beam Cell,39.0,False,3,False
+SKIP,39.0,False,3,False
+Core Surge,40.0,True,3,False
+Multi-Cast,40.0,False,3,False
+Force Field,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Compile Driver,42.0,False,3,False
+Stack,42.0,False,3,False
+Steam,42.0,False,3,False
+SKIP,42.0,False,3,False
+Meteor Strike,45.0,True,3,False
+Claw,45.0,False,3,False
+Streamline,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Sweeping Beam,46.0,False,3,False
+Stack,46.0,False,3,False
+Leap,46.0,False,3,False
+SKIP,46.0,False,3,False
+Skim,48.0,True,3,False
+Blizzard,48.0,False,3,False
+Turbo,48.0,False,3,False
+SKIP,48.0,False,3,False
+Go for the Eyes,48.0,True,3,False
+Sweeping Beam,48.0,False,3,False
+Leap,48.0,False,3,False
+SKIP,48.0,False,3,False
+Conserve Battery,55.0,True,4,False
+Claw,55.0,False,4,False
+Aggregate,55.0,False,4,False
+SKIP,55.0,False,4,False
+Double Energy,1.0,True,1,False
+Steam,1.0,False,1,False
+Compile Driver,1.0,False,1,False
+SKIP,1.0,False,1,False
+BootSequence,2.0,True,1,False
+Steam,2.0,False,1,False
+Rip and Tear,2.0,False,1,False
+SKIP,2.0,False,1,False
+Doom and Gloom,4.0,True,1,False
+Sweeping Beam,4.0,False,1,False
+Stack,4.0,False,1,False
+SKIP,4.0,False,1,False
+Chill,5.0,True,1,False
+Go for the Eyes,5.0,False,1,False
+Barrage,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,7.0,True,1,False
+Claw,7.0,False,1,False
+Blizzard,7.0,False,1,False
+Heatsinks,7.0,False,1,False
+SKIP,7.0,False,1,False
+Redo,10.0,True,1,False
+Scrape,10.0,False,1,False
+Conserve Battery,10.0,False,1,False
+SKIP,10.0,False,1,False
+Seek,11.0,True,1,False
+Consume,11.0,False,1,False
+Barrage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Glacier,13.0,True,1,False
+Reprogram,13.0,False,1,False
+Creative AI,13.0,False,1,False
+SKIP,13.0,False,1,False
+Sweeping Beam,14.0,True,1,False
+Ball Lightning,14.0,False,1,False
+Leap,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Buffer,16.0,False,1,True
+Core Surge,16.0,False,1,True
+SKIP,16.0,False,1,True
+Cold Snap,18.0,True,2,False
+Claw,18.0,False,2,False
+Streamline,18.0,False,2,False
+SKIP,18.0,False,2,False
+Compile Driver,20.0,True,2,False
+Ball Lightning,20.0,False,2,False
+Reinforced Body,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Thunder Strike,21.0,False,2,False
+Chill,21.0,False,2,False
+Reinforced Body,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,22.0,True,2,False
+Tempest,22.0,False,2,False
+Redo,22.0,False,2,False
+Chill,22.0,False,2,False
+SKIP,22.0,False,2,False
+Aggregate,24.0,True,2,False
+Reinforced Body,24.0,False,2,False
+Streamline,24.0,False,2,False
+SKIP,24.0,False,2,False
+Conserve Battery,28.0,True,2,False
+Beam Cell,28.0,False,2,False
+Streamline,28.0,False,2,False
+SKIP,28.0,False,2,False
+Go for the Eyes,30.0,True,2,False
+Stack,30.0,False,2,False
+Streamline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Fusion,31.0,True,2,False
+Steam,31.0,False,2,False
+Go for the Eyes,31.0,False,2,False
+SKIP,31.0,False,2,False
+Conserve Battery,1.0,True,1,False
+Barrage,1.0,False,1,False
+Stack,1.0,False,1,False
+SKIP,1.0,False,1,False
+Hologram,3.0,True,1,False
+Sweeping Beam,3.0,False,1,False
+Recycle,3.0,False,1,False
+SKIP,3.0,False,1,False
+Doom and Gloom,4.0,True,1,False
+Go for the Eyes,4.0,False,1,False
+Capacitor,4.0,False,1,False
+SKIP,4.0,False,1,False
+Skim,5.0,True,1,False
+Ball Lightning,5.0,False,1,False
+Steam,5.0,False,1,False
+SKIP,5.0,False,1,False
+Self Repair,7.0,True,1,False
+Rebound,7.0,False,1,False
+Beam Cell,7.0,False,1,False
+SKIP,7.0,False,1,False
+FTL,8.0,True,1,False
+Leap,8.0,False,1,False
+Melter,8.0,False,1,False
+SKIP,8.0,False,1,False
+All For One,11.0,True,1,False
+Conserve Battery,11.0,False,1,False
+Compile Driver,11.0,False,1,False
+SKIP,11.0,False,1,False
+Genetic Algorithm,12.0,True,1,False
+Go for the Eyes,12.0,False,1,False
+Coolheaded,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Go for the Eyes,13.0,False,1,False
+Stack,13.0,False,1,False
+Claw,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,13.0,True,1,False
+Go for the Eyes,13.0,False,1,False
+Stack,13.0,False,1,False
+Claw,13.0,False,1,False
+SKIP,13.0,False,1,False
+Coolheaded,14.0,True,1,False
+Steam Power,14.0,False,1,False
+Sweeping Beam,14.0,False,1,False
+SKIP,14.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Fission,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+Lockon,18.0,True,2,False
+Scrape,18.0,False,2,False
+Streamline,18.0,False,2,False
+SKIP,18.0,False,2,False
+Beam Cell,19.0,True,2,False
+Sweeping Beam,19.0,False,2,False
+Go for the Eyes,19.0,False,2,False
+SKIP,19.0,False,2,False
+Cold Snap,21.0,True,2,False
+Go for the Eyes,21.0,False,2,False
+Heatsinks,21.0,False,2,False
+SKIP,21.0,False,2,False
+Glacier,22.0,True,2,False
+Conserve Battery,22.0,False,2,False
+BootSequence,22.0,False,2,False
+SKIP,22.0,False,2,False
+Hologram,24.0,True,2,False
+Streamline,24.0,False,2,False
+BootSequence,24.0,False,2,False
+SKIP,24.0,False,2,False
+Skim,25.0,True,2,False
+Redo,25.0,False,2,False
+Claw,25.0,False,2,False
+SKIP,25.0,False,2,False
+Biased Cognition,27.0,True,2,False
+Coolheaded,27.0,False,2,False
+Self Repair,27.0,False,2,False
+SKIP,27.0,False,2,False
+BootSequence,28.0,True,2,False
+Go for the Eyes,28.0,False,2,False
+Thunder Strike,28.0,False,2,False
+SKIP,28.0,False,2,False
+Turbo,29.0,True,2,False
+Coolheaded,29.0,False,2,False
+Scrape,29.0,False,2,False
+SKIP,29.0,False,2,False
+Compile Driver,31.0,True,2,False
+Cold Snap,31.0,False,2,False
+Barrage,31.0,False,2,False
+SKIP,31.0,False,2,False
+Buffer,33.0,True,2,True
+Multi-Cast,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+Conserve Battery,35.0,True,3,False
+Ball Lightning,35.0,False,3,False
+Rebound,35.0,False,3,False
+SKIP,35.0,False,3,False
+Hologram,38.0,True,3,False
+Claw,38.0,False,3,False
+Redo,38.0,False,3,False
+SKIP,38.0,False,3,False
+Echo Form,39.0,True,3,False
+Hologram,39.0,False,3,False
+Rebound,39.0,False,3,False
+SKIP,39.0,False,3,False
+Hologram,40.0,True,3,False
+Claw,40.0,False,3,False
+Conserve Battery,40.0,False,3,False
+SKIP,40.0,False,3,False
+Machine Learning,42.0,True,3,False
+Rip and Tear,42.0,False,3,False
+Conserve Battery,42.0,False,3,False
+SKIP,42.0,False,3,False
+Stack,47.0,True,3,False
+Sweeping Beam,47.0,False,3,False
+Ball Lightning,47.0,False,3,False
+SKIP,47.0,False,3,False
+Glacier,48.0,True,3,False
+Lockon,48.0,False,3,False
+Go for the Eyes,48.0,False,3,False
+SKIP,48.0,False,3,False
+Panache,0.0,True,1,False
+Thinking Ahead,0.0,False,1,False
+The Bomb,0.0,False,1,False
+SKIP,0.0,False,1,False
+Undo,1.0,True,1,False
+Reprogram,1.0,False,1,False
+Streamline,1.0,False,1,False
+SKIP,1.0,False,1,False
+Streamline,2.0,True,1,False
+Rebound,2.0,False,1,False
+Heatsinks,2.0,False,1,False
+SKIP,2.0,False,1,False
+Static Discharge,4.0,True,1,False
+Stack,4.0,False,1,False
+Loop,4.0,False,1,False
+SKIP,4.0,False,1,False
+FTL,5.0,True,1,False
+Leap,5.0,False,1,False
+Ball Lightning,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,7.0,True,1,False
+Creative AI,7.0,False,1,False
+Ball Lightning,7.0,False,1,False
+Reprogram,7.0,False,1,False
+SKIP,7.0,False,1,False
+Aggregate,11.0,True,1,False
+Undo,11.0,False,1,False
+Rip and Tear,11.0,False,1,False
+SKIP,11.0,False,1,False
+Self Repair,13.0,True,1,False
+Auto Shields,13.0,False,1,False
+Redo,13.0,False,1,False
+SKIP,13.0,False,1,False
+Electrodynamics,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+Go for the Eyes,18.0,True,2,False
+Compile Driver,18.0,False,2,False
+Conserve Battery,18.0,False,2,False
+SKIP,18.0,False,2,False
+Compile Driver,21.0,True,2,False
+Conserve Battery,21.0,False,2,False
+Rebound,21.0,False,2,False
+SKIP,21.0,False,2,False
+Hologram,23.0,True,2,False
+Capacitor,23.0,False,2,False
+Leap,23.0,False,2,False
+SKIP,23.0,False,2,False
+Beam Cell,24.0,True,2,False
+Auto Shields,24.0,False,2,False
+Claw,24.0,False,2,False
+SKIP,24.0,False,2,False
+Cold Snap,28.0,True,2,False
+Reboot,28.0,False,2,False
+Force Field,28.0,False,2,False
+SKIP,28.0,False,2,False
+Redo,29.0,True,2,False
+Ball Lightning,29.0,False,2,False
+Go for the Eyes,29.0,False,2,False
+SKIP,29.0,False,2,False
+Defragment,30.0,True,2,False
+Barrage,30.0,False,2,False
+Melter,30.0,False,2,False
+Steam,30.0,False,2,False
+Conserve Battery,30.0,False,2,False
+Stack,30.0,False,2,False
+Go for the Eyes,30.0,False,2,False
+Blizzard,30.0,False,2,False
+Streamline,30.0,False,2,False
+Rebound,30.0,False,2,False
+Leap,30.0,False,2,False
+Hello World,30.0,False,2,False
+Hyperbeam,30.0,False,2,False
+Ball Lightning,30.0,False,2,False
+Rip and Tear,30.0,False,2,False
+Aggregate,30.0,False,2,False
+Claw,30.0,False,2,False
+Beam Cell,30.0,False,2,False
+Turbo,30.0,False,2,False
+Coolheaded,30.0,False,2,False
+SKIP,30.0,False,2,False
+Conserve Battery,31.0,True,2,False
+Rebound,31.0,False,2,False
+Leap,31.0,False,2,False
+SKIP,31.0,False,2,False
+Beam Cell,1.0,True,1,False
+Fusion,1.0,False,1,False
+Rebound,1.0,False,1,False
+SKIP,1.0,False,1,False
+Fission,2.0,True,1,False
+Claw,2.0,False,1,False
+Steam,2.0,False,1,False
+SKIP,2.0,False,1,False
+Self Repair,3.0,True,1,False
+Doom and Gloom,3.0,False,1,False
+Ball Lightning,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,5.0,True,1,False
+Recycle,5.0,False,1,False
+Steam Power,5.0,False,1,False
+Loop,5.0,False,1,False
+SKIP,5.0,False,1,False
+Loop,5.0,True,1,False
+Recycle,5.0,False,1,False
+Steam Power,5.0,False,1,False
+SKIP,5.0,False,1,False
+Steam,7.0,True,1,False
+Redo,7.0,False,1,False
+Compile Driver,7.0,False,1,False
+SKIP,7.0,False,1,False
+Coolheaded,11.0,True,1,False
+Conserve Battery,11.0,False,1,False
+White Noise,11.0,False,1,False
+SKIP,11.0,False,1,False
+Ball Lightning,12.0,True,1,False
+Barrage,12.0,False,1,False
+Steam Power,12.0,False,1,False
+SKIP,12.0,False,1,False
+Consume,14.0,True,1,False
+Reprogram,14.0,False,1,False
+Sweeping Beam,14.0,False,1,False
+SKIP,14.0,False,1,False
+Reboot,16.0,True,1,True
+Thunder Strike,16.0,False,1,True
+Amplify,16.0,False,1,True
+SKIP,16.0,False,1,True
+Lockon,18.0,True,2,False
+Go for the Eyes,18.0,False,2,False
+Claw,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,20.0,True,2,False
+Beam Cell,20.0,False,2,False
+Leap,20.0,False,2,False
+Streamline,20.0,False,2,False
+SKIP,20.0,False,2,False
+Go for the Eyes,23.0,True,2,False
+Compile Driver,23.0,False,2,False
+Static Discharge,23.0,False,2,False
+SKIP,23.0,False,2,False
+Doom and Gloom,24.0,True,2,False
+Undo,24.0,False,2,False
+Beam Cell,24.0,False,2,False
+Conserve Battery,24.0,False,2,False
+Double Energy,24.0,False,2,False
+Coolheaded,24.0,False,2,False
+Scrape,24.0,False,2,False
+Rainbow,24.0,False,2,False
+Chaos,24.0,False,2,False
+Hello World,24.0,False,2,False
+Recycle,24.0,False,2,False
+Go for the Eyes,24.0,False,2,False
+Leap,24.0,False,2,False
+Redo,24.0,False,2,False
+White Noise,24.0,False,2,False
+Fusion,24.0,False,2,False
+Barrage,24.0,False,2,False
+Rebound,24.0,False,2,False
+Claw,24.0,False,2,False
+Sunder,24.0,False,2,False
+SKIP,24.0,False,2,False
+Static Discharge,25.0,True,2,False
+Buffer,25.0,False,2,False
+Ball Lightning,25.0,False,2,False
+SKIP,25.0,False,2,False
+Defragment,27.0,True,2,False
+Compile Driver,27.0,False,2,False
+Conserve Battery,27.0,False,2,False
+SKIP,27.0,False,2,False
+Genetic Algorithm,31.0,True,2,False
+Fusion,31.0,False,2,False
+Storm,31.0,False,2,False
+SKIP,31.0,False,2,False
+Echo Form,33.0,True,2,True
+Thunder Strike,33.0,False,2,True
+Creative AI,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Streamline,35.0,False,3,False
+Auto Shields,35.0,False,3,False
+Loop,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Streamline,35.0,False,3,False
+Auto Shields,35.0,False,3,False
+Loop,35.0,False,3,False
+SKIP,35.0,False,3,False
+Sweeping Beam,36.0,True,3,False
+Conserve Battery,36.0,False,3,False
+Stack,36.0,False,3,False
+SKIP,36.0,False,3,False
+Hologram,39.0,True,3,False
+Compile Driver,39.0,False,3,False
+Stack,39.0,False,3,False
+SKIP,39.0,False,3,False
+Coolheaded,40.0,True,3,False
+Genetic Algorithm,40.0,False,3,False
+Redo,40.0,False,3,False
+Singing Bowl,40.0,False,3,False
+Rebound,41.0,True,3,False
+Barrage,41.0,False,3,False
+Sunder,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Singing Bowl,42.0,True,3,False
+Barrage,42.0,False,3,False
+Undo,42.0,False,3,False
+Leap,42.0,False,3,False
+Singing Bowl,42.0,False,3,False
+Singing Bowl,44.0,True,3,False
+Steam,44.0,False,3,False
+Compile Driver,44.0,False,3,False
+Leap,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Coolheaded,46.0,True,3,False
+Biased Cognition,46.0,False,3,False
+Beam Cell,46.0,False,3,False
+Singing Bowl,46.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Steam,48.0,False,3,False
+Redo,48.0,False,3,False
+Heatsinks,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Turbo,55.0,True,4,False
+Ball Lightning,55.0,False,4,False
+Darkness,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Coolheaded,1.0,True,1,False
+Static Discharge,1.0,False,1,False
+Barrage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Tempest,2.0,True,1,False
+Chaos,2.0,False,1,False
+Capacitor,2.0,False,1,False
+SKIP,2.0,False,1,False
+Chill,4.0,True,1,False
+Barrage,4.0,False,1,False
+Static Discharge,4.0,False,1,False
+SKIP,4.0,False,1,False
+Ball Lightning,5.0,True,1,False
+Heatsinks,5.0,False,1,False
+Go for the Eyes,5.0,False,1,False
+SKIP,5.0,False,1,False
+Self Repair,7.0,True,1,False
+Consume,7.0,False,1,False
+Ball Lightning,7.0,False,1,False
+SKIP,7.0,False,1,False
+Undo,11.0,True,1,False
+Go for the Eyes,11.0,False,1,False
+Stack,11.0,False,1,False
+SKIP,11.0,False,1,False
+Conserve Battery,12.0,True,1,False
+Beam Cell,12.0,False,1,False
+Ball Lightning,12.0,False,1,False
+SKIP,12.0,False,1,False
+Compile Driver,13.0,True,1,False
+Machine Learning,13.0,False,1,False
+Force Field,13.0,False,1,False
+SKIP,13.0,False,1,False
+Skim,14.0,True,1,False
+Stack,14.0,False,1,False
+Chill,14.0,False,1,False
+Singing Bowl,14.0,False,1,False
+Rainbow,16.0,True,1,True
+Meteor Strike,16.0,False,1,True
+Hyperbeam,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Lockon,18.0,True,2,False
+Blizzard,18.0,False,2,False
+Hologram,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Chill,20.0,True,2,False
+Conserve Battery,20.0,False,2,False
+Streamline,20.0,False,2,False
+Singing Bowl,20.0,False,2,False
+Defragment,21.0,True,2,False
+Claw,21.0,False,2,False
+Ball Lightning,21.0,False,2,False
+Singing Bowl,21.0,False,2,False
+Sunder,25.0,True,2,False
+Rebound,25.0,False,2,False
+Recycle,25.0,False,2,False
+Singing Bowl,25.0,False,2,False
+Turbo,28.0,True,2,False
+Stack,28.0,False,2,False
+Creative AI,28.0,False,2,False
+Singing Bowl,28.0,False,2,False
+Doom and Gloom,29.0,True,2,False
+Leap,29.0,False,2,False
+Cold Snap,29.0,False,2,False
+Claw,29.0,False,2,False
+Sweeping Beam,29.0,False,2,False
+Static Discharge,29.0,False,2,False
+Rip and Tear,29.0,False,2,False
+Melter,29.0,False,2,False
+Storm,29.0,False,2,False
+Genetic Algorithm,29.0,False,2,False
+Ball Lightning,29.0,False,2,False
+Rebound,29.0,False,2,False
+Barrage,29.0,False,2,False
+Steam,29.0,False,2,False
+White Noise,29.0,False,2,False
+Hello World,29.0,False,2,False
+Conserve Battery,29.0,False,2,False
+Redo,29.0,False,2,False
+Streamline,29.0,False,2,False
+Reprogram,29.0,False,2,False
+Singing Bowl,29.0,False,2,False
+Beam Cell,30.0,True,2,False
+Streamline,30.0,False,2,False
+Conserve Battery,30.0,False,2,False
+Singing Bowl,30.0,False,2,False
+Hologram,31.0,True,2,False
+Go for the Eyes,31.0,False,2,False
+Reprogram,31.0,False,2,False
+Singing Bowl,31.0,False,2,False
+Biased Cognition,33.0,True,2,True
+Core Surge,33.0,False,2,True
+Buffer,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Singing Bowl,35.0,True,3,False
+Storm,35.0,False,3,False
+Turbo,35.0,False,3,False
+Tempest,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Singing Bowl,38.0,True,3,False
+Beam Cell,38.0,False,3,False
+Streamline,38.0,False,3,False
+Barrage,38.0,False,3,False
+Singing Bowl,38.0,False,3,False
+Steam Power,40.0,True,3,False
+Streamline,40.0,False,3,False
+Rip and Tear,40.0,False,3,False
+Singing Bowl,40.0,False,3,False
+Compile Driver,42.0,True,3,False
+Self Repair,42.0,False,3,False
+Beam Cell,42.0,False,3,False
+Singing Bowl,42.0,False,3,False
+Singing Bowl,44.0,True,3,False
+Darkness,44.0,False,3,False
+Tempest,44.0,False,3,False
+Rip and Tear,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Singing Bowl,45.0,True,3,False
+Jack Of All Trades,45.0,False,3,False
+Blind,45.0,False,3,False
+Swift Strike,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Panacea,45.0,True,3,False
+Magnetism,45.0,False,3,False
+Madness,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Singing Bowl,45.0,True,3,False
+Chrysalis,45.0,False,3,False
+Purity,45.0,False,3,False
+Trip,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Glacier,48.0,True,3,False
+Beam Cell,48.0,False,3,False
+Capacitor,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Hologram,48.0,True,3,False
+Creative AI,48.0,False,3,False
+Claw,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Go for the Eyes,48.0,True,3,False
+Stack,48.0,False,3,False
+Turbo,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Hologram,48.0,True,3,False
+Go for the Eyes,48.0,False,3,False
+Redo,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Machine Learning,48.0,False,3,False
+Cold Snap,48.0,False,3,False
+Self Repair,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,55.0,True,4,False
+Hello World,55.0,False,4,False
+Sunder,55.0,False,4,False
+Streamline,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Swift Strike,0.0,True,1,False
+Impatience,0.0,False,1,False
+Forethought,0.0,False,1,False
+SKIP,0.0,False,1,False
+Ball Lightning,1.0,True,1,False
+Steam,1.0,False,1,False
+Static Discharge,1.0,False,1,False
+SKIP,1.0,False,1,False
+Hologram,4.0,True,1,False
+Heatsinks,4.0,False,1,False
+Consume,4.0,False,1,False
+SKIP,4.0,False,1,False
+Sweeping Beam,5.0,True,1,False
+Recycle,5.0,False,1,False
+Go for the Eyes,5.0,False,1,False
+SKIP,5.0,False,1,False
+Glacier,6.0,True,1,False
+Compile Driver,6.0,False,1,False
+Go for the Eyes,6.0,False,1,False
+SKIP,6.0,False,1,False
+Core Surge,8.0,True,1,False
+Leap,8.0,False,1,False
+Sunder,8.0,False,1,False
+SKIP,8.0,False,1,False
+Glacier,10.0,True,1,False
+Steam Power,10.0,False,1,False
+Tempest,10.0,False,1,False
+SKIP,10.0,False,1,False
+Loop,12.0,True,1,False
+White Noise,12.0,False,1,False
+Cold Snap,12.0,False,1,False
+SKIP,12.0,False,1,False
+Compile Driver,14.0,True,1,False
+Barrage,14.0,False,1,False
+Hello World,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Multi-Cast,16.0,False,1,True
+Biased Cognition,16.0,False,1,True
+SKIP,16.0,False,1,True
+Redo,18.0,True,2,False
+Go for the Eyes,18.0,False,2,False
+Beam Cell,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Leap,19.0,False,2,False
+Redo,19.0,False,2,False
+Tempest,19.0,False,2,False
+SKIP,19.0,False,2,False
+Hologram,20.0,True,2,False
+Streamline,20.0,False,2,False
+Rebound,20.0,False,2,False
+SKIP,20.0,False,2,False
+Aggregate,22.0,True,2,False
+Auto Shields,22.0,False,2,False
+Glacier,22.0,False,2,False
+SKIP,22.0,False,2,False
+Conserve Battery,24.0,True,2,False
+Core Surge,24.0,False,2,False
+Coolheaded,24.0,False,2,False
+SKIP,24.0,False,2,False
+Steam,27.0,True,2,False
+Beam Cell,27.0,False,2,False
+Tempest,27.0,False,2,False
+SKIP,27.0,False,2,False
+Reboot,29.0,True,2,False
+Claw,29.0,False,2,False
+Redo,29.0,False,2,False
+SKIP,29.0,False,2,False
+Darkness,30.0,True,2,False
+Go for the Eyes,30.0,False,2,False
+Chaos,30.0,False,2,False
+SKIP,30.0,False,2,False
+Hologram,31.0,True,2,False
+Steam,31.0,False,2,False
+Beam Cell,31.0,False,2,False
+SKIP,31.0,False,2,False
+Machine Learning,33.0,True,2,True
+Buffer,33.0,False,2,True
+Amplify,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,36.0,True,3,False
+Lockon,36.0,False,3,False
+Rebound,36.0,False,3,False
+Leap,36.0,False,3,False
+SKIP,36.0,False,3,False
+Recycle,38.0,True,3,False
+Static Discharge,38.0,False,3,False
+Streamline,38.0,False,3,False
+SKIP,38.0,False,3,False
+Conserve Battery,40.0,True,3,False
+Sunder,40.0,False,3,False
+Steam,40.0,False,3,False
+SKIP,40.0,False,3,False
+Coolheaded,44.0,True,3,False
+Sweeping Beam,44.0,False,3,False
+Storm,44.0,False,3,False
+SKIP,44.0,False,3,False
+Stack,47.0,True,3,False
+Auto Shields,47.0,False,3,False
+Sweeping Beam,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Force Field,48.0,False,3,False
+Aggregate,48.0,False,3,False
+Reboot,48.0,False,3,False
+SKIP,48.0,False,3,False
+Redo,55.0,True,4,False
+Recycle,55.0,False,4,False
+Cold Snap,55.0,False,4,False
+SKIP,55.0,False,4,False
+Beam Cell,1.0,True,1,False
+White Noise,1.0,False,1,False
+Force Field,1.0,False,1,False
+SKIP,1.0,False,1,False
+Self Repair,2.0,True,1,False
+Conserve Battery,2.0,False,1,False
+Fusion,2.0,False,1,False
+SKIP,2.0,False,1,False
+Coolheaded,3.0,True,1,False
+Auto Shields,3.0,False,1,False
+BootSequence,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,5.0,True,1,False
+Stack,5.0,False,1,False
+Beam Cell,5.0,False,1,False
+Steam Power,5.0,False,1,False
+SKIP,5.0,False,1,False
+Electrodynamics,6.0,True,1,False
+Streamline,6.0,False,1,False
+Conserve Battery,6.0,False,1,False
+SKIP,6.0,False,1,False
+Electrodynamics,8.0,True,1,False
+Rip and Tear,8.0,False,1,False
+Turbo,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,12.0,True,1,False
+Static Discharge,12.0,False,1,False
+Multi-Cast,12.0,False,1,False
+Heatsinks,12.0,False,1,False
+SKIP,12.0,False,1,False
+Hologram,14.0,True,1,False
+Streamline,14.0,False,1,False
+White Noise,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Core Surge,16.0,False,1,True
+Rainbow,16.0,False,1,True
+SKIP,16.0,False,1,True
+Glacier,18.0,True,2,False
+Claw,18.0,False,2,False
+Conserve Battery,18.0,False,2,False
+SKIP,18.0,False,2,False
+Hologram,19.0,True,2,False
+Skim,19.0,False,2,False
+Go for the Eyes,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,21.0,True,2,False
+Conserve Battery,21.0,False,2,False
+Consume,21.0,False,2,False
+Claw,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,22.0,True,2,False
+Redo,22.0,False,2,False
+Compile Driver,22.0,False,2,False
+Auto Shields,22.0,False,2,False
+SKIP,22.0,False,2,False
+Fusion,24.0,True,2,False
+Barrage,24.0,False,2,False
+Sweeping Beam,24.0,False,2,False
+SKIP,24.0,False,2,False
+Recycle,27.0,True,2,False
+Conserve Battery,27.0,False,2,False
+White Noise,27.0,False,2,False
+SKIP,27.0,False,2,False
+Genetic Algorithm,29.0,True,2,False
+Compile Driver,29.0,False,2,False
+Sweeping Beam,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Blizzard,30.0,False,2,False
+Fission,30.0,False,2,False
+Streamline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Blizzard,30.0,True,2,False
+Fission,30.0,False,2,False
+Streamline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Redo,31.0,True,2,False
+Beam Cell,31.0,False,2,False
+Barrage,31.0,False,2,False
+SKIP,31.0,False,2,False
+Thunder Strike,33.0,True,2,True
+Hyperbeam,33.0,False,2,True
+Multi-Cast,33.0,False,2,True
+SKIP,33.0,False,2,True
+Coolheaded,35.0,True,3,False
+Loop,35.0,False,3,False
+Turbo,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Claw,36.0,False,3,False
+Blizzard,36.0,False,3,False
+Beam Cell,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Claw,36.0,False,3,False
+Blizzard,36.0,False,3,False
+Beam Cell,36.0,False,3,False
+SKIP,36.0,False,3,False
+Undo,37.0,True,3,False
+Double Energy,37.0,False,3,False
+Rebound,37.0,False,3,False
+SKIP,37.0,False,3,False
+Skim,38.0,True,3,False
+Compile Driver,38.0,False,3,False
+Cold Snap,38.0,False,3,False
+SKIP,38.0,False,3,False
+Creative AI,40.0,True,3,False
+Hologram,40.0,False,3,False
+Steam,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Stack,42.0,False,3,False
+Redo,42.0,False,3,False
+Barrage,42.0,False,3,False
+SKIP,42.0,False,3,False
+Hologram,44.0,True,3,False
+Genetic Algorithm,44.0,False,3,False
+FTL,44.0,False,3,False
+SKIP,44.0,False,3,False
+Defragment,44.0,True,3,False
+Machine Learning,44.0,False,3,False
+Chill,44.0,False,3,False
+SKIP,44.0,False,3,False
+Defragment,45.0,True,3,False
+Cold Snap,45.0,False,3,False
+Heatsinks,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Ball Lightning,47.0,False,3,False
+Conserve Battery,47.0,False,3,False
+Streamline,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Cold Snap,47.0,False,3,False
+Turbo,47.0,False,3,False
+Rip and Tear,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Amplify,48.0,False,3,False
+Sweeping Beam,48.0,False,3,False
+Turbo,48.0,False,3,False
+SKIP,48.0,False,3,False
+Hologram,55.0,True,4,False
+Stack,55.0,False,4,False
+FTL,55.0,False,4,False
+SKIP,55.0,False,4,False
+Skim,1.0,True,1,False
+Double Energy,1.0,False,1,False
+Redo,1.0,False,1,False
+SKIP,1.0,False,1,False
+Coolheaded,5.0,True,1,False
+Barrage,5.0,False,1,False
+Redo,5.0,False,1,False
+SKIP,5.0,False,1,False
+Beam Cell,7.0,True,1,False
+Go for the Eyes,7.0,False,1,False
+Auto Shields,7.0,False,1,False
+SKIP,7.0,False,1,False
+Lockon,10.0,True,1,False
+Redo,10.0,False,1,False
+Ball Lightning,10.0,False,1,False
+SKIP,10.0,False,1,False
+Loop,12.0,True,1,False
+Leap,12.0,False,1,False
+Aggregate,12.0,False,1,False
+SKIP,12.0,False,1,False
+Turbo,13.0,True,1,False
+Recycle,13.0,False,1,False
+Rip and Tear,13.0,False,1,False
+SKIP,13.0,False,1,False
+Biased Cognition,16.0,True,1,True
+Amplify,16.0,False,1,True
+Electrodynamics,16.0,False,1,True
+SKIP,16.0,False,1,True
+Melter,18.0,True,2,False
+Stack,18.0,False,2,False
+Barrage,18.0,False,2,False
+SKIP,18.0,False,2,False
+Defragment,19.0,True,2,False
+Steam,19.0,False,2,False
+Conserve Battery,19.0,False,2,False
+SKIP,19.0,False,2,False
+Coolheaded,22.0,True,2,False
+Redo,22.0,False,2,False
+Hello World,22.0,False,2,False
+SKIP,22.0,False,2,False
+Hologram,23.0,True,2,False
+Claw,23.0,False,2,False
+Sweeping Beam,23.0,False,2,False
+SKIP,23.0,False,2,False
+Hologram,25.0,True,2,False
+Hello World,25.0,False,2,False
+Turbo,25.0,False,2,False
+SKIP,25.0,False,2,False
+Hologram,27.0,True,2,False
+Claw,27.0,False,2,False
+Leap,27.0,False,2,False
+SKIP,27.0,False,2,False
+Reboot,29.0,True,2,False
+Scrape,29.0,False,2,False
+Steam Power,29.0,False,2,False
+SKIP,29.0,False,2,False
+Genetic Algorithm,30.0,True,2,False
+BootSequence,30.0,False,2,False
+Rip and Tear,30.0,False,2,False
+SKIP,30.0,False,2,False
+Genetic Algorithm,31.0,True,2,False
+Rebound,31.0,False,2,False
+Steam,31.0,False,2,False
+SKIP,31.0,False,2,False
+Electrodynamics,33.0,True,2,True
+Fission,33.0,False,2,True
+Biased Cognition,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Sweeping Beam,35.0,False,3,False
+Beam Cell,35.0,False,3,False
+Force Field,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Sweeping Beam,35.0,False,3,False
+Beam Cell,35.0,False,3,False
+Force Field,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Steam,36.0,False,3,False
+Claw,36.0,False,3,False
+Sweeping Beam,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,40.0,True,3,False
+Beam Cell,40.0,False,3,False
+Rebound,40.0,False,3,False
+Claw,40.0,False,3,False
+SKIP,40.0,False,3,False
+Chaos,41.0,True,3,False
+Sunder,41.0,False,3,False
+Cold Snap,41.0,False,3,False
+SKIP,41.0,False,3,False
+Redo,42.0,True,3,False
+Double Energy,42.0,False,3,False
+Compile Driver,42.0,False,3,False
+SKIP,42.0,False,3,False
+Hologram,44.0,True,3,False
+Beam Cell,44.0,False,3,False
+Ball Lightning,44.0,False,3,False
+SKIP,44.0,False,3,False
+Hologram,45.0,True,3,False
+Streamline,45.0,False,3,False
+Turbo,45.0,False,3,False
+SKIP,45.0,False,3,False
+Fusion,48.0,True,3,False
+Melter,48.0,False,3,False
+Undo,48.0,False,3,False
+SKIP,48.0,False,3,False
+Echo Form,55.0,True,4,False
+Compile Driver,55.0,False,4,False
+Fission,55.0,False,4,False
+SKIP,55.0,False,4,False
+Tempest,1.0,True,1,False
+Conserve Battery,1.0,False,1,False
+Rip and Tear,1.0,False,1,False
+SKIP,1.0,False,1,False
+Glacier,3.0,True,1,False
+Recycle,3.0,False,1,False
+Barrage,3.0,False,1,False
+SKIP,3.0,False,1,False
+Undo,4.0,True,1,False
+Chaos,4.0,False,1,False
+Scrape,4.0,False,1,False
+SKIP,4.0,False,1,False
+Biased Cognition,7.0,True,1,False
+Steam Power,7.0,False,1,False
+Glacier,7.0,False,1,False
+SKIP,7.0,False,1,False
+Static Discharge,8.0,True,1,False
+Reprogram,8.0,False,1,False
+Go for the Eyes,8.0,False,1,False
+SKIP,8.0,False,1,False
+Chill,11.0,True,1,False
+Steam Power,11.0,False,1,False
+Melter,11.0,False,1,False
+SKIP,11.0,False,1,False
+Multi-Cast,12.0,True,1,False
+Go for the Eyes,12.0,False,1,False
+Cold Snap,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,14.0,True,1,False
+Barrage,14.0,False,1,False
+Blizzard,14.0,False,1,False
+Leap,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Reboot,16.0,False,1,True
+Electrodynamics,16.0,False,1,True
+SKIP,16.0,False,1,True
+Double Energy,18.0,True,2,False
+Rebound,18.0,False,2,False
+Static Discharge,18.0,False,2,False
+SKIP,18.0,False,2,False
+Capacitor,21.0,True,2,False
+Stack,21.0,False,2,False
+Go for the Eyes,21.0,False,2,False
+SKIP,21.0,False,2,False
+Blizzard,22.0,True,2,False
+Streamline,22.0,False,2,False
+Force Field,22.0,False,2,False
+SKIP,22.0,False,2,False
+Go for the Eyes,23.0,True,2,False
+Sunder,23.0,False,2,False
+Barrage,23.0,False,2,False
+SKIP,23.0,False,2,False
+Cold Snap,25.0,True,2,False
+Redo,25.0,False,2,False
+Sweeping Beam,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Turbo,27.0,False,2,False
+Rip and Tear,27.0,False,2,False
+Ball Lightning,27.0,False,2,False
+SKIP,27.0,False,2,False
+Turbo,29.0,True,2,False
+FTL,29.0,False,2,False
+Blizzard,29.0,False,2,False
+SKIP,29.0,False,2,False
+Sunder,30.0,True,2,False
+Stack,30.0,False,2,False
+Go for the Eyes,30.0,False,2,False
+SKIP,30.0,False,2,False
+Core Surge,31.0,True,2,False
+Sweeping Beam,31.0,False,2,False
+Turbo,31.0,False,2,False
+SKIP,31.0,False,2,False
+Biased Cognition,33.0,True,2,True
+Meteor Strike,33.0,False,2,True
+Multi-Cast,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Chill,35.0,False,3,False
+Sweeping Beam,35.0,False,3,False
+Cold Snap,35.0,False,3,False
+SKIP,35.0,False,3,False
+Go for the Eyes,36.0,True,3,False
+Aggregate,36.0,False,3,False
+Tempest,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Fusion,37.0,False,3,False
+Sweeping Beam,37.0,False,3,False
+Double Energy,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Fusion,37.0,False,3,False
+Sweeping Beam,37.0,False,3,False
+Double Energy,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Claw,38.0,False,3,False
+Reprogram,38.0,False,3,False
+Go for the Eyes,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,40.0,True,3,False
+Turbo,40.0,False,3,False
+Steam,40.0,False,3,False
+Stack,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Turbo,40.0,False,3,False
+Steam,40.0,False,3,False
+Stack,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,40.0,True,3,False
+Turbo,40.0,False,3,False
+Steam,40.0,False,3,False
+Stack,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Claw,42.0,False,3,False
+Redo,42.0,False,3,False
+Ball Lightning,42.0,False,3,False
+SKIP,42.0,False,3,False
+Heatsinks,45.0,True,3,False
+Beam Cell,45.0,False,3,False
+Rebound,45.0,False,3,False
+SKIP,45.0,False,3,False
+Coolheaded,46.0,True,3,False
+Compile Driver,46.0,False,3,False
+Storm,46.0,False,3,False
+SKIP,46.0,False,3,False
+Dark Shackles,47.0,True,3,False
+Dramatic Entrance,47.0,False,3,False
+Madness,47.0,False,3,False
+SKIP,47.0,False,3,False
+Panacea,47.0,True,3,False
+Chrysalis,47.0,False,3,False
+Good Instincts,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Sadistic Nature,47.0,False,3,False
+Discovery,47.0,False,3,False
+Madness,47.0,False,3,False
+SKIP,47.0,False,3,False
+Loop,48.0,True,3,False
+Scrape,48.0,False,3,False
+Steam,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Redo,55.0,False,4,False
+Stack,55.0,False,4,False
+White Noise,55.0,False,4,False
+SKIP,55.0,False,4,False
+Beam Cell,1.0,True,1,False
+Leap,1.0,False,1,False
+Recycle,1.0,False,1,False
+SKIP,1.0,False,1,False
+Hologram,4.0,True,1,False
+Steam Power,4.0,False,1,False
+Loop,4.0,False,1,False
+SKIP,4.0,False,1,False
+Beam Cell,5.0,True,1,False
+Compile Driver,5.0,False,1,False
+Sweeping Beam,5.0,False,1,False
+SKIP,5.0,False,1,False
+BootSequence,7.0,True,1,False
+Steam,7.0,False,1,False
+Leap,7.0,False,1,False
+SKIP,7.0,False,1,False
+Ball Lightning,8.0,True,1,False
+Machine Learning,8.0,False,1,False
+Streamline,8.0,False,1,False
+SKIP,8.0,False,1,False
+Coolheaded,10.0,True,1,False
+Leap,10.0,False,1,False
+Sweeping Beam,10.0,False,1,False
+SKIP,10.0,False,1,False
+Cold Snap,12.0,True,1,False
+Sweeping Beam,12.0,False,1,False
+Barrage,12.0,False,1,False
+SKIP,12.0,False,1,False
+Conserve Battery,14.0,True,1,False
+Leap,14.0,False,1,False
+Reprogram,14.0,False,1,False
+SKIP,14.0,False,1,False
+All For One,16.0,True,1,True
+Thunder Strike,16.0,False,1,True
+Creative AI,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Redo,18.0,False,2,False
+Consume,18.0,False,2,False
+Ball Lightning,18.0,False,2,False
+SKIP,18.0,False,2,False
+Compile Driver,20.0,True,2,False
+Coolheaded,20.0,False,2,False
+Turbo,20.0,False,2,False
+SKIP,20.0,False,2,False
+Echo Form,21.0,True,2,False
+Storm,21.0,False,2,False
+Loop,21.0,False,2,False
+SKIP,21.0,False,2,False
+Hyperbeam,21.0,True,2,False
+Compile Driver,21.0,False,2,False
+Cold Snap,21.0,False,2,False
+SKIP,21.0,False,2,False
+Creative AI,21.0,True,2,False
+FTL,21.0,False,2,False
+Sweeping Beam,21.0,False,2,False
+SKIP,21.0,False,2,False
+Rebound,21.0,True,2,False
+Sweeping Beam,21.0,False,2,False
+Blizzard,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,21.0,True,2,False
+Turbo,21.0,False,2,False
+Leap,21.0,False,2,False
+FTL,21.0,False,2,False
+SKIP,21.0,False,2,False
+Compile Driver,23.0,True,2,False
+Barrage,23.0,False,2,False
+Leap,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,24.0,True,2,False
+Sweeping Beam,24.0,False,2,False
+Barrage,24.0,False,2,False
+Double Energy,24.0,False,2,False
+SKIP,24.0,False,2,False
+Genetic Algorithm,25.0,True,2,False
+Steam,25.0,False,2,False
+Streamline,25.0,False,2,False
+SKIP,25.0,False,2,False
+Reinforced Body,27.0,True,2,False
+Rip and Tear,27.0,False,2,False
+Melter,27.0,False,2,False
+SKIP,27.0,False,2,False
+Hologram,29.0,True,2,False
+Skim,29.0,False,2,False
+Melter,29.0,False,2,False
+BootSequence,29.0,False,2,False
+Go for the Eyes,29.0,False,2,False
+Streamline,29.0,False,2,False
+Force Field,29.0,False,2,False
+White Noise,29.0,False,2,False
+Compile Driver,29.0,False,2,False
+Recycle,29.0,False,2,False
+Reprogram,29.0,False,2,False
+Barrage,29.0,False,2,False
+Beam Cell,29.0,False,2,False
+Blizzard,29.0,False,2,False
+Tempest,29.0,False,2,False
+Stack,29.0,False,2,False
+Genetic Algorithm,29.0,False,2,False
+Conserve Battery,29.0,False,2,False
+Sweeping Beam,29.0,False,2,False
+Heatsinks,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Reinforced Body,31.0,False,2,False
+Reboot,31.0,False,2,False
+Cold Snap,31.0,False,2,False
+SKIP,31.0,False,2,False
+All For One,33.0,True,2,True
+Core Surge,33.0,False,2,True
+Machine Learning,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Conserve Battery,35.0,False,3,False
+Compile Driver,35.0,False,3,False
+Coolheaded,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Conserve Battery,35.0,False,3,False
+Compile Driver,35.0,False,3,False
+Coolheaded,35.0,False,3,False
+SKIP,35.0,False,3,False
+Loop,37.0,True,3,False
+Conserve Battery,37.0,False,3,False
+Steam Power,37.0,False,3,False
+SKIP,37.0,False,3,False
+Panacea,38.0,True,3,False
+Purity,38.0,False,3,False
+Chrysalis,38.0,False,3,False
+SKIP,38.0,False,3,False
+Magnetism,38.0,True,3,False
+Madness,38.0,False,3,False
+Forethought,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Violence,38.0,False,3,False
+Sadistic Nature,38.0,False,3,False
+Impatience,38.0,False,3,False
+SKIP,38.0,False,3,False
+Go for the Eyes,41.0,True,3,False
+Streamline,41.0,False,3,False
+Steam,41.0,False,3,False
+SKIP,41.0,False,3,False
+Conserve Battery,42.0,True,3,False
+Static Discharge,42.0,False,3,False
+Claw,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Sweeping Beam,44.0,False,3,False
+Ball Lightning,44.0,False,3,False
+Barrage,44.0,False,3,False
+SKIP,44.0,False,3,False
+All For One,45.0,True,3,False
+Sweeping Beam,45.0,False,3,False
+Beam Cell,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Sweeping Beam,46.0,False,3,False
+Static Discharge,46.0,False,3,False
+Compile Driver,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Capacitor,47.0,False,3,False
+Reprogram,47.0,False,3,False
+Darkness,47.0,False,3,False
+SKIP,47.0,False,3,False
+Stack,55.0,True,4,False
+Streamline,55.0,False,4,False
+Turbo,55.0,False,4,False
+SKIP,55.0,False,4,False
+Skim,1.0,True,1,False
+Streamline,1.0,False,1,False
+Double Energy,1.0,False,1,False
+SKIP,1.0,False,1,False
+Doom and Gloom,3.0,True,1,False
+Ball Lightning,3.0,False,1,False
+Steam Power,3.0,False,1,False
+SKIP,3.0,False,1,False
+Glacier,4.0,True,1,False
+Beam Cell,4.0,False,1,False
+Auto Shields,4.0,False,1,False
+SKIP,4.0,False,1,False
+Ball Lightning,5.0,True,1,False
+Fusion,5.0,False,1,False
+Streamline,5.0,False,1,False
+SKIP,5.0,False,1,False
+Compile Driver,7.0,True,1,False
+Fusion,7.0,False,1,False
+Rip and Tear,7.0,False,1,False
+SKIP,7.0,False,1,False
+Sunder,10.0,True,1,False
+Melter,10.0,False,1,False
+Thunder Strike,10.0,False,1,False
+SKIP,10.0,False,1,False
+Cold Snap,11.0,True,1,False
+Force Field,11.0,False,1,False
+Sweeping Beam,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,13.0,True,1,False
+Scrape,13.0,False,1,False
+Reprogram,13.0,False,1,False
+Hello World,13.0,False,1,False
+SKIP,13.0,False,1,False
+Loop,14.0,True,1,False
+Creative AI,14.0,False,1,False
+Redo,14.0,False,1,False
+SKIP,14.0,False,1,False
+Echo Form,16.0,True,1,True
+Fission,16.0,False,1,True
+Reboot,16.0,False,1,True
+SKIP,16.0,False,1,True
+Undo,18.0,True,2,False
+Compile Driver,18.0,False,2,False
+Aggregate,18.0,False,2,False
+SKIP,18.0,False,2,False
+Turbo,19.0,True,2,False
+Static Discharge,19.0,False,2,False
+Rebound,19.0,False,2,False
+SKIP,19.0,False,2,False
+Defragment,21.0,True,2,False
+Doom and Gloom,21.0,False,2,False
+Barrage,21.0,False,2,False
+SKIP,21.0,False,2,False
+Recycle,23.0,True,2,False
+Rip and Tear,23.0,False,2,False
+Redo,23.0,False,2,False
+SKIP,23.0,False,2,False
+Meteor Strike,25.0,True,2,False
+Claw,25.0,False,2,False
+Rebound,25.0,False,2,False
+SKIP,25.0,False,2,False
+Core Surge,33.0,True,2,True
+Rainbow,33.0,False,2,True
+Thunder Strike,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Redo,35.0,False,3,False
+Claw,35.0,False,3,False
+Rip and Tear,35.0,False,3,False
+SKIP,35.0,False,3,False
+Master of Strategy,36.0,True,3,False
+Swift Strike,36.0,False,3,False
+Bandage Up,36.0,False,3,False
+SKIP,36.0,False,3,False
+Dark Shackles,36.0,True,3,False
+Dramatic Entrance,36.0,False,3,False
+Jack Of All Trades,36.0,False,3,False
+SKIP,36.0,False,3,False
+Master of Strategy,36.0,True,3,False
+Dark Shackles,36.0,False,3,False
+Transmutation,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Turbo,37.0,False,3,False
+Reinforced Body,37.0,False,3,False
+Undo,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,40.0,True,3,False
+Ball Lightning,40.0,False,3,False
+Tempest,40.0,False,3,False
+Thunder Strike,40.0,False,3,False
+SKIP,40.0,False,3,False
+Hologram,42.0,True,3,False
+Streamline,42.0,False,3,False
+Redo,42.0,False,3,False
+SKIP,42.0,False,3,False
+Coolheaded,44.0,True,3,False
+Double Energy,44.0,False,3,False
+Reprogram,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Scrape,45.0,False,3,False
+Redo,45.0,False,3,False
+Coolheaded,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Stack,46.0,False,3,False
+Lockon,46.0,False,3,False
+Tempest,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Steam,47.0,False,3,False
+FTL,47.0,False,3,False
+Beam Cell,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Turbo,48.0,False,3,False
+Force Field,48.0,False,3,False
+White Noise,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Steam,55.0,False,4,False
+Go for the Eyes,55.0,False,4,False
+Leap,55.0,False,4,False
+SKIP,55.0,False,4,False
+Sweeping Beam,1.0,True,1,False
+Blizzard,1.0,False,1,False
+Conserve Battery,1.0,False,1,False
+SKIP,1.0,False,1,False
+Undo,2.0,True,1,False
+Sweeping Beam,2.0,False,1,False
+Lockon,2.0,False,1,False
+SKIP,2.0,False,1,False
+Cold Snap,3.0,True,1,False
+Ball Lightning,3.0,False,1,False
+Streamline,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,4.0,True,1,False
+Melter,4.0,False,1,False
+Stack,4.0,False,1,False
+Streamline,4.0,False,1,False
+SKIP,4.0,False,1,False
+Biased Cognition,5.0,True,1,False
+Conserve Battery,5.0,False,1,False
+Claw,5.0,False,1,False
+SKIP,5.0,False,1,False
+Darkness,7.0,True,1,False
+Storm,7.0,False,1,False
+Coolheaded,7.0,False,1,False
+SKIP,7.0,False,1,False
+Coolheaded,7.0,True,1,False
+Beam Cell,7.0,False,1,False
+White Noise,7.0,False,1,False
+SKIP,7.0,False,1,False
+Biased Cognition,7.0,True,1,False
+Ball Lightning,7.0,False,1,False
+Genetic Algorithm,7.0,False,1,False
+SKIP,7.0,False,1,False
+Lockon,7.0,True,1,False
+Heatsinks,7.0,False,1,False
+Rebound,7.0,False,1,False
+SKIP,7.0,False,1,False
+White Noise,7.0,True,1,False
+Steam Power,7.0,False,1,False
+Reinforced Body,7.0,False,1,False
+SKIP,7.0,False,1,False
+FTL,10.0,True,1,False
+Ball Lightning,10.0,False,1,False
+Storm,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Undo,11.0,False,1,False
+Creative AI,11.0,False,1,False
+Barrage,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,11.0,True,1,False
+Undo,11.0,False,1,False
+Creative AI,11.0,False,1,False
+Barrage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Undo,11.0,True,1,False
+Creative AI,11.0,False,1,False
+Barrage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Aggregate,12.0,True,1,False
+Turbo,12.0,False,1,False
+Rebound,12.0,False,1,False
+SKIP,12.0,False,1,False
+Redo,13.0,True,1,False
+Blizzard,13.0,False,1,False
+Rebound,13.0,False,1,False
+SKIP,13.0,False,1,False
+BootSequence,14.0,True,1,False
+Leap,14.0,False,1,False
+Go for the Eyes,14.0,False,1,False
+SKIP,14.0,False,1,False
+Seek,16.0,True,1,True
+Hyperbeam,16.0,False,1,True
+Buffer,16.0,False,1,True
+SKIP,16.0,False,1,True
+Hologram,18.0,True,2,False
+Coolheaded,18.0,False,2,False
+Doom and Gloom,18.0,False,2,False
+SKIP,18.0,False,2,False
+Cold Snap,19.0,True,2,False
+Turbo,19.0,False,2,False
+Auto Shields,19.0,False,2,False
+SKIP,19.0,False,2,False
+Stack,21.0,True,2,False
+Coolheaded,21.0,False,2,False
+Conserve Battery,21.0,False,2,False
+SKIP,21.0,False,2,False
+Glacier,22.0,True,2,False
+Hologram,22.0,False,2,False
+Force Field,22.0,False,2,False
+SKIP,22.0,False,2,False
+Hologram,24.0,True,2,False
+Fission,24.0,False,2,False
+Reprogram,24.0,False,2,False
+SKIP,24.0,False,2,False
+Compile Driver,28.0,True,2,False
+Darkness,28.0,False,2,False
+Hologram,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,31.0,True,2,False
+White Noise,31.0,False,2,False
+Beam Cell,31.0,False,2,False
+Lockon,31.0,False,2,False
+SKIP,31.0,False,2,False
+Biased Cognition,33.0,True,2,True
+Hyperbeam,33.0,False,2,True
+Thunder Strike,33.0,False,2,True
+SKIP,33.0,False,2,True
+Doom and Gloom,35.0,True,3,False
+Coolheaded,35.0,False,3,False
+Rainbow,35.0,False,3,False
+Beam Cell,35.0,False,3,False
+SKIP,35.0,False,3,False
+Go for the Eyes,36.0,True,3,False
+Claw,36.0,False,3,False
+Barrage,36.0,False,3,False
+Doom and Gloom,36.0,False,3,False
+SKIP,36.0,False,3,False
+Skim,37.0,True,3,False
+White Noise,37.0,False,3,False
+Compile Driver,37.0,False,3,False
+Darkness,37.0,False,3,False
+SKIP,37.0,False,3,False
+Sunder,38.0,True,3,False
+Cold Snap,38.0,False,3,False
+Steam,38.0,False,3,False
+BootSequence,38.0,False,3,False
+SKIP,38.0,False,3,False
+Double Energy,40.0,True,3,False
+Hologram,40.0,False,3,False
+Reboot,40.0,False,3,False
+FTL,40.0,False,3,False
+SKIP,40.0,False,3,False
+Go for the Eyes,42.0,True,3,False
+Beam Cell,42.0,False,3,False
+Rip and Tear,42.0,False,3,False
+Stack,42.0,False,3,False
+SKIP,42.0,False,3,False
+Core Surge,44.0,True,3,False
+Turbo,44.0,False,3,False
+Stack,44.0,False,3,False
+Coolheaded,44.0,False,3,False
+SKIP,44.0,False,3,False
+Machine Learning,46.0,True,3,False
+Rainbow,46.0,False,3,False
+Coolheaded,46.0,False,3,False
+Streamline,46.0,False,3,False
+SKIP,46.0,False,3,False
+Glacier,47.0,True,3,False
+Leap,47.0,False,3,False
+Reinforced Body,47.0,False,3,False
+Hologram,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Cold Snap,48.0,False,3,False
+Rebound,48.0,False,3,False
+Aggregate,48.0,False,3,False
+Sweeping Beam,48.0,False,3,False
+SKIP,48.0,False,3,False
+Loop,55.0,True,4,False
+Claw,55.0,False,4,False
+Auto Shields,55.0,False,4,False
+Lockon,55.0,False,4,False
+SKIP,55.0,False,4,False
