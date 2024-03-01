@@ -1,0 +1,4552 @@
+Card,Floor,Picked,Act,Boss
+Madness,0.0,True,1,False
+Forethought,0.0,False,1,False
+Mind Blast,0.0,False,1,False
+SKIP,0.0,False,1,False
+Anger,1.0,True,1,False
+Wild Strike,1.0,False,1,False
+Searing Blow,1.0,False,1,False
+SKIP,1.0,False,1,False
+Ghostly Armor,3.0,True,1,False
+Dark Embrace,3.0,False,1,False
+True Grit,3.0,False,1,False
+SKIP,3.0,False,1,False
+Pommel Strike,4.0,True,1,False
+Searing Blow,4.0,False,1,False
+Flex,4.0,False,1,False
+SKIP,4.0,False,1,False
+Shrug It Off,5.0,True,1,False
+Anger,5.0,False,1,False
+Reckless Charge,5.0,False,1,False
+SKIP,5.0,False,1,False
+Power Through,7.0,True,1,False
+Dual Wield,7.0,False,1,False
+True Grit,7.0,False,1,False
+SKIP,7.0,False,1,False
+Pommel Strike,8.0,True,1,False
+Flex,8.0,False,1,False
+Clothesline,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shrug It Off,1.0,True,1,False
+Iron Wave,1.0,False,1,False
+Headbutt,1.0,False,1,False
+SKIP,1.0,False,1,False
+Burning Pact,2.0,True,1,False
+Body Slam,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Power Through,3.0,True,1,False
+True Grit,3.0,False,1,False
+Body Slam,3.0,False,1,False
+SKIP,3.0,False,1,False
+Inflame,6.0,True,1,False
+Perfected Strike,6.0,False,1,False
+Seeing Red,6.0,False,1,False
+SKIP,6.0,False,1,False
+Pommel Strike,10.0,True,1,False
+Flex,10.0,False,1,False
+Heavy Blade,10.0,False,1,False
+SKIP,10.0,False,1,False
+Pommel Strike,11.0,True,1,False
+Evolve,11.0,False,1,False
+Sword Boomerang,11.0,False,1,False
+SKIP,11.0,False,1,False
+Singing Bowl,12.0,True,1,False
+Seeing Red,12.0,False,1,False
+Warcry,12.0,False,1,False
+Fire Breathing,12.0,False,1,False
+Singing Bowl,12.0,False,1,False
+Singing Bowl,13.0,True,1,False
+Twin Strike,13.0,False,1,False
+Wild Strike,13.0,False,1,False
+Dark Embrace,13.0,False,1,False
+Singing Bowl,13.0,False,1,False
+Anger,14.0,True,1,False
+Bludgeon,14.0,False,1,False
+Havoc,14.0,False,1,False
+Singing Bowl,14.0,False,1,False
+Offering,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Demon Form,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Uppercut,18.0,True,2,False
+Shrug It Off,18.0,False,2,False
+Dual Wield,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Seeing Red,21.0,True,2,False
+Havoc,21.0,False,2,False
+True Grit,21.0,False,2,False
+Singing Bowl,21.0,False,2,False
+True Grit,23.0,True,2,False
+Sword Boomerang,23.0,False,2,False
+Armaments,23.0,False,2,False
+Singing Bowl,23.0,False,2,False
+Clash,1.0,True,1,False
+Thunderclap,1.0,False,1,False
+Pummel,1.0,False,1,False
+SKIP,1.0,False,1,False
+Armaments,2.0,True,1,False
+Flex,2.0,False,1,False
+Iron Wave,2.0,False,1,False
+SKIP,2.0,False,1,False
+Bloodletting,3.0,True,1,False
+Wild Strike,3.0,False,1,False
+Havoc,3.0,False,1,False
+SKIP,3.0,False,1,False
+Hemokinesis,5.0,True,1,False
+Disarm,5.0,False,1,False
+Perfected Strike,5.0,False,1,False
+SKIP,5.0,False,1,False
+Shrug It Off,6.0,True,1,False
+Dropkick,6.0,False,1,False
+Intimidate,6.0,False,1,False
+SKIP,6.0,False,1,False
+Iron Wave,8.0,True,1,False
+Ghostly Armor,8.0,False,1,False
+Wild Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Perfected Strike,10.0,True,1,False
+Feel No Pain,10.0,False,1,False
+Wild Strike,10.0,False,1,False
+SKIP,10.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Inflame,12.0,False,1,False
+Searing Blow,12.0,False,1,False
+SKIP,12.0,False,1,False
+Exhume,13.0,True,1,False
+Headbutt,13.0,False,1,False
+Metallicize,13.0,False,1,False
+SKIP,13.0,False,1,False
+Impervious,14.0,True,1,False
+Clothesline,14.0,False,1,False
+Dark Embrace,14.0,False,1,False
+SKIP,14.0,False,1,False
+Whirlwind,1.0,True,1,False
+Clash,1.0,False,1,False
+Perfected Strike,1.0,False,1,False
+SKIP,1.0,False,1,False
+Shrug It Off,4.0,True,1,False
+Warcry,4.0,False,1,False
+Heavy Blade,4.0,False,1,False
+SKIP,4.0,False,1,False
+Iron Wave,5.0,True,1,False
+Whirlwind,5.0,False,1,False
+Feel No Pain,5.0,False,1,False
+SKIP,5.0,False,1,False
+Carnage,7.0,True,1,False
+Twin Strike,7.0,False,1,False
+Reckless Charge,7.0,False,1,False
+SKIP,7.0,False,1,False
+Shrug It Off,8.0,True,1,False
+Armaments,8.0,False,1,False
+Twin Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Iron Wave,12.0,False,1,False
+Juggernaut,12.0,False,1,False
+SKIP,12.0,False,1,False
+Pommel Strike,14.0,True,1,False
+Sentinel,14.0,False,1,False
+Iron Wave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Barricade,16.0,True,1,True
+Brutality,16.0,False,1,True
+Bludgeon,16.0,False,1,True
+SKIP,16.0,False,1,True
+Headbutt,18.0,True,2,False
+Perfected Strike,18.0,False,2,False
+Rupture,18.0,False,2,False
+SKIP,18.0,False,2,False
+Havoc,19.0,True,2,False
+Perfected Strike,19.0,False,2,False
+Wild Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Body Slam,22.0,True,2,False
+Feel No Pain,22.0,False,2,False
+Headbutt,22.0,False,2,False
+SKIP,22.0,False,2,False
+Corruption,24.0,True,2,False
+Clash,24.0,False,2,False
+Ghostly Armor,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Sword Boomerang,25.0,False,2,False
+Heavy Blade,25.0,False,2,False
+Perfected Strike,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Juggernaut,27.0,False,2,False
+Perfected Strike,27.0,False,2,False
+Dropkick,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Pummel,28.0,False,2,False
+Headbutt,28.0,False,2,False
+Heavy Blade,28.0,False,2,False
+SKIP,28.0,False,2,False
+Bloodletting,29.0,True,2,False
+True Grit,29.0,False,2,False
+Clash,29.0,False,2,False
+SKIP,29.0,False,2,False
+Burning Pact,30.0,True,2,False
+Clash,30.0,False,2,False
+Combust,30.0,False,2,False
+SKIP,30.0,False,2,False
+Flame Barrier,31.0,True,2,False
+Rampage,31.0,False,2,False
+Blood for Blood,31.0,False,2,False
+SKIP,31.0,False,2,False
+Exhume,33.0,True,2,True
+Reaper,33.0,False,2,True
+Barricade,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Thunderclap,35.0,False,3,False
+Pommel Strike,35.0,False,3,False
+Rampage,35.0,False,3,False
+SKIP,35.0,False,3,False
+True Grit,37.0,True,3,False
+Infernal Blade,37.0,False,3,False
+Anger,37.0,False,3,False
+SKIP,37.0,False,3,False
+Shrug It Off,38.0,True,3,False
+Bloodletting,38.0,False,3,False
+Clash,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Thunderclap,39.0,False,3,False
+Havoc,39.0,False,3,False
+Sword Boomerang,39.0,False,3,False
+SKIP,39.0,False,3,False
+Shockwave,40.0,True,3,False
+Second Wind,40.0,False,3,False
+Warcry,40.0,False,3,False
+SKIP,40.0,False,3,False
+Disarm,42.0,True,3,False
+Blood for Blood,42.0,False,3,False
+Anger,42.0,False,3,False
+SKIP,42.0,False,3,False
+True Grit,44.0,True,3,False
+Berserk,44.0,False,3,False
+Cleave,44.0,False,3,False
+SKIP,44.0,False,3,False
+Shrug It Off,45.0,True,3,False
+Iron Wave,45.0,False,3,False
+Pommel Strike,45.0,False,3,False
+SKIP,45.0,False,3,False
+Shockwave,46.0,True,3,False
+Reaper,46.0,False,3,False
+True Grit,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,48.0,True,3,False
+Second Wind,48.0,False,3,False
+Inflame,48.0,False,3,False
+Uppercut,48.0,False,3,False
+SKIP,48.0,False,3,False
+Offering,54.0,True,4,False
+Havoc,54.0,False,4,False
+True Grit,54.0,False,4,False
+SKIP,54.0,False,4,False
+Entrench,54.0,True,4,False
+Shockwave,54.0,False,4,False
+Ghostly Armor,54.0,False,4,False
+SKIP,54.0,False,4,False
+Shrug It Off,54.0,True,4,False
+Rage,54.0,False,4,False
+Power Through,54.0,False,4,False
+SKIP,54.0,False,4,False
+Body Slam,54.0,True,4,False
+Cleave,54.0,False,4,False
+Pummel,54.0,False,4,False
+SKIP,54.0,False,4,False
+SKIP,54.0,True,4,False
+Flex,54.0,False,4,False
+Heavy Blade,54.0,False,4,False
+Thunderclap,54.0,False,4,False
+SKIP,54.0,False,4,False
+Flame Barrier,55.0,True,4,False
+Armaments,55.0,False,4,False
+Thunderclap,55.0,False,4,False
+SKIP,55.0,False,4,False
+Fire Breathing,1.0,True,1,False
+Pummel,1.0,False,1,False
+Rupture,1.0,False,1,False
+SKIP,1.0,False,1,False
+Spot Weakness,2.0,True,1,False
+Dropkick,2.0,False,1,False
+Sentinel,2.0,False,1,False
+SKIP,2.0,False,1,False
+Burning Pact,3.0,True,1,False
+Clothesline,3.0,False,1,False
+Headbutt,3.0,False,1,False
+SKIP,3.0,False,1,False
+Anger,4.0,True,1,False
+Rage,4.0,False,1,False
+Second Wind,4.0,False,1,False
+SKIP,4.0,False,1,False
+Shockwave,10.0,True,1,False
+Offering,10.0,False,1,False
+Wild Strike,10.0,False,1,False
+SKIP,10.0,False,1,False
+Shrug It Off,11.0,True,1,False
+Searing Blow,11.0,False,1,False
+Anger,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shrug It Off,13.0,True,1,False
+Anger,13.0,False,1,False
+Carnage,13.0,False,1,False
+SKIP,13.0,False,1,False
+Power Through,14.0,True,1,False
+Inflame,14.0,False,1,False
+Heavy Blade,14.0,False,1,False
+SKIP,14.0,False,1,False
+Immolate,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Feed,16.0,False,1,True
+SKIP,16.0,False,1,True
+Burning Pact,18.0,True,2,False
+Headbutt,18.0,False,2,False
+Shrug It Off,18.0,False,2,False
+SKIP,18.0,False,2,False
+Shockwave,21.0,True,2,False
+Perfected Strike,21.0,False,2,False
+Warcry,21.0,False,2,False
+SKIP,21.0,False,2,False
+Armaments,23.0,True,2,False
+Iron Wave,23.0,False,2,False
+Rupture,23.0,False,2,False
+SKIP,23.0,False,2,False
+Second Wind,24.0,True,2,False
+Perfected Strike,24.0,False,2,False
+True Grit,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Sentinel,25.0,False,2,False
+Whirlwind,25.0,False,2,False
+Rage,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Flex,27.0,False,2,False
+Perfected Strike,27.0,False,2,False
+Carnage,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,29.0,True,2,False
+Flex,29.0,False,2,False
+Perfected Strike,29.0,False,2,False
+Armaments,29.0,False,2,False
+SKIP,29.0,False,2,False
+Dual Wield,31.0,True,2,False
+Fire Breathing,31.0,False,2,False
+Flex,31.0,False,2,False
+SKIP,31.0,False,2,False
+Feed,33.0,True,2,True
+Fiend Fire,33.0,False,2,True
+Reaper,33.0,False,2,True
+SKIP,33.0,False,2,True
+Bloodletting,35.0,True,3,False
+Evolve,35.0,False,3,False
+Hemokinesis,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Metallicize,36.0,False,3,False
+Hemokinesis,36.0,False,3,False
+Flame Barrier,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Metallicize,36.0,False,3,False
+Hemokinesis,36.0,False,3,False
+Flame Barrier,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,38.0,True,3,False
+Flex,38.0,False,3,False
+Headbutt,38.0,False,3,False
+Thunderclap,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dark Embrace,41.0,True,3,False
+Havoc,41.0,False,3,False
+Seeing Red,41.0,False,3,False
+SKIP,41.0,False,3,False
+Dropkick,44.0,True,3,False
+Carnage,44.0,False,3,False
+Combust,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,45.0,True,3,False
+Armaments,45.0,False,3,False
+Fire Breathing,45.0,False,3,False
+Battle Trance,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,45.0,True,3,False
+Armaments,45.0,False,3,False
+Fire Breathing,45.0,False,3,False
+Battle Trance,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Battle Trance,47.0,False,3,False
+Armaments,47.0,False,3,False
+Havoc,47.0,False,3,False
+SKIP,47.0,False,3,False
+Intimidate,48.0,True,3,False
+Feel No Pain,48.0,False,3,False
+Anger,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Whirlwind,55.0,False,4,False
+Armaments,55.0,False,4,False
+Sentinel,55.0,False,4,False
+SKIP,55.0,False,4,False
+Demon Form,0.0,True,1,False
+Brutality,0.0,False,1,False
+Exhume,0.0,False,1,False
+SKIP,0.0,False,1,False
+Anger,1.0,True,1,False
+Dark Embrace,1.0,False,1,False
+Dropkick,1.0,False,1,False
+SKIP,1.0,False,1,False
+Metallicize,2.0,True,1,False
+Perfected Strike,2.0,False,1,False
+True Grit,2.0,False,1,False
+SKIP,2.0,False,1,False
+Pommel Strike,5.0,True,1,False
+Clash,5.0,False,1,False
+Sword Boomerang,5.0,False,1,False
+SKIP,5.0,False,1,False
+Demon Form,6.0,True,1,False
+Battle Trance,6.0,False,1,False
+Headbutt,6.0,False,1,False
+SKIP,6.0,False,1,False
+SKIP,8.0,True,1,False
+Heavy Blade,8.0,False,1,False
+Flex,8.0,False,1,False
+Clash,8.0,False,1,False
+Cleave,8.0,False,1,False
+SKIP,8.0,False,1,False
+Iron Wave,11.0,True,1,False
+Flex,11.0,False,1,False
+Reckless Charge,11.0,False,1,False
+Combust,11.0,False,1,False
+SKIP,11.0,False,1,False
+Whirlwind,12.0,True,1,False
+True Grit,12.0,False,1,False
+Havoc,12.0,False,1,False
+Combust,12.0,False,1,False
+SKIP,12.0,False,1,False
+Shockwave,14.0,True,1,False
+Havoc,14.0,False,1,False
+Immolate,14.0,False,1,False
+Reckless Charge,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Bludgeon,16.0,False,1,True
+Limit Break,16.0,False,1,True
+Immolate,16.0,False,1,True
+SKIP,16.0,False,1,True
+Headbutt,18.0,True,2,False
+Uppercut,18.0,False,2,False
+Armaments,18.0,False,2,False
+Havoc,18.0,False,2,False
+SKIP,18.0,False,2,False
+Feel No Pain,19.0,True,2,False
+Clothesline,19.0,False,2,False
+Intimidate,19.0,False,2,False
+Wild Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Battle Trance,21.0,True,2,False
+Thunderclap,21.0,False,2,False
+Dropkick,21.0,False,2,False
+Intimidate,21.0,False,2,False
+SKIP,21.0,False,2,False
+Intimidate,22.0,True,2,False
+Pommel Strike,22.0,False,2,False
+Reckless Charge,22.0,False,2,False
+Rampage,22.0,False,2,False
+SKIP,22.0,False,2,False
+Shockwave,23.0,True,2,False
+Limit Break,23.0,False,2,False
+Sword Boomerang,23.0,False,2,False
+Clothesline,23.0,False,2,False
+SKIP,23.0,False,2,False
+Second Wind,27.0,True,2,False
+Sword Boomerang,27.0,False,2,False
+Iron Wave,27.0,False,2,False
+Bloodletting,27.0,False,2,False
+SKIP,27.0,False,2,False
+Warcry,28.0,True,2,False
+Reckless Charge,28.0,False,2,False
+Blood for Blood,28.0,False,2,False
+Anger,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Hemokinesis,29.0,False,2,False
+Cleave,29.0,False,2,False
+Flame Barrier,29.0,False,2,False
+Intimidate,29.0,False,2,False
+SKIP,29.0,False,2,False
+Impervious,33.0,True,2,True
+Bludgeon,33.0,False,2,True
+Exhume,33.0,False,2,True
+Brutality,33.0,False,2,True
+SKIP,33.0,False,2,True
+Disarm,35.0,True,3,False
+Sword Boomerang,35.0,False,3,False
+Iron Wave,35.0,False,3,False
+Pommel Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+Evolve,37.0,True,3,False
+Feel No Pain,37.0,False,3,False
+Second Wind,37.0,False,3,False
+Headbutt,37.0,False,3,False
+SKIP,37.0,False,3,False
+Shrug It Off,37.0,True,3,False
+Spot Weakness,37.0,False,3,False
+Rampage,37.0,False,3,False
+Whirlwind,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Headbutt,37.0,False,3,False
+Intimidate,37.0,False,3,False
+Havoc,37.0,False,3,False
+Anger,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Cleave,37.0,False,3,False
+Heavy Blade,37.0,False,3,False
+Warcry,37.0,False,3,False
+Immolate,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,37.0,True,3,False
+Rage,37.0,False,3,False
+Warcry,37.0,False,3,False
+Ghostly Armor,37.0,False,3,False
+Rupture,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Sentinel,38.0,False,3,False
+Infernal Blade,38.0,False,3,False
+Twin Strike,38.0,False,3,False
+Clothesline,38.0,False,3,False
+SKIP,38.0,False,3,False
+Pommel Strike,39.0,True,3,False
+True Grit,39.0,False,3,False
+Body Slam,39.0,False,3,False
+Sword Boomerang,39.0,False,3,False
+SKIP,39.0,False,3,False
+Second Wind,40.0,True,3,False
+Twin Strike,40.0,False,3,False
+Demon Form,40.0,False,3,False
+Warcry,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Second Wind,42.0,False,3,False
+Iron Wave,42.0,False,3,False
+Perfected Strike,42.0,False,3,False
+Clash,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Searing Blow,44.0,False,3,False
+Flex,44.0,False,3,False
+Sever Soul,44.0,False,3,False
+Anger,44.0,False,3,False
+SKIP,44.0,False,3,False
+Burning Pact,45.0,True,3,False
+Body Slam,45.0,False,3,False
+Cleave,45.0,False,3,False
+Iron Wave,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Ghostly Armor,47.0,False,3,False
+Havoc,47.0,False,3,False
+Heavy Blade,47.0,False,3,False
+Iron Wave,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Bloodletting,48.0,False,3,False
+Rampage,48.0,False,3,False
+Whirlwind,48.0,False,3,False
+Infernal Blade,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Metallicize,55.0,False,4,False
+Pummel,55.0,False,4,False
+Spot Weakness,55.0,False,4,False
+Combust,55.0,False,4,False
+SKIP,55.0,False,4,False
+Cleave,1.0,True,1,False
+Dropkick,1.0,False,1,False
+Entrench,1.0,False,1,False
+SKIP,1.0,False,1,False
+Armaments,2.0,True,1,False
+Sword Boomerang,2.0,False,1,False
+Clash,2.0,False,1,False
+SKIP,2.0,False,1,False
+Anger,7.0,True,1,False
+Dropkick,7.0,False,1,False
+Warcry,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,11.0,True,1,False
+Wild Strike,11.0,False,1,False
+Heavy Blade,11.0,False,1,False
+Flex,11.0,False,1,False
+SKIP,11.0,False,1,False
+Pommel Strike,12.0,True,1,False
+Exhume,12.0,False,1,False
+Sword Boomerang,12.0,False,1,False
+SKIP,12.0,False,1,False
+Feed,13.0,True,1,False
+Metallicize,13.0,False,1,False
+Rage,13.0,False,1,False
+SKIP,13.0,False,1,False
+Headbutt,14.0,True,1,False
+Sever Soul,14.0,False,1,False
+Iron Wave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Corruption,16.0,True,1,True
+Brutality,16.0,False,1,True
+Impervious,16.0,False,1,True
+SKIP,16.0,False,1,True
+Perfected Strike,18.0,True,2,False
+Clash,18.0,False,2,False
+Sword Boomerang,18.0,False,2,False
+SKIP,18.0,False,2,False
+Impervious,19.0,True,2,False
+Pommel Strike,19.0,False,2,False
+Blood for Blood,19.0,False,2,False
+SKIP,19.0,False,2,False
+Spot Weakness,20.0,True,2,False
+Rampage,20.0,False,2,False
+True Grit,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,22.0,True,2,False
+Anger,22.0,False,2,False
+Thunderclap,22.0,False,2,False
+Clash,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Anger,23.0,False,2,False
+Armaments,23.0,False,2,False
+Sword Boomerang,23.0,False,2,False
+SKIP,23.0,False,2,False
+Reaper,24.0,True,2,False
+Armaments,24.0,False,2,False
+Body Slam,24.0,False,2,False
+SKIP,24.0,False,2,False
+Spot Weakness,27.0,True,2,False
+Armaments,27.0,False,2,False
+Bloodletting,27.0,False,2,False
+SKIP,27.0,False,2,False
+Exhume,33.0,True,2,True
+Corruption,33.0,False,2,True
+Limit Break,33.0,False,2,True
+SKIP,33.0,False,2,True
+Pommel Strike,35.0,True,3,False
+Havoc,35.0,False,3,False
+Heavy Blade,35.0,False,3,False
+SKIP,35.0,False,3,False
+Fiend Fire,36.0,True,3,False
+Havoc,36.0,False,3,False
+Flex,36.0,False,3,False
+SKIP,36.0,False,3,False
+Pummel,37.0,True,3,False
+Sword Boomerang,37.0,False,3,False
+Warcry,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Clothesline,38.0,False,3,False
+Pommel Strike,38.0,False,3,False
+Headbutt,38.0,False,3,False
+SKIP,38.0,False,3,False
+Clothesline,38.0,True,3,False
+Pommel Strike,38.0,False,3,False
+Headbutt,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Cleave,39.0,False,3,False
+Headbutt,39.0,False,3,False
+Bludgeon,39.0,False,3,False
+SKIP,39.0,False,3,False
+Burning Pact,41.0,True,3,False
+Dual Wield,41.0,False,3,False
+Infernal Blade,41.0,False,3,False
+SKIP,41.0,False,3,False
+Shockwave,42.0,True,3,False
+Disarm,42.0,False,3,False
+Pommel Strike,42.0,False,3,False
+SKIP,42.0,False,3,False
+Clothesline,44.0,True,3,False
+Warcry,44.0,False,3,False
+Thunderclap,44.0,False,3,False
+SKIP,44.0,False,3,False
+Power Through,47.0,True,3,False
+Anger,47.0,False,3,False
+Metallicize,47.0,False,3,False
+SKIP,47.0,False,3,False
+Brutality,49.0,True,3,False
+Rupture,49.0,False,3,False
+Flex,49.0,False,3,False
+SKIP,49.0,False,3,False
+Dark Embrace,53.0,True,4,False
+Clothesline,53.0,False,4,False
+Heavy Blade,53.0,False,4,False
+SKIP,53.0,False,4,False
+SKIP,55.0,True,4,False
+Cleave,55.0,False,4,False
+Clash,55.0,False,4,False
+Heavy Blade,55.0,False,4,False
+SKIP,55.0,False,4,False
+Trip,0.0,True,1,False
+Deep Breath,0.0,False,1,False
+Purity,0.0,False,1,False
+SKIP,0.0,False,1,False
+Headbutt,1.0,True,1,False
+Sword Boomerang,1.0,False,1,False
+Warcry,1.0,False,1,False
+SKIP,1.0,False,1,False
+Whirlwind,2.0,True,1,False
+Headbutt,2.0,False,1,False
+Anger,2.0,False,1,False
+SKIP,2.0,False,1,False
+Blood for Blood,3.0,True,1,False
+Heavy Blade,3.0,False,1,False
+Armaments,3.0,False,1,False
+SKIP,3.0,False,1,False
+Feel No Pain,4.0,True,1,False
+Sword Boomerang,4.0,False,1,False
+Rampage,4.0,False,1,False
+SKIP,4.0,False,1,False
+Anger,5.0,True,1,False
+Ghostly Armor,5.0,False,1,False
+Twin Strike,5.0,False,1,False
+SKIP,5.0,False,1,False
+Dark Embrace,7.0,True,1,False
+Battle Trance,7.0,False,1,False
+Rampage,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,11.0,True,1,False
+Feel No Pain,11.0,False,1,False
+Sever Soul,11.0,False,1,False
+Dropkick,11.0,False,1,False
+SKIP,11.0,False,1,False
+Inflame,14.0,True,1,False
+Havoc,14.0,False,1,False
+Blood for Blood,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Corruption,16.0,False,1,True
+Juggernaut,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Twin Strike,18.0,False,2,False
+Thunderclap,18.0,False,2,False
+Warcry,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,20.0,True,2,False
+Havoc,20.0,False,2,False
+Wild Strike,20.0,False,2,False
+Body Slam,20.0,False,2,False
+SKIP,20.0,False,2,False
+Exhume,22.0,True,2,False
+Dark Embrace,22.0,False,2,False
+Seeing Red,22.0,False,2,False
+Twin Strike,22.0,False,2,False
+Brutality,22.0,False,2,False
+Heavy Blade,22.0,False,2,False
+Combust,22.0,False,2,False
+Evolve,22.0,False,2,False
+Fire Breathing,22.0,False,2,False
+Cleave,22.0,False,2,False
+Perfected Strike,22.0,False,2,False
+Clothesline,22.0,False,2,False
+Warcry,22.0,False,2,False
+Rage,22.0,False,2,False
+Headbutt,22.0,False,2,False
+Iron Wave,22.0,False,2,False
+Carnage,22.0,False,2,False
+Thunderclap,22.0,False,2,False
+Bludgeon,22.0,False,2,False
+Intimidate,22.0,False,2,False
+SKIP,22.0,False,2,False
+Second Wind,1.0,True,1,False
+Havoc,1.0,False,1,False
+Dark Embrace,1.0,False,1,False
+SKIP,1.0,False,1,False
+Anger,2.0,True,1,False
+Burning Pact,2.0,False,1,False
+Shrug It Off,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,5.0,True,1,False
+Uppercut,5.0,False,1,False
+Body Slam,5.0,False,1,False
+True Grit,5.0,False,1,False
+SKIP,5.0,False,1,False
+Dual Wield,6.0,True,1,False
+Combust,6.0,False,1,False
+Thunderclap,6.0,False,1,False
+SKIP,6.0,False,1,False
+Offering,10.0,True,1,False
+Battle Trance,10.0,False,1,False
+Anger,10.0,False,1,False
+SKIP,10.0,False,1,False
+Burning Pact,11.0,True,1,False
+Carnage,11.0,False,1,False
+Fire Breathing,11.0,False,1,False
+SKIP,11.0,False,1,False
+Corruption,13.0,True,1,False
+Thunderclap,13.0,False,1,False
+Heavy Blade,13.0,False,1,False
+SKIP,13.0,False,1,False
+Shrug It Off,14.0,True,1,False
+Inflame,14.0,False,1,False
+Cleave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Barricade,16.0,False,1,True
+Double Tap,16.0,False,1,True
+SKIP,16.0,False,1,True
+Warcry,18.0,True,2,False
+Clothesline,18.0,False,2,False
+Havoc,18.0,False,2,False
+SKIP,18.0,False,2,False
+Disarm,20.0,True,2,False
+Carnage,20.0,False,2,False
+Heavy Blade,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,22.0,True,2,False
+Perfected Strike,22.0,False,2,False
+Wild Strike,22.0,False,2,False
+Juggernaut,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Perfected Strike,22.0,False,2,False
+Wild Strike,22.0,False,2,False
+Juggernaut,22.0,False,2,False
+SKIP,22.0,False,2,False
+Sentinel,23.0,True,2,False
+Seeing Red,23.0,False,2,False
+Thunderclap,23.0,False,2,False
+SKIP,23.0,False,2,False
+Shrug It Off,25.0,True,2,False
+Thunderclap,25.0,False,2,False
+Havoc,25.0,False,2,False
+SKIP,25.0,False,2,False
+Seeing Red,27.0,True,2,False
+Body Slam,27.0,False,2,False
+Clothesline,27.0,False,2,False
+SKIP,27.0,False,2,False
+Sentinel,28.0,True,2,False
+Warcry,28.0,False,2,False
+Infernal Blade,28.0,False,2,False
+SKIP,28.0,False,2,False
+True Grit,30.0,True,2,False
+Rage,30.0,False,2,False
+Double Tap,30.0,False,2,False
+SKIP,30.0,False,2,False
+Pummel,31.0,True,2,False
+Clothesline,31.0,False,2,False
+Wild Strike,31.0,False,2,False
+SKIP,31.0,False,2,False
+Limit Break,33.0,True,2,True
+Bludgeon,33.0,False,2,True
+Brutality,33.0,False,2,True
+SKIP,33.0,False,2,True
+Feel No Pain,35.0,True,3,False
+Pommel Strike,35.0,False,3,False
+Rampage,35.0,False,3,False
+SKIP,35.0,False,3,False
+Bloodletting,36.0,True,3,False
+Pommel Strike,36.0,False,3,False
+Twin Strike,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,38.0,True,3,False
+Rampage,38.0,False,3,False
+Anger,38.0,False,3,False
+Warcry,38.0,False,3,False
+SKIP,38.0,False,3,False
+Havoc,41.0,True,3,False
+Rampage,41.0,False,3,False
+Clothesline,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,47.0,True,3,False
+Headbutt,47.0,False,3,False
+Anger,47.0,False,3,False
+Pummel,47.0,False,3,False
+SKIP,47.0,False,3,False
+Shockwave,48.0,True,3,False
+Inflame,48.0,False,3,False
+Body Slam,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Seeing Red,55.0,False,4,False
+Iron Wave,55.0,False,4,False
+Heavy Blade,55.0,False,4,False
+SKIP,55.0,False,4,False
+Headbutt,1.0,True,1,False
+True Grit,1.0,False,1,False
+Armaments,1.0,False,1,False
+SKIP,1.0,False,1,False
+Second Wind,4.0,True,1,False
+Havoc,4.0,False,1,False
+Sever Soul,4.0,False,1,False
+SKIP,4.0,False,1,False
+Disarm,7.0,True,1,False
+Headbutt,7.0,False,1,False
+Metallicize,7.0,False,1,False
+SKIP,7.0,False,1,False
+Rampage,10.0,True,1,False
+True Grit,10.0,False,1,False
+Seeing Red,10.0,False,1,False
+Thunderclap,10.0,False,1,False
+SKIP,10.0,False,1,False
+Barricade,12.0,True,1,False
+Battle Trance,12.0,False,1,False
+Dropkick,12.0,False,1,False
+Rage,12.0,False,1,False
+SKIP,12.0,False,1,False
+Inflame,13.0,True,1,False
+Sever Soul,13.0,False,1,False
+Fire Breathing,13.0,False,1,False
+Havoc,13.0,False,1,False
+SKIP,13.0,False,1,False
+Entrench,14.0,True,1,False
+Heavy Blade,14.0,False,1,False
+True Grit,14.0,False,1,False
+Perfected Strike,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Juggernaut,16.0,False,1,True
+Impervious,16.0,False,1,True
+Corruption,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Entrench,18.0,True,2,False
+Havoc,18.0,False,2,False
+Second Wind,18.0,False,2,False
+Rampage,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Singing Bowl,19.0,True,2,False
+Clothesline,19.0,False,2,False
+Wild Strike,19.0,False,2,False
+Anger,19.0,False,2,False
+Rampage,19.0,False,2,False
+Singing Bowl,19.0,False,2,False
+Singing Bowl,21.0,True,2,False
+True Grit,21.0,False,2,False
+Heavy Blade,21.0,False,2,False
+Ghostly Armor,21.0,False,2,False
+Brutality,21.0,False,2,False
+Singing Bowl,21.0,False,2,False
+Power Through,22.0,True,2,False
+Battle Trance,22.0,False,2,False
+Flex,22.0,False,2,False
+Thunderclap,22.0,False,2,False
+Perfected Strike,22.0,False,2,False
+Intimidate,22.0,False,2,False
+Pummel,22.0,False,2,False
+Twin Strike,22.0,False,2,False
+Body Slam,22.0,False,2,False
+Infernal Blade,22.0,False,2,False
+Seeing Red,22.0,False,2,False
+Cleave,22.0,False,2,False
+Whirlwind,22.0,False,2,False
+Disarm,22.0,False,2,False
+Havoc,22.0,False,2,False
+Pommel Strike,22.0,False,2,False
+Dark Embrace,22.0,False,2,False
+Sword Boomerang,22.0,False,2,False
+True Grit,22.0,False,2,False
+Heavy Blade,22.0,False,2,False
+Singing Bowl,22.0,False,2,False
+Body Slam,24.0,True,2,False
+Clothesline,24.0,False,2,False
+True Grit,24.0,False,2,False
+Iron Wave,24.0,False,2,False
+Singing Bowl,24.0,False,2,False
+Dark Embrace,30.0,True,2,False
+Fire Breathing,30.0,False,2,False
+Pummel,30.0,False,2,False
+Second Wind,30.0,False,2,False
+Singing Bowl,30.0,False,2,False
+Singing Bowl,31.0,True,2,False
+Wild Strike,31.0,False,2,False
+Anger,31.0,False,2,False
+Headbutt,31.0,False,2,False
+Sword Boomerang,31.0,False,2,False
+Singing Bowl,31.0,False,2,False
+Impervious,33.0,True,2,True
+Limit Break,33.0,False,2,True
+Brutality,33.0,False,2,True
+Offering,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Shrug It Off,35.0,True,3,False
+Wild Strike,35.0,False,3,False
+Havoc,35.0,False,3,False
+Clash,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Singing Bowl,37.0,True,3,False
+Dropkick,37.0,False,3,False
+Intimidate,37.0,False,3,False
+Armaments,37.0,False,3,False
+Sword Boomerang,37.0,False,3,False
+Singing Bowl,37.0,False,3,False
+Disarm,39.0,True,3,False
+True Grit,39.0,False,3,False
+Combust,39.0,False,3,False
+Thunderclap,39.0,False,3,False
+Singing Bowl,39.0,False,3,False
+Reaper,41.0,True,3,False
+Bloodletting,41.0,False,3,False
+Combust,41.0,False,3,False
+Thunderclap,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Singing Bowl,42.0,True,3,False
+Havoc,42.0,False,3,False
+Armaments,42.0,False,3,False
+Thunderclap,42.0,False,3,False
+Sentinel,42.0,False,3,False
+Singing Bowl,42.0,False,3,False
+Burning Pact,44.0,True,3,False
+Warcry,44.0,False,3,False
+Ghostly Armor,44.0,False,3,False
+Shrug It Off,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Singing Bowl,45.0,True,3,False
+Twin Strike,45.0,False,3,False
+Dark Embrace,45.0,False,3,False
+Bludgeon,45.0,False,3,False
+Sever Soul,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Shockwave,47.0,True,3,False
+Sever Soul,47.0,False,3,False
+Armaments,47.0,False,3,False
+Whirlwind,47.0,False,3,False
+Singing Bowl,47.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Metallicize,48.0,False,3,False
+Entrench,48.0,False,3,False
+Cleave,48.0,False,3,False
+Body Slam,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,55.0,True,4,False
+Clothesline,55.0,False,4,False
+Bloodletting,55.0,False,4,False
+Ghostly Armor,55.0,False,4,False
+Dual Wield,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Evolve,1.0,True,1,False
+Feel No Pain,1.0,False,1,False
+Warcry,1.0,False,1,False
+SKIP,1.0,False,1,False
+Inflame,2.0,True,1,False
+Burning Pact,2.0,False,1,False
+Flame Barrier,2.0,False,1,False
+SKIP,2.0,False,1,False
+Blood for Blood,4.0,True,1,False
+Heavy Blade,4.0,False,1,False
+Reckless Charge,4.0,False,1,False
+SKIP,4.0,False,1,False
+Second Wind,7.0,True,1,False
+Hemokinesis,7.0,False,1,False
+Dark Embrace,7.0,False,1,False
+SKIP,7.0,False,1,False
+Hemokinesis,8.0,True,1,False
+Inflame,8.0,False,1,False
+Searing Blow,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,13.0,True,1,False
+Armaments,13.0,False,1,False
+Thunderclap,13.0,False,1,False
+Heavy Blade,13.0,False,1,False
+SKIP,13.0,False,1,False
+Bloodletting,14.0,True,1,False
+Shrug It Off,14.0,False,1,False
+Uppercut,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Immolate,16.0,False,1,True
+SKIP,16.0,False,1,True
+Anger,18.0,True,2,False
+Warcry,18.0,False,2,False
+Headbutt,18.0,False,2,False
+SKIP,18.0,False,2,False
+Pommel Strike,19.0,True,2,False
+Clothesline,19.0,False,2,False
+Sentinel,19.0,False,2,False
+SKIP,19.0,False,2,False
+Brutality,20.0,True,2,False
+Reckless Charge,20.0,False,2,False
+Sever Soul,20.0,False,2,False
+SKIP,20.0,False,2,False
+Power Through,21.0,True,2,False
+Headbutt,21.0,False,2,False
+Flex,21.0,False,2,False
+SKIP,21.0,False,2,False
+Pommel Strike,23.0,True,2,False
+Clothesline,23.0,False,2,False
+Rage,23.0,False,2,False
+SKIP,23.0,False,2,False
+True Grit,27.0,True,2,False
+Havoc,27.0,False,2,False
+Intimidate,27.0,False,2,False
+Singing Bowl,27.0,False,2,False
+Singing Bowl,28.0,True,2,False
+Pommel Strike,28.0,False,2,False
+Spot Weakness,28.0,False,2,False
+Wild Strike,28.0,False,2,False
+Singing Bowl,28.0,False,2,False
+Shrug It Off,31.0,True,2,False
+Body Slam,31.0,False,2,False
+Perfected Strike,31.0,False,2,False
+Singing Bowl,31.0,False,2,False
+Feed,33.0,True,2,True
+Juggernaut,33.0,False,2,True
+Double Tap,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Havoc,35.0,True,3,False
+Body Slam,35.0,False,3,False
+Whirlwind,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Shrug It Off,37.0,True,3,False
+Sword Boomerang,37.0,False,3,False
+Rage,37.0,False,3,False
+Singing Bowl,37.0,False,3,False
+Pommel Strike,38.0,True,3,False
+Flex,38.0,False,3,False
+Sentinel,38.0,False,3,False
+Singing Bowl,38.0,False,3,False
+True Grit,39.0,True,3,False
+Havoc,39.0,False,3,False
+Evolve,39.0,False,3,False
+Singing Bowl,39.0,False,3,False
+Warcry,40.0,True,3,False
+True Grit,40.0,False,3,False
+Rampage,40.0,False,3,False
+Singing Bowl,40.0,False,3,False
+Armaments,1.0,True,1,False
+SKIP,1.0,False,1,False
+Metallicize,2.0,True,1,False
+SKIP,2.0,False,1,False
+Twin Strike,3.0,True,1,False
+SKIP,3.0,False,1,False
+SKIP,4.0,True,1,False
+Rupture,4.0,False,1,False
+SKIP,4.0,False,1,False
+Spot Weakness,6.0,True,1,False
+SKIP,6.0,False,1,False
+SKIP,11.0,True,1,False
+Cleave,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,12.0,True,1,False
+Iron Wave,12.0,False,1,False
+SKIP,12.0,False,1,False
+Uppercut,14.0,True,1,False
+SKIP,14.0,False,1,False
+Immolate,16.0,True,1,True
+SKIP,16.0,False,1,True
+Inflame,18.0,True,2,False
+SKIP,18.0,False,2,False
+Ghostly Armor,23.0,True,2,False
+SKIP,23.0,False,2,False
+Impervious,27.0,True,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Clash,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,31.0,True,2,False
+Body Slam,31.0,False,2,False
+SKIP,31.0,False,2,False
+Demon Form,33.0,True,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Clash,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,38.0,True,3,False
+Flex,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,41.0,True,3,False
+Sentinel,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,44.0,True,3,False
+Sever Soul,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Ghostly Armor,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Hemokinesis,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Pommel Strike,55.0,False,4,False
+SKIP,55.0,False,4,False
+Fiend Fire,0.0,True,1,False
+Limit Break,0.0,False,1,False
+Offering,0.0,False,1,False
+SKIP,0.0,False,1,False
+Anger,1.0,True,1,False
+Clothesline,1.0,False,1,False
+Infernal Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+True Grit,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+Pummel,2.0,False,1,False
+SKIP,2.0,False,1,False
+Whirlwind,3.0,True,1,False
+Headbutt,3.0,False,1,False
+Second Wind,3.0,False,1,False
+SKIP,3.0,False,1,False
+Shockwave,4.0,True,1,False
+Anger,4.0,False,1,False
+Immolate,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,5.0,True,1,False
+Rampage,5.0,False,1,False
+Body Slam,5.0,False,1,False
+Entrench,5.0,False,1,False
+SKIP,5.0,False,1,False
+Hemokinesis,7.0,True,1,False
+Iron Wave,7.0,False,1,False
+Warcry,7.0,False,1,False
+SKIP,7.0,False,1,False
+Disarm,11.0,True,1,False
+Twin Strike,11.0,False,1,False
+Power Through,11.0,False,1,False
+SKIP,11.0,False,1,False
+Armaments,12.0,True,1,False
+Intimidate,12.0,False,1,False
+Perfected Strike,12.0,False,1,False
+SKIP,12.0,False,1,False
+Power Through,13.0,True,1,False
+Pommel Strike,13.0,False,1,False
+Rupture,13.0,False,1,False
+SKIP,13.0,False,1,False
+Dropkick,14.0,True,1,False
+Clash,14.0,False,1,False
+Wild Strike,14.0,False,1,False
+SKIP,14.0,False,1,False
+Demon Form,16.0,True,1,True
+Immolate,16.0,False,1,True
+Berserk,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Combust,18.0,False,2,False
+Cleave,18.0,False,2,False
+Wild Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Shrug It Off,19.0,True,2,False
+Cleave,19.0,False,2,False
+Body Slam,19.0,False,2,False
+SKIP,19.0,False,2,False
+Feel No Pain,21.0,True,2,False
+Cleave,21.0,False,2,False
+Sword Boomerang,21.0,False,2,False
+Wild Strike,21.0,False,2,False
+Rampage,21.0,False,2,False
+Anger,21.0,False,2,False
+Havoc,21.0,False,2,False
+Searing Blow,21.0,False,2,False
+Warcry,21.0,False,2,False
+Perfected Strike,21.0,False,2,False
+Evolve,21.0,False,2,False
+Shockwave,21.0,False,2,False
+Whirlwind,21.0,False,2,False
+Body Slam,21.0,False,2,False
+Rupture,21.0,False,2,False
+Sentinel,21.0,False,2,False
+Headbutt,21.0,False,2,False
+Flex,21.0,False,2,False
+Armaments,21.0,False,2,False
+Shrug It Off,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Armaments,24.0,False,2,False
+Cleave,24.0,False,2,False
+Clash,24.0,False,2,False
+SKIP,24.0,False,2,False
+Disarm,28.0,True,2,False
+Shockwave,28.0,False,2,False
+Whirlwind,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Reckless Charge,29.0,False,2,False
+Clothesline,29.0,False,2,False
+Flex,29.0,False,2,False
+SKIP,29.0,False,2,False
+Power Through,30.0,True,2,False
+Warcry,30.0,False,2,False
+Rupture,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Power Through,31.0,False,2,False
+Havoc,31.0,False,2,False
+Clothesline,31.0,False,2,False
+SKIP,31.0,False,2,False
+Impervious,33.0,True,2,True
+Demon Form,33.0,False,2,True
+Exhume,33.0,False,2,True
+SKIP,33.0,False,2,True
+Body Slam,35.0,True,3,False
+Pommel Strike,35.0,False,3,False
+Twin Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Warcry,37.0,False,3,False
+Clothesline,37.0,False,3,False
+Battle Trance,37.0,False,3,False
+SKIP,37.0,False,3,False
+Apotheosis,38.0,True,3,False
+HandOfGreed,38.0,False,3,False
+Enlightenment,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dark Shackles,38.0,True,3,False
+Madness,38.0,False,3,False
+Bandage Up,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Blind,38.0,False,3,False
+Dramatic Entrance,38.0,False,3,False
+Bandage Up,38.0,False,3,False
+SKIP,38.0,False,3,False
+Shrug It Off,42.0,True,3,False
+Heavy Blade,42.0,False,3,False
+Armaments,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Metallicize,44.0,False,3,False
+Rupture,44.0,False,3,False
+Sword Boomerang,44.0,False,3,False
+SKIP,44.0,False,3,False
+Pommel Strike,45.0,True,3,False
+Infernal Blade,45.0,False,3,False
+Twin Strike,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Searing Blow,46.0,False,3,False
+Anger,46.0,False,3,False
+Perfected Strike,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,46.0,True,3,False
+Searing Blow,46.0,False,3,False
+Anger,46.0,False,3,False
+Perfected Strike,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Headbutt,47.0,False,3,False
+Sever Soul,47.0,False,3,False
+Thunderclap,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Infernal Blade,48.0,False,3,False
+Inflame,48.0,False,3,False
+Bloodletting,48.0,False,3,False
+SKIP,48.0,False,3,False
+Demon Form,55.0,True,4,False
+Corruption,55.0,False,4,False
+Uppercut,55.0,False,4,False
+SKIP,55.0,False,4,False
+Fiend Fire,0.0,True,1,False
+Offering,0.0,False,1,False
+Double Tap,0.0,False,1,False
+SKIP,0.0,False,1,False
+Headbutt,1.0,True,1,False
+Blood for Blood,1.0,False,1,False
+Body Slam,1.0,False,1,False
+SKIP,1.0,False,1,False
+Brutality,2.0,True,1,False
+Infernal Blade,2.0,False,1,False
+Iron Wave,2.0,False,1,False
+SKIP,2.0,False,1,False
+Pommel Strike,7.0,True,1,False
+Twin Strike,7.0,False,1,False
+Dropkick,7.0,False,1,False
+SKIP,7.0,False,1,False
+Pommel Strike,10.0,True,1,False
+Seeing Red,10.0,False,1,False
+Sword Boomerang,10.0,False,1,False
+SKIP,10.0,False,1,False
+Feel No Pain,11.0,True,1,False
+Evolve,11.0,False,1,False
+Armaments,11.0,False,1,False
+SKIP,11.0,False,1,False
+Seeing Red,13.0,True,1,False
+Fire Breathing,13.0,False,1,False
+Twin Strike,13.0,False,1,False
+SKIP,13.0,False,1,False
+Barricade,16.0,True,1,True
+Exhume,16.0,False,1,True
+Fiend Fire,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Rupture,18.0,False,2,False
+Infernal Blade,18.0,False,2,False
+Flex,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Combust,19.0,False,2,False
+Sever Soul,19.0,False,2,False
+Anger,19.0,False,2,False
+SKIP,19.0,False,2,False
+Entrench,24.0,True,2,False
+True Grit,24.0,False,2,False
+Wild Strike,24.0,False,2,False
+SKIP,24.0,False,2,False
+Pommel Strike,25.0,True,2,False
+Heavy Blade,25.0,False,2,False
+Cleave,25.0,False,2,False
+SKIP,25.0,False,2,False
+Immolate,27.0,True,2,False
+Shrug It Off,27.0,False,2,False
+Combust,27.0,False,2,False
+SKIP,27.0,False,2,False
+Shrug It Off,28.0,True,2,False
+Infernal Blade,28.0,False,2,False
+Cleave,28.0,False,2,False
+SKIP,28.0,False,2,False
+Flame Barrier,29.0,True,2,False
+Metallicize,29.0,False,2,False
+Havoc,29.0,False,2,False
+SKIP,29.0,False,2,False
+Power Through,30.0,True,2,False
+Feel No Pain,30.0,False,2,False
+Sword Boomerang,30.0,False,2,False
+SKIP,30.0,False,2,False
+Headbutt,1.0,True,1,False
+Entrench,1.0,False,1,False
+Armaments,1.0,False,1,False
+SKIP,1.0,False,1,False
+Battle Trance,5.0,True,1,False
+Twin Strike,5.0,False,1,False
+Iron Wave,5.0,False,1,False
+SKIP,5.0,False,1,False
+Pommel Strike,7.0,True,1,False
+Body Slam,7.0,False,1,False
+Rage,7.0,False,1,False
+SKIP,7.0,False,1,False
+Disarm,8.0,True,1,False
+Havoc,8.0,False,1,False
+Sword Boomerang,8.0,False,1,False
+SKIP,8.0,False,1,False
+Metallicize,10.0,True,1,False
+Heavy Blade,10.0,False,1,False
+Warcry,10.0,False,1,False
+SKIP,10.0,False,1,False
+Power Through,12.0,True,1,False
+Evolve,12.0,False,1,False
+Armaments,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,14.0,True,1,False
+Pummel,14.0,False,1,False
+Metallicize,14.0,False,1,False
+Sentinel,14.0,False,1,False
+SKIP,14.0,False,1,False
+Impervious,16.0,True,1,True
+Corruption,16.0,False,1,True
+Barricade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Anger,18.0,True,2,False
+Battle Trance,18.0,False,2,False
+Perfected Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Ghostly Armor,21.0,False,2,False
+Pummel,21.0,False,2,False
+Clothesline,21.0,False,2,False
+SKIP,21.0,False,2,False
+Evolve,23.0,True,2,False
+Infernal Blade,23.0,False,2,False
+Clothesline,23.0,False,2,False
+SKIP,23.0,False,2,False
+Battle Trance,25.0,True,2,False
+Twin Strike,25.0,False,2,False
+Heavy Blade,25.0,False,2,False
+SKIP,25.0,False,2,False
+Bloodletting,28.0,True,2,False
+Sword Boomerang,28.0,False,2,False
+Thunderclap,28.0,False,2,False
+SKIP,28.0,False,2,False
+Shrug It Off,30.0,True,2,False
+Uppercut,30.0,False,2,False
+Twin Strike,30.0,False,2,False
+SKIP,30.0,False,2,False
+Fiend Fire,33.0,True,2,True
+Immolate,33.0,False,2,True
+Feed,33.0,False,2,True
+SKIP,33.0,False,2,True
+Clothesline,35.0,True,3,False
+Battle Trance,35.0,False,3,False
+Twin Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+Power Through,36.0,True,3,False
+Sword Boomerang,36.0,False,3,False
+Shrug It Off,36.0,False,3,False
+SKIP,36.0,False,3,False
+Secret Technique,37.0,True,3,False
+Trip,37.0,False,3,False
+Madness,37.0,False,3,False
+SKIP,37.0,False,3,False
+Discovery,37.0,True,3,False
+Dramatic Entrance,37.0,False,3,False
+Sadistic Nature,37.0,False,3,False
+SKIP,37.0,False,3,False
+Discovery,37.0,True,3,False
+Dramatic Entrance,37.0,False,3,False
+The Bomb,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Reckless Charge,38.0,False,3,False
+Battle Trance,38.0,False,3,False
+Headbutt,38.0,False,3,False
+SKIP,38.0,False,3,False
+Second Wind,41.0,True,3,False
+Metallicize,41.0,False,3,False
+Cleave,41.0,False,3,False
+SKIP,41.0,False,3,False
+Reaper,42.0,True,3,False
+Thunderclap,42.0,False,3,False
+Iron Wave,42.0,False,3,False
+SKIP,42.0,False,3,False
+Feed,45.0,True,3,False
+Combust,45.0,False,3,False
+Wild Strike,45.0,False,3,False
+SKIP,45.0,False,3,False
+Second Wind,47.0,True,3,False
+Clash,47.0,False,3,False
+Twin Strike,47.0,False,3,False
+SKIP,47.0,False,3,False
+Sword Boomerang,48.0,True,3,False
+Flame Barrier,48.0,False,3,False
+Twin Strike,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+True Grit,55.0,False,4,False
+Blood for Blood,55.0,False,4,False
+Entrench,55.0,False,4,False
+SKIP,55.0,False,4,False
+Perfected Strike,1.0,True,1,False
+Havoc,1.0,False,1,False
+Heavy Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+Seeing Red,2.0,True,1,False
+Wild Strike,2.0,False,1,False
+Uppercut,2.0,False,1,False
+SKIP,2.0,False,1,False
+Anger,4.0,True,1,False
+Whirlwind,4.0,False,1,False
+Clothesline,4.0,False,1,False
+SKIP,4.0,False,1,False
+Double Tap,8.0,True,1,False
+Rampage,8.0,False,1,False
+True Grit,8.0,False,1,False
+SKIP,8.0,False,1,False
+Infernal Blade,10.0,True,1,False
+Cleave,10.0,False,1,False
+Iron Wave,10.0,False,1,False
+SKIP,10.0,False,1,False
+Battle Trance,13.0,True,1,False
+Thunderclap,13.0,False,1,False
+Hemokinesis,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Twin Strike,14.0,False,1,False
+Body Slam,14.0,False,1,False
+Sword Boomerang,14.0,False,1,False
+SKIP,14.0,False,1,False
+Shrug It Off,1.0,True,1,False
+Cleave,1.0,False,1,False
+Clash,1.0,False,1,False
+SKIP,1.0,False,1,False
+Armaments,3.0,True,1,False
+Thunderclap,3.0,False,1,False
+Dual Wield,3.0,False,1,False
+SKIP,3.0,False,1,False
+Impervious,6.0,True,1,False
+Perfected Strike,6.0,False,1,False
+Rupture,6.0,False,1,False
+SKIP,6.0,False,1,False
+Exhume,7.0,True,1,False
+Anger,7.0,False,1,False
+Feel No Pain,7.0,False,1,False
+SKIP,7.0,False,1,False
+Iron Wave,11.0,True,1,False
+Cleave,11.0,False,1,False
+Infernal Blade,11.0,False,1,False
+SKIP,11.0,False,1,False
+Clothesline,12.0,True,1,False
+Armaments,12.0,False,1,False
+Reckless Charge,12.0,False,1,False
+SKIP,12.0,False,1,False
+Pommel Strike,13.0,True,1,False
+Ghostly Armor,13.0,False,1,False
+Rampage,13.0,False,1,False
+SKIP,13.0,False,1,False
+Battle Trance,14.0,True,1,False
+Dual Wield,14.0,False,1,False
+Flex,14.0,False,1,False
+SKIP,14.0,False,1,False
+Barricade,16.0,True,1,True
+Berserk,16.0,False,1,True
+Impervious,16.0,False,1,True
+SKIP,16.0,False,1,True
+Carnage,18.0,True,2,False
+Body Slam,18.0,False,2,False
+Flex,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Dropkick,19.0,False,2,False
+Heavy Blade,19.0,False,2,False
+Cleave,19.0,False,2,False
+SKIP,19.0,False,2,False
+Uppercut,21.0,True,2,False
+Heavy Blade,21.0,False,2,False
+Clothesline,21.0,False,2,False
+SKIP,21.0,False,2,False
+Second Wind,22.0,True,2,False
+Sentinel,22.0,False,2,False
+True Grit,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Clothesline,23.0,False,2,False
+Second Wind,23.0,False,2,False
+Berserk,23.0,False,2,False
+SKIP,23.0,False,2,False
+Shrug It Off,25.0,True,2,False
+Cleave,25.0,False,2,False
+Metallicize,25.0,False,2,False
+SKIP,25.0,False,2,False
+Shrug It Off,28.0,True,2,False
+True Grit,28.0,False,2,False
+Cleave,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,29.0,True,2,False
+Sever Soul,29.0,False,2,False
+Wild Strike,29.0,False,2,False
+Anger,29.0,False,2,False
+SKIP,29.0,False,2,False
+Feel No Pain,30.0,True,2,False
+Fire Breathing,30.0,False,2,False
+Infernal Blade,30.0,False,2,False
+SKIP,30.0,False,2,False
+Power Through,31.0,True,2,False
+Cleave,31.0,False,2,False
+True Grit,31.0,False,2,False
+SKIP,31.0,False,2,False
+Exhume,33.0,True,2,True
+Barricade,33.0,False,2,True
+Offering,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Wild Strike,35.0,False,3,False
+Armaments,35.0,False,3,False
+True Grit,35.0,False,3,False
+SKIP,35.0,False,3,False
+Burning Pact,38.0,True,3,False
+Flex,38.0,False,3,False
+Shrug It Off,38.0,False,3,False
+SKIP,38.0,False,3,False
+Shockwave,1.0,True,1,False
+Blood for Blood,1.0,False,1,False
+Pommel Strike,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Wild Strike,2.0,False,1,False
+True Grit,2.0,False,1,False
+Flex,2.0,False,1,False
+SKIP,2.0,False,1,False
+Evolve,3.0,True,1,False
+Wild Strike,3.0,False,1,False
+Seeing Red,3.0,False,1,False
+SKIP,3.0,False,1,False
+Wild Strike,5.0,True,1,False
+Thunderclap,5.0,False,1,False
+Armaments,5.0,False,1,False
+SKIP,5.0,False,1,False
+SKIP,6.0,True,1,False
+Limit Break,6.0,False,1,False
+Fire Breathing,6.0,False,1,False
+Heavy Blade,6.0,False,1,False
+SKIP,6.0,False,1,False
+SKIP,8.0,True,1,False
+Warcry,8.0,False,1,False
+Rupture,8.0,False,1,False
+Dual Wield,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shockwave,10.0,True,1,False
+Bludgeon,10.0,False,1,False
+Clash,10.0,False,1,False
+SKIP,10.0,False,1,False
+Power Through,11.0,True,1,False
+Pommel Strike,11.0,False,1,False
+Anger,11.0,False,1,False
+SKIP,11.0,False,1,False
+Immolate,14.0,True,1,False
+Blood for Blood,14.0,False,1,False
+Body Slam,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Barricade,16.0,False,1,True
+Brutality,16.0,False,1,True
+SKIP,16.0,False,1,True
+Shockwave,18.0,True,2,False
+Bloodletting,18.0,False,2,False
+Perfected Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Twin Strike,21.0,False,2,False
+Reckless Charge,21.0,False,2,False
+Havoc,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,24.0,True,2,False
+Perfected Strike,24.0,False,2,False
+Clothesline,24.0,False,2,False
+Sentinel,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Infernal Blade,25.0,False,2,False
+Flex,25.0,False,2,False
+Thunderclap,25.0,False,2,False
+SKIP,25.0,False,2,False
+Shockwave,27.0,True,2,False
+Evolve,27.0,False,2,False
+Perfected Strike,27.0,False,2,False
+SKIP,27.0,False,2,False
+Shrug It Off,28.0,True,2,False
+Pummel,28.0,False,2,False
+Iron Wave,28.0,False,2,False
+SKIP,28.0,False,2,False
+Shrug It Off,29.0,True,2,False
+Iron Wave,29.0,False,2,False
+Twin Strike,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,31.0,True,2,False
+Thunderclap,31.0,False,2,False
+Evolve,31.0,False,2,False
+Clothesline,31.0,False,2,False
+SKIP,31.0,False,2,False
+Feed,33.0,True,2,True
+Berserk,33.0,False,2,True
+Reaper,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Sword Boomerang,35.0,False,3,False
+Dark Embrace,35.0,False,3,False
+Rage,35.0,False,3,False
+SKIP,35.0,False,3,False
+Pommel Strike,36.0,True,3,False
+Warcry,36.0,False,3,False
+Sever Soul,36.0,False,3,False
+SKIP,36.0,False,3,False
+Disarm,37.0,True,3,False
+Metallicize,37.0,False,3,False
+Warcry,37.0,False,3,False
+SKIP,37.0,False,3,False
+Shrug It Off,39.0,True,3,False
+Wild Strike,39.0,False,3,False
+Cleave,39.0,False,3,False
+SKIP,39.0,False,3,False
+Shrug It Off,40.0,True,3,False
+Wild Strike,40.0,False,3,False
+Havoc,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,42.0,True,3,False
+Rupture,42.0,False,3,False
+Dual Wield,42.0,False,3,False
+Entrench,42.0,False,3,False
+SKIP,42.0,False,3,False
+Barricade,44.0,True,3,False
+Sentinel,44.0,False,3,False
+Anger,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Evolve,46.0,False,3,False
+Dark Embrace,46.0,False,3,False
+Dropkick,46.0,False,3,False
+SKIP,46.0,False,3,False
+Armaments,48.0,True,3,False
+Wild Strike,48.0,False,3,False
+Bloodletting,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Armaments,55.0,False,4,False
+Wild Strike,55.0,False,4,False
+True Grit,55.0,False,4,False
+SKIP,55.0,False,4,False
+SKIP,1.0,True,1,False
+Twin Strike,1.0,False,1,False
+True Grit,1.0,False,1,False
+Thunderclap,1.0,False,1,False
+SKIP,1.0,False,1,False
+Wild Strike,2.0,True,1,False
+Body Slam,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Shockwave,3.0,True,1,False
+Flex,3.0,False,1,False
+Combust,3.0,False,1,False
+SKIP,3.0,False,1,False
+Clothesline,4.0,True,1,False
+Evolve,4.0,False,1,False
+Sword Boomerang,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,7.0,True,1,False
+Rampage,7.0,False,1,False
+Twin Strike,7.0,False,1,False
+Body Slam,7.0,False,1,False
+SKIP,7.0,False,1,False
+Headbutt,8.0,True,1,False
+Clash,8.0,False,1,False
+True Grit,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shrug It Off,11.0,True,1,False
+Cleave,11.0,False,1,False
+Heavy Blade,11.0,False,1,False
+SKIP,11.0,False,1,False
+Perfected Strike,13.0,True,1,False
+Burning Pact,13.0,False,1,False
+Intimidate,13.0,False,1,False
+SKIP,13.0,False,1,False
+Feed,14.0,True,1,False
+Shrug It Off,14.0,False,1,False
+Pummel,14.0,False,1,False
+SKIP,14.0,False,1,False
+Immolate,16.0,True,1,True
+Impervious,16.0,False,1,True
+Juggernaut,16.0,False,1,True
+SKIP,16.0,False,1,True
+Carnage,18.0,True,2,False
+Warcry,18.0,False,2,False
+Twin Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Havoc,19.0,False,2,False
+Body Slam,19.0,False,2,False
+Battle Trance,19.0,False,2,False
+SKIP,19.0,False,2,False
+Feel No Pain,20.0,True,2,False
+Metallicize,20.0,False,2,False
+Clash,20.0,False,2,False
+SKIP,20.0,False,2,False
+Offering,23.0,True,2,False
+Infernal Blade,23.0,False,2,False
+Iron Wave,23.0,False,2,False
+SKIP,23.0,False,2,False
+Dark Embrace,25.0,True,2,False
+Havoc,25.0,False,2,False
+Body Slam,25.0,False,2,False
+SKIP,25.0,False,2,False
+Entrench,28.0,True,2,False
+Dark Embrace,28.0,False,2,False
+Headbutt,28.0,False,2,False
+SKIP,28.0,False,2,False
+Spot Weakness,29.0,True,2,False
+Ghostly Armor,29.0,False,2,False
+Fire Breathing,29.0,False,2,False
+SKIP,29.0,False,2,False
+True Grit,31.0,True,2,False
+Clash,31.0,False,2,False
+Inflame,31.0,False,2,False
+SKIP,31.0,False,2,False
+Feed,33.0,True,2,True
+Brutality,33.0,False,2,True
+Juggernaut,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Anger,35.0,False,3,False
+Flex,35.0,False,3,False
+Sword Boomerang,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,38.0,True,3,False
+Anger,38.0,False,3,False
+Sword Boomerang,38.0,False,3,False
+Heavy Blade,38.0,False,3,False
+SKIP,38.0,False,3,False
+Headbutt,39.0,True,3,False
+Clothesline,39.0,False,3,False
+Twin Strike,39.0,False,3,False
+SKIP,39.0,False,3,False
+True Grit,41.0,True,3,False
+Flex,41.0,False,3,False
+Dark Embrace,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,42.0,True,3,False
+Dark Embrace,42.0,False,3,False
+Spot Weakness,42.0,False,3,False
+Flex,42.0,False,3,False
+SKIP,42.0,False,3,False
+True Grit,44.0,True,3,False
+Anger,44.0,False,3,False
+Thunderclap,44.0,False,3,False
+SKIP,44.0,False,3,False
+Flame Barrier,47.0,True,3,False
+Hemokinesis,47.0,False,3,False
+Anger,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Blood for Blood,48.0,False,3,False
+Twin Strike,48.0,False,3,False
+Infernal Blade,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Wild Strike,55.0,False,4,False
+Fire Breathing,55.0,False,4,False
+Combust,55.0,False,4,False
+SKIP,55.0,False,4,False
+Pommel Strike,1.0,True,1,False
+True Grit,1.0,False,1,False
+Armaments,1.0,False,1,False
+SKIP,1.0,False,1,False
+Shockwave,2.0,True,1,False
+Dropkick,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Infernal Blade,4.0,True,1,False
+Flex,4.0,False,1,False
+Wild Strike,4.0,False,1,False
+SKIP,4.0,False,1,False
+Headbutt,5.0,True,1,False
+Body Slam,5.0,False,1,False
+Flex,5.0,False,1,False
+SKIP,5.0,False,1,False
+Hemokinesis,8.0,True,1,False
+Bloodletting,8.0,False,1,False
+Headbutt,8.0,False,1,False
+SKIP,8.0,False,1,False
+Burning Pact,13.0,True,1,False
+Sword Boomerang,13.0,False,1,False
+Reckless Charge,13.0,False,1,False
+SKIP,13.0,False,1,False
+Burning Pact,14.0,True,1,False
+Pommel Strike,14.0,False,1,False
+Cleave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Metallicize,1.0,True,1,False
+True Grit,1.0,False,1,False
+Burning Pact,1.0,False,1,False
+SKIP,1.0,False,1,False
+Pommel Strike,2.0,True,1,False
+Body Slam,2.0,False,1,False
+Flame Barrier,2.0,False,1,False
+SKIP,2.0,False,1,False
+Twin Strike,3.0,True,1,False
+Cleave,3.0,False,1,False
+Flex,3.0,False,1,False
+SKIP,3.0,False,1,False
+Iron Wave,4.0,True,1,False
+Wild Strike,4.0,False,1,False
+Body Slam,4.0,False,1,False
+SKIP,4.0,False,1,False
+Anger,7.0,True,1,False
+Second Wind,7.0,False,1,False
+Thunderclap,7.0,False,1,False
+SKIP,7.0,False,1,False
+Blood for Blood,8.0,True,1,False
+Heavy Blade,8.0,False,1,False
+Flex,8.0,False,1,False
+SKIP,8.0,False,1,False
+Second Wind,13.0,True,1,False
+Carnage,13.0,False,1,False
+Anger,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Heavy Blade,14.0,False,1,False
+Anger,14.0,False,1,False
+Iron Wave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Juggernaut,16.0,False,1,True
+Double Tap,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Wild Strike,18.0,False,2,False
+Combust,18.0,False,2,False
+Twin Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Flex,21.0,False,2,False
+Carnage,21.0,False,2,False
+Reckless Charge,21.0,False,2,False
+SKIP,21.0,False,2,False
+Bludgeon,0.0,True,1,False
+Barricade,0.0,False,1,False
+Demon Form,0.0,False,1,False
+SKIP,0.0,False,1,False
+SKIP,1.0,True,1,False
+Dual Wield,1.0,False,1,False
+Thunderclap,1.0,False,1,False
+Flex,1.0,False,1,False
+SKIP,1.0,False,1,False
+Flame Barrier,2.0,True,1,False
+Perfected Strike,2.0,False,1,False
+Searing Blow,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,3.0,True,1,False
+Havoc,3.0,False,1,False
+Thunderclap,3.0,False,1,False
+Carnage,3.0,False,1,False
+SKIP,3.0,False,1,False
+Pommel Strike,5.0,True,1,False
+Twin Strike,5.0,False,1,False
+Clash,5.0,False,1,False
+SKIP,5.0,False,1,False
+Anger,6.0,True,1,False
+Battle Trance,6.0,False,1,False
+Barricade,6.0,False,1,False
+Singing Bowl,6.0,False,1,False
+Battle Trance,8.0,True,1,False
+True Grit,8.0,False,1,False
+Flex,8.0,False,1,False
+Singing Bowl,8.0,False,1,False
+Singing Bowl,10.0,True,1,False
+Rupture,10.0,False,1,False
+Evolve,10.0,False,1,False
+Sword Boomerang,10.0,False,1,False
+Singing Bowl,10.0,False,1,False
+Singing Bowl,14.0,True,1,False
+Thunderclap,14.0,False,1,False
+Body Slam,14.0,False,1,False
+Warcry,14.0,False,1,False
+Singing Bowl,14.0,False,1,False
+Brutality,16.0,True,1,True
+Demon Form,16.0,False,1,True
+Limit Break,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Singing Bowl,18.0,True,2,False
+Thunderclap,18.0,False,2,False
+Pommel Strike,18.0,False,2,False
+True Grit,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Flex,20.0,True,2,False
+Twin Strike,20.0,False,2,False
+Combust,20.0,False,2,False
+Singing Bowl,20.0,False,2,False
+Dual Wield,21.0,True,2,False
+Cleave,21.0,False,2,False
+Twin Strike,21.0,False,2,False
+Singing Bowl,21.0,False,2,False
+Singing Bowl,24.0,True,2,False
+Rage,24.0,False,2,False
+Wild Strike,24.0,False,2,False
+Havoc,24.0,False,2,False
+Singing Bowl,24.0,False,2,False
+True Grit,29.0,True,2,False
+Entrench,29.0,False,2,False
+Hemokinesis,29.0,False,2,False
+Singing Bowl,29.0,False,2,False
+Anger,1.0,True,1,False
+Thunderclap,1.0,False,1,False
+Cleave,1.0,False,1,False
+SKIP,1.0,False,1,False
+Combust,2.0,True,1,False
+Warcry,2.0,False,1,False
+Sword Boomerang,2.0,False,1,False
+SKIP,2.0,False,1,False
+Carnage,4.0,True,1,False
+Flex,4.0,False,1,False
+Feel No Pain,4.0,False,1,False
+SKIP,4.0,False,1,False
+Shockwave,7.0,True,1,False
+Warcry,7.0,False,1,False
+Barricade,7.0,False,1,False
+SKIP,7.0,False,1,False
+SKIP,11.0,True,1,False
+Thunderclap,11.0,False,1,False
+Iron Wave,11.0,False,1,False
+Body Slam,11.0,False,1,False
+SKIP,11.0,False,1,False
+SKIP,11.0,True,1,False
+Thunderclap,11.0,False,1,False
+Iron Wave,11.0,False,1,False
+Body Slam,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shockwave,13.0,True,1,False
+Body Slam,13.0,False,1,False
+Clothesline,13.0,False,1,False
+SKIP,13.0,False,1,False
+Metallicize,14.0,True,1,False
+Sword Boomerang,14.0,False,1,False
+Perfected Strike,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Exhume,16.0,False,1,True
+Demon Form,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Warcry,18.0,False,2,False
+Pommel Strike,18.0,False,2,False
+Intimidate,18.0,False,2,False
+SKIP,18.0,False,2,False
+Blood for Blood,23.0,True,2,False
+Pummel,23.0,False,2,False
+Havoc,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,24.0,True,2,False
+Twin Strike,24.0,False,2,False
+Sever Soul,24.0,False,2,False
+Clothesline,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,24.0,True,2,False
+Twin Strike,24.0,False,2,False
+Sever Soul,24.0,False,2,False
+Clothesline,24.0,False,2,False
+SKIP,24.0,False,2,False
+Second Wind,27.0,True,2,False
+Carnage,27.0,False,2,False
+Flex,27.0,False,2,False
+SKIP,27.0,False,2,False
+Whirlwind,30.0,True,2,False
+Limit Break,30.0,False,2,False
+Heavy Blade,30.0,False,2,False
+SKIP,30.0,False,2,False
+Corruption,31.0,True,2,False
+Metallicize,31.0,False,2,False
+Havoc,31.0,False,2,False
+SKIP,31.0,False,2,False
+Demon Form,33.0,True,2,True
+Feed,33.0,False,2,True
+Double Tap,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Body Slam,35.0,False,3,False
+Wild Strike,35.0,False,3,False
+True Grit,35.0,False,3,False
+SKIP,35.0,False,3,False
+Disarm,37.0,True,3,False
+Spot Weakness,37.0,False,3,False
+Burning Pact,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Metallicize,38.0,False,3,False
+Twin Strike,38.0,False,3,False
+Heavy Blade,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Metallicize,38.0,False,3,False
+Twin Strike,38.0,False,3,False
+Heavy Blade,38.0,False,3,False
+SKIP,38.0,False,3,False
+Shrug It Off,39.0,True,3,False
+Heavy Blade,39.0,False,3,False
+Flex,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Iron Wave,41.0,False,3,False
+Perfected Strike,41.0,False,3,False
+Wild Strike,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,41.0,True,3,False
+Iron Wave,41.0,False,3,False
+Perfected Strike,41.0,False,3,False
+Wild Strike,41.0,False,3,False
+SKIP,41.0,False,3,False
+Exhume,45.0,True,3,False
+Inflame,45.0,False,3,False
+Combust,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Iron Wave,46.0,False,3,False
+Evolve,46.0,False,3,False
+Thunderclap,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Battle Trance,47.0,False,3,False
+Inflame,47.0,False,3,False
+True Grit,47.0,False,3,False
+SKIP,47.0,False,3,False
+Burning Pact,48.0,True,3,False
+Armaments,48.0,False,3,False
+Iron Wave,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Headbutt,55.0,False,4,False
+Clash,55.0,False,4,False
+Flex,55.0,False,4,False
+SKIP,55.0,False,4,False
+Shrug It Off,1.0,True,1,False
+Warcry,1.0,False,1,False
+Flex,1.0,False,1,False
+SKIP,1.0,False,1,False
+Uppercut,3.0,True,1,False
+Twin Strike,3.0,False,1,False
+True Grit,3.0,False,1,False
+SKIP,3.0,False,1,False
+Double Tap,5.0,True,1,False
+Warcry,5.0,False,1,False
+Body Slam,5.0,False,1,False
+SKIP,5.0,False,1,False
+Metallicize,7.0,True,1,False
+Rage,7.0,False,1,False
+Heavy Blade,7.0,False,1,False
+SKIP,7.0,False,1,False
+Intimidate,8.0,True,1,False
+Carnage,8.0,False,1,False
+Wild Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Battle Trance,11.0,True,1,False
+Sword Boomerang,11.0,False,1,False
+Shrug It Off,11.0,False,1,False
+SKIP,11.0,False,1,False
+Reaper,16.0,True,1,True
+Immolate,16.0,False,1,True
+Bludgeon,16.0,False,1,True
+SKIP,16.0,False,1,True
+Bloodletting,18.0,True,2,False
+Twin Strike,18.0,False,2,False
+Clothesline,18.0,False,2,False
+SKIP,18.0,False,2,False
+Combust,19.0,True,2,False
+Clash,19.0,False,2,False
+Warcry,19.0,False,2,False
+SKIP,19.0,False,2,False
+Offering,20.0,True,2,False
+Thunderclap,20.0,False,2,False
+Sword Boomerang,20.0,False,2,False
+SKIP,20.0,False,2,False
+Shrug It Off,20.0,True,2,False
+Sword Boomerang,20.0,False,2,False
+Heavy Blade,20.0,False,2,False
+SKIP,20.0,False,2,False
+Headbutt,20.0,True,2,False
+Shrug It Off,20.0,False,2,False
+Dark Embrace,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,20.0,True,2,False
+Sentinel,20.0,False,2,False
+Cleave,20.0,False,2,False
+Perfected Strike,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,20.0,True,2,False
+Fire Breathing,20.0,False,2,False
+Sword Boomerang,20.0,False,2,False
+Reckless Charge,20.0,False,2,False
+SKIP,20.0,False,2,False
+Havoc,21.0,True,2,False
+Body Slam,21.0,False,2,False
+Inflame,21.0,False,2,False
+SKIP,21.0,False,2,False
+Power Through,22.0,True,2,False
+Limit Break,22.0,False,2,False
+Battle Trance,22.0,False,2,False
+SKIP,22.0,False,2,False
+Body Slam,23.0,True,2,False
+Searing Blow,23.0,False,2,False
+Metallicize,23.0,False,2,False
+SKIP,23.0,False,2,False
+Blood for Blood,24.0,True,2,False
+Clash,24.0,False,2,False
+Evolve,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,27.0,True,2,False
+Pommel Strike,27.0,False,2,False
+Spot Weakness,27.0,False,2,False
+Twin Strike,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,29.0,True,2,False
+Clash,29.0,False,2,False
+Anger,29.0,False,2,False
+Dropkick,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,29.0,True,2,False
+Clash,29.0,False,2,False
+Anger,29.0,False,2,False
+Dropkick,29.0,False,2,False
+SKIP,29.0,False,2,False
+Warcry,30.0,True,2,False
+Ghostly Armor,30.0,False,2,False
+Rupture,30.0,False,2,False
+SKIP,30.0,False,2,False
+Armaments,31.0,True,2,False
+Warcry,31.0,False,2,False
+Sentinel,31.0,False,2,False
+SKIP,31.0,False,2,False
+SKIP,33.0,True,2,True
+Demon Form,33.0,False,2,True
+Bludgeon,33.0,False,2,True
+Double Tap,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+True Grit,35.0,False,3,False
+Sword Boomerang,35.0,False,3,False
+Sever Soul,35.0,False,3,False
+SKIP,35.0,False,3,False
+Shockwave,36.0,True,3,False
+Rampage,36.0,False,3,False
+Armaments,36.0,False,3,False
+SKIP,36.0,False,3,False
+Shrug It Off,38.0,True,3,False
+Twin Strike,38.0,False,3,False
+Perfected Strike,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dark Shackles,39.0,True,3,False
+Bandage Up,39.0,False,3,False
+The Bomb,39.0,False,3,False
+SKIP,39.0,False,3,False
+Violence,39.0,True,3,False
+Trip,39.0,False,3,False
+Thinking Ahead,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,39.0,True,3,False
+Sadistic Nature,39.0,False,3,False
+Panache,39.0,False,3,False
+Enlightenment,39.0,False,3,False
+SKIP,39.0,False,3,False
+Shrug It Off,40.0,True,3,False
+Combust,40.0,False,3,False
+Sentinel,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,44.0,True,3,False
+Cleave,44.0,False,3,False
+Rage,44.0,False,3,False
+Clash,44.0,False,3,False
+SKIP,44.0,False,3,False
+Shrug It Off,46.0,True,3,False
+Sever Soul,46.0,False,3,False
+Flex,46.0,False,3,False
+SKIP,46.0,False,3,False
+Rage,47.0,True,3,False
+Intimidate,47.0,False,3,False
+Reckless Charge,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Flex,55.0,False,4,False
+Whirlwind,55.0,False,4,False
+Searing Blow,55.0,False,4,False
+SKIP,55.0,False,4,False
+Burning Pact,1.0,True,1,False
+Twin Strike,1.0,False,1,False
+Rampage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Twin Strike,2.0,True,1,False
+Wild Strike,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Pommel Strike,4.0,True,1,False
+Clash,4.0,False,1,False
+Rage,4.0,False,1,False
+SKIP,4.0,False,1,False
+Shrug It Off,6.0,True,1,False
+Bloodletting,6.0,False,1,False
+Feel No Pain,6.0,False,1,False
+SKIP,6.0,False,1,False
+Shockwave,1.0,True,1,False
+Twin Strike,1.0,False,1,False
+Second Wind,1.0,False,1,False
+SKIP,1.0,False,1,False
+Headbutt,5.0,True,1,False
+Twin Strike,5.0,False,1,False
+Clash,5.0,False,1,False
+SKIP,5.0,False,1,False
+Bludgeon,6.0,True,1,False
+Dual Wield,6.0,False,1,False
+Perfected Strike,6.0,False,1,False
+SKIP,6.0,False,1,False
+Shockwave,8.0,True,1,False
+Headbutt,8.0,False,1,False
+Rampage,8.0,False,1,False
+SKIP,8.0,False,1,False
+Burning Pact,10.0,True,1,False
+Twin Strike,10.0,False,1,False
+Carnage,10.0,False,1,False
+SKIP,10.0,False,1,False
+Shockwave,11.0,True,1,False
+Body Slam,11.0,False,1,False
+Rage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Havoc,13.0,True,1,False
+Heavy Blade,13.0,False,1,False
+Entrench,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Clothesline,14.0,False,1,False
+Perfected Strike,14.0,False,1,False
+Body Slam,14.0,False,1,False
+SKIP,14.0,False,1,False
+Impervious,16.0,True,1,True
+Double Tap,16.0,False,1,True
+Immolate,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+True Grit,18.0,False,2,False
+Ghostly Armor,18.0,False,2,False
+Intimidate,18.0,False,2,False
+SKIP,18.0,False,2,False
+Anger,21.0,True,2,False
+Havoc,21.0,False,2,False
+Perfected Strike,21.0,False,2,False
+SKIP,21.0,False,2,False
+Power Through,22.0,True,2,False
+Reckless Charge,22.0,False,2,False
+Dual Wield,22.0,False,2,False
+SKIP,22.0,False,2,False
+Burning Pact,25.0,True,2,False
+Seeing Red,25.0,False,2,False
+Wild Strike,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,28.0,True,2,False
+Sentinel,28.0,False,2,False
+Juggernaut,28.0,False,2,False
+Heavy Blade,28.0,False,2,False
+SKIP,28.0,False,2,False
+Offering,33.0,True,2,True
+Exhume,33.0,False,2,True
+Barricade,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Evolve,35.0,False,3,False
+Clothesline,35.0,False,3,False
+Wild Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+Enlightenment,36.0,True,3,False
+Trip,36.0,False,3,False
+Blind,36.0,False,3,False
+SKIP,36.0,False,3,False
+Secret Weapon,36.0,True,3,False
+Panache,36.0,False,3,False
+Transmutation,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,36.0,True,3,False
+Trip,36.0,False,3,False
+Magnetism,36.0,False,3,False
+The Bomb,36.0,False,3,False
+SKIP,36.0,False,3,False
+Warcry,38.0,True,3,False
+Whirlwind,38.0,False,3,False
+Fire Breathing,38.0,False,3,False
+SKIP,38.0,False,3,False
+Disarm,40.0,True,3,False
+Sword Boomerang,40.0,False,3,False
+Iron Wave,40.0,False,3,False
+SKIP,40.0,False,3,False
+Feed,41.0,True,3,False
+Wild Strike,41.0,False,3,False
+Perfected Strike,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,42.0,True,3,False
+Warcry,42.0,False,3,False
+Heavy Blade,42.0,False,3,False
+Thunderclap,42.0,False,3,False
+SKIP,42.0,False,3,False
+Warcry,42.0,True,3,False
+Heavy Blade,42.0,False,3,False
+Thunderclap,42.0,False,3,False
+SKIP,42.0,False,3,False
+Dark Embrace,44.0,True,3,False
+Sever Soul,44.0,False,3,False
+Perfected Strike,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Perfected Strike,46.0,False,3,False
+Inflame,46.0,False,3,False
+Reckless Charge,46.0,False,3,False
+SKIP,46.0,False,3,False
+Flame Barrier,47.0,True,3,False
+Dark Embrace,47.0,False,3,False
+Hemokinesis,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Pummel,48.0,False,3,False
+Armaments,48.0,False,3,False
+Hemokinesis,48.0,False,3,False
+SKIP,48.0,False,3,False
+Battle Trance,1.0,True,1,False
+Sword Boomerang,1.0,False,1,False
+Heavy Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+Twin Strike,2.0,True,1,False
+Heavy Blade,2.0,False,1,False
+Warcry,2.0,False,1,False
+SKIP,2.0,False,1,False
+Bloodletting,3.0,True,1,False
+Dark Embrace,3.0,False,1,False
+Iron Wave,3.0,False,1,False
+SKIP,3.0,False,1,False
+Hemokinesis,4.0,True,1,False
+Feel No Pain,4.0,False,1,False
+Sword Boomerang,4.0,False,1,False
+SKIP,4.0,False,1,False
+Shrug It Off,7.0,True,1,False
+Combust,7.0,False,1,False
+Twin Strike,7.0,False,1,False
+SKIP,7.0,False,1,False
+Disarm,8.0,True,1,False
+Ghostly Armor,8.0,False,1,False
+Searing Blow,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shockwave,13.0,True,1,False
+Evolve,13.0,False,1,False
+Dark Embrace,13.0,False,1,False
+SKIP,13.0,False,1,False
+Perfected Strike,14.0,True,1,False
+Clothesline,14.0,False,1,False
+Iron Wave,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Immolate,16.0,False,1,True
+Barricade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Shockwave,18.0,True,2,False
+Warcry,18.0,False,2,False
+Anger,18.0,False,2,False
+SKIP,18.0,False,2,False
+Flex,19.0,True,2,False
+True Grit,19.0,False,2,False
+Heavy Blade,19.0,False,2,False
+SKIP,19.0,False,2,False
+Pummel,21.0,True,2,False
+Rage,21.0,False,2,False
+Blood for Blood,21.0,False,2,False
+SKIP,21.0,False,2,False
+Armaments,24.0,True,2,False
+Shrug It Off,24.0,False,2,False
+Carnage,24.0,False,2,False
+SKIP,24.0,False,2,False
+Headbutt,25.0,True,2,False
+Rage,25.0,False,2,False
+Thunderclap,25.0,False,2,False
+SKIP,25.0,False,2,False
+Dropkick,28.0,True,2,False
+Wild Strike,28.0,False,2,False
+True Grit,28.0,False,2,False
+SKIP,28.0,False,2,False
+Evolve,29.0,True,2,False
+Flex,29.0,False,2,False
+Armaments,29.0,False,2,False
+SKIP,29.0,False,2,False
+Exhume,30.0,True,2,False
+Cleave,30.0,False,2,False
+Ghostly Armor,30.0,False,2,False
+SKIP,30.0,False,2,False
+Blood for Blood,32.0,True,2,False
+Heavy Blade,32.0,False,2,False
+Combust,32.0,False,2,False
+SKIP,32.0,False,2,False
+Exhume,33.0,True,2,True
+Immolate,33.0,False,2,True
+Brutality,33.0,False,2,True
+SKIP,33.0,False,2,True
+Dark Embrace,35.0,True,3,False
+Inflame,35.0,False,3,False
+Perfected Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Warcry,36.0,False,3,False
+Thunderclap,36.0,False,3,False
+Flex,36.0,False,3,False
+SKIP,36.0,False,3,False
+Shockwave,38.0,True,3,False
+Body Slam,38.0,False,3,False
+True Grit,38.0,False,3,False
+SKIP,38.0,False,3,False
+Carnage,1.0,True,1,False
+Headbutt,1.0,False,1,False
+Clothesline,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Sword Boomerang,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+Warcry,2.0,False,1,False
+SKIP,2.0,False,1,False
+Immolate,5.0,True,1,False
+True Grit,5.0,False,1,False
+Reckless Charge,5.0,False,1,False
+SKIP,5.0,False,1,False
+Inflame,7.0,True,1,False
+Dual Wield,7.0,False,1,False
+Blood for Blood,7.0,False,1,False
+SKIP,7.0,False,1,False
+Headbutt,8.0,True,1,False
+Wild Strike,8.0,False,1,False
+Rupture,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shrug It Off,10.0,True,1,False
+Double Tap,10.0,False,1,False
+Rage,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,13.0,True,1,False
+Perfected Strike,13.0,False,1,False
+Heavy Blade,13.0,False,1,False
+Body Slam,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Flex,14.0,False,1,False
+Combust,14.0,False,1,False
+Fire Breathing,14.0,False,1,False
+SKIP,14.0,False,1,False
+Brutality,16.0,True,1,True
+Berserk,16.0,False,1,True
+Limit Break,16.0,False,1,True
+SKIP,16.0,False,1,True
+Anger,18.0,True,2,False
+Pommel Strike,18.0,False,2,False
+Dual Wield,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,21.0,True,2,False
+Sentinel,21.0,False,2,False
+Havoc,21.0,False,2,False
+Sword Boomerang,21.0,False,2,False
+SKIP,21.0,False,2,False
+Shockwave,23.0,True,2,False
+Seeing Red,23.0,False,2,False
+Blood for Blood,23.0,False,2,False
+SKIP,23.0,False,2,False
+Dropkick,25.0,True,2,False
+Pummel,25.0,False,2,False
+Perfected Strike,25.0,False,2,False
+SKIP,25.0,False,2,False
+Power Through,30.0,True,2,False
+Sentinel,30.0,False,2,False
+Clothesline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Dual Wield,31.0,True,2,False
+Headbutt,31.0,False,2,False
+Iron Wave,31.0,False,2,False
+SKIP,31.0,False,2,False
+Limit Break,32.0,True,2,False
+Anger,32.0,False,2,False
+Uppercut,32.0,False,2,False
+SKIP,32.0,False,2,False
+Feed,33.0,True,2,True
+Offering,33.0,False,2,True
+Impervious,33.0,False,2,True
+SKIP,33.0,False,2,True
+Burning Pact,35.0,True,3,False
+Thunderclap,35.0,False,3,False
+Hemokinesis,35.0,False,3,False
+SKIP,35.0,False,3,False
+Rupture,36.0,True,3,False
+Heavy Blade,36.0,False,3,False
+Warcry,36.0,False,3,False
+SKIP,36.0,False,3,False
+Uppercut,37.0,True,3,False
+Clash,37.0,False,3,False
+Havoc,37.0,False,3,False
+SKIP,37.0,False,3,False
+Shrug It Off,38.0,True,3,False
+Combust,38.0,False,3,False
+Pommel Strike,38.0,False,3,False
+SKIP,38.0,False,3,False
+Twin Strike,40.0,True,3,False
+Perfected Strike,40.0,False,3,False
+Infernal Blade,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,41.0,True,3,False
+Anger,41.0,False,3,False
+Battle Trance,41.0,False,3,False
+Feed,41.0,False,3,False
+SKIP,41.0,False,3,False
+Shrug It Off,42.0,True,3,False
+Clothesline,42.0,False,3,False
+Clash,42.0,False,3,False
+SKIP,42.0,False,3,False
+Shrug It Off,44.0,True,3,False
+Iron Wave,44.0,False,3,False
+Sword Boomerang,44.0,False,3,False
+SKIP,44.0,False,3,False
+Blood for Blood,45.0,True,3,False
+Flame Barrier,45.0,False,3,False
+True Grit,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,47.0,True,3,False
+Flame Barrier,47.0,False,3,False
+Battle Trance,47.0,False,3,False
+Searing Blow,47.0,False,3,False
+SKIP,47.0,False,3,False
+Bloodletting,48.0,True,3,False
+True Grit,48.0,False,3,False
+Body Slam,48.0,False,3,False
+SKIP,48.0,False,3,False
+Fiend Fire,0.0,True,1,False
+Feed,0.0,False,1,False
+Bludgeon,0.0,False,1,False
+SKIP,0.0,False,1,False
+Anger,1.0,True,1,False
+Perfected Strike,1.0,False,1,False
+Metallicize,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Heavy Blade,2.0,False,1,False
+Body Slam,2.0,False,1,False
+Perfected Strike,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,3.0,True,1,False
+Twin Strike,3.0,False,1,False
+Anger,3.0,False,1,False
+Perfected Strike,3.0,False,1,False
+SKIP,3.0,False,1,False
+Shrug It Off,5.0,True,1,False
+Dark Embrace,5.0,False,1,False
+Headbutt,5.0,False,1,False
+SKIP,5.0,False,1,False
+Impervious,7.0,True,1,False
+Clothesline,7.0,False,1,False
+Spot Weakness,7.0,False,1,False
+SKIP,7.0,False,1,False
+Feed,10.0,True,1,False
+Armaments,10.0,False,1,False
+Body Slam,10.0,False,1,False
+SKIP,10.0,False,1,False
+Headbutt,11.0,True,1,False
+Flame Barrier,11.0,False,1,False
+Evolve,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Clash,12.0,False,1,False
+Pommel Strike,12.0,False,1,False
+SKIP,12.0,False,1,False
+Shrug It Off,13.0,True,1,False
+Anger,13.0,False,1,False
+Demon Form,13.0,False,1,False
+SKIP,13.0,False,1,False
+Inflame,14.0,True,1,False
+Body Slam,14.0,False,1,False
+Armaments,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Exhume,16.0,False,1,True
+Limit Break,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Rupture,18.0,False,2,False
+Twin Strike,18.0,False,2,False
+Iron Wave,18.0,False,2,False
+SKIP,18.0,False,2,False
+Shrug It Off,19.0,True,2,False
+Perfected Strike,19.0,False,2,False
+Cleave,19.0,False,2,False
+SKIP,19.0,False,2,False
+SKIP,22.0,True,2,False
+Ghostly Armor,22.0,False,2,False
+Clash,22.0,False,2,False
+Clothesline,22.0,False,2,False
+SKIP,22.0,False,2,False
+Offering,23.0,True,2,False
+Second Wind,23.0,False,2,False
+Armaments,23.0,False,2,False
+Singing Bowl,23.0,False,2,False
+Singing Bowl,24.0,True,2,False
+Wild Strike,24.0,False,2,False
+Body Slam,24.0,False,2,False
+Iron Wave,24.0,False,2,False
+Singing Bowl,24.0,False,2,False
+Shockwave,25.0,True,2,False
+Twin Strike,25.0,False,2,False
+Pommel Strike,25.0,False,2,False
+Singing Bowl,25.0,False,2,False
+True Grit,29.0,True,2,False
+Entrench,29.0,False,2,False
+Headbutt,29.0,False,2,False
+Pommel Strike,29.0,False,2,False
+Singing Bowl,29.0,False,2,False
+Seeing Red,30.0,True,2,False
+Thunderclap,30.0,False,2,False
+Heavy Blade,30.0,False,2,False
+Warcry,30.0,False,2,False
+Singing Bowl,30.0,False,2,False
+True Grit,31.0,True,2,False
+Heavy Blade,31.0,False,2,False
+Shrug It Off,31.0,False,2,False
+Inflame,31.0,False,2,False
+Singing Bowl,31.0,False,2,False
+Barricade,33.0,True,2,True
+Reaper,33.0,False,2,True
+Juggernaut,33.0,False,2,True
+Berserk,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Singing Bowl,35.0,True,3,False
+Rage,35.0,False,3,False
+Dropkick,35.0,False,3,False
+Iron Wave,35.0,False,3,False
+Searing Blow,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Pommel Strike,36.0,True,3,False
+Heavy Blade,36.0,False,3,False
+Metallicize,36.0,False,3,False
+Clash,36.0,False,3,False
+Singing Bowl,36.0,False,3,False
+Shrug It Off,37.0,True,3,False
+Armaments,37.0,False,3,False
+Flex,37.0,False,3,False
+Hemokinesis,37.0,False,3,False
+Singing Bowl,37.0,False,3,False
+Singing Bowl,38.0,True,3,False
+Brutality,38.0,False,3,False
+Headbutt,38.0,False,3,False
+Iron Wave,38.0,False,3,False
+Pommel Strike,38.0,False,3,False
+Singing Bowl,38.0,False,3,False
+True Grit,40.0,True,3,False
+Dark Embrace,40.0,False,3,False
+Pommel Strike,40.0,False,3,False
+Perfected Strike,40.0,False,3,False
+Singing Bowl,40.0,False,3,False
+Disarm,41.0,True,3,False
+Shockwave,41.0,False,3,False
+True Grit,41.0,False,3,False
+Sword Boomerang,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Disarm,42.0,True,3,False
+Twin Strike,42.0,False,3,False
+Intimidate,42.0,False,3,False
+Clash,42.0,False,3,False
+Singing Bowl,42.0,False,3,False
+Exhume,44.0,True,3,False
+Demon Form,44.0,False,3,False
+Cleave,44.0,False,3,False
+Feed,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Singing Bowl,45.0,True,3,False
+Sentinel,45.0,False,3,False
+Body Slam,45.0,False,3,False
+Shrug It Off,45.0,False,3,False
+Spot Weakness,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Shockwave,48.0,True,3,False
+Spot Weakness,48.0,False,3,False
+Sentinel,48.0,False,3,False
+Reckless Charge,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Evolve,55.0,True,4,False
+Perfected Strike,55.0,False,4,False
+Hemokinesis,55.0,False,4,False
+Sever Soul,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Pommel Strike,1.0,True,1,False
+Clash,1.0,False,1,False
+Heavy Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+Iron Wave,4.0,True,1,False
+True Grit,4.0,False,1,False
+Clothesline,4.0,False,1,False
+SKIP,4.0,False,1,False
+Perfected Strike,5.0,True,1,False
+Seeing Red,5.0,False,1,False
+Wild Strike,5.0,False,1,False
+SKIP,5.0,False,1,False
+Combust,7.0,True,1,False
+Twin Strike,7.0,False,1,False
+Sever Soul,7.0,False,1,False
+SKIP,7.0,False,1,False
+Spot Weakness,8.0,True,1,False
+Clash,8.0,False,1,False
+Intimidate,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,11.0,True,1,False
+Sword Boomerang,11.0,False,1,False
+Wild Strike,11.0,False,1,False
+True Grit,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Wild Strike,12.0,False,1,False
+Headbutt,12.0,False,1,False
+SKIP,12.0,False,1,False
+Dropkick,14.0,True,1,False
+Shrug It Off,14.0,False,1,False
+Sever Soul,14.0,False,1,False
+SKIP,14.0,False,1,False
+Feed,16.0,True,1,True
+Brutality,16.0,False,1,True
+Barricade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Armaments,19.0,True,2,False
+Seeing Red,19.0,False,2,False
+Perfected Strike,19.0,False,2,False
+SKIP,19.0,False,2,False
+Offering,21.0,True,2,False
+Pommel Strike,21.0,False,2,False
+Thunderclap,21.0,False,2,False
+SKIP,21.0,False,2,False
+SKIP,22.0,True,2,False
+Carnage,22.0,False,2,False
+Cleave,22.0,False,2,False
+Warcry,22.0,False,2,False
+SKIP,22.0,False,2,False
+Metallicize,24.0,True,2,False
+Havoc,24.0,False,2,False
+True Grit,24.0,False,2,False
+SKIP,24.0,False,2,False
+Dark Embrace,28.0,True,2,False
+True Grit,28.0,False,2,False
+Perfected Strike,28.0,False,2,False
+Cleave,28.0,False,2,False
+SKIP,28.0,False,2,False
+Feed,0.0,True,1,False
+Bludgeon,0.0,False,1,False
+Impervious,0.0,False,1,False
+SKIP,0.0,False,1,False
+SKIP,1.0,True,1,False
+Sword Boomerang,1.0,False,1,False
+Havoc,1.0,False,1,False
+Body Slam,1.0,False,1,False
+SKIP,1.0,False,1,False
+Power Through,3.0,True,1,False
+Dropkick,3.0,False,1,False
+Second Wind,3.0,False,1,False
+SKIP,3.0,False,1,False
+Iron Wave,5.0,True,1,False
+Body Slam,5.0,False,1,False
+Clash,5.0,False,1,False
+SKIP,5.0,False,1,False
+Pommel Strike,7.0,True,1,False
+Cleave,7.0,False,1,False
+Searing Blow,7.0,False,1,False
+SKIP,7.0,False,1,False
+Battle Trance,11.0,True,1,False
+Dropkick,11.0,False,1,False
+Fire Breathing,11.0,False,1,False
+SKIP,11.0,False,1,False
+Whirlwind,12.0,True,1,False
+Sword Boomerang,12.0,False,1,False
+Seeing Red,12.0,False,1,False
+SKIP,12.0,False,1,False
+Fire Breathing,13.0,True,1,False
+Second Wind,13.0,False,1,False
+Havoc,13.0,False,1,False
+SKIP,13.0,False,1,False
+Offering,16.0,True,1,True
+Impervious,16.0,False,1,True
+Barricade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Pommel Strike,18.0,True,2,False
+Uppercut,18.0,False,2,False
+Fire Breathing,18.0,False,2,False
+SKIP,18.0,False,2,False
+Warcry,20.0,True,2,False
+Carnage,20.0,False,2,False
+Whirlwind,20.0,False,2,False
+SKIP,20.0,False,2,False
+Second Wind,22.0,True,2,False
+Thunderclap,22.0,False,2,False
+Shrug It Off,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,24.0,True,2,False
+Flex,24.0,False,2,False
+Sword Boomerang,24.0,False,2,False
+Clothesline,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,24.0,True,2,False
+Flex,24.0,False,2,False
+Sword Boomerang,24.0,False,2,False
+Clothesline,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,25.0,True,2,False
+Thunderclap,25.0,False,2,False
+Warcry,25.0,False,2,False
+Searing Blow,25.0,False,2,False
+SKIP,25.0,False,2,False
+Barricade,31.0,True,2,False
+Wild Strike,31.0,False,2,False
+Sword Boomerang,31.0,False,2,False
+SKIP,31.0,False,2,False
+Exhume,33.0,True,2,True
+Barricade,33.0,False,2,True
+Juggernaut,33.0,False,2,True
+SKIP,33.0,False,2,True
+Feel No Pain,35.0,True,3,False
+Body Slam,35.0,False,3,False
+Thunderclap,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,37.0,True,3,False
+Inflame,37.0,False,3,False
+Pommel Strike,37.0,False,3,False
+Flame Barrier,37.0,False,3,False
+SKIP,37.0,False,3,False
+Burning Pact,38.0,True,3,False
+Reckless Charge,38.0,False,3,False
+Feel No Pain,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,40.0,True,3,False
+Headbutt,40.0,False,3,False
+Carnage,40.0,False,3,False
+Heavy Blade,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,41.0,True,3,False
+Clash,41.0,False,3,False
+Flex,41.0,False,3,False
+Inflame,41.0,False,3,False
+SKIP,41.0,False,3,False
+Body Slam,44.0,True,3,False
+Flame Barrier,44.0,False,3,False
+Warcry,44.0,False,3,False
+SKIP,44.0,False,3,False
+Armaments,46.0,True,3,False
+Heavy Blade,46.0,False,3,False
+Ghostly Armor,46.0,False,3,False
+SKIP,46.0,False,3,False
+Shrug It Off,47.0,True,3,False
+Searing Blow,47.0,False,3,False
+Fiend Fire,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Flex,48.0,False,3,False
+Body Slam,48.0,False,3,False
+Metallicize,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Body Slam,55.0,False,4,False
+Uppercut,55.0,False,4,False
+Iron Wave,55.0,False,4,False
+SKIP,55.0,False,4,False
+Clothesline,1.0,True,1,False
+Clash,1.0,False,1,False
+Heavy Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+Twin Strike,2.0,True,1,False
+Fire Breathing,2.0,False,1,False
+Sever Soul,2.0,False,1,False
+SKIP,2.0,False,1,False
+Shrug It Off,4.0,True,1,False
+Thunderclap,4.0,False,1,False
+Rampage,4.0,False,1,False
+SKIP,4.0,False,1,False
+Headbutt,5.0,True,1,False
+Shrug It Off,5.0,False,1,False
+Iron Wave,5.0,False,1,False
+SKIP,5.0,False,1,False
+Anger,7.0,True,1,False
+Dark Embrace,7.0,False,1,False
+Iron Wave,7.0,False,1,False
+SKIP,7.0,False,1,False
+Seeing Red,10.0,True,1,False
+Rage,10.0,False,1,False
+Dropkick,10.0,False,1,False
+SKIP,10.0,False,1,False
+Body Slam,12.0,True,1,False
+Havoc,12.0,False,1,False
+True Grit,12.0,False,1,False
+SKIP,12.0,False,1,False
+Demon Form,13.0,True,1,False
+Warcry,13.0,False,1,False
+Carnage,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Heavy Blade,14.0,False,1,False
+Warcry,14.0,False,1,False
+Perfected Strike,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Barricade,16.0,False,1,True
+Juggernaut,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Seeing Red,18.0,False,2,False
+Anger,18.0,False,2,False
+Hemokinesis,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,19.0,True,2,False
+Perfected Strike,19.0,False,2,False
+Thunderclap,19.0,False,2,False
+Clothesline,19.0,False,2,False
+SKIP,19.0,False,2,False
+True Grit,24.0,True,2,False
+Thunderclap,24.0,False,2,False
+Sword Boomerang,24.0,False,2,False
+SKIP,24.0,False,2,False
+Fiend Fire,0.0,True,1,False
+Corruption,0.0,False,1,False
+Demon Form,0.0,False,1,False
+SKIP,0.0,False,1,False
+Twin Strike,1.0,True,1,False
+Bloodletting,1.0,False,1,False
+Sever Soul,1.0,False,1,False
+SKIP,1.0,False,1,False
+Anger,3.0,True,1,False
+Thunderclap,3.0,False,1,False
+Iron Wave,3.0,False,1,False
+SKIP,3.0,False,1,False
+Fiend Fire,4.0,True,1,False
+Clothesline,4.0,False,1,False
+Clash,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,6.0,True,1,False
+Bloodletting,6.0,False,1,False
+Clash,6.0,False,1,False
+Flex,6.0,False,1,False
+SKIP,6.0,False,1,False
+Dark Embrace,8.0,True,1,False
+Thunderclap,8.0,False,1,False
+Cleave,8.0,False,1,False
+SKIP,8.0,False,1,False
+SKIP,14.0,True,1,False
+Perfected Strike,14.0,False,1,False
+Body Slam,14.0,False,1,False
+Clash,14.0,False,1,False
+SKIP,14.0,False,1,False
+Reaper,16.0,True,1,True
+Impervious,16.0,False,1,True
+Limit Break,16.0,False,1,True
+SKIP,16.0,False,1,True
+Infernal Blade,18.0,True,2,False
+Wild Strike,18.0,False,2,False
+Pummel,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,20.0,True,2,False
+Sword Boomerang,20.0,False,2,False
+Perfected Strike,20.0,False,2,False
+Shrug It Off,20.0,False,2,False
+SKIP,20.0,False,2,False
+Shrug It Off,20.0,True,2,False
+Sword Boomerang,20.0,False,2,False
+Perfected Strike,20.0,False,2,False
+SKIP,20.0,False,2,False
+Shockwave,21.0,True,2,False
+Heavy Blade,21.0,False,2,False
+Flex,21.0,False,2,False
+SKIP,21.0,False,2,False
+Feel No Pain,23.0,True,2,False
+Evolve,23.0,False,2,False
+Dual Wield,23.0,False,2,False
+SKIP,23.0,False,2,False
+Spot Weakness,25.0,True,2,False
+Headbutt,25.0,False,2,False
+Clothesline,25.0,False,2,False
+Immolate,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,29.0,True,2,False
+Rampage,29.0,False,2,False
+Reckless Charge,29.0,False,2,False
+Anger,29.0,False,2,False
+Fire Breathing,29.0,False,2,False
+SKIP,29.0,False,2,False
+Corruption,33.0,True,2,True
+Bludgeon,33.0,False,2,True
+Barricade,33.0,False,2,True
+Exhume,33.0,False,2,True
+SKIP,33.0,False,2,True
+Shockwave,35.0,True,3,False
+Twin Strike,35.0,False,3,False
+Clothesline,35.0,False,3,False
+Power Through,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Battle Trance,36.0,False,3,False
+Heavy Blade,36.0,False,3,False
+Perfected Strike,36.0,False,3,False
+Headbutt,36.0,False,3,False
+SKIP,36.0,False,3,False
+Disarm,39.0,True,3,False
+Thunderclap,39.0,False,3,False
+Rupture,39.0,False,3,False
+Spot Weakness,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+True Grit,40.0,False,3,False
+Entrench,40.0,False,3,False
+Flame Barrier,40.0,False,3,False
+Sever Soul,40.0,False,3,False
+SKIP,40.0,False,3,False
+Burning Pact,42.0,True,3,False
+Disarm,42.0,False,3,False
+Pommel Strike,42.0,False,3,False
+Warcry,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,44.0,True,3,False
+Clothesline,44.0,False,3,False
+Flame Barrier,44.0,False,3,False
+Pommel Strike,44.0,False,3,False
+Havoc,44.0,False,3,False
+SKIP,44.0,False,3,False
+Offering,47.0,True,3,False
+Clothesline,47.0,False,3,False
+Cleave,47.0,False,3,False
+Heavy Blade,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,55.0,True,4,False
+Iron Wave,55.0,False,4,False
+Hemokinesis,55.0,False,4,False
+Battle Trance,55.0,False,4,False
+Combust,55.0,False,4,False
+SKIP,55.0,False,4,False
+Pommel Strike,1.0,True,1,False
+Shrug It Off,1.0,False,1,False
+Carnage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Pommel Strike,2.0,True,1,False
+True Grit,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Exhume,6.0,True,1,False
+Seeing Red,6.0,False,1,False
+Body Slam,6.0,False,1,False
+SKIP,6.0,False,1,False
+Sentinel,10.0,True,1,False
+Twin Strike,10.0,False,1,False
+Infernal Blade,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Combust,11.0,False,1,False
+Iron Wave,11.0,False,1,False
+True Grit,11.0,False,1,False
+SKIP,11.0,False,1,False
+Armaments,12.0,True,1,False
+Whirlwind,12.0,False,1,False
+Warcry,12.0,False,1,False
+SKIP,12.0,False,1,False
+Shrug It Off,13.0,True,1,False
+Searing Blow,13.0,False,1,False
+Blood for Blood,13.0,False,1,False
+SKIP,13.0,False,1,False
+Power Through,14.0,True,1,False
+Combust,14.0,False,1,False
+Dark Embrace,14.0,False,1,False
+SKIP,14.0,False,1,False
+Reaper,16.0,True,1,True
+Bludgeon,16.0,False,1,True
+Corruption,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Fire Breathing,18.0,False,2,False
+Flex,18.0,False,2,False
+Armaments,18.0,False,2,False
+SKIP,18.0,False,2,False
+Evolve,19.0,True,2,False
+Sword Boomerang,19.0,False,2,False
+Reckless Charge,19.0,False,2,False
+SKIP,19.0,False,2,False
+Limit Break,22.0,True,2,False
+True Grit,22.0,False,2,False
+Searing Blow,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Ghostly Armor,23.0,False,2,False
+Iron Wave,23.0,False,2,False
+Rampage,23.0,False,2,False
+SKIP,23.0,False,2,False
+SKIP,24.0,True,2,False
+Searing Blow,24.0,False,2,False
+Perfected Strike,24.0,False,2,False
+Ghostly Armor,24.0,False,2,False
+Heavy Blade,24.0,False,2,False
+SKIP,24.0,False,2,False
+SKIP,29.0,True,2,False
+Pummel,29.0,False,2,False
+Iron Wave,29.0,False,2,False
+Sword Boomerang,29.0,False,2,False
+Twin Strike,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Inflame,30.0,False,2,False
+Anger,30.0,False,2,False
+Warcry,30.0,False,2,False
+Blood for Blood,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Clash,31.0,False,2,False
+Fire Breathing,31.0,False,2,False
+Heavy Blade,31.0,False,2,False
+Metallicize,31.0,False,2,False
+SKIP,31.0,False,2,False
+Offering,33.0,True,2,True
+Berserk,33.0,False,2,True
+Impervious,33.0,False,2,True
+Fiend Fire,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Combust,35.0,False,3,False
+Sword Boomerang,35.0,False,3,False
+Iron Wave,35.0,False,3,False
+Infernal Blade,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Cleave,36.0,False,3,False
+Hemokinesis,36.0,False,3,False
+Second Wind,36.0,False,3,False
+Body Slam,36.0,False,3,False
+SKIP,36.0,False,3,False
+Headbutt,39.0,True,3,False
+Second Wind,39.0,False,3,False
+Clash,39.0,False,3,False
+Warcry,39.0,False,3,False
+SKIP,39.0,False,3,False
+Bloodletting,40.0,True,3,False
+Searing Blow,40.0,False,3,False
+Disarm,40.0,False,3,False
+Feed,40.0,False,3,False
+SKIP,40.0,False,3,False
+Flash of Steel,42.0,True,3,False
+Violence,42.0,False,3,False
+Impatience,42.0,False,3,False
+Forethought,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,42.0,True,3,False
+Good Instincts,42.0,False,3,False
+Swift Strike,42.0,False,3,False
+Magnetism,42.0,False,3,False
+Mayhem,42.0,False,3,False
+SKIP,42.0,False,3,False
+SKIP,42.0,True,3,False
+The Bomb,42.0,False,3,False
+Good Instincts,42.0,False,3,False
+PanicButton,42.0,False,3,False
+Mind Blast,42.0,False,3,False
+SKIP,42.0,False,3,False
+Singing Bowl,44.0,True,3,False
+Flex,44.0,False,3,False
+Wild Strike,44.0,False,3,False
+Intimidate,44.0,False,3,False
+Iron Wave,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Singing Bowl,45.0,True,3,False
+Warcry,45.0,False,3,False
+Twin Strike,45.0,False,3,False
+Shrug It Off,45.0,False,3,False
+Wild Strike,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Singing Bowl,46.0,True,3,False
+Second Wind,46.0,False,3,False
+Juggernaut,46.0,False,3,False
+Sword Boomerang,46.0,False,3,False
+Warcry,46.0,False,3,False
+Singing Bowl,46.0,False,3,False
+Singing Bowl,47.0,True,3,False
+Inflame,47.0,False,3,False
+Thunderclap,47.0,False,3,False
+True Grit,47.0,False,3,False
+Armaments,47.0,False,3,False
+Singing Bowl,47.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Juggernaut,48.0,False,3,False
+Anger,48.0,False,3,False
+Rampage,48.0,False,3,False
+Headbutt,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,55.0,True,4,False
+Warcry,55.0,False,4,False
+Battle Trance,55.0,False,4,False
+Havoc,55.0,False,4,False
+Dark Embrace,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Shrug It Off,1.0,True,1,False
+Iron Wave,1.0,False,1,False
+Sword Boomerang,1.0,False,1,False
+SKIP,1.0,False,1,False
+Evolve,3.0,True,1,False
+Havoc,3.0,False,1,False
+Dark Embrace,3.0,False,1,False
+SKIP,3.0,False,1,False
+Second Wind,4.0,True,1,False
+Evolve,4.0,False,1,False
+Body Slam,4.0,False,1,False
+SKIP,4.0,False,1,False
+Armaments,5.0,True,1,False
+Twin Strike,5.0,False,1,False
+Seeing Red,5.0,False,1,False
+SKIP,5.0,False,1,False
+Feel No Pain,7.0,True,1,False
+Armaments,7.0,False,1,False
+Rage,7.0,False,1,False
+SKIP,7.0,False,1,False
+Clothesline,10.0,True,1,False
+Body Slam,10.0,False,1,False
+Flex,10.0,False,1,False
+SKIP,10.0,False,1,False
+SKIP,11.0,True,1,False
+Searing Blow,11.0,False,1,False
+Heavy Blade,11.0,False,1,False
+Metallicize,11.0,False,1,False
+SKIP,11.0,False,1,False
+Disarm,12.0,True,1,False
+Battle Trance,12.0,False,1,False
+Flame Barrier,12.0,False,1,False
+SKIP,12.0,False,1,False
+Spot Weakness,14.0,True,1,False
+Sword Boomerang,14.0,False,1,False
+Intimidate,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Exhume,16.0,False,1,True
+Barricade,16.0,False,1,True
+SKIP,16.0,False,1,True
+Burning Pact,18.0,True,2,False
+Evolve,18.0,False,2,False
+Carnage,18.0,False,2,False
+SKIP,18.0,False,2,False
+Power Through,19.0,True,2,False
+Pommel Strike,19.0,False,2,False
+Dual Wield,19.0,False,2,False
+SKIP,19.0,False,2,False
+Battle Trance,20.0,True,2,False
+Flex,20.0,False,2,False
+Headbutt,20.0,False,2,False
+SKIP,20.0,False,2,False
+Headbutt,21.0,True,2,False
+Ghostly Armor,21.0,False,2,False
+Cleave,21.0,False,2,False
+SKIP,21.0,False,2,False
+Impervious,22.0,True,2,False
+Iron Wave,22.0,False,2,False
+Cleave,22.0,False,2,False
+SKIP,22.0,False,2,False
+Dark Embrace,22.0,True,2,False
+Sever Soul,22.0,False,2,False
+Metallicize,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Clothesline,22.0,False,2,False
+Cleave,22.0,False,2,False
+Combust,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Armaments,22.0,False,2,False
+Clothesline,22.0,False,2,False
+Ghostly Armor,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,22.0,True,2,False
+Twin Strike,22.0,False,2,False
+Thunderclap,22.0,False,2,False
+Battle Trance,22.0,False,2,False
+SKIP,22.0,False,2,False
+SKIP,23.0,True,2,False
+Flex,23.0,False,2,False
+Clothesline,23.0,False,2,False
+Dropkick,23.0,False,2,False
+SKIP,23.0,False,2,False
+Shrug It Off,25.0,True,2,False
+Seeing Red,25.0,False,2,False
+Flex,25.0,False,2,False
+SKIP,25.0,False,2,False
+Pommel Strike,28.0,True,2,False
+Sword Boomerang,28.0,False,2,False
+Fire Breathing,28.0,False,2,False
+SKIP,28.0,False,2,False
+Bloodletting,29.0,True,2,False
+Body Slam,29.0,False,2,False
+Dark Embrace,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Second Wind,30.0,False,2,False
+Rupture,30.0,False,2,False
+Thunderclap,30.0,False,2,False
+SKIP,30.0,False,2,False
+Pommel Strike,31.0,True,2,False
+Thunderclap,31.0,False,2,False
+Reckless Charge,31.0,False,2,False
+SKIP,31.0,False,2,False
+Barricade,33.0,True,2,True
+Limit Break,33.0,False,2,True
+Demon Form,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Inflame,35.0,False,3,False
+Flex,35.0,False,3,False
+Sword Boomerang,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Flex,36.0,False,3,False
+Iron Wave,36.0,False,3,False
+Twin Strike,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Headbutt,37.0,False,3,False
+Barricade,37.0,False,3,False
+Flame Barrier,37.0,False,3,False
+SKIP,37.0,False,3,False
+SKIP,38.0,True,3,False
+Flex,38.0,False,3,False
+Dropkick,38.0,False,3,False
+Armaments,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Warcry,39.0,False,3,False
+Ghostly Armor,39.0,False,3,False
+Clothesline,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,40.0,True,3,False
+Wild Strike,40.0,False,3,False
+Anger,40.0,False,3,False
+Twin Strike,40.0,False,3,False
+SKIP,40.0,False,3,False
+SKIP,44.0,True,3,False
+Twin Strike,44.0,False,3,False
+Ghostly Armor,44.0,False,3,False
+Spot Weakness,44.0,False,3,False
+SKIP,44.0,False,3,False
+Shrug It Off,46.0,True,3,False
+Rage,46.0,False,3,False
+Evolve,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Iron Wave,47.0,False,3,False
+Havoc,47.0,False,3,False
+Warcry,47.0,False,3,False
+SKIP,47.0,False,3,False
+Burning Pact,48.0,True,3,False
+Cleave,48.0,False,3,False
+Perfected Strike,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Metallicize,55.0,False,4,False
+Battle Trance,55.0,False,4,False
+Whirlwind,55.0,False,4,False
+SKIP,55.0,False,4,False
+Inflame,1.0,True,1,False
+Dark Embrace,1.0,False,1,False
+Cleave,1.0,False,1,False
+SKIP,1.0,False,1,False
+Pommel Strike,2.0,True,1,False
+Body Slam,2.0,False,1,False
+Havoc,2.0,False,1,False
+SKIP,2.0,False,1,False
+Headbutt,5.0,True,1,False
+Anger,5.0,False,1,False
+Sword Boomerang,5.0,False,1,False
+SKIP,5.0,False,1,False
+Reaper,6.0,True,1,False
+Twin Strike,6.0,False,1,False
+Perfected Strike,6.0,False,1,False
+SKIP,6.0,False,1,False
+SKIP,8.0,True,1,False
+Havoc,8.0,False,1,False
+Warcry,8.0,False,1,False
+Sword Boomerang,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shockwave,10.0,True,1,False
+Shrug It Off,10.0,False,1,False
+Flex,10.0,False,1,False
+SKIP,10.0,False,1,False
+Corruption,13.0,True,1,False
+Dropkick,13.0,False,1,False
+Flex,13.0,False,1,False
+SKIP,13.0,False,1,False
+Offering,16.0,True,1,True
+Juggernaut,16.0,False,1,True
+Bludgeon,16.0,False,1,True
+SKIP,16.0,False,1,True
+Whirlwind,18.0,True,2,False
+Clothesline,18.0,False,2,False
+True Grit,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,22.0,True,2,False
+Thunderclap,22.0,False,2,False
+Carnage,22.0,False,2,False
+Whirlwind,22.0,False,2,False
+SKIP,22.0,False,2,False
+Shrug It Off,23.0,True,2,False
+Body Slam,23.0,False,2,False
+Flex,23.0,False,2,False
+SKIP,23.0,False,2,False
+Pommel Strike,25.0,True,2,False
+Twin Strike,25.0,False,2,False
+Infernal Blade,25.0,False,2,False
+SKIP,25.0,False,2,False
+Second Wind,27.0,True,2,False
+Blood for Blood,27.0,False,2,False
+Twin Strike,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,29.0,True,2,False
+Flex,29.0,False,2,False
+Havoc,29.0,False,2,False
+Reckless Charge,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,29.0,True,2,False
+Flex,29.0,False,2,False
+Havoc,29.0,False,2,False
+Reckless Charge,29.0,False,2,False
+SKIP,29.0,False,2,False
+Shockwave,31.0,True,2,False
+Inflame,31.0,False,2,False
+Infernal Blade,31.0,False,2,False
+SKIP,31.0,False,2,False
+Offering,33.0,True,2,True
+Reaper,33.0,False,2,True
+Brutality,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Pommel Strike,35.0,False,3,False
+Clothesline,35.0,False,3,False
+Heavy Blade,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,35.0,True,3,False
+Pommel Strike,35.0,False,3,False
+Clothesline,35.0,False,3,False
+Heavy Blade,35.0,False,3,False
+SKIP,35.0,False,3,False
+Shrug It Off,36.0,True,3,False
+Body Slam,36.0,False,3,False
+Wild Strike,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,38.0,True,3,False
+Blood for Blood,38.0,False,3,False
+Twin Strike,38.0,False,3,False
+Clash,38.0,False,3,False
+SKIP,38.0,False,3,False
+Feel No Pain,41.0,True,3,False
+Headbutt,41.0,False,3,False
+Iron Wave,41.0,False,3,False
+SKIP,41.0,False,3,False
+Power Through,42.0,True,3,False
+Sword Boomerang,42.0,False,3,False
+Pommel Strike,42.0,False,3,False
+SKIP,42.0,False,3,False
+Burning Pact,44.0,True,3,False
+Dropkick,44.0,False,3,False
+Havoc,44.0,False,3,False
+SKIP,44.0,False,3,False
+SKIP,46.0,True,3,False
+Rage,46.0,False,3,False
+Wild Strike,46.0,False,3,False
+Flex,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Headbutt,47.0,False,3,False
+Second Wind,47.0,False,3,False
+Carnage,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,48.0,True,3,False
+Dropkick,48.0,False,3,False
+Pommel Strike,48.0,False,3,False
+Thunderclap,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Iron Wave,55.0,False,4,False
+Clothesline,55.0,False,4,False
+True Grit,55.0,False,4,False
+SKIP,55.0,False,4,False
+Second Wind,1.0,True,1,False
+Warcry,1.0,False,1,False
+Flex,1.0,False,1,False
+SKIP,1.0,False,1,False
+Uppercut,2.0,True,1,False
+Sword Boomerang,2.0,False,1,False
+Thunderclap,2.0,False,1,False
+SKIP,2.0,False,1,False
+Perfected Strike,3.0,True,1,False
+Warcry,3.0,False,1,False
+Ghostly Armor,3.0,False,1,False
+SKIP,3.0,False,1,False
+SKIP,4.0,True,1,False
+Wild Strike,4.0,False,1,False
+Iron Wave,4.0,False,1,False
+Thunderclap,4.0,False,1,False
+SKIP,4.0,False,1,False
+SKIP,8.0,True,1,False
+Infernal Blade,8.0,False,1,False
+Flex,8.0,False,1,False
+Carnage,8.0,False,1,False
+SKIP,8.0,False,1,False
+Anger,10.0,True,1,False
+Pummel,10.0,False,1,False
+Corruption,10.0,False,1,False
+SKIP,10.0,False,1,False
+Metallicize,12.0,True,1,False
+Body Slam,12.0,False,1,False
+Rupture,12.0,False,1,False
+SKIP,12.0,False,1,False
+Shrug It Off,14.0,True,1,False
+Second Wind,14.0,False,1,False
+Iron Wave,14.0,False,1,False
+SKIP,14.0,False,1,False
+SKIP,1.0,True,1,False
+Flex,1.0,False,1,False
+Seeing Red,1.0,False,1,False
+Cleave,1.0,False,1,False
+SKIP,1.0,False,1,False
+Offering,3.0,True,1,False
+Shrug It Off,3.0,False,1,False
+Armaments,3.0,False,1,False
+SKIP,3.0,False,1,False
+Uppercut,10.0,True,1,False
+Havoc,10.0,False,1,False
+Heavy Blade,10.0,False,1,False
+SKIP,10.0,False,1,False
+Inflame,11.0,True,1,False
+Armaments,11.0,False,1,False
+Ghostly Armor,11.0,False,1,False
+SKIP,11.0,False,1,False
+Havoc,12.0,True,1,False
+Clothesline,12.0,False,1,False
+Uppercut,12.0,False,1,False
+SKIP,12.0,False,1,False
+Anger,14.0,True,1,False
+Iron Wave,14.0,False,1,False
+Armaments,14.0,False,1,False
+SKIP,14.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Double Tap,16.0,False,1,True
+SKIP,16.0,False,1,True
+Headbutt,18.0,True,2,False
+Spot Weakness,18.0,False,2,False
+Perfected Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,20.0,True,2,False
+Havoc,20.0,False,2,False
+Twin Strike,20.0,False,2,False
+Entrench,20.0,False,2,False
+SKIP,20.0,False,2,False
+Disarm,22.0,True,2,False
+Clothesline,22.0,False,2,False
+Rampage,22.0,False,2,False
+SKIP,22.0,False,2,False
+Violence,0.0,True,1,False
+The Bomb,0.0,False,1,False
+Thinking Ahead,0.0,False,1,False
+SKIP,0.0,False,1,False
+Power Through,1.0,True,1,False
+Clash,1.0,False,1,False
+Pummel,1.0,False,1,False
+SKIP,1.0,False,1,False
+Clothesline,2.0,True,1,False
+Armaments,2.0,False,1,False
+Fire Breathing,2.0,False,1,False
+SKIP,2.0,False,1,False
+Headbutt,3.0,True,1,False
+Power Through,3.0,False,1,False
+Cleave,3.0,False,1,False
+SKIP,3.0,False,1,False
+Second Wind,4.0,True,1,False
+Body Slam,4.0,False,1,False
+Thunderclap,4.0,False,1,False
+SKIP,4.0,False,1,False
+Anger,5.0,True,1,False
+Thunderclap,5.0,False,1,False
+Shrug It Off,5.0,False,1,False
+SKIP,5.0,False,1,False
+Blood for Blood,7.0,True,1,False
+Cleave,7.0,False,1,False
+Reckless Charge,7.0,False,1,False
+SKIP,7.0,False,1,False
+Demon Form,8.0,True,1,False
+Twin Strike,8.0,False,1,False
+Heavy Blade,8.0,False,1,False
+SKIP,8.0,False,1,False
+Singing Bowl,10.0,True,1,False
+Pummel,10.0,False,1,False
+Dropkick,10.0,False,1,False
+Perfected Strike,10.0,False,1,False
+Singing Bowl,10.0,False,1,False
+Immolate,12.0,True,1,False
+Sword Boomerang,12.0,False,1,False
+Warcry,12.0,False,1,False
+Singing Bowl,12.0,False,1,False
+Corruption,16.0,True,1,True
+Double Tap,16.0,False,1,True
+Bludgeon,16.0,False,1,True
+Singing Bowl,16.0,False,1,True
+Armaments,18.0,True,2,False
+Carnage,18.0,False,2,False
+Cleave,18.0,False,2,False
+Singing Bowl,18.0,False,2,False
+Singing Bowl,20.0,True,2,False
+Iron Wave,20.0,False,2,False
+Anger,20.0,False,2,False
+Armaments,20.0,False,2,False
+Singing Bowl,20.0,False,2,False
+Metallicize,22.0,True,2,False
+Reckless Charge,22.0,False,2,False
+True Grit,22.0,False,2,False
+Singing Bowl,22.0,False,2,False
+Burning Pact,24.0,True,2,False
+Headbutt,24.0,False,2,False
+Power Through,24.0,False,2,False
+Singing Bowl,24.0,False,2,False
+Uppercut,28.0,True,2,False
+Armaments,28.0,False,2,False
+Evolve,28.0,False,2,False
+Singing Bowl,28.0,False,2,False
+Singing Bowl,29.0,True,2,False
+Sentinel,29.0,False,2,False
+Whirlwind,29.0,False,2,False
+Perfected Strike,29.0,False,2,False
+Singing Bowl,29.0,False,2,False
+Disarm,30.0,True,2,False
+Rupture,30.0,False,2,False
+Double Tap,30.0,False,2,False
+Singing Bowl,30.0,False,2,False
+Impervious,33.0,True,2,True
+Demon Form,33.0,False,2,True
+Fiend Fire,33.0,False,2,True
+Singing Bowl,33.0,False,2,True
+Singing Bowl,35.0,True,3,False
+Pummel,35.0,False,3,False
+Twin Strike,35.0,False,3,False
+Sword Boomerang,35.0,False,3,False
+Singing Bowl,35.0,False,3,False
+Singing Bowl,37.0,True,3,False
+Rupture,37.0,False,3,False
+Wild Strike,37.0,False,3,False
+Cleave,37.0,False,3,False
+Singing Bowl,37.0,False,3,False
+Singing Bowl,38.0,True,3,False
+Clash,38.0,False,3,False
+Fire Breathing,38.0,False,3,False
+Berserk,38.0,False,3,False
+Singing Bowl,38.0,False,3,False
+Singing Bowl,41.0,True,3,False
+True Grit,41.0,False,3,False
+Body Slam,41.0,False,3,False
+Limit Break,41.0,False,3,False
+Singing Bowl,41.0,False,3,False
+Shrug It Off,44.0,True,3,False
+Body Slam,44.0,False,3,False
+Havoc,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Feel No Pain,46.0,True,3,False
+Sever Soul,46.0,False,3,False
+Entrench,46.0,False,3,False
+Singing Bowl,46.0,False,3,False
+Dual Wield,47.0,True,3,False
+Cleave,47.0,False,3,False
+Combust,47.0,False,3,False
+Singing Bowl,47.0,False,3,False
+Dark Shackles,48.0,True,3,False
+Thinking Ahead,48.0,False,3,False
+Jack Of All Trades,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Dark Shackles,48.0,True,3,False
+Dramatic Entrance,48.0,False,3,False
+Flash of Steel,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Singing Bowl,48.0,True,3,False
+Impatience,48.0,False,3,False
+Dramatic Entrance,48.0,False,3,False
+Forethought,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Shrug It Off,55.0,True,4,False
+Cleave,55.0,False,4,False
+True Grit,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Inflame,1.0,True,1,False
+Rampage,1.0,False,1,False
+Clash,1.0,False,1,False
+SKIP,1.0,False,1,False
+Clothesline,2.0,True,1,False
+Heavy Blade,2.0,False,1,False
+Spot Weakness,2.0,False,1,False
+SKIP,2.0,False,1,False
+Immolate,4.0,True,1,False
+Battle Trance,4.0,False,1,False
+Sword Boomerang,4.0,False,1,False
+SKIP,4.0,False,1,False
+Bloodletting,5.0,True,1,False
+Fire Breathing,5.0,False,1,False
+Thunderclap,5.0,False,1,False
+SKIP,5.0,False,1,False
+Blood for Blood,6.0,True,1,False
+Anger,6.0,False,1,False
+Sentinel,6.0,False,1,False
+SKIP,6.0,False,1,False
+Disarm,8.0,True,1,False
+Shrug It Off,8.0,False,1,False
+Heavy Blade,8.0,False,1,False
+SKIP,8.0,False,1,False
+Armaments,11.0,True,1,False
+Rupture,11.0,False,1,False
+Demon Form,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Dual Wield,12.0,False,1,False
+Twin Strike,12.0,False,1,False
+SKIP,12.0,False,1,False
+SKIP,13.0,True,1,False
+Cleave,13.0,False,1,False
+Clothesline,13.0,False,1,False
+Armaments,13.0,False,1,False
+SKIP,13.0,False,1,False
+Fiend Fire,16.0,True,1,True
+Juggernaut,16.0,False,1,True
+Exhume,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Cleave,18.0,False,2,False
+Perfected Strike,18.0,False,2,False
+Wild Strike,18.0,False,2,False
+SKIP,18.0,False,2,False
+Disarm,21.0,True,2,False
+Reckless Charge,21.0,False,2,False
+Carnage,21.0,False,2,False
+SKIP,21.0,False,2,False
+Shrug It Off,22.0,True,2,False
+Heavy Blade,22.0,False,2,False
+Armaments,22.0,False,2,False
+SKIP,22.0,False,2,False
+Flame Barrier,24.0,True,2,False
+Wild Strike,24.0,False,2,False
+Armaments,24.0,False,2,False
+SKIP,24.0,False,2,False
+Shockwave,25.0,True,2,False
+Sword Boomerang,25.0,False,2,False
+Pummel,25.0,False,2,False
+SKIP,25.0,False,2,False
+Barricade,27.0,True,2,False
+Sword Boomerang,27.0,False,2,False
+Havoc,27.0,False,2,False
+Clash,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,28.0,True,2,False
+Twin Strike,28.0,False,2,False
+Havoc,28.0,False,2,False
+Body Slam,28.0,False,2,False
+Clothesline,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,30.0,True,2,False
+Wild Strike,30.0,False,2,False
+Blood for Blood,30.0,False,2,False
+Sever Soul,30.0,False,2,False
+Clothesline,30.0,False,2,False
+SKIP,30.0,False,2,False
+Exhume,31.0,True,2,False
+Warcry,31.0,False,2,False
+Rupture,31.0,False,2,False
+Sentinel,31.0,False,2,False
+SKIP,31.0,False,2,False
+Corruption,33.0,True,2,True
+Reaper,33.0,False,2,True
+Berserk,33.0,False,2,True
+Immolate,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Clash,35.0,False,3,False
+Armaments,35.0,False,3,False
+Iron Wave,35.0,False,3,False
+Flame Barrier,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Evolve,36.0,False,3,False
+Cleave,36.0,False,3,False
+Body Slam,36.0,False,3,False
+Flex,36.0,False,3,False
+SKIP,36.0,False,3,False
+Shrug It Off,37.0,True,3,False
+Searing Blow,37.0,False,3,False
+Inflame,37.0,False,3,False
+Wild Strike,37.0,False,3,False
+SKIP,37.0,False,3,False
+Feel No Pain,38.0,True,3,False
+Cleave,38.0,False,3,False
+Heavy Blade,38.0,False,3,False
+Ghostly Armor,38.0,False,3,False
+SKIP,38.0,False,3,False
+True Grit,38.0,True,3,False
+Battle Trance,38.0,False,3,False
+Sever Soul,38.0,False,3,False
+Fiend Fire,38.0,False,3,False
+SKIP,38.0,False,3,False
+Offering,38.0,True,3,False
+Warcry,38.0,False,3,False
+Shrug It Off,38.0,False,3,False
+Flex,38.0,False,3,False
+SKIP,38.0,False,3,False
+Intimidate,38.0,True,3,False
+Cleave,38.0,False,3,False
+Clash,38.0,False,3,False
+Perfected Strike,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,38.0,True,3,False
+Clothesline,38.0,False,3,False
+Perfected Strike,38.0,False,3,False
+Sword Boomerang,38.0,False,3,False
+Battle Trance,38.0,False,3,False
+SKIP,38.0,False,3,False
+Burning Pact,39.0,True,3,False
+Rage,39.0,False,3,False
+Anger,39.0,False,3,False
+Clothesline,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Iron Wave,41.0,False,3,False
+Dropkick,41.0,False,3,False
+Power Through,41.0,False,3,False
+Pummel,41.0,False,3,False
+SKIP,41.0,False,3,False
+Exhume,42.0,True,3,False
+Disarm,42.0,False,3,False
+Havoc,42.0,False,3,False
+Evolve,42.0,False,3,False
+SKIP,42.0,False,3,False
+Warcry,45.0,True,3,False
+Clash,45.0,False,3,False
+Anger,45.0,False,3,False
+Double Tap,45.0,False,3,False
+SKIP,45.0,False,3,False
+Finesse,46.0,True,3,False
+Mind Blast,46.0,False,3,False
+PanicButton,46.0,False,3,False
+Violence,46.0,False,3,False
+SKIP,46.0,False,3,False
+Chrysalis,46.0,True,3,False
+Magnetism,46.0,False,3,False
+Enlightenment,46.0,False,3,False
+Jack Of All Trades,46.0,False,3,False
+SKIP,46.0,False,3,False
+Secret Technique,46.0,True,3,False
+Panacea,46.0,False,3,False
+Madness,46.0,False,3,False
+Jack Of All Trades,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,47.0,True,3,False
+Wild Strike,47.0,False,3,False
+Thunderclap,47.0,False,3,False
+Clothesline,47.0,False,3,False
+Anger,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Wild Strike,47.0,False,3,False
+Thunderclap,47.0,False,3,False
+Clothesline,47.0,False,3,False
+Anger,47.0,False,3,False
+SKIP,47.0,False,3,False
+Entrench,48.0,True,3,False
+Warcry,48.0,False,3,False
+Blood for Blood,48.0,False,3,False
+Reaper,48.0,False,3,False
+SKIP,48.0,False,3,False
+Exhume,55.0,True,4,False
+Heavy Blade,55.0,False,4,False
+Rage,55.0,False,4,False
+Flex,55.0,False,4,False
+SKIP,55.0,False,4,False
+Perfected Strike,1.0,True,1,False
+Fire Breathing,1.0,False,1,False
+Flex,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Rampage,2.0,False,1,False
+Entrench,2.0,False,1,False
+Sword Boomerang,2.0,False,1,False
+SKIP,2.0,False,1,False
+Infernal Blade,3.0,True,1,False
+Flex,3.0,False,1,False
+Body Slam,3.0,False,1,False
+SKIP,3.0,False,1,False
+Pommel Strike,4.0,True,1,False
+Twin Strike,4.0,False,1,False
+Sever Soul,4.0,False,1,False
+SKIP,4.0,False,1,False
+Exhume,8.0,True,1,False
+Cleave,8.0,False,1,False
+Pommel Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Disarm,11.0,True,1,False
+Shrug It Off,11.0,False,1,False
+Metallicize,11.0,False,1,False
+SKIP,11.0,False,1,False
+Shrug It Off,13.0,True,1,False
+Iron Wave,13.0,False,1,False
+Intimidate,13.0,False,1,False
+SKIP,13.0,False,1,False
+Infernal Blade,14.0,True,1,False
+Sword Boomerang,14.0,False,1,False
+Clothesline,14.0,False,1,False
+SKIP,14.0,False,1,False
+Offering,16.0,True,1,True
+Berserk,16.0,False,1,True
+Brutality,16.0,False,1,True
+SKIP,16.0,False,1,True
+Burning Pact,18.0,True,2,False
+Shrug It Off,18.0,False,2,False
+Flex,18.0,False,2,False
+SKIP,18.0,False,2,False
+Blood for Blood,19.0,True,2,False
+Iron Wave,19.0,False,2,False
+Cleave,19.0,False,2,False
+SKIP,19.0,False,2,False
+Shockwave,21.0,True,2,False
+Uppercut,21.0,False,2,False
+Clothesline,21.0,False,2,False
+SKIP,21.0,False,2,False
+Barricade,23.0,True,2,False
+Fire Breathing,23.0,False,2,False
+Flex,23.0,False,2,False
+SKIP,23.0,False,2,False
+Power Through,24.0,True,2,False
+Clash,24.0,False,2,False
+Cleave,24.0,False,2,False
+SKIP,24.0,False,2,False
+Spot Weakness,25.0,True,2,False
+Havoc,25.0,False,2,False
+Heavy Blade,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,28.0,True,2,False
+Blood for Blood,28.0,False,2,False
+Heavy Blade,28.0,False,2,False
+Clash,28.0,False,2,False
+SKIP,28.0,False,2,False
+Shrug It Off,29.0,True,2,False
+Demon Form,29.0,False,2,False
+Twin Strike,29.0,False,2,False
+SKIP,29.0,False,2,False
+SKIP,30.0,True,2,False
+Armaments,30.0,False,2,False
+Rampage,30.0,False,2,False
+Rupture,30.0,False,2,False
+SKIP,30.0,False,2,False
+Reaper,33.0,True,2,True
+Demon Form,33.0,False,2,True
+Immolate,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Spot Weakness,35.0,False,3,False
+Clothesline,35.0,False,3,False
+Body Slam,35.0,False,3,False
+SKIP,35.0,False,3,False
+Metallicize,36.0,True,3,False
+Anger,36.0,False,3,False
+Rupture,36.0,False,3,False
+SKIP,36.0,False,3,False
+Power Through,37.0,True,3,False
+Rage,37.0,False,3,False
+Ghostly Armor,37.0,False,3,False
+SKIP,37.0,False,3,False
+Pommel Strike,38.0,True,3,False
+Rage,38.0,False,3,False
+Wild Strike,38.0,False,3,False
+SKIP,38.0,False,3,False
+True Grit,39.0,True,3,False
+Thunderclap,39.0,False,3,False
+Havoc,39.0,False,3,False
+SKIP,39.0,False,3,False
+Disarm,41.0,True,3,False
+Heavy Blade,41.0,False,3,False
+Cleave,41.0,False,3,False
+SKIP,41.0,False,3,False
+Dual Wield,45.0,True,3,False
+Sword Boomerang,45.0,False,3,False
+Cleave,45.0,False,3,False
+SKIP,45.0,False,3,False
+Limit Break,48.0,True,3,False
+Metallicize,48.0,False,3,False
+Anger,48.0,False,3,False
+SKIP,48.0,False,3,False
+Body Slam,55.0,True,4,False
+Battle Trance,55.0,False,4,False
+True Grit,55.0,False,4,False
+SKIP,55.0,False,4,False
+Blood for Blood,1.0,True,1,False
+Flex,1.0,False,1,False
+Carnage,1.0,False,1,False
+SKIP,1.0,False,1,False
+Armaments,4.0,True,1,False
+True Grit,4.0,False,1,False
+Ghostly Armor,4.0,False,1,False
+SKIP,4.0,False,1,False
+Clothesline,6.0,True,1,False
+Warcry,6.0,False,1,False
+Sword Boomerang,6.0,False,1,False
+SKIP,6.0,False,1,False
+Shrug It Off,8.0,True,1,False
+Armaments,8.0,False,1,False
+Combust,8.0,False,1,False
+SKIP,8.0,False,1,False
+Pommel Strike,10.0,True,1,False
+Wild Strike,10.0,False,1,False
+Clash,10.0,False,1,False
+SKIP,10.0,False,1,False
+Flame Barrier,13.0,True,1,False
+Berserk,13.0,False,1,False
+Evolve,13.0,False,1,False
+SKIP,13.0,False,1,False
+SKIP,14.0,True,1,False
+Heavy Blade,14.0,False,1,False
+Flex,14.0,False,1,False
+Sword Boomerang,14.0,False,1,False
+SKIP,14.0,False,1,False
+Reaper,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Impervious,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Rampage,18.0,False,2,False
+Twin Strike,18.0,False,2,False
+Havoc,18.0,False,2,False
+SKIP,18.0,False,2,False
+Perfected Strike,20.0,True,2,False
+Clothesline,20.0,False,2,False
+Flex,20.0,False,2,False
+SKIP,20.0,False,2,False
+Spot Weakness,23.0,True,2,False
+Thunderclap,23.0,False,2,False
+Metallicize,23.0,False,2,False
+SKIP,23.0,False,2,False
+Metallicize,24.0,True,2,False
+Whirlwind,24.0,False,2,False
+Anger,24.0,False,2,False
+SKIP,24.0,False,2,False
+Shrug It Off,27.0,True,2,False
+Limit Break,27.0,False,2,False
+Heavy Blade,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,29.0,True,2,False
+Searing Blow,29.0,False,2,False
+Thunderclap,29.0,False,2,False
+Rage,29.0,False,2,False
+SKIP,29.0,False,2,False
+Inflame,30.0,True,2,False
+Heavy Blade,30.0,False,2,False
+Spot Weakness,30.0,False,2,False
+SKIP,30.0,False,2,False
+Reaper,33.0,True,2,True
+Immolate,33.0,False,2,True
+Double Tap,33.0,False,2,True
+SKIP,33.0,False,2,True
+SKIP,35.0,True,3,False
+Rampage,35.0,False,3,False
+Flex,35.0,False,3,False
+Wild Strike,35.0,False,3,False
+SKIP,35.0,False,3,False
+Body Slam,39.0,True,3,False
+Carnage,39.0,False,3,False
+Anger,39.0,False,3,False
+SKIP,39.0,False,3,False
+SKIP,41.0,True,3,False
+Sword Boomerang,41.0,False,3,False
+Clash,41.0,False,3,False
+Searing Blow,41.0,False,3,False
+SKIP,41.0,False,3,False
+SKIP,42.0,True,3,False
+Anger,42.0,False,3,False
+Armaments,42.0,False,3,False
+Cleave,42.0,False,3,False
+SKIP,42.0,False,3,False
+Intimidate,44.0,True,3,False
+Flex,44.0,False,3,False
+Seeing Red,44.0,False,3,False
+SKIP,44.0,False,3,False
+Impervious,45.0,True,3,False
+True Grit,45.0,False,3,False
+Inflame,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Uppercut,46.0,False,3,False
+Perfected Strike,46.0,False,3,False
+Intimidate,46.0,False,3,False
+SKIP,46.0,False,3,False
+Apotheosis,47.0,True,3,False
+PanicButton,47.0,False,3,False
+Madness,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Enlightenment,47.0,False,3,False
+Deep Breath,47.0,False,3,False
+Impatience,47.0,False,3,False
+SKIP,47.0,False,3,False
+SKIP,47.0,True,3,False
+Mind Blast,47.0,False,3,False
+Blind,47.0,False,3,False
+Panache,47.0,False,3,False
+SKIP,47.0,False,3,False
+Dual Wield,48.0,True,3,False
+Wild Strike,48.0,False,3,False
+Cleave,48.0,False,3,False
+SKIP,48.0,False,3,False
+SKIP,55.0,True,4,False
+Anger,55.0,False,4,False
+Fire Breathing,55.0,False,4,False
+Flex,55.0,False,4,False
+SKIP,55.0,False,4,False
+Iron Wave,1.0,True,1,False
+Sword Boomerang,1.0,False,1,False
+Heavy Blade,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,3.0,True,1,False
+Flex,3.0,False,1,False
+Wild Strike,3.0,False,1,False
+Sword Boomerang,3.0,False,1,False
+SKIP,3.0,False,1,False
+Headbutt,4.0,True,1,False
+Uppercut,4.0,False,1,False
+Shrug It Off,4.0,False,1,False
+SKIP,4.0,False,1,False
+Feel No Pain,5.0,True,1,False
+Iron Wave,5.0,False,1,False
+Rampage,5.0,False,1,False
+SKIP,5.0,False,1,False
+Anger,6.0,True,1,False
+Limit Break,6.0,False,1,False
+Body Slam,6.0,False,1,False
+SKIP,6.0,False,1,False
+Pommel Strike,10.0,True,1,False
+Clash,10.0,False,1,False
+Body Slam,10.0,False,1,False
+SKIP,10.0,False,1,False
+Burning Pact,13.0,True,1,False
+Wild Strike,13.0,False,1,False
+Juggernaut,13.0,False,1,False
+SKIP,13.0,False,1,False
+Shrug It Off,14.0,True,1,False
+Sword Boomerang,14.0,False,1,False
+Spot Weakness,14.0,False,1,False
+SKIP,14.0,False,1,False
+Corruption,16.0,True,1,True
+Double Tap,16.0,False,1,True
+Limit Break,16.0,False,1,True
+SKIP,16.0,False,1,True
+Shockwave,18.0,True,2,False
+Sentinel,18.0,False,2,False
+Clash,18.0,False,2,False
+SKIP,18.0,False,2,False
+Havoc,20.0,True,2,False
+Heavy Blade,20.0,False,2,False
+Clothesline,20.0,False,2,False
+SKIP,20.0,False,2,False
+SKIP,21.0,True,2,False
+Anger,21.0,False,2,False
+Twin Strike,21.0,False,2,False
+Havoc,21.0,False,2,False
+SKIP,21.0,False,2,False
+Perfected Strike,27.0,True,2,False
+Warcry,27.0,False,2,False
+Iron Wave,27.0,False,2,False
+SKIP,27.0,False,2,False
+Ghostly Armor,28.0,True,2,False
+Pummel,28.0,False,2,False
+Sword Boomerang,28.0,False,2,False
+SKIP,28.0,False,2,False
+Disarm,29.0,True,2,False
+Cleave,29.0,False,2,False
+Whirlwind,29.0,False,2,False
+SKIP,29.0,False,2,False
+Blood for Blood,30.0,True,2,False
+Intimidate,30.0,False,2,False
+Clash,30.0,False,2,False
+SKIP,30.0,False,2,False
+SKIP,31.0,True,2,False
+Twin Strike,31.0,False,2,False
+Searing Blow,31.0,False,2,False
+Perfected Strike,31.0,False,2,False
+SKIP,31.0,False,2,False
+Feed,33.0,True,2,True
+Limit Break,33.0,False,2,True
+Double Tap,33.0,False,2,True
+SKIP,33.0,False,2,True
+Dual Wield,35.0,True,3,False
+Shrug It Off,35.0,False,3,False
+Pummel,35.0,False,3,False
+SKIP,35.0,False,3,False
+SKIP,36.0,True,3,False
+Wild Strike,36.0,False,3,False
+Rage,36.0,False,3,False
+Headbutt,36.0,False,3,False
+SKIP,36.0,False,3,False
+SKIP,37.0,True,3,False
+Sever Soul,37.0,False,3,False
+Infernal Blade,37.0,False,3,False
+Perfected Strike,37.0,False,3,False
+SKIP,37.0,False,3,False
+True Grit,38.0,True,3,False
+Twin Strike,38.0,False,3,False
+Clash,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,40.0,True,3,False
+Sever Soul,40.0,False,3,False
+Wild Strike,40.0,False,3,False
+Sword Boomerang,40.0,False,3,False
+SKIP,40.0,False,3,False
+Feel No Pain,45.0,True,3,False
+Thunderclap,45.0,False,3,False
+Heavy Blade,45.0,False,3,False
+SKIP,45.0,False,3,False
+SKIP,46.0,True,3,False
+Blood for Blood,46.0,False,3,False
+Wild Strike,46.0,False,3,False
+Iron Wave,46.0,False,3,False
+SKIP,46.0,False,3,False
+SKIP,48.0,True,3,False
+Heavy Blade,48.0,False,3,False
+Limit Break,48.0,False,3,False
+Pummel,48.0,False,3,False
+SKIP,48.0,False,3,False
+Battle Trance,55.0,True,4,False
+Sword Boomerang,55.0,False,4,False
+True Grit,55.0,False,4,False
+SKIP,55.0,False,4,False
+Pommel Strike,1.0,True,1,False
+Cleave,1.0,False,1,False
+Armaments,1.0,False,1,False
+SKIP,1.0,False,1,False
+Headbutt,2.0,True,1,False
+Flame Barrier,2.0,False,1,False
+Flex,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,5.0,True,1,False
+Rampage,5.0,False,1,False
+Headbutt,5.0,False,1,False
+Clothesline,5.0,False,1,False
+SKIP,5.0,False,1,False
+Power Through,7.0,True,1,False
+Disarm,7.0,False,1,False
+Dark Embrace,7.0,False,1,False
+SKIP,7.0,False,1,False
+Bloodletting,10.0,True,1,False
+Warcry,10.0,False,1,False
+Infernal Blade,10.0,False,1,False
+SKIP,10.0,False,1,False
+Armaments,11.0,True,1,False
+Body Slam,11.0,False,1,False
+Carnage,11.0,False,1,False
+SKIP,11.0,False,1,False
+Pommel Strike,12.0,True,1,False
+Sword Boomerang,12.0,False,1,False
+Flame Barrier,12.0,False,1,False
+SKIP,12.0,False,1,False
+Exhume,16.0,True,1,True
+Limit Break,16.0,False,1,True
+Juggernaut,16.0,False,1,True
+SKIP,16.0,False,1,True
+SKIP,18.0,True,2,False
+Iron Wave,18.0,False,2,False
+Carnage,18.0,False,2,False
+Entrench,18.0,False,2,False
+SKIP,18.0,False,2,False
+SKIP,22.0,True,2,False
+Sentinel,22.0,False,2,False
+Wild Strike,22.0,False,2,False
+Thunderclap,22.0,False,2,False
+SKIP,22.0,False,2,False
+True Grit,27.0,True,2,False
+Clothesline,27.0,False,2,False
+Berserk,27.0,False,2,False
+SKIP,27.0,False,2,False
+Rage,28.0,True,2,False
+Anger,28.0,False,2,False
+Perfected Strike,28.0,False,2,False
+SKIP,28.0,False,2,False
+Feed,30.0,True,2,False
+Twin Strike,30.0,False,2,False
+Wild Strike,30.0,False,2,False
+SKIP,30.0,False,2,False
+Anger,31.0,True,2,False
+Twin Strike,31.0,False,2,False
+Iron Wave,31.0,False,2,False
+SKIP,31.0,False,2,False
+Blood for Blood,1.0,True,1,False
+Thunderclap,1.0,False,1,False
+Fire Breathing,1.0,False,1,False
+SKIP,1.0,False,1,False
+SKIP,2.0,True,1,False
+Wild Strike,2.0,False,1,False
+Dark Embrace,2.0,False,1,False
+Warcry,2.0,False,1,False
+SKIP,2.0,False,1,False
+Warcry,2.0,True,1,False
+Wild Strike,2.0,False,1,False
+Dark Embrace,2.0,False,1,False
+SKIP,2.0,False,1,False
+SKIP,4.0,True,1,False
+True Grit,4.0,False,1,False
+Fire Breathing,4.0,False,1,False
+Blood for Blood,4.0,False,1,False
+SKIP,4.0,False,1,False
+Carnage,5.0,True,1,False
+Spot Weakness,5.0,False,1,False
+Rampage,5.0,False,1,False
+SKIP,5.0,False,1,False
+Headbutt,8.0,True,1,False
+Dark Embrace,8.0,False,1,False
+Wild Strike,8.0,False,1,False
+SKIP,8.0,False,1,False
+Shrug It Off,12.0,True,1,False
+Anger,12.0,False,1,False
+Wild Strike,12.0,False,1,False
+SKIP,12.0,False,1,False
+Spot Weakness,13.0,True,1,False
+Iron Wave,13.0,False,1,False
+Uppercut,13.0,False,1,False
+SKIP,13.0,False,1,False
+Anger,14.0,True,1,False
+Warcry,14.0,False,1,False
+True Grit,14.0,False,1,False
+SKIP,14.0,False,1,False
+Reaper,16.0,True,1,True
+Barricade,16.0,False,1,True
+Demon Form,16.0,False,1,True
+SKIP,16.0,False,1,True
+Shrug It Off,18.0,True,2,False
+Dropkick,18.0,False,2,False
+Sword Boomerang,18.0,False,2,False
+SKIP,18.0,False,2,False
+Bloodletting,19.0,True,2,False
+Armaments,19.0,False,2,False
+Pummel,19.0,False,2,False
+SKIP,19.0,False,2,False
+Feel No Pain,25.0,True,2,False
+Havoc,25.0,False,2,False
+Thunderclap,25.0,False,2,False
+SKIP,25.0,False,2,False
+SKIP,27.0,True,2,False
+Searing Blow,27.0,False,2,False
+Thunderclap,27.0,False,2,False
+True Grit,27.0,False,2,False
+SKIP,27.0,False,2,False
+SKIP,27.0,True,2,False
+Searing Blow,27.0,False,2,False
+Thunderclap,27.0,False,2,False
+True Grit,27.0,False,2,False
+SKIP,27.0,False,2,False
+Ghostly Armor,28.0,True,2,False
+Feel No Pain,28.0,False,2,False
+Pummel,28.0,False,2,False
+SKIP,28.0,False,2,False
+SKIP,30.0,True,2,False
+Cleave,30.0,False,2,False
+Anger,30.0,False,2,False
+Warcry,30.0,False,2,False
+SKIP,30.0,False,2,False
+Barricade,31.0,True,2,False
+Headbutt,31.0,False,2,False
+Havoc,31.0,False,2,False
+SKIP,31.0,False,2,False
+Feed,33.0,True,2,True
+Fiend Fire,33.0,False,2,True
+Barricade,33.0,False,2,True
+SKIP,33.0,False,2,True
+Shockwave,35.0,True,3,False
+Flex,35.0,False,3,False
+True Grit,35.0,False,3,False
+SKIP,35.0,False,3,False
+Havoc,36.0,True,3,False
+Wild Strike,36.0,False,3,False
+Clothesline,36.0,False,3,False
+SKIP,36.0,False,3,False
+Flash of Steel,38.0,True,3,False
+Panache,38.0,False,3,False
+Deep Breath,38.0,False,3,False
+SKIP,38.0,False,3,False
+Dark Shackles,38.0,True,3,False
+Flash of Steel,38.0,False,3,False
+Impatience,38.0,False,3,False
+SKIP,38.0,False,3,False
+Trip,38.0,True,3,False
+Dramatic Entrance,38.0,False,3,False
+Mind Blast,38.0,False,3,False
+SKIP,38.0,False,3,False
+SKIP,39.0,True,3,False
+Dropkick,39.0,False,3,False
+Iron Wave,39.0,False,3,False
+Rampage,39.0,False,3,False
+SKIP,39.0,False,3,False
+Pommel Strike,41.0,True,3,False
+Anger,41.0,False,3,False
+Reckless Charge,41.0,False,3,False
+SKIP,41.0,False,3,False
+Clothesline,44.0,True,3,False
+Body Slam,44.0,False,3,False
+Flex,44.0,False,3,False
+Singing Bowl,44.0,False,3,False
+Brutality,45.0,True,3,False
+Dual Wield,45.0,False,3,False
+Wild Strike,45.0,False,3,False
+Singing Bowl,45.0,False,3,False
+Singing Bowl,46.0,True,3,False
+Havoc,46.0,False,3,False
+Body Slam,46.0,False,3,False
+Cleave,46.0,False,3,False
+Singing Bowl,46.0,False,3,False
+Shockwave,48.0,True,3,False
+Evolve,48.0,False,3,False
+Battle Trance,48.0,False,3,False
+Singing Bowl,48.0,False,3,False
+Rupture,55.0,True,4,False
+Rage,55.0,False,4,False
+Shrug It Off,55.0,False,4,False
+Singing Bowl,55.0,False,4,False
+Intimidate,1.0,True,1,False
+Dropkick,1.0,False,1,False
+Entrench,1.0,False,1,False
+SKIP,1.0,False,1,False
+Pommel Strike,2.0,True,1,False
+True Grit,2.0,False,1,False
+Wild Strike,2.0,False,1,False
+SKIP,2.0,False,1,False
+Headbutt,3.0,True,1,False
+True Grit,3.0,False,1,False
+Heavy Blade,3.0,False,1,False
+SKIP,3.0,False,1,False
+Second Wind,4.0,True,1,False
+Wild Strike,4.0,False,1,False
+Havoc,4.0,False,1,False
+SKIP,4.0,False,1,False

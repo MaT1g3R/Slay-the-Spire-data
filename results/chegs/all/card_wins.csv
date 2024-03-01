@@ -1,0 +1,3601 @@
+Card,Win
+Ghostly Armor,False
+Pommel Strike,False
+Strike_R,False
+Defend_R,False
+Shrug It Off,False
+Madness,False
+Bash,False
+Anger,False
+Power Through,False
+Offering,False
+Uppercut,False
+Pommel Strike,False
+Strike_R,False
+Defend_R,False
+Blood for Blood,False
+Evolve,False
+Burning Pact,False
+Anger,False
+Shrug It Off,False
+True Grit,False
+Bash,False
+Inflame,False
+Power Through,False
+Seeing Red,False
+Wireheading,False
+LessonLearned,False
+Establishment,False
+Strike_P,False
+Adaptation,False
+Meditate,False
+WaveOfTheHand,False
+Tantrum,False
+Eruption,False
+Vault,False
+CutThroughFate,False
+Defend_P,False
+FearNoEvil,False
+InnerPeace,False
+EmptyMind,False
+Wallop,False
+Scrawl,False
+TalkToTheHand,False
+Vigilance,False
+Defend_G,False
+Dodge and Roll,False
+Sucker Punch,False
+Trip,False
+Calculated Gamble,False
+Well Laid Plans,False
+Noxious Fumes,False
+Survivor,False
+Dagger Throw,False
+Neutralize,False
+Strike_G,False
+Terror,True
+Prepared,True
+Sucker Punch,True
+Wraith Form,True
+Survivor,True
+Alchemize,True
+Defend_G,True
+Phantasmal Killer,True
+After Image,True
+Dagger Throw,True
+Blade Dance,True
+Acrobatics,True
+Accuracy,True
+Backflip,True
+Underhanded Strike,True
+Leg Sweep,True
+Well Laid Plans,True
+Dash,True
+Adrenaline,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Dagger Spray,False
+Noxious Fumes,False
+Survivor,False
+Alchemize,False
+Defend_G,False
+Footwork,False
+Neutralize,False
+Tools of the Trade,False
+Blade Dance,False
+Quick Slash,False
+Acrobatics,False
+Tactician,False
+Dodge and Roll,False
+Backflip,False
+Accuracy,False
+Catalyst,False
+Well Laid Plans,False
+PiercingWail,False
+Outmaneuver,False
+Strike_G,False
+Doom and Gloom,True
+Conserve Battery,True
+Fission,True
+Fusion,True
+Defend_B,True
+Defragment,True
+Recycle,True
+Dark Shackles,True
+Dualcast,True
+Seek,True
+Compile Driver,True
+Redo,True
+Hologram,True
+Coolheaded,True
+Fasting2,False
+Tantrum,False
+DeceiveReality,False
+Meditate,False
+Wallop,False
+Protect,False
+Eruption,False
+LessonLearned,False
+DeusExMachina,False
+Study,False
+Adaptation,False
+EmptyFist,False
+JustLucky,False
+Vigilance,False
+Defend_G,False
+Acrobatics,False
+Bullet Time,False
+Bite,False
+Backflip,False
+Underhanded Strike,False
+Sucker Punch,False
+Backstab,False
+Corpse Explosion,False
+Crippling Poison,False
+Well Laid Plans,False
+Survivor,False
+Slice,False
+Deadly Poison,False
+Poisoned Stab,False
+Neutralize,False
+Blade Dance,False
+CutThroughFate,True
+EmptyMind,True
+Eruption,True
+Study,True
+Adaptation,True
+Fasting2,True
+ClearTheMind,True
+MentalFortress,True
+FearNoEvil,True
+Vigilance,True
+Terror,True
+Wraith Form,True
+Dagger Spray,True
+Blur,True
+Skewer,True
+Noxious Fumes,True
+Survivor,True
+Alchemize,True
+Concentrate,True
+Defend_G,True
+Predator,True
+Footwork,True
+Crippling Poison,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Backflip,True
+Leg Sweep,True
+Well Laid Plans,True
+Night Terror,True
+Deflect,True
+Flash of Steel,True
+PiercingWail,True
+Master of Strategy,True
+Neutralize,True
+Strike_G,True
+Conserve Battery,True
+Fission,True
+Cold Snap,True
+Capacitor,True
+Dualcast,True
+Steam,True
+Skim,True
+Self Repair,True
+Redo,True
+Hologram,True
+Blind,True
+Static Discharge,True
+Meteor Strike,True
+Sweeping Beam,True
+Aggregate,True
+Hello World,True
+Apotheosis,True
+Coolheaded,True
+Defend_B,True
+Echo Form,True
+PanicButton,True
+Go for the Eyes,True
+Buffer,True
+Darkness,True
+Defragment,True
+Dark Shackles,True
+Master of Strategy,True
+Rainbow,True
+Conserve Battery,True
+Cold Snap,True
+Glacier,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Seek,True
+Compile Driver,True
+Self Repair,True
+BootSequence,True
+Redo,True
+Hologram,True
+RitualDagger,True
+Strike_B,True
+Machine Learning,True
+Chill,True
+Coolheaded,True
+Multi-Cast,True
+Defend_B,True
+Amplify,True
+Consume,True
+Echo Form,True
+Ball Lightning,True
+Turbo,True
+Darkness,True
+Beam Cell,True
+Defragment,True
+FTL,True
+Sunder,True
+Rainbow,True
+Wireheading,False
+Eruption,False
+InnerPeace,False
+FlurryOfBlows,False
+Strike_P,False
+ClearTheMind,False
+CutThroughFate,False
+Defend_P,False
+MentalFortress,False
+Vigilance,False
+Impervious,False
+Feed,False
+Exhume,False
+Perfected Strike,False
+Strike_R,False
+Defend_R,False
+Hemokinesis,False
+Shrug It Off,False
+Clash,False
+Bloodletting,False
+Bash,False
+Armaments,False
+Iron Wave,False
+Doom and Gloom,True
+Conserve Battery,True
+Genetic Algorithm,True
+Heatsinks,True
+Double Energy,True
+Discovery,True
+Glacier,True
+Cold Snap,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Steam,True
+Skim,True
+Madness,True
+Compile Driver,True
+Seek,True
+Redo,True
+Recycle,True
+Hologram,True
+Strike_B,True
+Panacea,True
+Undo,True
+Aggregate,True
+Coolheaded,True
+Multi-Cast,True
+Defend_B,True
+Amplify,True
+PanicButton,True
+Flash of Steel,True
+Defragment,True
+FTL,True
+Reboot,True
+Self Repair,True
+Bite,True
+Pommel Strike,True
+Reaper,True
+Corruption,True
+Defend_R,True
+Flame Barrier,True
+Discovery,True
+Shrug It Off,True
+Bloodletting,True
+Body Slam,True
+Headbutt,True
+Iron Wave,True
+Metallicize,True
+Carnage,True
+Havoc,True
+Bash,True
+Offering,True
+Whirlwind,True
+Exhume,True
+Barricade,True
+Burning Pact,True
+True Grit,True
+Entrench,True
+Shockwave,True
+Disarm,True
+Doom and Gloom,True
+Conserve Battery,True
+Genetic Algorithm,True
+Bite,True
+Double Energy,True
+Cold Snap,True
+Glacier,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Seek,True
+Compile Driver,True
+Loop,True
+BootSequence,True
+Redo,True
+Undo,True
+Aggregate,True
+Electrodynamics,True
+Coolheaded,True
+Defend_B,True
+Echo Form,True
+Go for the Eyes,True
+Defragment,True
+Dark Shackles,True
+Lockon,True
+Steam Power,True
+Buffer,True
+Wireheading,False
+CutThroughFate,False
+EmptyMind,False
+Tantrum,False
+Eruption,False
+LessonLearned,False
+FlurryOfBlows,False
+Strike_P,False
+Adaptation,False
+Meditate,False
+ClearTheMind,False
+Defend_P,False
+Halt,False
+Vigilance,False
+Heatsinks,True
+Cold Snap,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Seek,True
+Compile Driver,True
+Redo,True
+Blind,True
+Strike_B,True
+Static Discharge,True
+Panacea,True
+Chaos,True
+Chill,True
+Undo,True
+Aggregate,True
+Machine Learning,True
+Sweeping Beam,True
+Defend_B,True
+Consume,True
+Biased Cognition,True
+Go for the Eyes,True
+Darkness,True
+Flash of Steel,True
+Beam Cell,True
+FTL,True
+Lockon,True
+Self Repair,True
+Defend_G,False
+Calculated Gamble,False
+Well Laid Plans,False
+Survivor,False
+Master of Strategy,False
+Neutralize,False
+Strike_G,False
+Quick Slash,False
+Conserve Battery,False
+Cold Snap,False
+Capacitor,False
+Dualcast,False
+Rebound,False
+Skim,False
+Compile Driver,False
+Hologram,False
+Chaos,False
+Undo,False
+Aggregate,False
+Sweeping Beam,False
+Electrodynamics,False
+Coolheaded,False
+Multi-Cast,False
+Defend_B,False
+Consume,False
+Core Surge,False
+Biased Cognition,False
+Darkness,False
+Defragment,False
+Sunder,False
+Feel No Pain,True
+Reaper,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Spot Weakness,True
+Power Through,True
+Sentinel,True
+Intimidate,True
+Anger,True
+Dropkick,True
+Immolate,True
+Bash,True
+Armaments,True
+Fire Breathing,True
+Feed,True
+Entrench,True
+Burning Pact,True
+Finesse,True
+Dual Wield,True
+Shockwave,True
+Conserve Battery,True
+Doom and Gloom,True
+Tempest,True
+Heatsinks,True
+Cold Snap,True
+Glacier,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Rebound,True
+Seek,True
+Compile Driver,True
+Self Repair,True
+Loop,True
+Hologram,True
+Strike_B,True
+Chill,True
+Aggregate,True
+Electrodynamics,True
+Coolheaded,True
+Defend_B,True
+Bandage Up,True
+Consume,True
+Core Surge,True
+Biased Cognition,True
+Buffer,True
+Turbo,True
+Sunder,True
+Rainbow,True
+Prepared,True
+Noxious Fumes,True
+Survivor,True
+Calculated Gamble,True
+Footwork,True
+Neutralize,True
+Reflex,True
+Tools of the Trade,True
+Crippling Poison,True
+Heel Hook,True
+Acrobatics,True
+Tactician,True
+Underhanded Strike,True
+Leg Sweep,True
+Catalyst,True
+Deflect,True
+Adrenaline,True
+Backstab,True
+Corpse Explosion,True
+PiercingWail,True
+Outmaneuver,True
+Secret Technique,True
+Compile Driver,False
+Strike_B,False
+Defend_B,False
+Static Discharge,False
+Cold Snap,False
+Zap,False
+Capacitor,False
+Dualcast,False
+Skim,False
+Chill,False
+Seek,False
+Sweeping Beam,False
+Hello World,False
+Hologram,False
+Tantrum,True
+EmptyMind,True
+Eruption,True
+SpiritShield,True
+InnerPeace,True
+Adaptation,True
+CutThroughFate,True
+MentalFortress,True
+TalkToTheHand,True
+Vigilance,True
+Defend_G,False
+Phantasmal Killer,False
+Backflip,False
+Eviscerate,False
+Dagger Spray,False
+Backstab,False
+Well Laid Plans,False
+Survivor,False
+Neutralize,False
+Strike_G,False
+Blade Dance,False
+Terror,True
+Wraith Form,True
+Noxious Fumes,True
+Survivor,True
+CurseOfTheBell,True
+Alchemize,True
+Calculated Gamble,True
+Setup,True
+Outmaneuver,True
+Defend_G,True
+Footwork,True
+Envenom,True
+Blade Dance,True
+Accuracy,True
+Backflip,True
+Dodge and Roll,True
+Leg Sweep,True
+Catalyst,True
+Cloak And Dagger,True
+Choke,True
+PanicButton,True
+Malaise,True
+PiercingWail,True
+Neutralize,True
+Strike_G,True
+Pommel Strike,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Shrug It Off,False
+Writhe,False
+Bloodletting,False
+Second Wind,False
+CurseOfTheBell,False
+Warcry,False
+Headbutt,False
+Power Through,False
+Iron Wave,False
+Fiend Fire,False
+Metallicize,False
+Battle Trance,False
+Evolve,False
+Intimidate,False
+Havoc,False
+Anger,False
+Impervious,False
+Demon Form,False
+Bash,False
+PanicButton,False
+Whirlwind,False
+Burning Pact,False
+Shockwave,False
+Disarm,False
+Bite,True
+White Noise,True
+Cold Snap,True
+Glacier,True
+Zap,True
+Dualcast,True
+Seek,True
+Redo,True
+Chaos,True
+Chill,True
+Sweeping Beam,True
+Aggregate,True
+Coolheaded,True
+Auto Shields,True
+Defend_B,True
+Consume,True
+Echo Form,True
+Core Surge,True
+Barrage,True
+Turbo,True
+Defragment,True
+FTL,True
+Sunder,True
+Self Repair,True
+Tantrum,True
+EmptyMind,True
+Eruption,True
+InnerPeace,True
+LessonLearned,True
+FlurryOfBlows,True
+Scrawl,True
+Adaptation,True
+CutThroughFate,True
+Defend_P,True
+MentalFortress,True
+Vigilance,True
+Pommel Strike,True
+Reaper,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Spot Weakness,True
+Headbutt,True
+Power Through,True
+Fiend Fire,True
+Brutality,True
+Evolve,True
+Anger,True
+Apotheosis,True
+Impervious,True
+Clothesline,True
+Perfected Strike,True
+Cleave,True
+Bash,True
+Armaments,True
+Feed,True
+Exhume,True
+Burning Pact,True
+Pummel,True
+Double Tap,True
+Shockwave,True
+Terror,True
+Prepared,True
+Wraith Form,True
+Writhe,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+Alchemize,True
+Calculated Gamble,True
+Concentrate,True
+Blind,True
+Defend_G,True
+Footwork,True
+All Out Attack,True
+Tools of the Trade,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Tactician,True
+Bullet Time,True
+Accuracy,True
+Backflip,True
+Leg Sweep,True
+Escape Plan,True
+Catalyst,True
+Endless Agony,True
+Well Laid Plans,True
+Night Terror,True
+Deflect,True
+Dark Shackles,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Offering,False
+Shockwave,False
+Whirlwind,False
+Exhume,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Blood for Blood,False
+Anger,False
+Dark Embrace,False
+True Grit,False
+Inflame,False
+Bash,False
+Trip,False
+Headbutt,False
+Conserve Battery,True
+Heatsinks,True
+White Noise,True
+Glacier,True
+Cold Snap,True
+Capacitor,True
+Dualcast,True
+Steam,True
+Skim,True
+Redo,True
+Hologram,True
+Strike_B,True
+Fusion,True
+Sweeping Beam,True
+Coolheaded,True
+Defend_B,True
+Consume,True
+Echo Form,True
+Barrage,True
+Biased Cognition,True
+Go for the Eyes,True
+Darkness,True
+Turbo,True
+Defragment,True
+Beam Cell,True
+FTL,True
+Self Repair,True
+Doom and Gloom,True
+Conserve Battery,True
+White Noise,True
+Discovery,True
+Rip and Tear,True
+Glacier,True
+Cold Snap,True
+Dualcast,True
+Steam,True
+Seek,True
+Skim,True
+Compile Driver,True
+Loop,True
+Redo,True
+Hologram,True
+Hyperbeam,True
+Undo,True
+Aggregate,True
+Thunder Strike,True
+Hello World,True
+Apotheosis,True
+Coolheaded,True
+Auto Shields,True
+Core Surge,True
+Biased Cognition,True
+Go for the Eyes,True
+Turbo,True
+FTL,True
+Sunder,True
+Finesse,True
+Buffer,True
+Double Tap,True
+Reaper,True
+Corruption,True
+Defend_R,True
+Feel No Pain,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Warcry,True
+Sentinel,True
+Fiend Fire,True
+Limit Break,True
+Havoc,True
+Bash,True
+Offering,True
+Flash of Steel,True
+Burning Pact,True
+True Grit,True
+Pummel,True
+Dual Wield,True
+Disarm,True
+Shockwave,True
+Seeing Red,True
+Terror,False
+Prepared,False
+Decay,False
+Dagger Spray,False
+Doppelganger,False
+Noxious Fumes,False
+Survivor,False
+Alchemize,False
+Defend_G,False
+Predator,False
+Apparition,False
+Reflex,False
+Dagger Throw,False
+Blade Dance,False
+Acrobatics,False
+Burst,False
+Backflip,False
+Leg Sweep,False
+Catalyst,False
+Escape Plan,False
+Endless Agony,False
+Deflect,False
+Backstab,False
+PiercingWail,False
+Neutralize,False
+Strike_G,False
+Defend_G,False
+Footwork,False
+Acrobatics,False
+Backflip,False
+Underhanded Strike,False
+Prepared,False
+PiercingWail,False
+Crippling Poison,False
+Survivor,False
+Slice,False
+Neutralize,False
+Strike_G,False
+Tantrum,False
+EmptyMind,False
+CutThroughFate,False
+Eruption,False
+Strike_P,False
+Adaptation,False
+SandsOfTime,False
+Consecrate,False
+Defend_P,False
+Vigilance,False
+Tantrum,True
+Eruption,True
+Vault,True
+Omniscience,True
+Blasphemy,True
+HandOfGreed,True
+EmptyBody,True
+Apparition,True
+FlurryOfBlows,True
+WaveOfTheHand,True
+BowlingBash,True
+Study,True
+Adaptation,True
+CutThroughFate,True
+MentalFortress,True
+ThirdEye,True
+Vigilance,True
+Reaper,True
+Feel No Pain,True
+Strike_R,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Writhe,True
+Second Wind,True
+Body Slam,True
+Headbutt,True
+Power Through,True
+Rampage,True
+Apotheosis,True
+Impervious,True
+Bash,True
+Offering,True
+Barricade,True
+Shame,True
+Entrench,True
+Burning Pact,True
+Injury,True
+Inflame,True
+Disarm,True
+Shockwave,True
+Seeing Red,True
+Doom and Gloom,False
+Conserve Battery,False
+Glacier,False
+Cold Snap,False
+Capacitor,False
+Dualcast,False
+Rebound,False
+Force Field,False
+Self Repair,False
+Loop,False
+Redo,False
+Hologram,False
+Fusion,False
+Undo,False
+Sweeping Beam,False
+Aggregate,False
+Electrodynamics,False
+Coolheaded,False
+Defend_B,False
+Amplify,False
+Rainbow,False
+Flash of Steel,False
+Beam Cell,False
+Defragment,False
+Sunder,False
+Buffer,False
+Doom and Gloom,False
+Fission,False
+Heatsinks,False
+Discovery,False
+Cold Snap,False
+Glacier,False
+Zap,False
+Dualcast,False
+Seek,False
+Recycle,False
+Strike_B,False
+Static Discharge,False
+Chill,False
+Machine Learning,False
+Electrodynamics,False
+Coolheaded,False
+Defend_B,False
+Consume,False
+Echo Form,False
+Go for the Eyes,False
+Ball Lightning,False
+Turbo,False
+Beam Cell,False
+Dark Shackles,False
+Sunder,False
+Lockon,False
+Master of Strategy,False
+Reinforced Body,False
+Conserve Battery,False
+Melter,False
+Strike_B,False
+Defend_B,False
+Defragment,False
+Zap,False
+Dualcast,False
+Rebound,False
+Chill,False
+Undo,False
+Recycle,False
+Terror,False
+Sucker Punch,False
+Writhe,False
+Skewer,False
+Noxious Fumes,False
+Survivor,False
+Alchemize,False
+Calculated Gamble,False
+Setup,False
+Outmaneuver,False
+Defend_G,False
+Footwork,False
+Predator,False
+Flechettes,False
+After Image,False
+Dagger Throw,False
+Heel Hook,False
+Blade Dance,False
+Acrobatics,False
+Dodge and Roll,False
+Accuracy,False
+Escape Plan,False
+Cloak And Dagger,False
+Deflect,False
+Backstab,False
+PiercingWail,False
+Injury,False
+Neutralize,False
+Strike_G,False
+Pommel Strike,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Shrug It Off,False
+Bloodletting,False
+Second Wind,False
+CurseOfTheBell,False
+Spot Weakness,False
+Warcry,False
+Power Through,False
+Fiend Fire,False
+Brutality,False
+Evolve,False
+Havoc,False
+Hemokinesis,False
+Anger,False
+Bash,False
+Armaments,False
+Feed,False
+Blood for Blood,False
+True Grit,False
+Inflame,False
+Sucker Punch,False
+Wraith Form,False
+Noxious Fumes,False
+Survivor,False
+Defend_G,False
+Footwork,False
+Neutralize,False
+Flechettes,False
+Dagger Throw,False
+Glass Knife,False
+Acrobatics,False
+Tactician,False
+Bullet Time,False
+Dodge and Roll,False
+Backflip,False
+Leg Sweep,False
+Slice,False
+Malaise,False
+Backstab,False
+PiercingWail,False
+Outmaneuver,False
+Strike_G,False
+Worship,True
+MentalFortress,True
+Wireheading,True
+DeceiveReality,True
+FlurryOfBlows,True
+Collect,True
+Adaptation,True
+Meditate,True
+Tantrum,True
+Eruption,True
+Vault,True
+Study,True
+CarveReality,True
+CutThroughFate,True
+Halt,True
+InnerPeace,True
+BattleHymn,True
+EmptyMind,True
+Scrawl,True
+Vigilance,True
+Defend_G,False
+Acrobatics,False
+Footwork,False
+Phantasmal Killer,False
+Tactician,False
+Backflip,False
+Underhanded Strike,False
+Prepared,False
+Grand Finale,False
+Backstab,False
+PiercingWail,False
+Calculated Gamble,False
+Well Laid Plans,False
+Survivor,False
+Neutralize,False
+Deflect,False
+Strike_G,False
+Blade Dance,False
+Tantrum,True
+CutThroughFate,True
+EmptyMind,True
+Eruption,True
+InnerPeace,True
+Dark Shackles,True
+Vault,True
+DeusExMachina,True
+Strike_P,True
+Adaptation,True
+Consecrate,True
+Halt,True
+FearNoEvil,True
+TalkToTheHand,True
+Vigilance,True
+Defend_G,False
+Footwork,False
+Bouncing Flask,False
+Backflip,False
+Leg Sweep,False
+Outmaneuver,False
+PiercingWail,False
+Survivor,False
+Glass Knife,False
+Neutralize,False
+Deflect,False
+Strike_G,False
+Die Die Die,False
+Blade Dance,False
+Alpha,False
+CutThroughFate,False
+Wallop,False
+Eruption,False
+InnerPeace,False
+Strike_P,False
+EmptyFist,False
+Consecrate,False
+Defend_P,False
+FearNoEvil,False
+Vigilance,False
+Doom and Gloom,True
+Bite,True
+Double Energy,True
+Cold Snap,True
+Glacier,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Compile Driver,True
+Loop,True
+Recycle,True
+BootSequence,True
+Hologram,True
+Chill,True
+Sweeping Beam,True
+Aggregate,True
+Coolheaded,True
+Defend_B,True
+Core Surge,True
+Biased Cognition,True
+Go for the Eyes,True
+Darkness,True
+Defragment,True
+Master of Strategy,True
+Reboot,True
+Tantrum,True
+Eruption,True
+InnerPeace,True
+Secret Technique,True
+Strike_P,True
+BowlingBash,True
+FollowUp,True
+Scrawl,True
+Sanctity,True
+Adaptation,True
+Halt,True
+FearNoEvil,True
+TalkToTheHand,True
+Vigilance,True
+Defend_G,False
+Acrobatics,False
+Backflip,False
+Finisher,False
+Masterful Stab,False
+Outmaneuver,False
+Apparition,False
+Escape Plan,False
+Tools of the Trade,False
+Corpse Explosion,False
+PiercingWail,False
+Necronomicurse,False
+Survivor,False
+Slice,False
+Glass Knife,False
+Neutralize,False
+Strike_G,False
+Blade Dance,False
+Defend_G,False
+Bullet Time,False
+Terror,False
+Malaise,False
+Dark Shackles,False
+Leg Sweep,False
+HandOfGreed,False
+Corpse Explosion,False
+PiercingWail,False
+Survivor,False
+Dagger Throw,False
+Neutralize,False
+Deflect,False
+Strike_G,False
+Wireheading,False
+Wish,False
+ThirdEye,False
+EmptyMind,False
+Wallop,False
+Eruption,False
+InnerPeace,False
+Weave,False
+Omniscience,False
+LessonLearned,False
+FlurryOfBlows,False
+ClearTheMind,False
+CutThroughFate,False
+Ragnarok,False
+JustLucky,False
+Vigilance,False
+Defend_G,False
+Acrobatics,False
+Storm of Steel,False
+Underhanded Strike,False
+Adrenaline,False
+Survivor,False
+Glass Knife,False
+Slice,False
+Neutralize,False
+Strike_G,False
+Infinite Blades,False
+EmptyMind,False
+Eruption,False
+InnerPeace,False
+Strike_P,False
+EmptyFist,False
+Consecrate,False
+Defend_P,False
+MentalFortress,False
+FearNoEvil,False
+Vigilance,False
+Fission,True
+Heatsinks,True
+Good Instincts,True
+Cold Snap,True
+Glacier,True
+Capacitor,True
+Dualcast,True
+Rebound,True
+Seek,True
+Compile Driver,True
+Redo,True
+Hologram,True
+Strike_B,True
+Fusion,True
+Panacea,True
+Meteor Strike,True
+Sweeping Beam,True
+Aggregate,True
+Coolheaded,True
+Defend_B,True
+Rainbow,True
+All For One,True
+Go for the Eyes,True
+Turbo,True
+Darkness,True
+Defragment,True
+Dark Shackles,True
+FTL,True
+Sunder,True
+Blizzard,True
+Self Repair,True
+Wireheading,True
+EmptyMind,True
+FearNoEvil,True
+Eruption,True
+Vault,True
+Crescendo,True
+FlurryOfBlows,True
+Strike_P,True
+Finesse,True
+WindmillStrike,True
+Adaptation,True
+CutThroughFate,True
+MentalFortress,True
+ThirdEye,True
+Vigilance,True
+Sucker Punch,True
+Noxious Fumes,True
+Survivor,True
+CurseOfTheBell,True
+Alchemize,True
+Calculated Gamble,True
+Outmaneuver,True
+RitualDagger,True
+Defend_G,True
+Predator,True
+Footwork,True
+Reflex,True
+After Image,True
+Dagger Throw,True
+Acrobatics,True
+Tactician,True
+Backflip,True
+Burst,True
+Catalyst,True
+Well Laid Plans,True
+PanicButton,True
+Infinite Blades,True
+Backstab,True
+PiercingWail,True
+Neutralize,True
+Strike_G,True
+Pommel Strike,False
+Defend_R,False
+Shrug It Off,False
+Spot Weakness,False
+Uppercut,False
+Metallicize,False
+Battle Trance,False
+Carnage,False
+Hemokinesis,False
+Ghostly Armor,False
+Impervious,False
+Clothesline,False
+Necronomicurse,False
+Demon Form,False
+Immolate,False
+Bash,False
+Armaments,False
+Barricade,False
+Twin Strike,False
+Inflame,False
+Pommel Strike,True
+Feel No Pain,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Shrug It Off,True
+Body Slam,True
+Power Through,True
+Fiend Fire,True
+Hemokinesis,True
+Apotheosis,True
+Dropkick,True
+Impervious,True
+Demon Form,True
+Bash,True
+Armaments,True
+Whirlwind,True
+Dark Shackles,True
+Double Tap,True
+Shockwave,True
+Disarm,True
+Immolate,False
+Fiend Fire,False
+Pommel Strike,False
+Brutality,False
+Feel No Pain,False
+Barricade,False
+Strike_R,False
+Defend_R,False
+Evolve,False
+Flame Barrier,False
+Entrench,False
+Shrug It Off,False
+Bash,False
+Headbutt,False
+Power Through,False
+Seeing Red,False
+Bite,False
+EmptyMind,False
+Wallop,False
+Eruption,False
+InnerPeace,False
+FlurryOfBlows,False
+Adaptation,False
+EmptyFist,False
+Defend_P,False
+MentalFortress,False
+Vigilance,False
+Prepared,True
+Survivor,True
+Concentrate,True
+RitualDagger,True
+Defend_G,True
+Phantasmal Killer,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Tactician,True
+Accuracy,True
+Backflip,True
+Leg Sweep,True
+Well Laid Plans,True
+Cloak And Dagger,True
+Deflect,True
+PanicButton,True
+Storm of Steel,True
+Flying Knee,True
+Corpse Explosion,True
+PiercingWail,True
+Neutralize,True
+Strike_G,True
+Pommel Strike,True
+Reaper,True
+Sword Boomerang,True
+Strike_R,True
+Defend_R,True
+Discovery,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Clumsy,True
+Headbutt,True
+Power Through,True
+Fiend Fire,True
+Battle Trance,True
+Metallicize,True
+Evolve,True
+Anger,True
+Impervious,True
+Clothesline,True
+Secret Technique,True
+Demon Form,True
+Bash,True
+Feed,True
+Flash of Steel,True
+Burning Pact,True
+Heavy Blade,True
+Disarm,True
+Blur,False
+Survivor,False
+Poisoned Stab,False
+Calculated Gamble,False
+Defend_G,False
+Predator,False
+Masterful Stab,False
+After Image,False
+Apotheosis,False
+Tactician,False
+Backflip,False
+Underhanded Strike,False
+Leg Sweep,False
+Night Terror,False
+Deflect,False
+Dark Shackles,False
+A Thousand Cuts,False
+PiercingWail,False
+Neutralize,False
+Strike_G,False
+Terror,True
+Prepared,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+Concentrate,True
+Defend_G,True
+Footwork,True
+Reflex,True
+Tools of the Trade,True
+After Image,True
+Blade Dance,True
+Acrobatics,True
+Bouncing Flask,True
+Tactician,True
+Backflip,True
+Leg Sweep,True
+Escape Plan,True
+Endless Agony,True
+Deflect,True
+Malaise,True
+Adrenaline,True
+Corpse Explosion,True
+PiercingWail,True
+Neutralize,True
+Terror,True
+Prepared,True
+Doppelganger,True
+Blur,True
+Survivor,True
+Alchemize,True
+Calculated Gamble,True
+Footwork,True
+Reflex,True
+Tools of the Trade,True
+Glass Knife,True
+Acrobatics,True
+Tactician,True
+Burst,True
+Backflip,True
+Underhanded Strike,True
+Well Laid Plans,True
+Night Terror,True
+Malaise,True
+Adrenaline,True
+PiercingWail,True
+Neutralize,True
+Ball Lightning,False
+Strike_B,False
+Auto Shields,False
+Defend_B,False
+Zap,False
+Creative AI,False
+Dualcast,False
+Skim,False
+Lockon,False
+Electrodynamics,False
+Self Repair,False
+Wireheading,False
+Tantrum,False
+DeceiveReality,False
+Eruption,False
+LessonLearned,False
+InnerPeace,False
+FlurryOfBlows,False
+Strike_P,False
+SandsOfTime,False
+ClearTheMind,False
+Defend_P,False
+Vengeance,False
+TalkToTheHand,False
+Vigilance,False
+Perfected Strike,False
+Strike_R,False
+Defend_R,False
+Corruption,False
+Infernal Blade,False
+Battle Trance,False
+Double Tap,False
+Bash,False
+Anger,False
+Seeing Red,False
+Pommel Strike,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Dark Embrace,False
+Shrug It Off,False
+Bludgeon,False
+Second Wind,False
+Power Through,False
+Uppercut,False
+Iron Wave,False
+Battle Trance,False
+Carnage,False
+Impervious,False
+Clothesline,False
+Bash,False
+Armaments,False
+Exhume,False
+Barricade,False
+Burning Pact,False
+Dual Wield,False
+Doom and Gloom,False
+Loop,False
+Strike_B,False
+Turbo,False
+Defend_B,False
+Cold Snap,False
+FTL,False
+Consume,False
+Dualcast,False
+Skim,False
+Chill,False
+Undo,False
+Streamline,False
+Core Surge,False
+BootSequence,False
+Redo,False
+Buffer,False
+Coolheaded,False
+Ball Lightning,False
+Strike_B,False
+Defend_B,False
+Cold Snap,False
+Storm,False
+Zap,False
+Bandage Up,False
+Dualcast,False
+Undo,False
+Lockon,False
+Chill,False
+Compile Driver,False
+Wish,False
+Meditate,False
+Wallop,False
+Eruption,False
+LessonLearned,False
+ReachHeaven,False
+HandOfGreed,False
+Judgement,False
+BowlingBash,False
+ClearTheMind,False
+WheelKick,False
+EmptyFist,False
+CutThroughFate,False
+Defend_P,False
+FearNoEvil,False
+Vigilance,False
+Doom and Gloom,False
+Conserve Battery,False
+Fission,False
+Cold Snap,False
+Capacitor,False
+Dualcast,False
+Skim,False
+Steam,False
+Self Repair,False
+Loop,False
+Redo,False
+Strike_B,False
+Static Discharge,False
+Chill,False
+Undo,False
+Sweeping Beam,False
+Coolheaded,False
+Defend_B,False
+Barrage,False
+Turbo,False
+Reboot,False
+Rainbow,False
+Fiend Fire,True
+Pommel Strike,True
+Feed,True
+Feel No Pain,True
+Barricade,True
+Strike_R,True
+Evolve,True
+Defend_R,True
+Apparition,True
+Heavy Blade,True
+Shrug It Off,True
+Wild Strike,True
+Immolate,True
+Armaments,True
+Shockwave,True
+Power Through,True
+Disarm,True
+Feel No Pain,True
+Strike_R,True
+Defend_R,True
+Flame Barrier,True
+Dark Embrace,True
+Shrug It Off,True
+Wild Strike,True
+Spot Weakness,True
+Headbutt,True
+Carnage,True
+Impervious,True
+Clothesline,True
+Perfected Strike,True
+Immolate,True
+Bash,True
+PanicButton,True
+Offering,True
+Feed,True
+Barricade,True
+Burning Pact,True
+Entrench,True
+True Grit,True
+Shockwave,True
+Conserve Battery,False
+Go for the Eyes,False
+Reinforced Body,False
+Strike_B,False
+Turbo,False
+Defend_B,False
+Defragment,False
+FTL,False
+Zap,False
+Consume,False
+Dualcast,False
+Skim,False
+Meteor Strike,False
+Undo,False
+Compile Driver,False
+Hologram,False
+Rainbow,False
+Coolheaded,False
+Tantrum,True
+EmptyMind,True
+Eruption,True
+LessonLearned,True
+Deep Breath,True
+FlurryOfBlows,True
+ClearTheMind,True
+Adaptation,True
+Scrawl,True
+Master of Strategy,True
+EmptyFist,True
+CutThroughFate,True
+Purity,True
+Halt,True
+MentalFortress,True
+TalkToTheHand,True
+Vigilance,True
+Conserve Battery,False
+Loop,False
+Ball Lightning,False
+Strike_B,False
+Defend_B,False
+Defragment,False
+Dualcast,False
+Seek,False
+Undo,False
+Sweeping Beam,False
+Self Repair,False
+BootSequence,False
+Blind,False
+Buffer,False
+Coolheaded,False
+Finisher,True
+Dagger Spray,True
+Doppelganger,True
+Writhe,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+Calculated Gamble,True
+Defend_G,True
+Footwork,True
+Crippling Poison,True
+Blade Dance,True
+Acrobatics,True
+Dodge and Roll,True
+Backflip,True
+Burst,True
+Leg Sweep,True
+Escape Plan,True
+Catalyst,True
+Deflect,True
+Storm of Steel,True
+Dash,True
+Adrenaline,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Pommel Strike,False
+Feel No Pain,False
+Corruption,False
+Strike_R,False
+Defend_R,False
+Headbutt,False
+Hemokinesis,False
+Burning Pact,False
+Bash,False
+Infernal Blade,False
+Shockwave,False
+Offering,False
+Sentinel,False
+Pommel Strike,False
+Metallicize,False
+Blood for Blood,False
+Inflame,False
+Infernal Blade,False
+Limit Break,False
+Twin Strike,False
+Fire Breathing,False
+Bloodletting,False
+Second Wind,False
+Bash,False
+Anger,False
+Headbutt,False
+Iron Wave,False
+Bite,True
+Terror,True
+Wraith Form,True
+Noxious Fumes,True
+Survivor,True
+Calculated Gamble,True
+Outmaneuver,True
+Defend_G,True
+Footwork,True
+Crippling Poison,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Accuracy,True
+Burst,True
+Backflip,True
+Dodge and Roll,True
+Leg Sweep,True
+Escape Plan,True
+Catalyst,True
+Deflect,True
+Backstab,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Tantrum,True
+DeceiveReality,True
+EmptyMind,True
+Eruption,True
+Vault,True
+Crescendo,True
+ReachHeaven,True
+FlurryOfBlows,True
+Strike_P,True
+Study,True
+EmptyFist,True
+CutThroughFate,True
+MentalFortress,True
+FearNoEvil,True
+TalkToTheHand,True
+Vigilance,True
+Conserve Battery,True
+Melter,True
+Doom and Gloom,True
+Discovery,True
+Glacier,True
+Cold Snap,True
+Writhe,True
+Dualcast,True
+Steam,True
+Skim,True
+CurseOfTheBell,True
+Self Repair,True
+BootSequence,True
+Redo,True
+Hologram,True
+Strike_B,True
+Machine Learning,True
+Aggregate,True
+Coolheaded,True
+Defend_B,True
+Echo Form,True
+All For One,True
+Ball Lightning,True
+Beam Cell,True
+Defragment,True
+FTL,True
+Master of Strategy,True
+Reboot,True
+Buffer,True
+Secret Technique,True
+Pray,True
+MentalFortress,True
+Wireheading,True
+DeceiveReality,True
+LessonLearned,True
+FlurryOfBlows,True
+Strike_P,True
+Adaptation,True
+EmptyFist,True
+Tantrum,True
+Enlightenment,True
+Eruption,True
+Study,True
+CarveReality,True
+CutThroughFate,True
+Defend_P,True
+ClearTheMind,True
+EmptyMind,True
+Wallop,True
+Prostrate,True
+EmptyBody,True
+Sanctity,True
+SashWhip,True
+TalkToTheHand,True
+Vigilance,True
+Pommel Strike,False
+Brutality,False
+Battle Trance,False
+Strike_R,False
+Defend_R,False
+Flame Barrier,False
+Decay,False
+True Grit,False
+Bludgeon,False
+Flex,False
+Dual Wield,False
+Bash,False
+Anger,False
+RitualDagger,False
+Conserve Battery,True
+Cold Snap,True
+Glacier,True
+Dualcast,True
+Skim,True
+Seek,True
+Steam,True
+Compile Driver,True
+Redo,True
+Hyperbeam,True
+Sweeping Beam,True
+Aggregate,True
+Electrodynamics,True
+Hello World,True
+Apotheosis,True
+Coolheaded,True
+Defend_B,True
+Consume,True
+Echo Form,True
+Core Surge,True
+Rainbow,True
+Beam Cell,True
+Defragment,True
+FTL,True
+Sunder,True
+Lockon,True
+Reboot,True
+Buffer,True
+Ball Lightning,False
+Strike_B,False
+Darkness,False
+Defend_B,False
+Cold Snap,False
+Glacier,False
+Zap,False
+Capacitor,False
+Dualcast,False
+Skim,False
+Lockon,False
+Compile Driver,False
+Reboot,False
+Buffer,False
+Barrage,False
+MentalFortress,False
+Blasphemy,False
+Wireheading,False
+DeceiveReality,False
+Weave,False
+Strike_P,False
+Adaptation,False
+EmptyFist,False
+Meditate,False
+ThirdEye,False
+Tantrum,False
+Eruption,False
+Crescendo,False
+ClearTheMind,False
+CutThroughFate,False
+Defend_P,False
+Halt,False
+InnerPeace,False
+EmptyMind,False
+MasterReality,False
+Sanctity,False
+Vigilance,False
+Doom and Gloom,True
+Fission,True
+Cold Snap,True
+Glacier,True
+Zap,True
+Dualcast,True
+Steam,True
+Skim,True
+Compile Driver,True
+Loop,True
+BootSequence,True
+Redo,True
+Hologram,True
+Recycle,True
+Chill,True
+Undo,True
+Sweeping Beam,True
+Aggregate,True
+Apotheosis,True
+Coolheaded,True
+Defend_B,True
+Core Surge,True
+Rainbow,True
+Biased Cognition,True
+Darkness,True
+Turbo,True
+Beam Cell,True
+Dark Shackles,True
+Blizzard,True
+Self Repair,True
+Secret Technique,True
+Conserve Battery,False
+Doom and Gloom,False
+Zap,False
+Capacitor,False
+Writhe,False
+Dualcast,False
+Rebound,False
+BootSequence,False
+Hello World,False
+Coolheaded,False
+Multi-Cast,False
+Defend_B,False
+Ball Lightning,False
+Defragment,False
+Dark Shackles,False
+Lockon,False
+Reinforced Body,False
+Reboot,False
+Rainbow,False
+Doom and Gloom,True
+Conserve Battery,True
+Cold Snap,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Steam,True
+Compile Driver,True
+BootSequence,True
+Redo,True
+Hologram,True
+Loop,True
+Chill,True
+Sweeping Beam,True
+Aggregate,True
+Coolheaded,True
+Multi-Cast,True
+Defend_B,True
+Consume,True
+Echo Form,True
+Go for the Eyes,True
+Beam Cell,True
+Dark Shackles,True
+Master of Strategy,True
+Self Repair,True
+Wireheading,True
+Tantrum,True
+DeceiveReality,True
+CutThroughFate,True
+EmptyMind,True
+Eruption,True
+Crescendo,True
+Parasite,True
+Strike_P,True
+Halt,True
+Adaptation,True
+Scrawl,True
+Sanctity,True
+EmptyFist,True
+ClearTheMind,True
+SandsOfTime,True
+MentalFortress,True
+Vigilance,True
+Prepared,True
+Doppelganger,True
+Dramatic Entrance,True
+Noxious Fumes,True
+Survivor,True
+Alchemize,True
+Poisoned Stab,True
+Defend_G,True
+Footwork,True
+Dagger Throw,True
+Quick Slash,True
+Acrobatics,True
+Bouncing Flask,True
+Backflip,True
+Leg Sweep,True
+Catalyst,True
+Bandage Up,True
+Deflect,True
+Infinite Blades,True
+Flash of Steel,True
+Malaise,True
+Adrenaline,True
+Dark Shackles,True
+Backstab,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Vengeance,True
+MentalFortress,True
+Wireheading,True
+DeceiveReality,True
+LessonLearned,True
+Establishment,True
+Meditate,True
+EmptyFist,True
+WaveOfTheHand,True
+Eruption,True
+Crescendo,True
+FollowUp,True
+WheelKick,True
+CutThroughFate,True
+Halt,True
+FearNoEvil,True
+JustLucky,True
+InnerPeace,True
+EmptyBody,True
+Swivel,True
+Judgement,True
+Scrawl,True
+Vigilance,True
+Feel No Pain,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Reaper,True
+Shrug It Off,True
+Second Wind,True
+Power Through,True
+Fiend Fire,True
+Metallicize,True
+Carnage,True
+Evolve,True
+Combust,True
+Demon Form,True
+Bash,True
+Whirlwind,True
+Feed,True
+Exhume,True
+Blood for Blood,True
+Dark Shackles,True
+Burning Pact,True
+Shockwave,True
+Disarm,True
+Wireheading,False
+Tantrum,False
+Meditate,False
+Flash of Steel,False
+Eruption,False
+Study,False
+Strike_P,False
+EmptyFist,False
+CutThroughFate,False
+Defend_P,False
+MentalFortress,False
+FearNoEvil,False
+TalkToTheHand,False
+Vigilance,False
+Defend_G,False
+Acrobatics,False
+Backflip,False
+Eviscerate,False
+Calculated Gamble,False
+Skewer,False
+Survivor,False
+Slice,False
+Choke,False
+Neutralize,False
+Strike_G,False
+Terror,True
+Prepared,True
+Sucker Punch,True
+Survivor,True
+Alchemize,True
+Calculated Gamble,True
+Poisoned Stab,True
+Setup,True
+Defend_G,True
+Neutralize,True
+Panacea,True
+Tools of the Trade,True
+Flechettes,True
+Apotheosis,True
+Panache,True
+Blade Dance,True
+Bouncing Flask,True
+Tactician,True
+Backflip,True
+Burst,True
+Underhanded Strike,True
+Catalyst,True
+Night Terror,True
+Dash,True
+Adrenaline,True
+Backstab,True
+PiercingWail,True
+Outmaneuver,True
+Strike_G,True
+Tantrum,True
+EmptyMind,True
+Eruption,True
+InnerPeace,True
+FlurryOfBlows,True
+Strike_P,True
+Study,True
+Adaptation,True
+CarveReality,True
+CutThroughFate,True
+TalkToTheHand,True
+Vigilance,True
+EmptyMind,False
+Eruption,False
+FlurryOfBlows,False
+Strike_P,False
+WheelKick,False
+EmptyFist,False
+Defend_P,False
+Vigilance,False
+Reaper,True
+Feel No Pain,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Spot Weakness,True
+Body Slam,True
+Warcry,True
+Headbutt,True
+Power Through,True
+Uppercut,True
+Pain,True
+Metallicize,True
+Battle Trance,True
+Intimidate,True
+Havoc,True
+Combust,True
+Armaments,True
+Offering,True
+Whirlwind,True
+Blood for Blood,True
+Dark Shackles,True
+Rage,True
+Burning Pact,True
+Violence,True
+Double Tap,True
+Shockwave,True
+Pommel Strike,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Burning Pact,False
+Twin Strike,False
+Shrug It Off,False
+Bash,False
+Iron Wave,False
+Bite,False
+Defend_R,False
+Deep Breath,False
+Flame Barrier,False
+Dark Embrace,False
+Bludgeon,False
+Secret Weapon,False
+Warcry,False
+Headbutt,False
+Power Through,False
+Evolve,False
+Havoc,False
+Anger,False
+Apotheosis,False
+Impervious,False
+Enlightenment,False
+Flex,False
+Offering,False
+Feed,False
+Burning Pact,False
+Master of Strategy,False
+Inflame,False
+Shockwave,False
+Heavy Blade,False
+Disarm,False
+Strike_R,False
+Defend_R,False
+Dark Embrace,False
+Shrug It Off,False
+Bloodletting,False
+Headbutt,False
+Battle Trance,False
+Evolve,False
+Hemokinesis,False
+Dropkick,False
+Perfected Strike,False
+Flex,False
+Bash,False
+Armaments,False
+Offering,False
+Exhume,False
+Blood for Blood,False
+Twin Strike,False
+Pummel,False
+Shockwave,False
+Disarm,False
+Strike_R,False
+Defend_R,False
+Shrug It Off,False
+Rupture,False
+Bloodletting,False
+Headbutt,False
+Power Through,False
+Uppercut,False
+Fiend Fire,False
+Brutality,False
+Intimidate,False
+Limit Break,False
+Anger,False
+Dropkick,False
+Immolate,False
+Bash,False
+Feed,False
+Blood for Blood,False
+Burning Pact,False
+Twin Strike,False
+Dual Wield,False
+Inflame,False
+Shockwave,False
+Seeing Red,False
+Wraith Form,True
+Blur,True
+Survivor,True
+Alchemize,True
+Setup,True
+Footwork,True
+Envenom,True
+Tools of the Trade,True
+After Image,True
+Blade Dance,True
+Acrobatics,True
+Bouncing Flask,True
+Bullet Time,True
+Dodge and Roll,True
+Backflip,True
+Leg Sweep,True
+Escape Plan,True
+Catalyst,True
+Well Laid Plans,True
+Adrenaline,True
+Backstab,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Pommel Strike,True
+Strike_R,True
+Defend_R,True
+Discovery,True
+Shrug It Off,True
+Clumsy,True
+Headbutt,True
+Fiend Fire,True
+Evolve,True
+Apparition,True
+Anger,True
+Impervious,True
+Bash,True
+Offering,True
+Feed,True
+Exhume,True
+Barricade,True
+True Grit,True
+Seeing Red,True
+Inflame,True
+Shockwave,True
+Disarm,True
+Conserve Battery,True
+Fission,True
+Double Energy,True
+Cold Snap,True
+Glacier,True
+Dualcast,True
+Compile Driver,True
+Self Repair,True
+Hologram,True
+Strike_B,True
+Chaos,True
+Chill,True
+Undo,True
+Sweeping Beam,True
+Electrodynamics,True
+Defend_B,True
+Amplify,True
+Echo Form,True
+Darkness,True
+Defragment,True
+Beam Cell,True
+Rainbow,True
+Conserve Battery,True
+Heatsinks,True
+Stack,True
+Cold Snap,True
+Glacier,True
+Dualcast,True
+Seek,True
+BootSequence,True
+Loop,True
+Hologram,True
+Strike_B,True
+Sweeping Beam,True
+Coolheaded,True
+Multi-Cast,True
+Defend_B,True
+Amplify,True
+Echo Form,True
+Creative AI,True
+Biased Cognition,True
+Ball Lightning,True
+Turbo,True
+Beam Cell,True
+Storm,True
+Sunder,True
+Reinforced Body,True
+Steam Power,True
+Self Repair,True
+Offering,False
+Immolate,False
+Dropkick,False
+Pommel Strike,False
+Feed,False
+Perfected Strike,False
+Strike_R,False
+Defend_R,False
+Corruption,False
+Metallicize,False
+Dark Embrace,False
+Shrug It Off,False
+Writhe,False
+Spot Weakness,False
+Bash,False
+Armaments,False
+Combust,False
+Iron Wave,False
+Conserve Battery,False
+Strike_B,False
+Good Instincts,False
+Defend_B,False
+Static Discharge,False
+FTL,False
+Zap,False
+Echo Form,False
+Dualcast,False
+Sweeping Beam,False
+BootSequence,False
+Wireheading,True
+EmptyMind,True
+Eruption,True
+Vault,True
+Brilliance,True
+Strike_P,True
+Adaptation,True
+Sanctity,True
+SandsOfTime,True
+CutThroughFate,True
+Defend_P,True
+MentalFortress,True
+FearNoEvil,True
+Vigilance,True
+Doom and Gloom,True
+Conserve Battery,True
+Cold Snap,True
+Dualcast,True
+Seek,True
+Compile Driver,True
+Self Repair,True
+Recycle,True
+Redo,True
+Hologram,True
+Loop,True
+Strike_B,True
+Apparition,True
+Machine Learning,True
+Chill,True
+Coolheaded,True
+Defend_B,True
+Consume,True
+Echo Form,True
+Ball Lightning,True
+Turbo,True
+Dark Shackles,True
+Rainbow,True
+Conserve Battery,False
+Ball Lightning,False
+Strike_B,False
+Defend_B,False
+Defragment,False
+Cold Snap,False
+Zap,False
+Dualcast,False
+Chill,False
+BootSequence,False
+Electrodynamics,False
+Coolheaded,False
+Pommel Strike,True
+Feel No Pain,True
+Defend_R,True
+Shrug It Off,True
+Second Wind,True
+Body Slam,True
+Warcry,True
+Power Through,True
+Iron Wave,True
+Battle Trance,True
+Armaments,True
+Fire Breathing,True
+Offering,True
+Whirlwind,True
+Feed,True
+Exhume,True
+Barricade,True
+Burning Pact,True
+Entrench,True
+Inflame,True
+Seeing Red,True
+Terror,True
+Discovery,True
+Wraith Form,True
+Blur,True
+Survivor,True
+Alchemize,True
+Calculated Gamble,True
+Predator,True
+Footwork,True
+Tools of the Trade,True
+Dagger Throw,True
+Acrobatics,True
+Tactician,True
+Accuracy,True
+Backflip,True
+Leg Sweep,True
+Escape Plan,True
+Well Laid Plans,True
+Slice,True
+Night Terror,True
+Deflect,True
+Adrenaline,True
+A Thousand Cuts,True
+Neutralize,True
+Doom and Gloom,True
+Genetic Algorithm,True
+Stack,True
+Cold Snap,True
+Zap,True
+Capacitor,True
+Blur,True
+Dualcast,True
+Compile Driver,True
+Loop,True
+Recycle,True
+Hologram,True
+Fusion,True
+Chill,True
+Undo,True
+Meteor Strike,True
+After Image,True
+Coolheaded,True
+Defend_B,True
+Amplify,True
+Leg Sweep,True
+Consume,True
+Echo Form,True
+Biased Cognition,True
+Malaise,True
+Disarm,True
+Fiend Fire,False
+Impervious,False
+Clothesline,False
+Pommel Strike,False
+Strike_R,False
+Defend_R,False
+True Grit,False
+Twin Strike,False
+Shrug It Off,False
+Bandage Up,False
+Demon Form,False
+Bash,False
+Anger,False
+Body Slam,False
+Headbutt,False
+Seeing Red,False
+Conserve Battery,True
+Fission,True
+Heatsinks,True
+Cold Snap,True
+Glacier,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Force Field,True
+Compile Driver,True
+Redo,True
+Hologram,True
+Blind,True
+Panacea,True
+Chill,True
+Undo,True
+Hello World,True
+Coolheaded,True
+Consume,True
+PanicButton,True
+Ball Lightning,True
+Darkness,True
+Buffer,True
+Turbo,True
+Defragment,True
+Sunder,True
+Parasite,True
+Steam Power,True
+Rainbow,True
+Terror,True
+Sucker Punch,True
+Dagger Spray,True
+Blur,True
+Skewer,True
+Survivor,True
+Footwork,True
+Neutralize,True
+Masterful Stab,True
+Inflame,True
+Crippling Poison,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Tactician,True
+Impervious,True
+Dodge and Roll,True
+Backflip,True
+Amplify,True
+Catalyst,True
+Bandage Up,True
+Well Laid Plans,True
+Cloak And Dagger,True
+Night Terror,True
+PanicButton,True
+Turbo,True
+Malaise,True
+Backstab,True
+Corpse Explosion,True
+Reinforced Body,True
+Outmaneuver,True
+Defend_G,False
+Footwork,False
+Bouncing Flask,False
+Underhanded Strike,False
+Survivor,False
+Dagger Throw,False
+Neutralize,False
+Strike_G,False
+Defend_G,False
+Backflip,False
+Terror,False
+Underhanded Strike,False
+Finisher,False
+Calculated Gamble,False
+Dagger Spray,False
+Reflex,False
+Well Laid Plans,False
+Survivor,False
+Dagger Throw,False
+Neutralize,False
+Deflect,False
+Strike_G,False
+Infinite Blades,False
+Blade Dance,False
+Night Terror,False
+Conserve Battery,False
+Doom and Gloom,False
+Ball Lightning,False
+Strike_B,False
+Sweeping Beam,False
+Defend_B,False
+Beam Cell,False
+Hyperbeam,False
+FTL,False
+Cold Snap,False
+Dualcast,False
+Steam,False
+Streamline,False
+BootSequence,False
+Hello World,False
+Coolheaded,False
+Tantrum,True
+Eruption,True
+Vault,True
+FlurryOfBlows,True
+Strike_P,True
+Adaptation,True
+Scrawl,True
+Vigilance,True
+CutThroughFate,True
+MentalFortress,True
+FearNoEvil,True
+TalkToTheHand,True
+InnerPeace,True
+Indignation,True
+Consecrate,True
+MentalFortress,True
+Wireheading,True
+LessonLearned,True
+Adaptation,True
+WaveOfTheHand,True
+ThirdEye,True
+Eruption,True
+Crescendo,True
+CutThroughFate,True
+FearNoEvil,True
+InnerPeace,True
+EmptyMind,True
+Wallop,True
+LikeWater,True
+SandsOfTime,True
+Evaluate,True
+Vigilance,True
+Tantrum,True
+Eruption,True
+LessonLearned,True
+Vault,True
+Sanctity,True
+FlurryOfBlows,True
+Adaptation,True
+Vigilance,True
+MentalFortress,True
+FearNoEvil,True
+InnerPeace,True
+Defend_G,False
+Burst,False
+Flying Knee,False
+A Thousand Cuts,False
+Dagger Spray,False
+Endless Agony,False
+Survivor,False
+Slice,False
+Neutralize,False
+Strike_G,False
+Reaper,False
+Feel No Pain,False
+Strike_R,False
+Defend_R,False
+Corruption,False
+Dark Embrace,False
+Shrug It Off,False
+Spot Weakness,False
+Infernal Blade,False
+Fiend Fire,False
+Anger,False
+Apotheosis,False
+Dropkick,False
+Bash,False
+Offering,False
+Flash of Steel,False
+Burning Pact,False
+Twin Strike,False
+Dual Wield,False
+Shockwave,False
+Disarm,False
+Wireheading,False
+EmptyMind,False
+Eruption,False
+DeusExMachina,False
+Study,False
+Strike_P,False
+MentalFortress,False
+Indignation,False
+Sanctity,False
+Meditate,False
+CutThroughFate,False
+Defend_P,False
+WaveOfTheHand,False
+TalkToTheHand,False
+Vigilance,False
+Wireheading,True
+Thinking Ahead,True
+Tantrum,True
+Scrawl,True
+Adaptation,True
+Vigilance,True
+CutThroughFate,True
+MentalFortress,True
+FearNoEvil,True
+InnerPeace,True
+Pommel Strike,True
+Reaper,True
+Feel No Pain,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Headbutt,True
+Power Through,True
+Sentinel,True
+Evolve,True
+Limit Break,True
+Armaments,True
+Offering,True
+Exhume,True
+Flash of Steel,True
+Dark Shackles,True
+Burning Pact,True
+Inflame,True
+Shockwave,True
+Eruption,False
+InnerPeace,False
+ReachHeaven,False
+Strike_P,False
+Indignation,False
+Consecrate,False
+Defend_P,False
+Vigilance,False
+Defend_G,False
+Predator,False
+Acrobatics,False
+Backflip,False
+Survivor,False
+Slice,False
+Alchemize,False
+Neutralize,False
+Strike_G,False
+Blade Dance,False
+Doom and Gloom,False
+Heatsinks,False
+Genetic Algorithm,False
+Cold Snap,False
+Glacier,False
+Dualcast,False
+Skim,False
+Compile Driver,False
+BootSequence,False
+Redo,False
+Hologram,False
+Loop,False
+Fusion,False
+Chill,False
+Machine Learning,False
+Aggregate,False
+Streamline,False
+Coolheaded,False
+Leap,False
+Amplify,False
+Echo Form,False
+Creative AI,False
+Core Surge,False
+Darkness,False
+Blizzard,False
+Buffer,False
+Terror,True
+Prepared,True
+Wraith Form,True
+Dramatic Entrance,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+CurseOfTheBell,True
+Poisoned Stab,True
+Defend_G,True
+Footwork,True
+Dagger Throw,True
+Blade Dance,True
+Acrobatics,True
+Tactician,True
+Dodge and Roll,True
+Backflip,True
+Well Laid Plans,True
+Cloak And Dagger,True
+Flying Knee,True
+Malaise,True
+Adrenaline,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Terror,False
+Finisher,False
+Wraith Form,False
+Noxious Fumes,False
+Survivor,False
+CurseOfTheBell,False
+Calculated Gamble,False
+RitualDagger,False
+Defend_G,False
+Footwork,False
+Phantasmal Killer,False
+Envenom,False
+HandOfGreed,False
+Crippling Poison,False
+Blade Dance,False
+Acrobatics,False
+Tactician,False
+Dodge and Roll,False
+Backflip,False
+Catalyst,False
+Well Laid Plans,False
+Cloak And Dagger,False
+Deflect,False
+Flying Knee,False
+Dash,False
+PiercingWail,False
+Neutralize,False
+Strike_G,False
+Tantrum,True
+EmptyMind,True
+Eruption,True
+Vault,True
+InnerPeace,True
+FlurryOfBlows,True
+Study,True
+Adaptation,True
+CutThroughFate,True
+Halt,True
+MentalFortress,True
+FearNoEvil,True
+Vigilance,True
+Pommel Strike,True
+Feel No Pain,True
+Strike_R,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Bloodletting,True
+Second Wind,True
+Spot Weakness,True
+Headbutt,True
+Power Through,True
+Fiend Fire,True
+Battle Trance,True
+Evolve,True
+Impervious,True
+Clothesline,True
+Armaments,True
+Immolate,True
+Bash,True
+Offering,True
+Barricade,True
+Burning Pact,True
+Disarm,True
+Defend_G,False
+Pain,False
+Flying Knee,False
+Eviscerate,False
+Dash,False
+Reflex,False
+Escape Plan,False
+PiercingWail,False
+Survivor,False
+Dagger Throw,False
+Poisoned Stab,False
+Neutralize,False
+Strike_G,False
+Eruption,False
+FlurryOfBlows,False
+Strike_P,False
+Defend_P,False
+MentalFortress,False
+FearNoEvil,False
+Vigilance,False
+Defend_G,False
+Bullet Time,False
+Backflip,False
+Flying Knee,False
+Masterful Stab,False
+Outmaneuver,False
+Adrenaline,False
+Backstab,False
+Well Laid Plans,False
+Survivor,False
+Dagger Throw,False
+Poisoned Stab,False
+Neutralize,False
+Strike_G,False
+Blade Dance,False
+Quick Slash,False
+MentalFortress,False
+DeceiveReality,False
+LessonLearned,False
+FlurryOfBlows,False
+Strike_P,False
+Adaptation,False
+Meditate,False
+WaveOfTheHand,False
+Eruption,False
+Crescendo,False
+CarveReality,False
+ClearTheMind,False
+CutThroughFate,False
+Defend_P,False
+Halt,False
+FearNoEvil,False
+Wallop,False
+Secret Technique,False
+Vigilance,False
+Tantrum,True
+EmptyMind,True
+Eruption,True
+InnerPeace,True
+FlurryOfBlows,True
+ClearTheMind,True
+Scrawl,True
+SandsOfTime,True
+Pray,True
+Halt,True
+MentalFortress,True
+ThirdEye,True
+Vigilance,True
+Conserve Battery,True
+Glacier,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Seek,True
+Compile Driver,True
+Self Repair,True
+Loop,True
+BootSequence,True
+Hologram,True
+Redo,True
+Static Discharge,True
+Chill,True
+Sweeping Beam,True
+Aggregate,True
+Streamline,True
+Apotheosis,True
+Coolheaded,True
+Multi-Cast,True
+Consume,True
+Echo Form,True
+Biased Cognition,True
+All For One,True
+Go for the Eyes,True
+Ball Lightning,True
+Turbo,True
+Darkness,True
+FTL,True
+Parasite,True
+Buffer,True
+Sucker Punch,False
+Wraith Form,False
+Dagger Spray,False
+Survivor,False
+Alchemize,False
+Calculated Gamble,False
+Setup,False
+Footwork,False
+Phantasmal Killer,False
+Masterful Stab,False
+After Image,False
+Glass Knife,False
+Die Die Die,False
+Blade Dance,False
+Accuracy,False
+Dodge and Roll,False
+Leg Sweep,False
+Bandage Up,False
+Well Laid Plans,False
+PiercingWail,False
+Distraction,False
+Neutralize,False
+Offering,True
+Shockwave,True
+Pommel Strike,True
+Clothesline,True
+Exhume,True
+Reaper,True
+Corruption,True
+Defend_R,True
+Feel No Pain,True
+Blood for Blood,True
+Burning Pact,True
+Shrug It Off,True
+Second Wind,True
+Inflame,True
+Headbutt,True
+Power Through,True
+Wraith Form,True
+Blur,True
+Survivor,True
+Concentrate,True
+RitualDagger,True
+Defend_G,True
+Footwork,True
+Masterful Stab,True
+Flechettes,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Bouncing Flask,True
+Dodge and Roll,True
+Backflip,True
+Catalyst,True
+Escape Plan,True
+Deadly Poison,True
+Deflect,True
+Flying Knee,True
+Malaise,True
+Adrenaline,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Doom and Gloom,True
+Conserve Battery,True
+Tempest,True
+Heatsinks,True
+White Noise,True
+Cold Snap,True
+Zap,True
+Skim,True
+Dualcast,True
+Seek,True
+Rebound,True
+Compile Driver,True
+Self Repair,True
+Hologram,True
+Hyperbeam,True
+Chill,True
+Meteor Strike,True
+Sweeping Beam,True
+Aggregate,True
+Streamline,True
+Coolheaded,True
+Auto Shields,True
+Creative AI,True
+Core Surge,True
+Biased Cognition,True
+Dark Shackles,True
+Reinforced Body,True
+Buffer,True
+Indignation,True
+MentalFortress,True
+Wireheading,True
+DeceiveReality,True
+FlurryOfBlows,True
+Strike_P,True
+Meditate,True
+EmptyFist,True
+ThirdEye,True
+Tantrum,True
+Eruption,True
+Vault,True
+ClearTheMind,True
+CutThroughFate,True
+Defend_P,True
+Halt,True
+JustLucky,True
+EmptyMind,True
+Wallop,True
+MasterReality,True
+Scrawl,True
+Sanctity,True
+TalkToTheHand,True
+Vigilance,True
+Doom and Gloom,False
+Go for the Eyes,False
+Ball Lightning,False
+Strike_B,False
+Defend_B,False
+Defragment,False
+Panacea,False
+Hyperbeam,False
+FTL,False
+Zap,False
+Echo Form,False
+Dualcast,False
+Skim,False
+Loop,False
+Hologram,False
+Reaper,False
+Perfected Strike,False
+Strike_R,False
+Defend_R,False
+Metallicize,False
+Shrug It Off,False
+Second Wind,False
+Bash,False
+Anger,False
+Uppercut,False
+Terror,True
+Grand Finale,True
+Survivor,True
+Alchemize,True
+Calculated Gamble,True
+Defend_G,True
+Footwork,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Tactician,True
+Dodge and Roll,True
+Backflip,True
+Burst,True
+Leg Sweep,True
+Catalyst,True
+Endless Agony,True
+Well Laid Plans,True
+Cloak And Dagger,True
+Deflect,True
+Backstab,True
+PiercingWail,True
+Corpse Explosion,True
+Neutralize,True
+Strike_G,True
+Doom and Gloom,True
+Fission,True
+Conserve Battery,True
+Genetic Algorithm,True
+White Noise,True
+Rip and Tear,True
+Dualcast,True
+Seek,True
+Force Field,True
+CurseOfTheBell,True
+Loop,True
+Redo,True
+Hologram,True
+Strike_B,True
+Panacea,True
+Chaos,True
+Chill,True
+Sweeping Beam,True
+Defend_B,True
+Amplify,True
+Biased Cognition,True
+Defragment,True
+Sunder,True
+Blizzard,True
+Self Repair,True
+Terror,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+Calculated Gamble,True
+Defend_G,True
+Predator,True
+Footwork,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Die Die Die,True
+Acrobatics,True
+Bouncing Flask,True
+Backflip,True
+Burst,True
+Catalyst,True
+Well Laid Plans,True
+Slice,True
+Night Terror,True
+Adrenaline,True
+Backstab,True
+PiercingWail,True
+Parasite,True
+Neutralize,True
+Strike_G,True
+Offering,False
+Fiend Fire,False
+Strike_R,False
+Defend_R,False
+Anger,False
+Headbutt,False
+Second Wind,False
+Havoc,False
+Bash,False
+Inflame,False
+Armaments,False
+Combust,False
+Uppercut,False
+Disarm,False
+FlyingSleeves,False
+Worship,False
+MentalFortress,False
+Wireheading,False
+Alpha,False
+Collect,False
+Adaptation,False
+EmptyFist,False
+DevaForm,False
+ThirdEye,False
+Enlightenment,False
+Eruption,False
+Omniscience,False
+ReachHeaven,False
+Study,False
+CarveReality,False
+CutThroughFate,False
+FearNoEvil,False
+EmptyMind,False
+ForeignInfluence,False
+Finesse,False
+Scrawl,False
+Sanctity,False
+Vigilance,False
+Reaper,False
+Corruption,False
+Strike_R,False
+Defend_R,False
+Feel No Pain,False
+Shrug It Off,False
+Second Wind,False
+CurseOfTheBell,False
+Headbutt,False
+Uppercut,False
+Power Through,False
+Metallicize,False
+Anger,False
+Impervious,False
+Clothesline,False
+Sever Soul,False
+Demon Form,False
+Immolate,False
+Bash,False
+Armaments,False
+Flash of Steel,False
+Blood for Blood,False
+Dark Shackles,False
+Burning Pact,False
+Violence,False
+Dual Wield,False
+Disarm,False
+Conserve Battery,True
+Thinking Ahead,True
+Genetic Algorithm,True
+Double Energy,True
+White Noise,True
+Glacier,True
+Zap,True
+Capacitor,True
+Dualcast,True
+Skim,True
+Self Repair,True
+BootSequence,True
+Redo,True
+Loop,True
+Strike_B,True
+Sweeping Beam,True
+Electrodynamics,True
+Hello World,True
+Coolheaded,True
+Defend_B,True
+Consume,True
+Defragment,True
+Finesse,True
+Parasite,True
+Rainbow,True
+Secret Technique,True
+Survivor,False
+Outmaneuver,False
+Calculated Gamble,False
+Defend_G,False
+Phantasmal Killer,False
+Masterful Stab,False
+Tools of the Trade,False
+Dagger Throw,False
+Apotheosis,False
+Acrobatics,False
+Bouncing Flask,False
+Dodge and Roll,False
+Backflip,False
+Riddle With Holes,False
+Underhanded Strike,False
+Escape Plan,False
+Endless Agony,False
+Well Laid Plans,False
+Deflect,False
+Flying Knee,False
+Adrenaline,False
+PiercingWail,False
+Neutralize,False
+Strike_G,False
+Feel No Pain,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Flame Barrier,True
+Shrug It Off,True
+Bloodletting,True
+Warcry,True
+Fiend Fire,True
+Intimidate,True
+Chrysalis,True
+Clothesline,True
+Immolate,True
+Bash,True
+Armaments,True
+Purity,True
+Offering,True
+Exhume,True
+Barricade,True
+Blood for Blood,True
+True Grit,True
+Burning Pact,True
+Entrench,True
+Finesse,True
+Inflame,True
+Shockwave,True
+Secret Technique,True
+Disarm,True
+Pommel Strike,True
+Reaper,True
+Strike_R,True
+Defend_R,True
+Shrug It Off,True
+Bloodletting,True
+Spot Weakness,True
+Infernal Blade,True
+Body Slam,True
+Power Through,True
+Metallicize,True
+Evolve,True
+Limit Break,True
+Perfected Strike,True
+Bash,True
+Offering,True
+Exhume,True
+Barricade,True
+Blood for Blood,True
+Dark Shackles,True
+Rage,True
+Burning Pact,True
+True Grit,True
+Dual Wield,True
+Shockwave,True
+Disarm,True
+Eruption,False
+Strike_P,False
+BowlingBash,False
+WindmillStrike,False
+CutThroughFate,False
+Defend_P,False
+MentalFortress,False
+FearNoEvil,False
+Vigilance,False
+Pommel Strike,True
+Reaper,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Discovery,True
+Flame Barrier,True
+Dark Embrace,True
+Shrug It Off,True
+Spot Weakness,True
+Body Slam,True
+Evolve,True
+Intimidate,True
+Apotheosis,True
+Impervious,True
+Clothesline,True
+Perfected Strike,True
+Bash,True
+Armaments,True
+Blood for Blood,True
+Dual Wield,True
+Inflame,True
+MentalFortress,True
+Wireheading,True
+LessonLearned,True
+FlurryOfBlows,True
+Adaptation,True
+EmptyFist,True
+Tantrum,True
+Eruption,True
+Crescendo,True
+Omniscience,True
+ClearTheMind,True
+CutThroughFate,True
+Defend_P,True
+Halt,True
+FearNoEvil,True
+JustLucky,True
+InnerPeace,True
+EmptyMind,True
+Scrawl,True
+Vigilance,True
+DeceiveReality,True
+FlurryOfBlows,True
+Adaptation,True
+EmptyFist,True
+WaveOfTheHand,True
+ThirdEye,True
+Eruption,True
+Crescendo,True
+CutThroughFate,True
+Halt,True
+JustLucky,True
+InnerPeace,True
+EmptyMind,True
+Prostrate,True
+EmptyBody,True
+Scrawl,True
+Sanctity,True
+SashWhip,True
+TalkToTheHand,True
+Vigilance,True
+Conserve Battery,False
+Doom and Gloom,False
+Tantrum,False
+Strike_B,False
+Meditate,False
+Defend_B,False
+Dualcast,False
+Lockon,False
+Compile Driver,False
+Conserve Battery,False
+Buffer,False
+Strike_B,False
+CurseOfTheBell,False
+Defend_B,False
+Discovery,False
+FTL,False
+Aggregate,False
+Zap,False
+Consume,False
+Capacitor,False
+Writhe,False
+Dualcast,False
+Steam,False
+Parasite,False
+Compile Driver,False
+Self Repair,False
+Eruption,False
+LessonLearned,False
+InnerPeace,False
+FlurryOfBlows,False
+Strike_P,False
+CarveReality,False
+CutThroughFate,False
+Defend_P,False
+TalkToTheHand,False
+Vigilance,False
+Fission,False
+Cold Snap,False
+Glacier,False
+Dualcast,False
+Rebound,False
+Force Field,False
+Seek,False
+Compile Driver,False
+Self Repair,False
+Loop,False
+Redo,False
+Hologram,False
+Strike_B,False
+Undo,False
+Streamline,False
+Hello World,False
+Coolheaded,False
+Defend_B,False
+Core Surge,False
+Biased Cognition,False
+Go for the Eyes,False
+Darkness,False
+Beam Cell,False
+FTL,False
+Sunder,False
+Rainbow,False
+Pommel Strike,True
+Feel No Pain,True
+Corruption,True
+Strike_R,True
+Defend_R,True
+Shrug It Off,True
+Warcry,True
+Headbutt,True
+Iron Wave,True
+Battle Trance,True
+Havoc,True
+Chrysalis,True
+Anger,True
+Ghostly Armor,True
+Perfected Strike,True
+Immolate,True
+Bash,True
+Feed,True
+Blood for Blood,True
+Burning Pact,True
+True Grit,True
+Dual Wield,True
+Shockwave,True
+Disarm,True
+Bite,False
+Pommel Strike,False
+Exhume,False
+Feed,False
+Feel No Pain,False
+Defend_R,False
+Carnage,False
+Rage,False
+True Grit,False
+Bloodletting,False
+Bash,False
+Anger,False
+PanicButton,False
+Armaments,False
+Headbutt,False
+Power Through,False
+Seeing Red,False
+Pommel Strike,True
+Reaper,True
+Feel No Pain,True
+Strike_R,True
+Defend_R,True
+Dark Embrace,True
+Shrug It Off,True
+Rupture,True
+Bloodletting,True
+Spot Weakness,True
+Warcry,True
+Headbutt,True
+Brutality,True
+Carnage,True
+Havoc,True
+Hemokinesis,True
+Anger,True
+Ghostly Armor,True
+Clothesline,True
+Bash,True
+Feed,True
+Barricade,True
+Flash of Steel,True
+Blood for Blood,True
+Dark Shackles,True
+Trip,True
+Shockwave,True
+Disarm,True
+Pommel Strike,False
+Strike_R,False
+Defend_R,False
+Intimidate,False
+Second Wind,False
+Cleave,False
+Bash,False
+Headbutt,False
+Terror,True
+Dagger Spray,True
+Blur,True
+Noxious Fumes,True
+Survivor,True
+Calculated Gamble,True
+Defend_G,True
+Footwork,True
+Predator,True
+Phantasmal Killer,True
+Envenom,True
+Crippling Poison,True
+After Image,True
+Dagger Throw,True
+Apotheosis,True
+Blade Dance,True
+Acrobatics,True
+Backflip,True
+Well Laid Plans,True
+Night Terror,True
+Deflect,True
+Backstab,True
+PiercingWail,True
+Parasite,True
+Neutralize,True
+Strike_G,True
+Consecrate,False
+MentalFortress,False
+RitualDagger,False
+Wireheading,False
+Strike_P,False
+EmptyFist,False
+ThirdEye,False
+Tantrum,False
+Eruption,False
+Vault,False
+ReachHeaven,False
+CutThroughFate,False
+ClearTheMind,False
+Defend_P,False
+InnerPeace,False
+EmptyMind,False
+Scrawl,False
+Sanctity,False
+Vigilance,False

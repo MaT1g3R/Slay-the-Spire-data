@@ -1,0 +1,914 @@
+Card,Win
+Strike_R,False
+Defend_R,False
+Pommel Strike,False
+Anger,False
+Power Through,False
+Ghostly Armor,False
+Bash,False
+Shrug It Off,False
+Madness,False
+Uppercut,False
+Strike_R,False
+Offering,False
+Defend_R,False
+Pommel Strike,False
+Evolve,False
+Anger,False
+Seeing Red,False
+Burning Pact,False
+Power Through,False
+Bash,False
+True Grit,False
+Shrug It Off,False
+Blood for Blood,False
+Inflame,False
+Hemokinesis,False
+Strike_R,False
+Perfected Strike,False
+Feed,False
+Defend_R,False
+Armaments,False
+Clash,False
+Iron Wave,False
+Impervious,False
+Bash,False
+Shrug It Off,False
+Exhume,False
+Bloodletting,False
+Flame Barrier,True
+Corruption,True
+Whirlwind,True
+Bite,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Exhume,True
+Offering,True
+Havoc,True
+Discovery,True
+Bash,True
+Body Slam,True
+Headbutt,True
+Shockwave,True
+Bloodletting,True
+Carnage,True
+Metallicize,True
+Reaper,True
+Pommel Strike,True
+Entrench,True
+Barricade,True
+Iron Wave,True
+True Grit,True
+Dark Embrace,True
+Dropkick,True
+Feed,True
+Defend_R,True
+Burning Pact,True
+Shrug It Off,True
+Fire Breathing,True
+Second Wind,True
+Bash,True
+Sentinel,True
+Shockwave,True
+Dual Wield,True
+Bloodletting,True
+Spot Weakness,True
+Anger,True
+Armaments,True
+Power Through,True
+Reaper,True
+Entrench,True
+Immolate,True
+Intimidate,True
+Finesse,True
+Feel No Pain,True
+Whirlwind,False
+Warcry,False
+Demon Form,False
+Defend_R,False
+Burning Pact,False
+Disarm,False
+Shrug It Off,False
+Second Wind,False
+Havoc,False
+Impervious,False
+PanicButton,False
+Bash,False
+Battle Trance,False
+Shockwave,False
+Headbutt,False
+Bloodletting,False
+Strike_R,False
+Metallicize,False
+Evolve,False
+Anger,False
+Power Through,False
+Writhe,False
+Pommel Strike,False
+Intimidate,False
+CurseOfTheBell,False
+Feel No Pain,False
+Iron Wave,False
+Fiend Fire,False
+Corruption,True
+Dark Embrace,True
+Feed,True
+Defend_R,True
+Apotheosis,True
+Burning Pact,True
+Shrug It Off,True
+Exhume,True
+Perfected Strike,True
+Impervious,True
+Bash,True
+Headbutt,True
+Shockwave,True
+Brutality,True
+Strike_R,True
+Pummel,True
+Spot Weakness,True
+Anger,True
+Evolve,True
+Armaments,True
+Cleave,True
+Power Through,True
+Reaper,True
+Clothesline,True
+Pommel Strike,True
+Double Tap,True
+Fiend Fire,True
+Trip,False
+Dark Embrace,False
+Strike_R,False
+Whirlwind,False
+Offering,False
+Shockwave,False
+Defend_R,False
+Feel No Pain,False
+Anger,False
+Blood for Blood,False
+Bash,False
+True Grit,False
+Headbutt,False
+Exhume,False
+Inflame,False
+Corruption,True
+Warcry,True
+Defend_R,True
+Seeing Red,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Second Wind,True
+Offering,True
+Havoc,True
+Bash,True
+Sentinel,True
+Shockwave,True
+Dual Wield,True
+Bloodletting,True
+Pummel,True
+Flash of Steel,True
+Reaper,True
+Double Tap,True
+Limit Break,True
+Feel No Pain,True
+Fiend Fire,True
+True Grit,True
+Dark Embrace,True
+Defend_R,True
+Apotheosis,True
+Seeing Red,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Inflame,True
+Second Wind,True
+Offering,True
+Impervious,True
+Bash,True
+Body Slam,True
+Headbutt,True
+Shockwave,True
+Strike_R,True
+Power Through,True
+Writhe,True
+Rampage,True
+Reaper,True
+Injury,True
+Entrench,True
+Barricade,True
+Feel No Pain,True
+Shame,True
+Warcry,False
+Feed,False
+Defend_R,False
+Shrug It Off,False
+Inflame,False
+Hemokinesis,False
+Second Wind,False
+Havoc,False
+Bash,False
+Blood for Blood,False
+Brutality,False
+Bloodletting,False
+Strike_R,False
+Evolve,False
+Anger,False
+Spot Weakness,False
+Armaments,False
+Power Through,False
+Pommel Strike,False
+CurseOfTheBell,False
+Feel No Pain,False
+Fiend Fire,False
+True Grit,False
+Demon Form,False
+Defend_R,False
+Twin Strike,False
+Shrug It Off,False
+Inflame,False
+Hemokinesis,False
+Uppercut,False
+Necronomicurse,False
+Impervious,False
+Bash,False
+Battle Trance,False
+Carnage,False
+Metallicize,False
+Spot Weakness,False
+Armaments,False
+Ghostly Armor,False
+Clothesline,False
+Pommel Strike,False
+Immolate,False
+Barricade,False
+Dropkick,True
+Whirlwind,True
+Corruption,True
+Demon Form,True
+Defend_R,True
+Apotheosis,True
+Disarm,True
+Shrug It Off,True
+Hemokinesis,True
+Dark Shackles,True
+Impervious,True
+Bash,True
+Body Slam,True
+Shockwave,True
+Strike_R,True
+Armaments,True
+Power Through,True
+Pommel Strike,True
+Double Tap,True
+Feel No Pain,True
+Fiend Fire,True
+Barricade,False
+Flame Barrier,False
+Strike_R,False
+Defend_R,False
+Pommel Strike,False
+Evolve,False
+Feel No Pain,False
+Seeing Red,False
+Power Through,False
+Fiend Fire,False
+Bash,False
+Shrug It Off,False
+Headbutt,False
+Entrench,False
+Immolate,False
+Brutality,False
+Feed,True
+Demon Form,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Second Wind,True
+Clumsy,True
+Impervious,True
+Secret Technique,True
+Discovery,True
+Bash,True
+Battle Trance,True
+Headbutt,True
+Bloodletting,True
+Strike_R,True
+Metallicize,True
+Heavy Blade,True
+Evolve,True
+Anger,True
+Power Through,True
+Sword Boomerang,True
+Flash of Steel,True
+Reaper,True
+Clothesline,True
+Pommel Strike,True
+Fiend Fire,True
+Corruption,False
+Strike_R,False
+Perfected Strike,False
+Defend_R,False
+Infernal Blade,False
+Seeing Red,False
+Anger,False
+Bash,False
+Battle Trance,False
+Double Tap,False
+Dark Embrace,False
+Defend_R,False
+Burning Pact,False
+Shrug It Off,False
+Exhume,False
+Uppercut,False
+Bludgeon,False
+Second Wind,False
+Impervious,False
+Bash,False
+Battle Trance,False
+Dual Wield,False
+Strike_R,False
+Carnage,False
+Armaments,False
+Power Through,False
+Clothesline,False
+Pommel Strike,False
+Barricade,False
+Feel No Pain,False
+Iron Wave,False
+Barricade,True
+Strike_R,True
+Feed,True
+Wild Strike,True
+Defend_R,True
+Pommel Strike,True
+Evolve,True
+Feel No Pain,True
+Heavy Blade,True
+Armaments,True
+Power Through,True
+Apparition,True
+Disarm,True
+Fiend Fire,True
+Shrug It Off,True
+Shockwave,True
+Immolate,True
+Flame Barrier,True
+Dark Embrace,True
+Feed,True
+Defend_R,True
+Burning Pact,True
+Shrug It Off,True
+Perfected Strike,True
+Offering,True
+Wild Strike,True
+Impervious,True
+PanicButton,True
+Bash,True
+Headbutt,True
+Shockwave,True
+Strike_R,True
+Carnage,True
+Spot Weakness,True
+Clothesline,True
+Entrench,True
+Immolate,True
+Barricade,True
+Feel No Pain,True
+True Grit,True
+Hemokinesis,False
+Corruption,False
+Strike_R,False
+Shockwave,False
+Defend_R,False
+Infernal Blade,False
+Feel No Pain,False
+Headbutt,False
+Burning Pact,False
+Bash,False
+Pommel Strike,False
+Second Wind,False
+Fire Breathing,False
+Limit Break,False
+Offering,False
+Metallicize,False
+Infernal Blade,False
+Anger,False
+Headbutt,False
+Blood for Blood,False
+Iron Wave,False
+Twin Strike,False
+Bash,False
+Sentinel,False
+Pommel Strike,False
+Inflame,False
+Bloodletting,False
+Flame Barrier,False
+Bludgeon,False
+Strike_R,False
+Defend_R,False
+RitualDagger,False
+Anger,False
+Decay,False
+True Grit,False
+Bash,False
+Battle Trance,False
+Flex,False
+Pommel Strike,False
+Dual Wield,False
+Brutality,False
+Corruption,True
+Whirlwind,True
+Feed,True
+Demon Form,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Exhume,True
+Second Wind,True
+Dark Shackles,True
+Bash,True
+Blood for Blood,True
+Shockwave,True
+Combust,True
+Strike_R,True
+Carnage,True
+Metallicize,True
+Evolve,True
+Power Through,True
+Reaper,True
+Feel No Pain,True
+Fiend Fire,True
+Dark Embrace,True
+Whirlwind,True
+Warcry,True
+Defend_R,True
+Violence,True
+Burning Pact,True
+Shrug It Off,True
+Uppercut,True
+Second Wind,True
+Offering,True
+Dark Shackles,True
+Havoc,True
+Body Slam,True
+Battle Trance,True
+Blood for Blood,True
+Headbutt,True
+Shockwave,True
+Bloodletting,True
+Combust,True
+Metallicize,True
+Spot Weakness,True
+Rage,True
+Armaments,True
+Power Through,True
+Reaper,True
+Double Tap,True
+Intimidate,True
+Feel No Pain,True
+Pain,True
+Strike_R,False
+Defend_R,False
+Feel No Pain,False
+Burning Pact,False
+Iron Wave,False
+Twin Strike,False
+Bash,False
+Shrug It Off,False
+Pommel Strike,False
+Flame Barrier,False
+Dark Embrace,False
+Warcry,False
+Bite,False
+Feed,False
+Defend_R,False
+Apotheosis,False
+Burning Pact,False
+Secret Weapon,False
+Disarm,False
+Enlightenment,False
+Inflame,False
+Deep Breath,False
+Bludgeon,False
+Offering,False
+Havoc,False
+Impervious,False
+Headbutt,False
+Shockwave,False
+Heavy Blade,False
+Evolve,False
+Anger,False
+Power Through,False
+Master of Strategy,False
+Flex,False
+Dropkick,False
+Dark Embrace,False
+Defend_R,False
+Disarm,False
+Twin Strike,False
+Shrug It Off,False
+Exhume,False
+Hemokinesis,False
+Perfected Strike,False
+Offering,False
+Bash,False
+Battle Trance,False
+Headbutt,False
+Shockwave,False
+Blood for Blood,False
+Bloodletting,False
+Strike_R,False
+Pummel,False
+Evolve,False
+Armaments,False
+Flex,False
+Dropkick,False
+Feed,False
+Defend_R,False
+Seeing Red,False
+Burning Pact,False
+Twin Strike,False
+Shrug It Off,False
+Inflame,False
+Uppercut,False
+Bash,False
+Shockwave,False
+Headbutt,False
+Dual Wield,False
+Brutality,False
+Blood for Blood,False
+Bloodletting,False
+Strike_R,False
+Anger,False
+Power Through,False
+Rupture,False
+Immolate,False
+Intimidate,False
+Limit Break,False
+Fiend Fire,False
+Feed,True
+Defend_R,True
+Seeing Red,True
+Disarm,True
+Shrug It Off,True
+Exhume,True
+Inflame,True
+Offering,True
+Clumsy,True
+Discovery,True
+Impervious,True
+Apparition,True
+Bash,True
+Shockwave,True
+Headbutt,True
+Strike_R,True
+Evolve,True
+Anger,True
+Pommel Strike,True
+Barricade,True
+Fiend Fire,True
+True Grit,True
+Combust,False
+Corruption,False
+Strike_R,False
+Perfected Strike,False
+Dropkick,False
+Feed,False
+Offering,False
+Defend_R,False
+Metallicize,False
+Spot Weakness,False
+Dark Embrace,False
+Iron Wave,False
+Armaments,False
+Writhe,False
+Bash,False
+Shrug It Off,False
+Pommel Strike,False
+Immolate,False
+Whirlwind,True
+Warcry,True
+Feed,True
+Defend_R,True
+Seeing Red,True
+Burning Pact,True
+Shrug It Off,True
+Exhume,True
+Inflame,True
+Fire Breathing,True
+Second Wind,True
+Offering,True
+Body Slam,True
+Battle Trance,True
+Armaments,True
+Power Through,True
+Pommel Strike,True
+Entrench,True
+Barricade,True
+Feel No Pain,True
+Iron Wave,True
+Strike_R,False
+Demon Form,False
+Defend_R,False
+Pommel Strike,False
+Seeing Red,False
+Anger,False
+Impervious,False
+Bandage Up,False
+Twin Strike,False
+Fiend Fire,False
+Bash,False
+Body Slam,False
+Clothesline,False
+True Grit,False
+Shrug It Off,False
+Headbutt,False
+Dark Embrace,False
+Dropkick,False
+Corruption,False
+Defend_R,False
+Infernal Blade,False
+Apotheosis,False
+Burning Pact,False
+Disarm,False
+Twin Strike,False
+Shrug It Off,False
+Offering,False
+Bash,False
+Shockwave,False
+Dual Wield,False
+Strike_R,False
+Spot Weakness,False
+Anger,False
+Flash of Steel,False
+Reaper,False
+Feel No Pain,False
+Fiend Fire,False
+Burning Pact,True
+Shrug It Off,True
+Exhume,True
+Inflame,True
+Second Wind,True
+Offering,True
+Dark Shackles,True
+Sentinel,True
+Shockwave,True
+Headbutt,True
+Bloodletting,True
+Evolve,True
+Armaments,True
+Power Through,True
+Flash of Steel,True
+Reaper,True
+Pommel Strike,True
+Limit Break,True
+Feel No Pain,True
+Dark Embrace,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Second Wind,True
+Offering,True
+Impervious,True
+Bash,True
+Battle Trance,True
+Headbutt,True
+Bloodletting,True
+Strike_R,True
+Evolve,True
+Spot Weakness,True
+Armaments,True
+Power Through,True
+Clothesline,True
+Pommel Strike,True
+Immolate,True
+Barricade,True
+Feel No Pain,True
+Fiend Fire,True
+Corruption,True
+Second Wind,True
+Shockwave,True
+Offering,True
+Defend_R,True
+Feel No Pain,True
+Headbutt,True
+Blood for Blood,True
+Burning Pact,True
+Power Through,True
+Reaper,True
+Clothesline,True
+Shrug It Off,True
+Pommel Strike,True
+Exhume,True
+Inflame,True
+Second Wind,False
+Strike_R,False
+Uppercut,False
+Perfected Strike,False
+Metallicize,False
+Defend_R,False
+Anger,False
+Bash,False
+Reaper,False
+Shrug It Off,False
+Combust,False
+Uppercut,False
+Strike_R,False
+Second Wind,False
+Offering,False
+Defend_R,False
+Anger,False
+Havoc,False
+Armaments,False
+Disarm,False
+Fiend Fire,False
+Bash,False
+Headbutt,False
+Inflame,False
+Corruption,False
+Demon Form,False
+Defend_R,False
+Violence,False
+Burning Pact,False
+Disarm,False
+Shrug It Off,False
+Second Wind,False
+Uppercut,False
+Dark Shackles,False
+Impervious,False
+Bash,False
+Blood for Blood,False
+Headbutt,False
+Dual Wield,False
+Strike_R,False
+Metallicize,False
+Sever Soul,False
+Anger,False
+Armaments,False
+Power Through,False
+Flash of Steel,False
+Reaper,False
+Clothesline,False
+Immolate,False
+CurseOfTheBell,False
+Feel No Pain,False
+Flame Barrier,True
+Corruption,True
+Warcry,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Chrysalis,True
+Exhume,True
+Inflame,True
+Offering,True
+Secret Technique,True
+Bash,True
+Shockwave,True
+Blood for Blood,True
+Bloodletting,True
+Strike_R,True
+Armaments,True
+Clothesline,True
+Entrench,True
+Immolate,True
+Intimidate,True
+Barricade,True
+Finesse,True
+Feel No Pain,True
+Purity,True
+Fiend Fire,True
+True Grit,True
+Defend_R,True
+Infernal Blade,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Exhume,True
+Perfected Strike,True
+Offering,True
+Dark Shackles,True
+Bash,True
+Body Slam,True
+Shockwave,True
+Blood for Blood,True
+Dual Wield,True
+Bloodletting,True
+Strike_R,True
+Metallicize,True
+Spot Weakness,True
+Evolve,True
+Rage,True
+Power Through,True
+Reaper,True
+Pommel Strike,True
+Barricade,True
+Limit Break,True
+True Grit,True
+Flame Barrier,True
+Corruption,True
+Dark Embrace,True
+Defend_R,True
+Apotheosis,True
+Shrug It Off,True
+Inflame,True
+Perfected Strike,True
+Discovery,True
+Impervious,True
+Bash,True
+Body Slam,True
+Blood for Blood,True
+Dual Wield,True
+Strike_R,True
+Spot Weakness,True
+Evolve,True
+Armaments,True
+Reaper,True
+Clothesline,True
+Pommel Strike,True
+Intimidate,True
+Corruption,True
+Warcry,True
+Feed,True
+Defend_R,True
+Burning Pact,True
+Disarm,True
+Shrug It Off,True
+Chrysalis,True
+Perfected Strike,True
+Havoc,True
+Bash,True
+Battle Trance,True
+Shockwave,True
+Blood for Blood,True
+Headbutt,True
+Dual Wield,True
+Strike_R,True
+Anger,True
+Ghostly Armor,True
+Pommel Strike,True
+Immolate,True
+Feel No Pain,True
+Iron Wave,True
+True Grit,True
+Carnage,False
+Bite,False
+Feed,False
+Defend_R,False
+Seeing Red,False
+Rage,False
+Headbutt,False
+Feel No Pain,False
+Armaments,False
+Power Through,False
+Anger,False
+PanicButton,False
+Bash,False
+True Grit,False
+Pommel Strike,False
+Exhume,False
+Bloodletting,False
+Dark Embrace,True
+Warcry,True
+Feed,True
+Defend_R,True
+Disarm,True
+Shrug It Off,True
+Hemokinesis,True
+Trip,True
+Dark Shackles,True
+Havoc,True
+Bash,True
+Shockwave,True
+Headbutt,True
+Blood for Blood,True
+Brutality,True
+Bloodletting,True
+Strike_R,True
+Carnage,True
+Spot Weakness,True
+Anger,True
+Ghostly Armor,True
+Flash of Steel,True
+Reaper,True
+Clothesline,True
+Pommel Strike,True
+Rupture,True
+Barricade,True
+Feel No Pain,True
+Intimidate,False
+Second Wind,False
+Strike_R,False
+Defend_R,False
+Headbutt,False
+Cleave,False
+Bash,False
+Pommel Strike,False
